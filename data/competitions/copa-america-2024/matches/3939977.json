@@ -2,7 +2,7 @@
   "match_id": 3939977,
   "shots": [
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 11,
       "x": 87.7,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Nicolás Iván González",
+      "player": "Nicolás González",
       "team": "Argentina",
       "minute": 21,
       "x": 118.4,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 25,
       "x": 102.6,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 26,
       "x": 99.5,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Nicolás Iván González",
+      "player": "Nicolás González",
       "team": "Argentina",
       "minute": 29,
       "x": 100.4,
@@ -72,7 +72,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 35,
       "x": 91.7,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Alexis Mac Allister",
+      "player": "Alexis MacAllister",
       "team": "Argentina",
       "minute": 38,
       "x": 116.2,
@@ -92,7 +92,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Alexis Mac Allister",
+      "player": "Alexis MacAllister",
       "team": "Argentina",
       "minute": 38,
       "x": 114.9,
@@ -102,7 +102,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Alexis Mac Allister",
+      "player": "Alexis MacAllister",
       "team": "Argentina",
       "minute": 44,
       "x": 95.1,
@@ -122,7 +122,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 46,
       "x": 95.3,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Nahuel Molina Lucero",
+      "player": "Nahuel Molina",
       "team": "Argentina",
       "minute": 49,
       "x": 110.2,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Alexis Mac Allister",
+      "player": "Alexis MacAllister",
       "team": "Argentina",
       "minute": 56,
       "x": 113.0,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Nicolás Iván González",
+      "player": "Nicolás González",
       "team": "Argentina",
       "minute": 60,
       "x": 106.4,
@@ -172,7 +172,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Rodrigo Eduardo Echeverría Sáez",
+      "player": "Rodrigo Echeverría",
       "team": "Chile",
       "minute": 71,
       "x": 96.9,
@@ -182,7 +182,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rodrigo Eduardo Echeverría Sáez",
+      "player": "Rodrigo Echeverría",
       "team": "Chile",
       "minute": 75,
       "x": 104.0,
@@ -192,7 +192,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Marcelino Ignacio Nuñez Espinoza",
+      "player": "Marcelino Núñez",
       "team": "Chile",
       "minute": 76,
       "x": 84.3,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 77,
       "x": 107.6,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristian Gabriel Romero",
+      "player": "Cristian Romero",
       "team": "Argentina",
       "minute": 81,
       "x": 113.3,
@@ -232,7 +232,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 87,
       "x": 112.6,
@@ -242,7 +242,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 94,
       "x": 112.0,

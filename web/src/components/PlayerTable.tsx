@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import type { Route } from "next";
 import type { Player } from "@/lib/data";
+import { TeamBadge } from "@/components/TeamBadge";
 
 type Col = { key: keyof Player; label: string; numeric: boolean };
 
@@ -103,7 +104,12 @@ export function PlayerTable({ players, slug }: { players: Player[]; slug: string
                     {p.name}
                   </Link>
                 </td>
-                <td className="px-4 py-2.5 text-muted">{p.team}</td>
+                <td className="px-4 py-2.5 text-muted">
+                  <span className="flex items-center gap-2">
+                    <TeamBadge team={p.team} size="sm" />
+                    <span className="truncate">{p.team}</span>
+                  </span>
+                </td>
                 <td className="px-4 py-2.5 text-right stat-num">{p.matches}</td>
                 <td className="px-4 py-2.5 text-right stat-num font-semibold">{p.goals}</td>
                 <td className="px-4 py-2.5 text-right stat-num">{p.assists}</td>
@@ -111,7 +117,7 @@ export function PlayerTable({ players, slug }: { players: Player[]; slug: string
                 <td className="px-4 py-2.5 text-right stat-num">{p.shots}</td>
                 <td className="px-4 py-2.5 text-right stat-num">{p.passes_completed}</td>
                 <td className="px-4 py-2.5 text-right stat-num">
-                  {p.pass_pct != null ? `${p.pass_pct}%` : "—"}
+                  {p.pass_pct != null ? `${p.pass_pct}%` : "n/a"}
                 </td>
               </tr>
             ))}

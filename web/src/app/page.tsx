@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getCompetitions, competitionLabel } from "@/lib/data";
 import { Container } from "@/components/ui";
+import { TeamBadge } from "@/components/TeamBadge";
 
 export default function Home() {
   const competitions = getCompetitions();
@@ -14,8 +15,9 @@ export default function Home() {
           The story behind the numbers.
         </h1>
         <p className="text-muted text-lg mt-4">
-          A calm, visual home for football statistics — shot maps, expected goals, and
-          the details that explain a match, not just list it. Choose a tournament to explore.
+          Welcome! This is a calm, visual home for football stats. You&apos;ll find shot maps,
+          expected goals, and the little details that help a match make sense, not just a wall
+          of numbers. Pick a tournament below and dive in.
         </p>
       </section>
 
@@ -27,11 +29,14 @@ export default function Home() {
             href={`/${c.slug}`}
             className="card card-hover p-7 flex flex-col gap-5"
           >
-            <div>
-              <h2 className="text-2xl font-bold tracking-tight">{competitionLabel(c)}</h2>
-              <p className="text-muted mt-1">
-                {c.match_count} matches · {c.team_count} teams · {c.player_count} players
-              </p>
+            <div className="flex items-start gap-4">
+              {c.champion && <TeamBadge team={c.champion} size="lg" />}
+              <div>
+                <h2 className="text-2xl font-bold tracking-tight">{competitionLabel(c)}</h2>
+                <p className="text-muted mt-1">
+                  {c.match_count} matches · {c.team_count} teams · {c.player_count} players
+                </p>
+              </div>
             </div>
             <div className="flex flex-wrap gap-2 mt-auto">
               {c.champion && <span className="chip">🏆 {c.champion}</span>}

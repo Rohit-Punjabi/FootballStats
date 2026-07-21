@@ -22,7 +22,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Aurélien Djani Tchouaméni",
+      "player": "Aurélien Tchouaméni",
       "team": "France",
       "minute": 16,
       "x": 92.5,
@@ -72,7 +72,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kylian Mbappé Lottin",
+      "player": "Kylian Mbappé",
       "team": "France",
       "minute": 38,
       "x": 107.9,
@@ -102,7 +102,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jordan Brian Henderson",
+      "player": "Jordan Henderson",
       "team": "England",
       "minute": 51,
       "x": 101.1,

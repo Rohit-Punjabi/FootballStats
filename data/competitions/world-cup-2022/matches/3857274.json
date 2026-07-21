@@ -2,7 +2,7 @@
   "match_id": 3857274,
   "shots": [
     {
-      "player": "Cody Mathès Gakpo",
+      "player": "Cody Gakpo",
       "team": "Netherlands",
       "minute": 5,
       "x": 100.6,
@@ -12,7 +12,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 10,
       "x": 107.0,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Moisés Isaac Caicedo Corozo",
+      "player": "Moisés Caicedo",
       "team": "Ecuador",
       "minute": 23,
       "x": 94.8,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Michael Steveen Estrada Martínez",
+      "player": "Michael Estrada",
       "team": "Ecuador",
       "minute": 26,
       "x": 112.1,
@@ -42,7 +42,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 31,
       "x": 100.6,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 46,
       "x": 110.2,
@@ -62,7 +62,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Angelo Smit Preciado Quiñónez",
+      "player": "Angelo Preciado",
       "team": "Ecuador",
       "minute": 47,
       "x": 100.6,
@@ -72,7 +72,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Pervis Josué Estupiñán Tenorio",
+      "player": "Pervis Estupiñán",
       "team": "Ecuador",
       "minute": 47,
       "x": 112.0,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Pervis Josué Estupiñán Tenorio",
+      "player": "Pervis Estupiñán",
       "team": "Ecuador",
       "minute": 48,
       "x": 105.8,
@@ -92,7 +92,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 48,
       "x": 116.0,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 58,
       "x": 102.0,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Gonzalo Jordy Plata Jiménez",
+      "player": "Gonzalo Plata",
       "team": "Ecuador",
       "minute": 58,
       "x": 104.2,
@@ -122,7 +122,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Michael Steveen Estrada Martínez",
+      "player": "Michael Estrada",
       "team": "Ecuador",
       "minute": 63,
       "x": 105.1,
@@ -142,7 +142,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Moisés Isaac Caicedo Corozo",
+      "player": "Moisés Caicedo",
       "team": "Ecuador",
       "minute": 72,
       "x": 103.2,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Angelo Smit Preciado Quiñónez",
+      "player": "Angelo Preciado",
       "team": "Ecuador",
       "minute": 80,
       "x": 95.3,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Angelo Smit Preciado Quiñónez",
+      "player": "Angelo Preciado",
       "team": "Ecuador",
       "minute": 91,
       "x": 98.9,

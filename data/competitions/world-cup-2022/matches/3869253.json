@@ -2,7 +2,7 @@
   "match_id": 3869253,
   "shots": [
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 6,
       "x": 111.3,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "player": "Vinícius Júnior",
       "team": "Brazil",
       "minute": 6,
       "x": 110.0,
@@ -22,7 +22,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 12,
       "x": 108.0,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Hee-Chan Hwang",
+      "player": "Hwang Hee-Chan",
       "team": "South Korea",
       "minute": 16,
       "x": 90.4,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "In-Beom Hwang",
+      "player": "Hwang In-Beom",
       "team": "South Korea",
       "minute": 16,
       "x": 91.7,
@@ -52,7 +52,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Hee-Chan Hwang",
+      "player": "Hwang Hee-Chan",
       "team": "South Korea",
       "minute": 24,
       "x": 82.7,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Richarlison de Andrade",
+      "player": "Richarlison",
       "team": "Brazil",
       "minute": 28,
       "x": 110.7,
@@ -72,7 +72,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Raphael Dias Belloli",
+      "player": "Raphinha",
       "team": "Brazil",
       "minute": 30,
       "x": 94.7,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Hee-Chan Hwang",
+      "player": "Hwang Hee-Chan",
       "team": "South Korea",
       "minute": 31,
       "x": 119.3,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Carlos Henrique Casimiro",
+      "player": "Casemiro",
       "team": "Brazil",
       "minute": 33,
       "x": 93.6,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lucas Tolentino Coelho de Lima",
+      "player": "Lucas Paquetá",
       "team": "Brazil",
       "minute": 35,
       "x": 110.0,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lucas Tolentino Coelho de Lima",
+      "player": "Lucas Paquetá",
       "team": "Brazil",
       "minute": 45,
       "x": 112.0,
@@ -122,7 +122,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Richarlison de Andrade",
+      "player": "Richarlison",
       "team": "Brazil",
       "minute": 48,
       "x": 110.3,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 48,
       "x": 111.4,
@@ -142,7 +142,7 @@
       "body_part": "Other"
     },
     {
-      "player": "Raphael Dias Belloli",
+      "player": "Raphinha",
       "team": "Brazil",
       "minute": 45,
       "x": 104.3,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Heung-Min Son",
+      "player": "Son Heung-Min",
       "team": "South Korea",
       "minute": 46,
       "x": 105.3,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Raphael Dias Belloli",
+      "player": "Raphinha",
       "team": "Brazil",
       "minute": 53,
       "x": 110.4,
@@ -172,7 +172,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "player": "Vinícius Júnior",
       "team": "Brazil",
       "minute": 53,
       "x": 110.4,
@@ -182,7 +182,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Raphael Dias Belloli",
+      "player": "Raphinha",
       "team": "Brazil",
       "minute": 57,
       "x": 91.0,
@@ -192,7 +192,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Raphael Dias Belloli",
+      "player": "Raphinha",
       "team": "Brazil",
       "minute": 61,
       "x": 114.6,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Hee-Chan Hwang",
+      "player": "Hwang Hee-Chan",
       "team": "South Korea",
       "minute": 67,
       "x": 106.8,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Seung-Ho Paik",
+      "player": "Paik Seung-Ho",
       "team": "South Korea",
       "minute": 75,
       "x": 93.7,
@@ -222,7 +222,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Daniel Alves da Silva",
+      "player": "Dani Alves",
       "team": "Brazil",
       "minute": 88,
       "x": 111.1,
@@ -232,7 +232,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Gleison Bremer Silva Nascimento",
+      "player": "Bremer",
       "team": "Brazil",
       "minute": 89,
       "x": 116.1,
@@ -242,7 +242,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Hee-Chan Hwang",
+      "player": "Hwang Hee-Chan",
       "team": "South Korea",
       "minute": 89,
       "x": 112.9,
@@ -252,7 +252,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Daniel Alves da Silva",
+      "player": "Dani Alves",
       "team": "Brazil",
       "minute": 92,
       "x": 88.4,

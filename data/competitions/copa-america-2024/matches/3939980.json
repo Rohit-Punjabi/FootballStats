@@ -2,7 +2,7 @@
   "match_id": 3939980,
   "shots": [
     {
-      "player": "Moisés Isaac Caicedo Corozo",
+      "player": "Moisés Caicedo",
       "team": "Ecuador",
       "minute": 3,
       "x": 113.1,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ray Kendry Páez Andrade",
+      "player": "Kendry Páez",
       "team": "Ecuador",
       "minute": 5,
       "x": 109.7,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ray Kendry Páez Andrade",
+      "player": "Kendry Páez",
       "team": "Ecuador",
       "minute": 8,
       "x": 105.9,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Angelo Smit Preciado Quiñónez",
+      "player": "Angelo Preciado",
       "team": "Ecuador",
       "minute": 14,
       "x": 102.8,
@@ -42,7 +42,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Felix Eduardo Torres Caicedo",
+      "player": "Félix Torres",
       "team": "Ecuador",
       "minute": 15,
       "x": 115.6,
@@ -62,7 +62,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jeremy Leonel Sarmiento Morante",
+      "player": "Jeremy Sarmiento",
       "team": "Ecuador",
       "minute": 20,
       "x": 98.5,
@@ -72,7 +72,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Moisés Isaac Caicedo Corozo",
+      "player": "Moisés Caicedo",
       "team": "Ecuador",
       "minute": 22,
       "x": 94.7,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "John Yeboah Zamora",
+      "player": "John Yeboah",
       "team": "Ecuador",
       "minute": 30,
       "x": 113.8,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Alan Steven Franco Palma",
+      "player": "Alan Franco",
       "team": "Ecuador",
       "minute": 31,
       "x": 86.1,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Bobby Armani De Cordova-Reid",
+      "player": "Bobby De Cordova-Reid",
       "team": "Jamaica",
       "minute": 32,
       "x": 94.3,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jeremy Leonel Sarmiento Morante",
+      "player": "Jeremy Sarmiento",
       "team": "Ecuador",
       "minute": 35,
       "x": 107.5,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Felix Eduardo Torres Caicedo",
+      "player": "Félix Torres",
       "team": "Ecuador",
       "minute": 36,
       "x": 107.9,
@@ -132,7 +132,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Felix Eduardo Torres Caicedo",
+      "player": "Félix Torres",
       "team": "Ecuador",
       "minute": 42,
       "x": 107.5,
@@ -142,7 +142,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Ray Kendry Páez Andrade",
+      "player": "Kendry Páez",
       "team": "Ecuador",
       "minute": 48,
       "x": 108.1,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ray Kendry Páez Andrade",
+      "player": "Kendry Páez",
       "team": "Ecuador",
       "minute": 50,
       "x": 103.9,
@@ -162,7 +162,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ray Kendry Páez Andrade",
+      "player": "Kendry Páez",
       "team": "Ecuador",
       "minute": 46,
       "x": 101.1,
@@ -172,7 +172,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Kevin José Rodríguez Cortez",
+      "player": "Kevin Rodríguez",
       "team": "Ecuador",
       "minute": 49,
       "x": 104.6,
@@ -202,7 +202,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Jeremy Leonel Sarmiento Morante",
+      "player": "Jeremy Sarmiento",
       "team": "Ecuador",
       "minute": 65,
       "x": 99.5,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Angelo Smit Preciado Quiñónez",
+      "player": "Angelo Preciado",
       "team": "Ecuador",
       "minute": 67,
       "x": 101.2,
@@ -222,7 +222,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Angelo Smit Preciado Quiñónez",
+      "player": "Angelo Preciado",
       "team": "Ecuador",
       "minute": 67,
       "x": 102.7,
@@ -242,7 +242,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kevin José Rodríguez Cortez",
+      "player": "Kevin Rodríguez",
       "team": "Ecuador",
       "minute": 68,
       "x": 103.3,
@@ -252,7 +252,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ray Kendry Páez Andrade",
+      "player": "Kendry Páez",
       "team": "Ecuador",
       "minute": 70,
       "x": 97.3,
@@ -272,7 +272,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Kevin José Rodríguez Cortez",
+      "player": "Kevin Rodríguez",
       "team": "Ecuador",
       "minute": 77,
       "x": 96.7,
@@ -292,7 +292,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Renaldo Showayne Cephas",
+      "player": "Renaldo Cephas",
       "team": "Jamaica",
       "minute": 92,
       "x": 98.4,

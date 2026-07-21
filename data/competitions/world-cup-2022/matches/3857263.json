@@ -2,7 +2,7 @@
   "match_id": 3857263,
   "shots": [
     {
-      "player": "Daniel Olmo Carvajal",
+      "player": "Daniel Olmo",
       "team": "Spain",
       "minute": 6,
       "x": 100.5,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jordi Alba Ramos",
+      "player": "Jordi Alba",
       "team": "Spain",
       "minute": 21,
       "x": 96.6,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ferrán Torres García",
+      "player": "Ferrán Torres",
       "team": "Spain",
       "minute": 25,
       "x": 102.8,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ferrán Torres García",
+      "player": "Ferrán Torres",
       "team": "Spain",
       "minute": 35,
       "x": 109.8,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Daniel Olmo Carvajal",
+      "player": "Daniel Olmo",
       "team": "Spain",
       "minute": 58,
       "x": 85.8,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Álvaro Borja Morata Martín",
+      "player": "Álvaro Morata",
       "team": "Spain",
       "minute": 61,
       "x": 113.2,

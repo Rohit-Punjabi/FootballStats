@@ -12,7 +12,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Karl Brillant Toko Ekambi",
+      "player": "Karl Toko Ekambi",
       "team": "Cameroon",
       "minute": 9,
       "x": 108.7,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ngoran Suiru Fai Collins",
+      "player": "Collins Fai",
       "team": "Cameroon",
       "minute": 25,
       "x": 98.8,
@@ -62,7 +62,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jean-Eric Maxim Choupo-Moting",
+      "player": "Eric Maxim Choupo-Moting",
       "team": "Cameroon",
       "minute": 40,
       "x": 105.2,
@@ -72,7 +72,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Manuel Obafemi Akanji",
+      "player": "Manuel Akanji",
       "team": "Switzerland",
       "minute": 45,
       "x": 114.7,
@@ -82,7 +82,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Breel-Donald Embolo",
+      "player": "Breel Embolo",
       "team": "Switzerland",
       "minute": 47,
       "x": 111.9,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Nicolas Alexis Julio N'Koulou Ndoubena",
+      "player": "Nicolas N'Koulou",
       "team": "Cameroon",
       "minute": 49,
       "x": 116.1,
@@ -102,7 +102,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jean-Eric Maxim Choupo-Moting",
+      "player": "Eric Maxim Choupo-Moting",
       "team": "Cameroon",
       "minute": 56,
       "x": 119.2,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "André-Frank Zambo Anguissa",
+      "player": "André Zambo Anguissa",
       "team": "Cameroon",
       "minute": 65,
       "x": 107.5,

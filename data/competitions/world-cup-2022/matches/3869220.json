@@ -2,7 +2,7 @@
   "match_id": 3869220,
   "shots": [
     {
-      "player": "Achraf Hakimi Mouh",
+      "player": "Achraf Hakimi",
       "team": "Morocco",
       "minute": 11,
       "x": 93.4,
@@ -42,7 +42,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Daniel Olmo Carvajal",
+      "player": "Daniel Olmo",
       "team": "Spain",
       "minute": 54,
       "x": 110.2,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Daniel Olmo Carvajal",
+      "player": "Daniel Olmo",
       "team": "Spain",
       "minute": 77,
       "x": 97.2,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Álvaro Borja Morata Martín",
+      "player": "Álvaro Morata",
       "team": "Spain",
       "minute": 81,
       "x": 118.8,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Álvaro Borja Morata Martín",
+      "player": "Álvaro Morata",
       "team": "Spain",
       "minute": 90,
       "x": 115.3,
@@ -102,7 +102,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Alejandro Balde Martínez",
+      "player": "Alejandro Balde",
       "team": "Spain",
       "minute": 99,
       "x": 112.5,
@@ -112,7 +112,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Rodrigo Hernández Cascante",
+      "player": "Rodri",
       "team": "Spain",
       "minute": 102,
       "x": 79.9,
@@ -132,7 +132,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Marcos Llorente Moreno",
+      "player": "Marcos Llorente",
       "team": "Spain",
       "minute": 106,
       "x": 100.3,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Sergio Busquets i Burgos",
+      "player": "Sergio Busquets",
       "team": "Spain",
       "minute": 120,
       "x": 102.6,
@@ -162,7 +162,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Carlos Soler Barragán",
+      "player": "Carlos Soler",
       "team": "Spain",
       "minute": 121,
       "x": 104.3,
@@ -172,7 +172,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Pablo Sarabia García",
+      "player": "Pablo Sarabia",
       "team": "Spain",
       "minute": 122,
       "x": 117.8,

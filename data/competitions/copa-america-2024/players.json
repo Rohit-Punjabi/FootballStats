@@ -1,7 +1,7 @@
 [
   {
     "id": 11456,
-    "name": "Lautaro Javier Martínez",
+    "name": "Lautaro Martínez",
     "team": "Argentina",
     "team_id": 779,
     "matches": 6,
@@ -15,7 +15,7 @@
   },
   {
     "id": 4041,
-    "name": "José Salomón Rondón Giménez",
+    "name": "Salomón Rondón",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 4,
@@ -29,7 +29,7 @@
   },
   {
     "id": 32478,
-    "name": "Darwin Gabriel Núñez Ribeiro",
+    "name": "Darwin Núñez",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 6,
@@ -57,7 +57,7 @@
   },
   {
     "id": 27158,
-    "name": "Luis Fernando Díaz Marulanda",
+    "name": "Luis Díaz",
     "team": "Colombia",
     "team_id": 769,
     "matches": 6,
@@ -71,7 +71,7 @@
   },
   {
     "id": 8817,
-    "name": "Jhon Andrés Córdoba Copete",
+    "name": "Jhon Córdoba",
     "team": "Colombia",
     "team_id": 769,
     "matches": 6,
@@ -99,7 +99,7 @@
   },
   {
     "id": 35492,
-    "name": "Maximiliano Javier Araújo Vilches",
+    "name": "Maximiliano Araújo",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 6,
@@ -127,7 +127,7 @@
   },
   {
     "id": 18395,
-    "name": "Vinícius José Paixão de Oliveira Júnior",
+    "name": "Vinícius Júnior",
     "team": "Brazil",
     "team_id": 781,
     "matches": 3,
@@ -141,7 +141,7 @@
   },
   {
     "id": 27423,
-    "name": "Daniel Muñoz Mejía",
+    "name": "Daniel Muñoz",
     "team": "Colombia",
     "team_id": 769,
     "matches": 5,
@@ -155,7 +155,7 @@
   },
   {
     "id": 35785,
-    "name": "Eduard Alexander Bello Gil",
+    "name": "Eduard Bello",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 4,
@@ -169,7 +169,7 @@
   },
   {
     "id": 5678,
-    "name": "Jefferson Andrés Lerma Solís",
+    "name": "Jefferson Lerma",
     "team": "Colombia",
     "team_id": 769,
     "matches": 5,
@@ -183,7 +183,7 @@
   },
   {
     "id": 5260,
-    "name": "Rodrigo Bentancur Colmán",
+    "name": "Rodrigo Bentancur",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 6,
@@ -211,7 +211,7 @@
   },
   {
     "id": 22600,
-    "name": "Lucas Tolentino Coelho de Lima",
+    "name": "Lucas Paquetá",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -225,7 +225,7 @@
   },
   {
     "id": 5503,
-    "name": "Lionel Andrés Messi Cuccittini",
+    "name": "Lionel Messi",
     "team": "Argentina",
     "team_id": 779,
     "matches": 5,
@@ -239,7 +239,7 @@
   },
   {
     "id": 384888,
-    "name": "Ray Kendry Páez Andrade",
+    "name": "Kendry Páez",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -253,7 +253,7 @@
   },
   {
     "id": 3494,
-    "name": "Davinson Sánchez Mina",
+    "name": "Davinson Sánchez",
     "team": "Colombia",
     "team_id": 769,
     "matches": 6,
@@ -267,7 +267,7 @@
   },
   {
     "id": 5695,
-    "name": "James David Rodríguez Rubio",
+    "name": "James Rodríguez",
     "team": "Colombia",
     "team_id": 769,
     "matches": 6,
@@ -281,7 +281,7 @@
   },
   {
     "id": 36288,
-    "name": "Facundo Pellistri Rebollo",
+    "name": "Facundo Pellistri",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 6,
@@ -295,7 +295,7 @@
   },
   {
     "id": 5246,
-    "name": "Luis Alberto Suárez Díaz",
+    "name": "Luis Suárez",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 4,
@@ -309,7 +309,7 @@
   },
   {
     "id": 6333,
-    "name": "Miguel Ángel Borja Hernández",
+    "name": "Miguel Borja",
     "team": "Colombia",
     "team_id": 769,
     "matches": 2,
@@ -323,7 +323,7 @@
   },
   {
     "id": 10595,
-    "name": "Raphael Dias Belloli",
+    "name": "Raphinha",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -337,7 +337,7 @@
   },
   {
     "id": 7104,
-    "name": "Mathías Olivera Miramontes",
+    "name": "Mathías Olivera",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 5,
@@ -351,7 +351,7 @@
   },
   {
     "id": 44455,
-    "name": "Sávio Moreira de Oliveira",
+    "name": "Sávio",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -365,7 +365,7 @@
   },
   {
     "id": 47112,
-    "name": "Julio César Enciso Espínola",
+    "name": "Julio Enciso",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -379,7 +379,7 @@
   },
   {
     "id": 6773,
-    "name": "Federico Santiago Valverde Dipetta",
+    "name": "Federico Valverde",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 6,
@@ -407,7 +407,7 @@
   },
   {
     "id": 44304,
-    "name": "Eric Kleybel Ramírez Matheus",
+    "name": "Eric Ramirez",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 2,
@@ -463,7 +463,7 @@
   },
   {
     "id": 21315,
-    "name": "Bruno Miranda Villagomez",
+    "name": "Bruno Miranda",
     "team": "Bolivia",
     "team_id": 3564,
     "matches": 2,
@@ -477,7 +477,7 @@
   },
   {
     "id": 40211,
-    "name": "Jeremy Leonel Sarmiento Morante",
+    "name": "Jeremy Sarmiento",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -533,7 +533,7 @@
   },
   {
     "id": 5641,
-    "name": "Michael Amir Murillo Bermudez",
+    "name": "Michael Murillo",
     "team": "Panama",
     "team_id": 798,
     "matches": 4,
@@ -547,7 +547,7 @@
   },
   {
     "id": 5600,
-    "name": "Francisco Javier Calvo Quesada",
+    "name": "Francisco Calvo",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -561,7 +561,7 @@
   },
   {
     "id": 49395,
-    "name": "Richard Rios Montoya",
+    "name": "Richard",
     "team": "Colombia",
     "team_id": 769,
     "matches": 6,
@@ -575,7 +575,7 @@
   },
   {
     "id": 44305,
-    "name": "César Rodolfo Blackman Camarena",
+    "name": "César Blackman",
     "team": "Panama",
     "team_id": 798,
     "matches": 3,
@@ -589,7 +589,7 @@
   },
   {
     "id": 27896,
-    "name": "Gerardo Daniel Arteaga Zamora",
+    "name": "Gerardo Arteaga",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -603,7 +603,7 @@
   },
   {
     "id": 11162,
-    "name": "Jhonder Leonel Cádiz Fernández",
+    "name": "Jhonder Cádiz",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 3,
@@ -617,7 +617,7 @@
   },
   {
     "id": 87603,
-    "name": "Ramón Sosa Acosta",
+    "name": "Ramón Sosa",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -631,7 +631,7 @@
   },
   {
     "id": 348757,
-    "name": "Kevin José Rodríguez Cortez",
+    "name": "Kevin Rodríguez",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -659,7 +659,7 @@
   },
   {
     "id": 34476,
-    "name": "Matías Nicolás Viña Susperreguy",
+    "name": "Matías Viña",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 5,
@@ -673,7 +673,7 @@
   },
   {
     "id": 29009,
-    "name": "Omar Federico Alderete Fernández",
+    "name": "Omar Alderete",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -729,7 +729,7 @@
   },
   {
     "id": 31053,
-    "name": "Santiago Tomás Giménez",
+    "name": "Santiago Giménez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -743,7 +743,7 @@
   },
   {
     "id": 25104,
-    "name": "Rodrygo Silva de Goes",
+    "name": "Rodrygo",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -757,7 +757,7 @@
   },
   {
     "id": 28559,
-    "name": "Enner Remberto Valencia Lastra",
+    "name": "Enner Valencia",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -771,7 +771,7 @@
   },
   {
     "id": 16308,
-    "name": "Leandro Daniel Paredes",
+    "name": "Leandro Paredes",
     "team": "Argentina",
     "team_id": 779,
     "matches": 3,
@@ -785,7 +785,7 @@
   },
   {
     "id": 26280,
-    "name": "Orbelín Pineda Alvarado",
+    "name": "Orbelín Pineda",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -799,7 +799,7 @@
   },
   {
     "id": 6193,
-    "name": "Andrés Mateus Uribe Villa",
+    "name": "Mateus Uribe",
     "team": "Colombia",
     "team_id": 769,
     "matches": 6,
@@ -813,7 +813,7 @@
   },
   {
     "id": 3090,
-    "name": "Nicolás Hernán Otamendi",
+    "name": "Nicolás Otamendi",
     "team": "Argentina",
     "team_id": 779,
     "matches": 5,
@@ -827,7 +827,7 @@
   },
   {
     "id": 10337,
-    "name": "Yordan Hernando Osorio Paredes",
+    "name": "Yordan Osorio",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 4,
@@ -855,7 +855,7 @@
   },
   {
     "id": 20687,
-    "name": "Nicolás Iván González",
+    "name": "Nicolás González",
     "team": "Argentina",
     "team_id": 779,
     "matches": 5,
@@ -869,7 +869,7 @@
   },
   {
     "id": 3385,
-    "name": "Alexis Alejandro Sánchez Sánchez",
+    "name": "Alexis Sánchez",
     "team": "Chile",
     "team_id": 3562,
     "matches": 3,
@@ -883,7 +883,7 @@
   },
   {
     "id": 27886,
-    "name": "Alexis Mac Allister",
+    "name": "Alexis MacAllister",
     "team": "Argentina",
     "team_id": 779,
     "matches": 5,
@@ -925,7 +925,7 @@
   },
   {
     "id": 30795,
-    "name": "Ángel Rodrigo Romero Villamayor",
+    "name": "Ángel Romero",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 2,
@@ -939,7 +939,7 @@
   },
   {
     "id": 2995,
-    "name": "Ángel Fabián Di María Hernández",
+    "name": "Ángel Di María",
     "team": "Argentina",
     "team_id": 779,
     "matches": 5,
@@ -953,7 +953,7 @@
   },
   {
     "id": 405926,
-    "name": "Renaldo Showayne Cephas",
+    "name": "Renaldo Cephas",
     "team": "Jamaica",
     "team_id": 2305,
     "matches": 3,
@@ -995,7 +995,7 @@
   },
   {
     "id": 30111,
-    "name": "Felix Eduardo Torres Caicedo",
+    "name": "Félix Torres",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 170230,
-    "name": "Alex Adrián Arce Barrios",
+    "name": "Alex Arce",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 2,
@@ -1023,7 +1023,7 @@
   },
   {
     "id": 383095,
-    "name": "Kahiser Lenis Navarro",
+    "name": "Kahiser Lenis",
     "team": "Panama",
     "team_id": 798,
     "matches": 2,
@@ -1037,7 +1037,7 @@
   },
   {
     "id": 87429,
-    "name": "Mathías Adalberto Villasanti Rolón",
+    "name": "Mathías Villasanti",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 35375,
-    "name": "Julián Andrés Quiñones Quiñones",
+    "name": "Julián Quiñones",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -1107,7 +1107,7 @@
   },
   {
     "id": 5637,
-    "name": "Edgar Yoel Bárcenas Herrera",
+    "name": "Édgar Yoel Bárcenas",
     "team": "Panama",
     "team_id": 798,
     "matches": 4,
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 5259,
-    "name": "José María Giménez de Vargas",
+    "name": "José Giménez",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 5,
@@ -1149,7 +1149,7 @@
   },
   {
     "id": 25142,
-    "name": "Bruno Guimarães Rodriguez Moura",
+    "name": "Bruno Guimarães",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -1163,7 +1163,7 @@
   },
   {
     "id": 28567,
-    "name": "Carlos Eccehomo Cuesta Figueroa",
+    "name": "Carlos Cuesta",
     "team": "Colombia",
     "team_id": 769,
     "matches": 5,
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 28825,
-    "name": "Luis Gerardo Chávez Magallón",
+    "name": "Luis Chávez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -1205,7 +1205,7 @@
   },
   {
     "id": 28266,
-    "name": "Rafael Santos Borré Amaury",
+    "name": "Rafael Borré",
     "team": "Colombia",
     "team_id": 769,
     "matches": 4,
@@ -1219,7 +1219,7 @@
   },
   {
     "id": 16249,
-    "name": "Yangel Clemente Herrera Ravelo",
+    "name": "Yangel Herrera",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 4,
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 27889,
-    "name": "César Saúl Huerta Valera",
+    "name": "César Huerta",
     "team": "Mexico",
     "team_id": 794,
     "matches": 2,
@@ -1247,7 +1247,7 @@
   },
   {
     "id": 10290,
-    "name": "Fabián Cornelio Balbuena González",
+    "name": "Fabián Balbuena",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 35738,
-    "name": "Rodrigo Eduardo Echeverría Sáez",
+    "name": "Rodrigo Echeverría",
     "team": "Chile",
     "team_id": 3562,
     "matches": 3,
@@ -1288,22 +1288,8 @@
     "pass_pct": 69.6
   },
   {
-    "id": 5535,
-    "name": "José Paolo Guerrero Gonzáles",
-    "team": "Peru",
-    "team_id": 784,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 2,
-    "xg": 0.27,
-    "passes": 29,
-    "passes_completed": 15,
-    "pass_pct": 51.7
-  },
-  {
     "id": 26386,
-    "name": "Luis Francisco Romo Barrón",
+    "name": "Luis Romo",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -1316,8 +1302,22 @@
     "pass_pct": 79.3
   },
   {
+    "id": 5535,
+    "name": "Paolo Guerrero",
+    "team": "Peru",
+    "team_id": 784,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 2,
+    "xg": 0.27,
+    "passes": 29,
+    "passes_completed": 15,
+    "pass_pct": 51.7
+  },
+  {
     "id": 30944,
-    "name": "Víctor Alejandro Dávila Zavala",
+    "name": "Víctor Dávila",
     "team": "Chile",
     "team_id": 3562,
     "matches": 3,
@@ -1331,7 +1331,7 @@
   },
   {
     "id": 26336,
-    "name": "Johan Felipe Vásquez Ibarra",
+    "name": "Johan Vásquez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 22256,
-    "name": "Roderick Alonso Miller Molina",
+    "name": "Roderick Miller",
     "team": "Panama",
     "team_id": 798,
     "matches": 3,
@@ -1373,7 +1373,7 @@
   },
   {
     "id": 37737,
-    "name": "Angelo Smit Preciado Quiñónez",
+    "name": "Angelo Preciado",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -1401,7 +1401,7 @@
   },
   {
     "id": 60514,
-    "name": "Yaser Esneider Asprilla Martínez",
+    "name": "Yáser Asprilla",
     "team": "Colombia",
     "team_id": 769,
     "matches": 1,
@@ -1415,7 +1415,7 @@
   },
   {
     "id": 27277,
-    "name": "Jhon Adolfo Arias Andrade",
+    "name": "Jhon Arias",
     "team": "Colombia",
     "team_id": 769,
     "matches": 6,
@@ -1429,7 +1429,7 @@
   },
   {
     "id": 101509,
-    "name": "Piero Aldair Quispe Córdova",
+    "name": "Piero Quispe",
     "team": "Peru",
     "team_id": 784,
     "matches": 2,
@@ -1457,7 +1457,7 @@
   },
   {
     "id": 25115,
-    "name": "Yeferson Julio Soteldo Martínez",
+    "name": "Yeferson Soteldo",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 4,
@@ -1471,7 +1471,7 @@
   },
   {
     "id": 26297,
-    "name": "Carlos Alberto Rodríguez Gómez",
+    "name": "Carlos Alberto Rodríguez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 2,
@@ -1485,7 +1485,7 @@
   },
   {
     "id": 26256,
-    "name": "Igor Lichnovsky Osorio",
+    "name": "Igor Lichnovsky",
     "team": "Chile",
     "team_id": 3562,
     "matches": 3,
@@ -1499,7 +1499,7 @@
   },
   {
     "id": 36917,
-    "name": "José Andrés Martínez Torres",
+    "name": "José Martínez",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 4,
@@ -1524,20 +1524,6 @@
     "passes": 145,
     "passes_completed": 123,
     "pass_pct": 84.8
-  },
-  {
-    "id": 28729,
-    "name": "Diego Nicolás De La Cruz Arcosa",
-    "team": "Uruguay",
-    "team_id": 783,
-    "matches": 5,
-    "goals": 0,
-    "assists": 2,
-    "shots": 5,
-    "xg": 0.18,
-    "passes": 163,
-    "passes_completed": 115,
-    "pass_pct": 70.6
   },
   {
     "id": 60138,
@@ -1569,7 +1555,7 @@
   },
   {
     "id": 36659,
-    "name": "Manuel Ugarte Ribeiro",
+    "name": "Manuel Ugarte",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 6,
@@ -1582,8 +1568,22 @@
     "pass_pct": 88.2
   },
   {
+    "id": 28729,
+    "name": "Nicolás De La Cruz",
+    "team": "Uruguay",
+    "team_id": 783,
+    "matches": 5,
+    "goals": 0,
+    "assists": 2,
+    "shots": 5,
+    "xg": 0.18,
+    "passes": 163,
+    "passes_completed": 115,
+    "pass_pct": 70.6
+  },
+  {
     "id": 87449,
-    "name": "Damián Josué Bobadilla Benítez",
+    "name": "Damián Bobadilla",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -1597,7 +1597,7 @@
   },
   {
     "id": 4372,
-    "name": "Marcos Aoás Corrêa",
+    "name": "Marquinhos",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -1611,7 +1611,7 @@
   },
   {
     "id": 5247,
-    "name": "Nahitan Michel Nández Acosta",
+    "name": "Nahitan Nández",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 5,
@@ -1625,7 +1625,7 @@
   },
   {
     "id": 35690,
-    "name": "Sebastián Enzo Cáceres Ramos",
+    "name": "Sebastián Cáceres",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 5,
@@ -1639,7 +1639,7 @@
   },
   {
     "id": 11501,
-    "name": "Darwin Daniel Machís Marcano",
+    "name": "Darwin Machís",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 3,
@@ -1667,7 +1667,7 @@
   },
   {
     "id": 29201,
-    "name": "Nahuel Molina Lucero",
+    "name": "Nahuel Molina",
     "team": "Argentina",
     "team_id": 779,
     "matches": 5,
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 5507,
-    "name": "Nicolás Alejandro Tagliafico",
+    "name": "Nicolás Tagliafico",
     "team": "Argentina",
     "team_id": 779,
     "matches": 6,
@@ -1695,7 +1695,7 @@
   },
   {
     "id": 26368,
-    "name": "César Jasib Montes Castro",
+    "name": "César Montes",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -1709,7 +1709,7 @@
   },
   {
     "id": 26406,
-    "name": "Jorge Eduardo Sánchez Ramos",
+    "name": "Jorge Sánchez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -1734,6 +1734,20 @@
     "passes": 95,
     "passes_completed": 72,
     "pass_pct": 75.8
+  },
+  {
+    "id": 30736,
+    "name": "Brian Rodríguez",
+    "team": "Uruguay",
+    "team_id": 783,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.13,
+    "passes": 13,
+    "passes_completed": 9,
+    "pass_pct": 69.2
   },
   {
     "id": 4610,
@@ -1764,22 +1778,8 @@
     "pass_pct": 87.8
   },
   {
-    "id": 30736,
-    "name": "Paul Brian Rodríguez Bravo",
-    "team": "Uruguay",
-    "team_id": 783,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.13,
-    "passes": 13,
-    "passes_completed": 9,
-    "pass_pct": 69.2
-  },
-  {
     "id": 37945,
-    "name": "Alan Steven Franco Palma",
+    "name": "Alan Franco",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -1793,7 +1793,7 @@
   },
   {
     "id": 52129,
-    "name": "Alejandro Garnacho Ferreyra",
+    "name": "Alejandro Garnacho",
     "team": "Argentina",
     "team_id": 779,
     "matches": 1,
@@ -1807,7 +1807,7 @@
   },
   {
     "id": 16637,
-    "name": "Cristian Jesús Martínez",
+    "name": "Christian Martínez",
     "team": "Panama",
     "team_id": 798,
     "matches": 4,
@@ -1821,7 +1821,7 @@
   },
   {
     "id": 271988,
-    "name": "Endrick Felipe Moreira de Sousa",
+    "name": "Endrick",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -1835,7 +1835,7 @@
   },
   {
     "id": 35432,
-    "name": "Abdiel Armando Ayarza Cocanegra",
+    "name": "Abdiel Ayarza",
     "team": "Panama",
     "team_id": 798,
     "matches": 4,
@@ -1849,7 +1849,7 @@
   },
   {
     "id": 21131,
-    "name": "John Yeboah Zamora",
+    "name": "John Yeboah",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -1877,7 +1877,7 @@
   },
   {
     "id": 5519,
-    "name": "Christian Alberto Cueva Bravo",
+    "name": "Christian Cueva",
     "team": "Peru",
     "team_id": 784,
     "matches": 2,
@@ -1919,7 +1919,7 @@
   },
   {
     "id": 5258,
-    "name": "Giorgian Daniel De Arrascaeta Benedetti",
+    "name": "Giorgian De Arrascaeta",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 5,
@@ -1933,7 +1933,7 @@
   },
   {
     "id": 37726,
-    "name": "Moisés Isaac Caicedo Corozo",
+    "name": "Moisés Caicedo",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -1947,7 +1947,7 @@
   },
   {
     "id": 7797,
-    "name": "Rodrigo Javier De Paul",
+    "name": "Rodrigo De Paul",
     "team": "Argentina",
     "team_id": 779,
     "matches": 5,
@@ -1958,20 +1958,6 @@
     "passes": 288,
     "passes_completed": 240,
     "pass_pct": 83.3
-  },
-  {
-    "id": 15452,
-    "name": "Carlos Uriel Antuna Romero",
-    "team": "Mexico",
-    "team_id": 794,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 2,
-    "xg": 0.09,
-    "passes": 84,
-    "passes_completed": 58,
-    "pass_pct": 69.0
   },
   {
     "id": 22008,
@@ -1989,7 +1975,7 @@
   },
   {
     "id": 33176,
-    "name": "Miguel Gianpierre Araujo Blanco",
+    "name": "Miguel Araujo",
     "team": "Peru",
     "team_id": 784,
     "matches": 2,
@@ -2003,7 +1989,7 @@
   },
   {
     "id": 32480,
-    "name": "Ronald Federico Araújo da Silva",
+    "name": "Ronald Araújo",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 4,
@@ -2014,6 +2000,20 @@
     "passes": 164,
     "passes_completed": 134,
     "pass_pct": 81.7
+  },
+  {
+    "id": 15452,
+    "name": "Uriel Antuna",
+    "team": "Mexico",
+    "team_id": 794,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 2,
+    "xg": 0.09,
+    "passes": 84,
+    "passes_completed": 58,
+    "pass_pct": 69.0
   },
   {
     "id": 4735,
@@ -2031,7 +2031,7 @@
   },
   {
     "id": 9923,
-    "name": "Bobby Armani De Cordova-Reid",
+    "name": "Bobby De Cordova-Reid",
     "team": "Jamaica",
     "team_id": 2305,
     "matches": 2,
@@ -2044,22 +2044,8 @@
     "pass_pct": 73.8
   },
   {
-    "id": 20572,
-    "name": "Cristian Gabriel Romero",
-    "team": "Argentina",
-    "team_id": 779,
-    "matches": 5,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.08,
-    "passes": 354,
-    "passes_completed": 328,
-    "pass_pct": 92.7
-  },
-  {
     "id": 13493,
-    "name": "Cristian Sleiker Cásseres Yepes",
+    "name": "Cristian Cásseres Jr.",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 3,
@@ -2072,8 +2058,22 @@
     "pass_pct": 71.0
   },
   {
+    "id": 20572,
+    "name": "Cristian Romero",
+    "team": "Argentina",
+    "team_id": 779,
+    "matches": 5,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.08,
+    "passes": 354,
+    "passes_completed": 328,
+    "pass_pct": 92.7
+  },
+  {
     "id": 3063,
-    "name": "Danilo Luiz da Silva",
+    "name": "Danilo",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -2101,7 +2101,7 @@
   },
   {
     "id": 36532,
-    "name": "Marcelino Ignacio Nuñez Espinoza",
+    "name": "Marcelino Núñez",
     "team": "Chile",
     "team_id": 3562,
     "matches": 3,
@@ -2115,7 +2115,7 @@
   },
   {
     "id": 36520,
-    "name": "Miguel Ángel Navarro Zárate",
+    "name": "Miguel Ángel Navarro",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 3,
@@ -2129,7 +2129,7 @@
   },
   {
     "id": 47345,
-    "name": "Adalberto Eliécer Carrasquilla Alcázar",
+    "name": "Adalberto Carrasquilla",
     "team": "Panama",
     "team_id": 798,
     "matches": 2,
@@ -2171,7 +2171,7 @@
   },
   {
     "id": 13620,
-    "name": "Éder Gabriel Militão",
+    "name": "Éder Militão",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -2198,8 +2198,22 @@
     "pass_pct": 78.9
   },
   {
+    "id": 5525,
+    "name": "Edison Flores",
+    "team": "Peru",
+    "team_id": 784,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 2,
+    "xg": 0.06,
+    "passes": 33,
+    "passes_completed": 21,
+    "pass_pct": 63.6
+  },
+  {
     "id": 45377,
-    "name": "Franco Zanelatto Téllez",
+    "name": "Franco Zanelatto",
     "team": "Peru",
     "team_id": 784,
     "matches": 1,
@@ -2212,8 +2226,22 @@
     "pass_pct": 85.7
   },
   {
+    "id": 28943,
+    "name": "Gustavo Velázquez",
+    "team": "Paraguay",
+    "team_id": 3567,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.06,
+    "passes": 116,
+    "passes_completed": 75,
+    "pass_pct": 64.7
+  },
+  {
     "id": 5691,
-    "name": "Johan Andrés Mojica Palacio",
+    "name": "Johan Mojica",
     "team": "Colombia",
     "team_id": 769,
     "matches": 6,
@@ -2227,7 +2255,7 @@
   },
   {
     "id": 28723,
-    "name": "Jorge Andrés Carrascal Guardo",
+    "name": "Jorge Carrascal",
     "team": "Colombia",
     "team_id": 769,
     "matches": 3,
@@ -2241,7 +2269,7 @@
   },
   {
     "id": 5628,
-    "name": "José Luis Rodríguez Francis",
+    "name": "José Rodríguez",
     "team": "Panama",
     "team_id": 798,
     "matches": 1,
@@ -2296,20 +2324,6 @@
     "pass_pct": 74.3
   },
   {
-    "id": 28943,
-    "name": "Víctor Gustavo Velázquez Ramos",
-    "team": "Paraguay",
-    "team_id": 3567,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.06,
-    "passes": 116,
-    "passes_completed": 75,
-    "pass_pct": 64.7
-  },
-  {
     "id": 154895,
     "name": "Warren Steven Madrigal Molina",
     "team": "Costa Rica",
@@ -2324,22 +2338,8 @@
     "pass_pct": 62.5
   },
   {
-    "id": 5525,
-    "name": "Édison Michael Flores Peralta",
-    "team": "Peru",
-    "team_id": 784,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 2,
-    "xg": 0.06,
-    "passes": 33,
-    "passes_completed": 21,
-    "pass_pct": 63.6
-  },
-  {
     "id": 36359,
-    "name": "Carlos Augusto Zambrano Ochandarte",
+    "name": "Carlos Zambrano",
     "team": "Peru",
     "team_id": 784,
     "matches": 3,
@@ -2367,7 +2367,7 @@
   },
   {
     "id": 6919,
-    "name": "Guilherme Antonio Arana Lopes",
+    "name": "Guilherme Arana",
     "team": "Brazil",
     "team_id": 781,
     "matches": 2,
@@ -2395,7 +2395,7 @@
   },
   {
     "id": 7475,
-    "name": "Tomás Eduardo Rincón Hernández",
+    "name": "Tomás Rincón",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 3,
@@ -2409,7 +2409,7 @@
   },
   {
     "id": 28511,
-    "name": "Ángel Israel Mena Delgado",
+    "name": "Ángel Mena",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 2,
@@ -2423,7 +2423,7 @@
   },
   {
     "id": 6846,
-    "name": "Andreas Hoelgebaum Pereira",
+    "name": "Andreas Pereira",
     "team": "Brazil",
     "team_id": 781,
     "matches": 3,
@@ -2451,7 +2451,7 @@
   },
   {
     "id": 5634,
-    "name": "Erick Javier Davis Grajales",
+    "name": "Erick Davis",
     "team": "Panama",
     "team_id": 798,
     "matches": 4,
@@ -2465,7 +2465,7 @@
   },
   {
     "id": 22168,
-    "name": "Joshua Sargent",
+    "name": "Josh Sargent",
     "team": "United States",
     "team_id": 1839,
     "matches": 2,
@@ -2479,7 +2479,7 @@
   },
   {
     "id": 363986,
-    "name": "Jovani Francisco Welch Lopez",
+    "name": "Jovani Welch",
     "team": "Panama",
     "team_id": 798,
     "matches": 3,
@@ -2520,6 +2520,20 @@
     "pass_pct": 75.0
   },
   {
+    "id": 48720,
+    "name": "Gomes",
+    "team": "Brazil",
+    "team_id": 781,
+    "matches": 4,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.03,
+    "passes": 185,
+    "passes_completed": 165,
+    "pass_pct": 89.2
+  },
+  {
     "id": 130193,
     "name": "Jefferson Brenes Rojas",
     "team": "Costa Rica",
@@ -2535,7 +2549,7 @@
   },
   {
     "id": 35205,
-    "name": "Jesús Abdallah Castillo Molina",
+    "name": "Jesús Castillo",
     "team": "Peru",
     "team_id": 784,
     "matches": 1,
@@ -2562,22 +2576,8 @@
     "pass_pct": 79.0
   },
   {
-    "id": 48720,
-    "name": "João Victor Gomes da Silva",
-    "team": "Brazil",
-    "team_id": 781,
-    "matches": 4,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.03,
-    "passes": 185,
-    "passes_completed": 165,
-    "pass_pct": 89.2
-  },
-  {
     "id": 37070,
-    "name": "Luis Fernando Haquín Lopez",
+    "name": "Luis Haquín",
     "team": "Bolivia",
     "team_id": 3564,
     "matches": 3,
@@ -2605,7 +2605,7 @@
   },
   {
     "id": 12603,
-    "name": "Miguel Ángel Almirón Rejala",
+    "name": "Miguel Almirón",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -2633,7 +2633,7 @@
   },
   {
     "id": 47055,
-    "name": "Roberto Carlos Fernández Toro",
+    "name": "Roberto Fernández",
     "team": "Bolivia",
     "team_id": 3564,
     "matches": 2,
@@ -2661,7 +2661,7 @@
   },
   {
     "id": 3632,
-    "name": "André Martín Carrillo Díaz",
+    "name": "André Carrillo",
     "team": "Peru",
     "team_id": 784,
     "matches": 1,
@@ -2703,7 +2703,7 @@
   },
   {
     "id": 204925,
-    "name": "Darío Esteban Osorio Osorio",
+    "name": "Darío Osorio",
     "team": "Chile",
     "team_id": 3562,
     "matches": 3,
@@ -2717,7 +2717,7 @@
   },
   {
     "id": 7161,
-    "name": "Germán Alejandro Pezzella",
+    "name": "Germán Pezzella",
     "team": "Argentina",
     "team_id": 779,
     "matches": 1,
@@ -2731,7 +2731,7 @@
   },
   {
     "id": 36830,
-    "name": "Joseph Scally",
+    "name": "Joe Scally",
     "team": "United States",
     "team_id": 1839,
     "matches": 3,
@@ -2759,7 +2759,7 @@
   },
   {
     "id": 5692,
-    "name": "Juan Fernando Quintero Paniagua",
+    "name": "Juan Fernando Quintero",
     "team": "Colombia",
     "team_id": 769,
     "matches": 3,
@@ -2773,7 +2773,7 @@
   },
   {
     "id": 19597,
-    "name": "Marcos Javier Acuña",
+    "name": "Marcos Acuña",
     "team": "Argentina",
     "team_id": 779,
     "matches": 2,
@@ -2787,7 +2787,7 @@
   },
   {
     "id": 23749,
-    "name": "Marcos Johan López Lanfranco",
+    "name": "Marcos López",
     "team": "Peru",
     "team_id": 784,
     "matches": 3,
@@ -2801,7 +2801,7 @@
   },
   {
     "id": 46677,
-    "name": "Matías David Espinoza Acosta",
+    "name": "Matías Espinoza",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 2,
@@ -2815,7 +2815,7 @@
   },
   {
     "id": 27767,
-    "name": "Matías Nicolás Rojas Romero",
+    "name": "Matías Rojas",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 1,
@@ -2829,7 +2829,7 @@
   },
   {
     "id": 5696,
-    "name": "Santiago Arias Naranjo",
+    "name": "Santiago Arias",
     "team": "Colombia",
     "team_id": 769,
     "matches": 3,
@@ -2857,7 +2857,7 @@
   },
   {
     "id": 129288,
-    "name": "Alexander Andre Marshsall",
+    "name": "Alex Marshall",
     "team": "Jamaica",
     "team_id": 2305,
     "matches": 1,
@@ -2899,7 +2899,7 @@
   },
   {
     "id": 43555,
-    "name": "Erick Daniel Sánchez Ocegueda",
+    "name": "Erick Sánchez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 2,
@@ -2927,7 +2927,7 @@
   },
   {
     "id": 38004,
-    "name": "Piero Martín Hincapié Reyna",
+    "name": "Piero Hincapié",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 10836,
-    "name": "Sergio Fernando Peña Flores",
+    "name": "Sergio Peña",
     "team": "Peru",
     "team_id": 784,
     "matches": 3,
@@ -2955,7 +2955,7 @@
   },
   {
     "id": 6313,
-    "name": "Wilder José Cartagena Mendoza",
+    "name": "Wilder Cartagena",
     "team": "Peru",
     "team_id": 784,
     "matches": 3,
@@ -2983,7 +2983,7 @@
   },
   {
     "id": 26306,
-    "name": "Adam Fernando Bareiro Gamarra",
+    "name": "Adam Bareiro",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -2996,22 +2996,8 @@
     "pass_pct": 57.1
   },
   {
-    "id": 28657,
-    "name": "Adrián Andrés Cubas",
-    "team": "Paraguay",
-    "team_id": 3567,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 92,
-    "passes_completed": 82,
-    "pass_pct": 89.1
-  },
-  {
     "id": 36666,
-    "name": "Agustín Canobbio Graviz",
+    "name": "Agustín Canobbio",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 1,
@@ -3025,7 +3011,7 @@
   },
   {
     "id": 35009,
-    "name": "Aldo Sebastián Corzo Chávez",
+    "name": "Aldo Corzo",
     "team": "Peru",
     "team_id": 784,
     "matches": 1,
@@ -3038,50 +3024,8 @@
     "pass_pct": 62.5
   },
   {
-    "id": 12758,
-    "name": "Alejandro Romero Gamarra",
-    "team": "Paraguay",
-    "team_id": 3567,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 36,
-    "passes_completed": 28,
-    "pass_pct": 77.8
-  },
-  {
-    "id": 24168,
-    "name": "Alexander David González Sibulo",
-    "team": "Venezuela",
-    "team_id": 3563,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 117,
-    "passes_completed": 90,
-    "pass_pct": 76.9
-  },
-  {
-    "id": 32677,
-    "name": "Alexander Domínguez Carabalí",
-    "team": "Ecuador",
-    "team_id": 3565,
-    "matches": 4,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 104,
-    "passes_completed": 61,
-    "pass_pct": 58.7
-  },
-  {
     "id": 15481,
-    "name": "Alexander Martín Marquinho Callens Asín",
+    "name": "Alexander Callens",
     "team": "Peru",
     "team_id": 784,
     "matches": 3,
@@ -3094,8 +3038,50 @@
     "pass_pct": 73.4
   },
   {
+    "id": 32677,
+    "name": "Alexander Domínguez",
+    "team": "Ecuador",
+    "team_id": 3565,
+    "matches": 4,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 104,
+    "passes_completed": 61,
+    "pass_pct": 58.7
+  },
+  {
+    "id": 24168,
+    "name": "Alexander González",
+    "team": "Venezuela",
+    "team_id": 3563,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 117,
+    "passes_completed": 90,
+    "pass_pct": 76.9
+  },
+  {
+    "id": 26301,
+    "name": "Alexis Vega",
+    "team": "Mexico",
+    "team_id": 794,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 25,
+    "passes_completed": 16,
+    "pass_pct": 64.0
+  },
+  {
     "id": 5547,
-    "name": "Alisson Ramsés Becker",
+    "name": "Alisson",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -3109,7 +3095,7 @@
   },
   {
     "id": 5738,
-    "name": "Anderson Santamaría Bardales",
+    "name": "Anderson Santamaría",
     "team": "Peru",
     "team_id": 784,
     "matches": 1,
@@ -3122,22 +3108,22 @@
     "pass_pct": 61.5
   },
   {
-    "id": 13435,
-    "name": "Andy Jorman Polo Andrade",
-    "team": "Peru",
-    "team_id": 784,
+    "id": 28657,
+    "name": "Andrés Cubas",
+    "team": "Paraguay",
+    "team_id": 3567,
     "matches": 2,
     "goals": 0,
     "assists": 0,
     "shots": 0,
     "xg": 0.0,
-    "passes": 78,
-    "passes_completed": 60,
-    "pass_pct": 76.9
+    "passes": 92,
+    "passes_completed": 82,
+    "pass_pct": 89.1
   },
   {
     "id": 388549,
-    "name": "Andy Rojas Maroto",
+    "name": "Andy Maroto",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 1,
@@ -3148,6 +3134,20 @@
     "passes": 3,
     "passes_completed": 3,
     "pass_pct": 100.0
+  },
+  {
+    "id": 13435,
+    "name": "Andy Polo",
+    "team": "Peru",
+    "team_id": 784,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 78,
+    "passes_completed": 60,
+    "pass_pct": 76.9
   },
   {
     "id": 132296,
@@ -3179,7 +3179,7 @@
   },
   {
     "id": 108340,
-    "name": "Brandon Aguilera Zamora",
+    "name": "Brandon Aguilera",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -3190,20 +3190,6 @@
     "passes": 66,
     "passes_completed": 53,
     "pass_pct": 80.3
-  },
-  {
-    "id": 111560,
-    "name": "Brayan Roberto Reyna Casaverde",
-    "team": "Peru",
-    "team_id": 784,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 14,
-    "passes_completed": 12,
-    "pass_pct": 85.7
   },
   {
     "id": 24243,
@@ -3218,6 +3204,20 @@
     "passes": 4,
     "passes_completed": 3,
     "pass_pct": 75.0
+  },
+  {
+    "id": 111560,
+    "name": "Bryan Reyna",
+    "team": "Peru",
+    "team_id": 784,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 14,
+    "passes_completed": 12,
+    "pass_pct": 85.7
   },
   {
     "id": 15971,
@@ -3235,7 +3235,7 @@
   },
   {
     "id": 27225,
-    "name": "Camilo Andrés Vargas Gil",
+    "name": "Camilo Vargas",
     "team": "Colombia",
     "team_id": 769,
     "matches": 6,
@@ -3249,7 +3249,7 @@
   },
   {
     "id": 12583,
-    "name": "Carlos Armando Gruezo Arboleda",
+    "name": "Carlos Gruezo",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -3263,7 +3263,7 @@
   },
   {
     "id": 34148,
-    "name": "Carlos Miguel Harvey Cesneros",
+    "name": "Carlos Harvey",
     "team": "Panama",
     "team_id": 798,
     "matches": 2,
@@ -3277,7 +3277,7 @@
   },
   {
     "id": 36147,
-    "name": "Christian Frederick Bayoi Makoun Reyes",
+    "name": "Christian Makoun",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 2,
@@ -3291,7 +3291,7 @@
   },
   {
     "id": 4691,
-    "name": "Claudio Andrés Bravo Muñoz",
+    "name": "Claudio Bravo",
     "team": "Chile",
     "team_id": 3562,
     "matches": 2,
@@ -3305,7 +3305,7 @@
   },
   {
     "id": 36706,
-    "name": "Cristian Gonzalo Olivera Ibarra",
+    "name": "Cristian Olivera",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 4,
@@ -3332,22 +3332,8 @@
     "pass_pct": 88.9
   },
   {
-    "id": 6909,
-    "name": "Damián Emiliano Martínez",
-    "team": "Argentina",
-    "team_id": 779,
-    "matches": 6,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 219,
-    "passes_completed": 180,
-    "pass_pct": 82.2
-  },
-  {
     "id": 36794,
-    "name": "Dayne Tristan St. Clair",
+    "name": "Dayne St. Clair",
     "team": "Canada",
     "team_id": 1833,
     "matches": 1,
@@ -3375,7 +3361,7 @@
   },
   {
     "id": 26543,
-    "name": "Derlis Alberto González Galeano",
+    "name": "Derlis González",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 1,
@@ -3386,20 +3372,6 @@
     "passes": 3,
     "passes_completed": 2,
     "pass_pct": 66.7
-  },
-  {
-    "id": 26369,
-    "name": "Diego Alfonso Valdés Contreras",
-    "team": "Chile",
-    "team_id": 3562,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 19,
-    "passes_completed": 17,
-    "pass_pct": 89.5
   },
   {
     "id": 232736,
@@ -3416,8 +3388,22 @@
     "pass_pct": 87.5
   },
   {
+    "id": 26369,
+    "name": "Diego Valdés",
+    "team": "Chile",
+    "team_id": 3562,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 19,
+    "passes_completed": 17,
+    "pass_pct": 89.5
+  },
+  {
     "id": 6574,
-    "name": "Douglas Luiz Soares de Paulo",
+    "name": "Douglas Luiz",
     "team": "Brazil",
     "team_id": 781,
     "matches": 3,
@@ -3431,7 +3417,7 @@
   },
   {
     "id": 5567,
-    "name": "Edson Omar Álvarez Velázquez",
+    "name": "Edson Álvarez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 1,
@@ -3445,7 +3431,7 @@
   },
   {
     "id": 27317,
-    "name": "Eduardo Jesús Vargas Rojas",
+    "name": "Eduardo Vargas",
     "team": "Chile",
     "team_id": 3562,
     "matches": 3,
@@ -3458,8 +3444,22 @@
     "pass_pct": 75.6
   },
   {
+    "id": 6909,
+    "name": "Emiliano Martínez",
+    "team": "Argentina",
+    "team_id": 779,
+    "matches": 6,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 219,
+    "passes_completed": 180,
+    "pass_pct": 82.2
+  },
+  {
     "id": 7175,
-    "name": "Erick Antonio Pulgar Farfán",
+    "name": "Erick Pulgar",
     "team": "Chile",
     "team_id": 3562,
     "matches": 3,
@@ -3470,20 +3470,6 @@
     "passes": 99,
     "passes_completed": 89,
     "pass_pct": 89.9
-  },
-  {
-    "id": 26301,
-    "name": "Ernesto Alexis Vega Rojas",
-    "team": "Mexico",
-    "team_id": 794,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 25,
-    "passes_completed": 16,
-    "pass_pct": 64.0
   },
   {
     "id": 21201,
@@ -3500,22 +3486,8 @@
     "pass_pct": 10.0
   },
   {
-    "id": 28268,
-    "name": "Exequiel Alejandro Palacios",
-    "team": "Argentina",
-    "team_id": 779,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 70,
-    "passes_completed": 65,
-    "pass_pct": 92.9
-  },
-  {
     "id": 33015,
-    "name": "Francisco Evanilson de Lima Barbosa",
+    "name": "Evanilson",
     "team": "Brazil",
     "team_id": 781,
     "matches": 1,
@@ -3526,6 +3498,20 @@
     "passes": 0,
     "passes_completed": 0,
     "pass_pct": null
+  },
+  {
+    "id": 28268,
+    "name": "Exequiel Palacios",
+    "team": "Argentina",
+    "team_id": 779,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 70,
+    "passes_completed": 65,
+    "pass_pct": 92.9
   },
   {
     "id": 113279,
@@ -3542,22 +3528,22 @@
     "pass_pct": 85.0
   },
   {
-    "id": 36212,
-    "name": "Gabriel Alonso Suazo Urbina",
-    "team": "Chile",
-    "team_id": 3562,
-    "matches": 3,
+    "id": 6406,
+    "name": "Gabriel",
+    "team": "Brazil",
+    "team_id": 781,
+    "matches": 1,
     "goals": 0,
     "assists": 0,
     "shots": 0,
     "xg": 0.0,
-    "passes": 142,
-    "passes_completed": 116,
-    "pass_pct": 81.7
+    "passes": 5,
+    "passes_completed": 4,
+    "pass_pct": 80.0
   },
   {
     "id": 28648,
-    "name": "Gabriel Arias Arroyo",
+    "name": "Gabriel Arias",
     "team": "Chile",
     "team_id": 3562,
     "matches": 1,
@@ -3571,7 +3557,7 @@
   },
   {
     "id": 29976,
-    "name": "Gabriel Teodoro Martinelli Silva",
+    "name": "Gabriel Martinelli",
     "team": "Brazil",
     "team_id": 781,
     "matches": 2,
@@ -3584,18 +3570,18 @@
     "pass_pct": 80.0
   },
   {
-    "id": 6406,
-    "name": "Gabriel dos Santos Magalhães",
-    "team": "Brazil",
-    "team_id": 781,
-    "matches": 1,
+    "id": 36212,
+    "name": "Gabriel Suazo",
+    "team": "Chile",
+    "team_id": 3562,
+    "matches": 3,
     "goals": 0,
     "assists": 0,
     "shots": 0,
     "xg": 0.0,
-    "passes": 5,
-    "passes_completed": 4,
-    "pass_pct": 80.0
+    "passes": 142,
+    "passes_completed": 116,
+    "pass_pct": 81.7
   },
   {
     "id": 193965,
@@ -3613,7 +3599,7 @@
   },
   {
     "id": 28263,
-    "name": "Gonzalo Ariel Montiel",
+    "name": "Gonzalo Montiel",
     "team": "Argentina",
     "team_id": 779,
     "matches": 6,
@@ -3627,7 +3613,7 @@
   },
   {
     "id": 3159,
-    "name": "Gregory Leigh",
+    "name": "Greg Leigh",
     "team": "Jamaica",
     "team_id": 2305,
     "matches": 2,
@@ -3655,7 +3641,7 @@
   },
   {
     "id": 6855,
-    "name": "Guillermo Alfonso Maripán Loaysa",
+    "name": "Guillermo Maripán",
     "team": "Chile",
     "team_id": 3562,
     "matches": 1,
@@ -3669,7 +3655,7 @@
   },
   {
     "id": 5264,
-    "name": "Guillermo Varela Olivera",
+    "name": "Guillermo Varela",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 2,
@@ -3683,7 +3669,7 @@
   },
   {
     "id": 47057,
-    "name": "Guillermo Viscarra Bruckner",
+    "name": "Guillermo Viscarra",
     "team": "Bolivia",
     "team_id": 3564,
     "matches": 3,
@@ -3711,7 +3697,7 @@
   },
   {
     "id": 47186,
-    "name": "Hernesto Ezequiel Caballero Benítez",
+    "name": "Hernesto Caballero",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -3725,7 +3711,7 @@
   },
   {
     "id": 398489,
-    "name": "Héctor Manuel Cuellar Rosales",
+    "name": "Héctor Cuellar",
     "team": "Bolivia",
     "team_id": 3564,
     "matches": 3,
@@ -3739,7 +3725,7 @@
   },
   {
     "id": 5644,
-    "name": "Ismael Díaz De León",
+    "name": "Ismael Díaz",
     "team": "Panama",
     "team_id": 798,
     "matches": 1,
@@ -3753,7 +3739,7 @@
   },
   {
     "id": 33126,
-    "name": "Israel Reyes Romero",
+    "name": "Israel Reyes",
     "team": "Mexico",
     "team_id": 794,
     "matches": 1,
@@ -3767,7 +3753,7 @@
   },
   {
     "id": 47149,
-    "name": "Iván Rodrigo Ramírez Segovia",
+    "name": "Iván Ramírez",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 1,
@@ -3809,7 +3795,7 @@
   },
   {
     "id": 37560,
-    "name": "Janner Hitcler Corozo Alman",
+    "name": "Janner Corozo",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 1,
@@ -3837,7 +3823,7 @@
   },
   {
     "id": 13025,
-    "name": "Jefferson David Savarino Quintero",
+    "name": "Jefferson Savarino",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 3,
@@ -3851,7 +3837,7 @@
   },
   {
     "id": 114004,
-    "name": "Jesús Manuel Sagredo Chávez",
+    "name": "Jesus Sagredo",
     "team": "Bolivia",
     "team_id": 3564,
     "matches": 1,
@@ -3878,22 +3864,8 @@
     "pass_pct": 70.2
   },
   {
-    "id": 18855,
-    "name": "Jhon Janer Lucumí Bonilla",
-    "team": "Colombia",
-    "team_id": 769,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 19,
-    "passes_completed": 19,
-    "pass_pct": 100.0
-  },
-  {
     "id": 30976,
-    "name": "Jhon Jáder Durán Palacio",
+    "name": "Jhon Durán",
     "team": "Colombia",
     "team_id": 769,
     "matches": 1,
@@ -3906,8 +3878,22 @@
     "pass_pct": 57.1
   },
   {
+    "id": 18855,
+    "name": "Jhon Lucumí",
+    "team": "Colombia",
+    "team_id": 769,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 19,
+    "passes_completed": 19,
+    "pass_pct": 100.0
+  },
+  {
     "id": 41342,
-    "name": "Joao Alberto Grimaldo Ubidia",
+    "name": "Joao Grimaldo",
     "team": "Peru",
     "team_id": 784,
     "matches": 1,
@@ -3921,7 +3907,7 @@
   },
   {
     "id": 5581,
-    "name": "Joel Nathaniel Campbell Samuels",
+    "name": "Joel Campbell",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -3932,6 +3918,34 @@
     "passes": 65,
     "passes_completed": 49,
     "pass_pct": 75.4
+  },
+  {
+    "id": 32685,
+    "name": "Joel Latibeaudiere",
+    "team": "Jamaica",
+    "team_id": 2305,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 117,
+    "passes_completed": 103,
+    "pass_pct": 88.0
+  },
+  {
+    "id": 32122,
+    "name": "Johnny",
+    "team": "United States",
+    "team_id": 1839,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 28,
+    "passes_completed": 23,
+    "pass_pct": 82.1
   },
   {
     "id": 110050,
@@ -3949,7 +3963,7 @@
   },
   {
     "id": 26385,
-    "name": "Jordi Cortizo de la Piedra",
+    "name": "Jordi Cortizo",
     "team": "Mexico",
     "team_id": 794,
     "matches": 1,
@@ -3963,7 +3977,7 @@
   },
   {
     "id": 13367,
-    "name": "Joseph Martín Mora Cortéz",
+    "name": "Joseph Mora",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -3977,7 +3991,7 @@
   },
   {
     "id": 64207,
-    "name": "José Andrés Hurtado Cheme",
+    "name": "José Andrés Hurtado",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 1,
@@ -3991,7 +4005,7 @@
   },
   {
     "id": 37700,
-    "name": "José Daniel Rivera Martínez",
+    "name": "José Rivera",
     "team": "Peru",
     "team_id": 784,
     "matches": 1,
@@ -4005,7 +4019,7 @@
   },
   {
     "id": 114003,
-    "name": "José Manuel Sagredo Chávez",
+    "name": "José Sagredo",
     "team": "Bolivia",
     "team_id": 3564,
     "matches": 3,
@@ -4018,36 +4032,8 @@
     "pass_pct": 86.2
   },
   {
-    "id": 32122,
-    "name": "João Lucas de Souza Cardoso",
-    "team": "United States",
-    "team_id": 1839,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 28,
-    "passes_completed": 23,
-    "pass_pct": 82.1
-  },
-  {
-    "id": 32685,
-    "name": "Joël Latibeaudiere",
-    "team": "Jamaica",
-    "team_id": 2305,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 117,
-    "passes_completed": 103,
-    "pass_pct": 88.0
-  },
-  {
     "id": 27163,
-    "name": "Juan Pablo Vargas Campos",
+    "name": "Juan Pablo Vargas",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -4061,7 +4047,7 @@
   },
   {
     "id": 13433,
-    "name": "Julio César Cascante Solórzano",
+    "name": "Julio Cascante",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 1,
@@ -4086,6 +4072,20 @@
     "passes": 105,
     "passes_completed": 92,
     "pass_pct": 87.6
+  },
+  {
+    "id": 12758,
+    "name": "Kaku",
+    "team": "Paraguay",
+    "team_id": 3567,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 36,
+    "passes_completed": 28,
+    "pass_pct": 77.8
   },
   {
     "id": 23828,
@@ -4131,7 +4131,7 @@
   },
   {
     "id": 47131,
-    "name": "Leonel Justiniano Arauz",
+    "name": "Leonel Justiniano",
     "team": "Bolivia",
     "team_id": 3564,
     "matches": 2,
@@ -4173,7 +4173,7 @@
   },
   {
     "id": 28728,
-    "name": "Lucas Martínez Quarta",
+    "name": "Lucas Martínez",
     "team": "Argentina",
     "team_id": 779,
     "matches": 1,
@@ -4187,7 +4187,7 @@
   },
   {
     "id": 24730,
-    "name": "Lucas René Olaza Catrofe",
+    "name": "Lucas Olaza",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 2,
@@ -4201,7 +4201,7 @@
   },
   {
     "id": 28669,
-    "name": "Luis Alfonso Abram Ugarelli",
+    "name": "Luis Abram",
     "team": "Peru",
     "team_id": 784,
     "matches": 1,
@@ -4214,22 +4214,8 @@
     "pass_pct": 66.7
   },
   {
-    "id": 16184,
-    "name": "Luis Fernando Sinisterra Lucumí",
-    "team": "Colombia",
-    "team_id": 769,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 23,
-    "passes_completed": 19,
-    "pass_pct": 82.6
-  },
-  {
     "id": 5521,
-    "name": "Luis Jan Piers Advíncula Castrillón",
+    "name": "Luis Advíncula",
     "team": "Peru",
     "team_id": 784,
     "matches": 1,
@@ -4240,6 +4226,20 @@
     "passes": 14,
     "passes_completed": 8,
     "pass_pct": 57.1
+  },
+  {
+    "id": 16184,
+    "name": "Luis Sinisterra",
+    "team": "Colombia",
+    "team_id": 769,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 23,
+    "passes_completed": 19,
+    "pass_pct": 82.6
   },
   {
     "id": 36251,
@@ -4257,7 +4257,7 @@
   },
   {
     "id": 223769,
-    "name": "Marcelo Sebastián Suárez Justiniano",
+    "name": "Marcelo Suárez",
     "team": "Bolivia",
     "team_id": 3564,
     "matches": 2,
@@ -4285,7 +4285,7 @@
   },
   {
     "id": 18639,
-    "name": "Mathieu Choiniere",
+    "name": "Mathieu Choinière",
     "team": "Canada",
     "team_id": 1833,
     "matches": 2,
@@ -4299,7 +4299,7 @@
   },
   {
     "id": 12352,
-    "name": "Matthew Charles Turner",
+    "name": "Matt Turner",
     "team": "United States",
     "team_id": 1839,
     "matches": 3,
@@ -4327,7 +4327,7 @@
   },
   {
     "id": 18874,
-    "name": "Mauricio Aníbal Isla Isla",
+    "name": "Mauricio Isla",
     "team": "Chile",
     "team_id": 3562,
     "matches": 3,
@@ -4355,7 +4355,7 @@
   },
   {
     "id": 49587,
-    "name": "Nahuel Adolfo Ferraresi Hernández",
+    "name": "Nahuel Ferraresi",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 3,
@@ -4369,7 +4369,7 @@
   },
   {
     "id": 36016,
-    "name": "Nicolás Esteban Fernández Muñoz",
+    "name": "Nicolás Fernández",
     "team": "Chile",
     "team_id": 3562,
     "matches": 1,
@@ -4383,7 +4383,7 @@
   },
   {
     "id": 195989,
-    "name": "Néstor Rafael Giménez Florentín",
+    "name": "Néstor Giménez",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 2,
@@ -4453,7 +4453,7 @@
   },
   {
     "id": 31012,
-    "name": "Paulo César Díaz Huincales",
+    "name": "Paulo Díaz",
     "team": "Chile",
     "team_id": 3562,
     "matches": 2,
@@ -4467,7 +4467,7 @@
   },
   {
     "id": 5528,
-    "name": "Pedro David Gallese Quiróz",
+    "name": "Pedro Gallese",
     "team": "Peru",
     "team_id": 784,
     "matches": 3,
@@ -4481,7 +4481,7 @@
   },
   {
     "id": 32012,
-    "name": "Rafael Enrique Romo Pérez",
+    "name": "Rafael Romo",
     "team": "Venezuela",
     "team_id": 3563,
     "matches": 4,
@@ -4509,7 +4509,7 @@
   },
   {
     "id": 26375,
-    "name": "Roberto Carlos Alvarado Hernández",
+    "name": "Roberto Alvarado",
     "team": "Mexico",
     "team_id": 794,
     "matches": 1,
@@ -4537,7 +4537,7 @@
   },
   {
     "id": 62016,
-    "name": "Rodrigo Mario Morínigo Acosta",
+    "name": "Rodrigo Morínigo",
     "team": "Paraguay",
     "team_id": 3567,
     "matches": 3,
@@ -4551,7 +4551,7 @@
   },
   {
     "id": 36710,
-    "name": "Sergio Rochet Álvarez",
+    "name": "Sergio Rochet",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 6,
@@ -4565,7 +4565,7 @@
   },
   {
     "id": 25078,
-    "name": "Thelonius Bair",
+    "name": "Theo Bair",
     "team": "Canada",
     "team_id": 1833,
     "matches": 1,
@@ -4579,7 +4579,7 @@
   },
   {
     "id": 37057,
-    "name": "Thomas Ignacio Galdames Millán",
+    "name": "Thomas Galdames",
     "team": "Chile",
     "team_id": 3562,
     "matches": 1,
@@ -4635,7 +4635,7 @@
   },
   {
     "id": 8212,
-    "name": "Wendell Nascimento Borges",
+    "name": "Wendell",
     "team": "Brazil",
     "team_id": 781,
     "matches": 2,
@@ -4662,22 +4662,8 @@
     "pass_pct": 81.0
   },
   {
-    "id": 47822,
-    "name": "Wilker José Ángel Romero",
-    "team": "Venezuela",
-    "team_id": 3563,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 40,
-    "passes_completed": 35,
-    "pass_pct": 87.5
-  },
-  {
     "id": 41593,
-    "name": "Willian Joel Pacho Tenorio",
+    "name": "Willian Pacho",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 4,
@@ -4690,8 +4676,22 @@
     "pass_pct": 76.7
   },
   {
+    "id": 47822,
+    "name": "Wílker Ángel",
+    "team": "Venezuela",
+    "team_id": 3563,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 40,
+    "passes_completed": 35,
+    "pass_pct": 87.5
+  },
+  {
     "id": 6196,
-    "name": "Yerry Fernando Mina González",
+    "name": "Yerry Mina",
     "team": "Colombia",
     "team_id": 769,
     "matches": 2,
@@ -4733,7 +4733,7 @@
   },
   {
     "id": 27702,
-    "name": "Éderson José dos Santos Lourenço da Silva",
+    "name": "Éderson",
     "team": "Brazil",
     "team_id": 781,
     "matches": 1,

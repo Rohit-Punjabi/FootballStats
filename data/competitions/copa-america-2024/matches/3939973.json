@@ -2,7 +2,7 @@
   "match_id": 3939973,
   "shots": [
     {
-      "player": "Giorgian Daniel De Arrascaeta Benedetti",
+      "player": "Giorgian De Arrascaeta",
       "team": "Uruguay",
       "minute": 0,
       "x": 98.4,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 4,
       "x": 95.0,
@@ -22,7 +22,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Mathías Olivera Miramontes",
+      "player": "Mathías Olivera",
       "team": "Uruguay",
       "minute": 4,
       "x": 106.5,
@@ -32,7 +32,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 5,
       "x": 101.1,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ronald Federico Araújo da Silva",
+      "player": "Ronald Araújo",
       "team": "Uruguay",
       "minute": 7,
       "x": 109.6,
@@ -52,7 +52,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Adalberto Eliécer Carrasquilla Alcázar",
+      "player": "Adalberto Carrasquilla",
       "team": "Panama",
       "minute": 10,
       "x": 89.1,
@@ -62,7 +62,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Maximiliano Javier Araújo Vilches",
+      "player": "Maximiliano Araújo",
       "team": "Uruguay",
       "minute": 13,
       "x": 108.8,
@@ -72,7 +72,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Maximiliano Javier Araújo Vilches",
+      "player": "Maximiliano Araújo",
       "team": "Uruguay",
       "minute": 15,
       "x": 101.1,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 17,
       "x": 101.2,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Giorgian Daniel De Arrascaeta Benedetti",
+      "player": "Giorgian De Arrascaeta",
       "team": "Uruguay",
       "minute": 18,
       "x": 109.0,
@@ -102,7 +102,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Maximiliano Javier Araújo Vilches",
+      "player": "Maximiliano Araújo",
       "team": "Uruguay",
       "minute": 18,
       "x": 112.7,
@@ -112,7 +112,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Manuel Ugarte Ribeiro",
+      "player": "Manuel Ugarte",
       "team": "Uruguay",
       "minute": 18,
       "x": 103.3,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 28,
       "x": 108.4,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 45,
       "x": 113.9,
@@ -162,7 +162,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 49,
       "x": 88.9,
@@ -182,7 +182,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Roderick Alonso Miller Molina",
+      "player": "Roderick Miller",
       "team": "Panama",
       "minute": 55,
       "x": 113.6,
@@ -192,7 +192,7 @@
       "body_part": "Head"
     },
     {
-      "player": "José Luis Rodríguez Francis",
+      "player": "José Rodríguez",
       "team": "Panama",
       "minute": 56,
       "x": 95.4,
@@ -202,7 +202,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "José Luis Rodríguez Francis",
+      "player": "José Rodríguez",
       "team": "Panama",
       "minute": 58,
       "x": 96.7,
@@ -212,7 +212,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Adalberto Eliécer Carrasquilla Alcázar",
+      "player": "Adalberto Carrasquilla",
       "team": "Panama",
       "minute": 59,
       "x": 97.4,
@@ -222,7 +222,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 65,
       "x": 94.0,
@@ -232,7 +232,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 71,
       "x": 109.7,
@@ -242,7 +242,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Diego Nicolás De La Cruz Arcosa",
+      "player": "Nicolás De La Cruz",
       "team": "Uruguay",
       "minute": 71,
       "x": 98.4,
@@ -252,7 +252,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Michael Amir Murillo Bermudez",
+      "player": "Michael Murillo",
       "team": "Panama",
       "minute": 76,
       "x": 97.4,
@@ -262,7 +262,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Maximiliano Javier Araújo Vilches",
+      "player": "Maximiliano Araújo",
       "team": "Uruguay",
       "minute": 84,
       "x": 110.4,
@@ -272,7 +272,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 84,
       "x": 109.4,
@@ -282,7 +282,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Matías Nicolás Viña Susperreguy",
+      "player": "Matías Viña",
       "team": "Uruguay",
       "minute": 90,
       "x": 107.7,
@@ -292,7 +292,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Michael Amir Murillo Bermudez",
+      "player": "Michael Murillo",
       "team": "Panama",
       "minute": 94,
       "x": 106.6,

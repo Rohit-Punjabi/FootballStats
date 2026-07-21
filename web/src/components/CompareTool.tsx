@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import type { Route } from "next";
 import type { Player } from "@/lib/data";
+import { TeamBadge } from "@/components/TeamBadge";
 
 const METRICS: { key: keyof Player; label: string }[] = [
   { key: "goals", label: "Goals" },
@@ -30,13 +31,23 @@ function Picker({
     <select
       value={value ?? ""}
       onChange={(e) => onChange(e.target.value ? Number(e.target.value) : null)}
-      className="card px-4 py-2.5 w-full bg-transparent outline-none focus:border-primary"
-      style={{ borderRadius: "var(--radius-input)" }}
+      className="card px-4 py-2.5 w-full outline-none focus:border-primary"
+      style={{
+        borderRadius: "var(--radius-input)",
+        backgroundColor: "var(--card)",
+        color: "var(--fg)",
+      }}
     >
-      <option value="">{placeholder}</option>
+      <option value="" style={{ backgroundColor: "var(--card)", color: "var(--fg)" }}>
+        {placeholder}
+      </option>
       {players.map((p) => (
-        <option key={p.id} value={p.id}>
-          {p.name} — {p.team}
+        <option
+          key={p.id}
+          value={p.id}
+          style={{ backgroundColor: "var(--card)", color: "var(--fg)" }}
+        >
+          {p.name} ({p.team})
         </option>
       ))}
     </select>
@@ -60,17 +71,23 @@ export function CompareTool({ players, slug }: { players: Player[]; slug: string
       {a && b ? (
         <div className="card overflow-hidden">
           <div className="grid grid-cols-3 items-center px-6 py-4 border-b border-border">
-            <Link href={`/${slug}/players/${a.id}` as Route} className="font-semibold hover:text-primary">
-              {a.name}
-              <span className="block text-xs text-muted font-normal">{a.team}</span>
+            <Link href={`/${slug}/players/${a.id}` as Route} className="font-semibold hover:text-primary flex items-center gap-2">
+              <TeamBadge team={a.team} size="sm" />
+              <span className="min-w-0">
+                <span className="block truncate">{a.name}</span>
+                <span className="block text-xs text-muted font-normal">{a.team}</span>
+              </span>
             </Link>
             <span className="text-center text-xs uppercase tracking-wide text-muted">vs</span>
             <Link
               href={`/${slug}/players/${b.id}` as Route}
-              className="font-semibold text-right hover:text-primary"
+              className="font-semibold hover:text-primary flex items-center gap-2 justify-end text-right"
             >
-              {b.name}
-              <span className="block text-xs text-muted font-normal">{b.team}</span>
+              <span className="min-w-0">
+                <span className="block truncate">{b.name}</span>
+                <span className="block text-xs text-muted font-normal">{b.team}</span>
+              </span>
+              <TeamBadge team={b.team} size="sm" />
             </Link>
           </div>
 

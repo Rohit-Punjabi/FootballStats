@@ -2,7 +2,7 @@
   "match_id": 3939970,
   "shots": [
     {
-      "player": "Alexis Alejandro Sánchez Sánchez",
+      "player": "Alexis Sánchez",
       "team": "Chile",
       "minute": 15,
       "x": 113.8,
@@ -12,7 +12,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Édison Michael Flores Peralta",
+      "player": "Edison Flores",
       "team": "Peru",
       "minute": 19,
       "x": 100.8,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Víctor Alejandro Dávila Zavala",
+      "player": "Víctor Dávila",
       "team": "Chile",
       "minute": 23,
       "x": 104.4,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Víctor Alejandro Dávila Zavala",
+      "player": "Víctor Dávila",
       "team": "Chile",
       "minute": 24,
       "x": 109.5,
@@ -42,7 +42,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Alexis Alejandro Sánchez Sánchez",
+      "player": "Alexis Sánchez",
       "team": "Chile",
       "minute": 28,
       "x": 105.1,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Miguel Gianpierre Araujo Blanco",
+      "player": "Miguel Araujo",
       "team": "Peru",
       "minute": 42,
       "x": 112.5,
@@ -72,7 +72,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Darío Esteban Osorio Osorio",
+      "player": "Darío Osorio",
       "team": "Chile",
       "minute": 46,
       "x": 100.1,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Víctor Alejandro Dávila Zavala",
+      "player": "Víctor Dávila",
       "team": "Chile",
       "minute": 52,
       "x": 100.6,
@@ -102,7 +102,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Marcelino Ignacio Nuñez Espinoza",
+      "player": "Marcelino Núñez",
       "team": "Chile",
       "minute": 60,
       "x": 94.4,
@@ -112,7 +112,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Sergio Fernando Peña Flores",
+      "player": "Sergio Peña",
       "team": "Peru",
       "minute": 65,
       "x": 81.2,
@@ -142,7 +142,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "José Paolo Guerrero Gonzáles",
+      "player": "Paolo Guerrero",
       "team": "Peru",
       "minute": 78,
       "x": 117.6,
@@ -162,7 +162,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Alexis Alejandro Sánchez Sánchez",
+      "player": "Alexis Sánchez",
       "team": "Chile",
       "minute": 86,
       "x": 115.4,
@@ -172,7 +172,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Igor Lichnovsky Osorio",
+      "player": "Igor Lichnovsky",
       "team": "Chile",
       "minute": 88,
       "x": 111.9,

@@ -22,7 +22,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Víctor Alejandro Dávila Zavala",
+      "player": "Víctor Dávila",
       "team": "Chile",
       "minute": 20,
       "x": 105.3,
@@ -52,7 +52,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Marcelino Ignacio Nuñez Espinoza",
+      "player": "Marcelino Núñez",
       "team": "Chile",
       "minute": 37,
       "x": 93.7,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Rodrigo Eduardo Echeverría Sáez",
+      "player": "Rodrigo Echeverría",
       "team": "Chile",
       "minute": 46,
       "x": 114.4,
@@ -92,7 +92,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Igor Lichnovsky Osorio",
+      "player": "Igor Lichnovsky",
       "team": "Chile",
       "minute": 47,
       "x": 112.3,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Víctor Alejandro Dávila Zavala",
+      "player": "Víctor Dávila",
       "team": "Chile",
       "minute": 54,
       "x": 100.3,
@@ -122,7 +122,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Rodrigo Eduardo Echeverría Sáez",
+      "player": "Rodrigo Echeverría",
       "team": "Chile",
       "minute": 54,
       "x": 107.0,
@@ -142,7 +142,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Alexis Alejandro Sánchez Sánchez",
+      "player": "Alexis Sánchez",
       "team": "Chile",
       "minute": 73,
       "x": 107.1,

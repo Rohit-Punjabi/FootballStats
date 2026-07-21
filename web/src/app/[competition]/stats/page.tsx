@@ -38,7 +38,7 @@ export default async function StatsPage({ params }: PageProps<"/[competition]/st
 
       <div className="mt-10">
         <ButtonLink href={`/${competition}/players` as Parameters<typeof ButtonLink>[0]["href"]}>
-          Open the full player table →
+          See the full player table
         </ButtonLink>
       </div>
     </div>

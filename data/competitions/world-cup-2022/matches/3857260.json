@@ -2,7 +2,7 @@
   "match_id": 3857260,
   "shots": [
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 1,
       "x": 91.7,
@@ -12,7 +12,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Saleh Khalid Al Shehri",
+      "player": "Saleh Al Shehri",
       "team": "Saudi Arabia",
       "minute": 2,
       "x": 92.9,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ernesto Alexis Vega Rojas",
+      "player": "Alexis Vega",
       "team": "Mexico",
       "minute": 2,
       "x": 101.6,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 22,
       "x": 92.7,
@@ -62,7 +62,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Orbelín Pineda Alvarado",
+      "player": "Orbelín Pineda",
       "team": "Mexico",
       "minute": 24,
       "x": 104.0,
@@ -72,7 +72,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Orbelín Pineda Alvarado",
+      "player": "Orbelín Pineda",
       "team": "Mexico",
       "minute": 26,
       "x": 115.8,
@@ -82,7 +82,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 34,
       "x": 89.6,
@@ -92,7 +92,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Jesús Daniel Gallardo Vasconcelos",
+      "player": "Jesús Gallardo",
       "team": "Mexico",
       "minute": 35,
       "x": 106.8,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 40,
       "x": 84.6,
@@ -112,7 +112,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Orbelín Pineda Alvarado",
+      "player": "Orbelín Pineda",
       "team": "Mexico",
       "minute": 40,
       "x": 102.0,
@@ -122,7 +122,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ernesto Alexis Vega Rojas",
+      "player": "Alexis Vega",
       "team": "Mexico",
       "minute": 44,
       "x": 106.1,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 44,
       "x": 92.9,
@@ -142,7 +142,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ali Al Hassan",
+      "player": "Ali Al-Hassan",
       "team": "Saudi Arabia",
       "minute": 50,
       "x": 110.1,
@@ -152,7 +152,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 46,
       "x": 85.5,
@@ -162,7 +162,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Hirving Rodrigo Lozano Bahena",
+      "player": "Hirving Lozano",
       "team": "Mexico",
       "minute": 46,
       "x": 102.7,
@@ -172,7 +172,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Henry Josué Martín Mex",
+      "player": "Henry Martín",
       "team": "Mexico",
       "minute": 46,
       "x": 116.7,
@@ -182,7 +182,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Sultan Abdullah Salim Al Ghannam",
+      "player": "Sultan Al Ghanam",
       "team": "Saudi Arabia",
       "minute": 49,
       "x": 115.8,
@@ -192,7 +192,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 51,
       "x": 86.7,
@@ -202,7 +202,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Sultan Abdullah Salim Al Ghannam",
+      "player": "Sultan Al Ghanam",
       "team": "Saudi Arabia",
       "minute": 54,
       "x": 114.8,
@@ -212,7 +212,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Henry Josué Martín Mex",
+      "player": "Henry Martín",
       "team": "Mexico",
       "minute": 58,
       "x": 112.0,
@@ -232,7 +232,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Hirving Rodrigo Lozano Bahena",
+      "player": "Hirving Lozano",
       "team": "Mexico",
       "minute": 66,
       "x": 97.5,
@@ -242,7 +242,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Firas Tariq Nasser Al Albirakan",
+      "player": "Firas Albirakan",
       "team": "Saudi Arabia",
       "minute": 66,
       "x": 101.4,
@@ -252,7 +252,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Henry Josué Martín Mex",
+      "player": "Henry Martín",
       "team": "Mexico",
       "minute": 69,
       "x": 108.8,
@@ -262,7 +262,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 72,
       "x": 87.3,
@@ -272,7 +272,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Orbelín Pineda Alvarado",
+      "player": "Orbelín Pineda",
       "team": "Mexico",
       "minute": 75,
       "x": 100.5,
@@ -282,7 +282,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Carlos Uriel Antuna Romero",
+      "player": "Uriel Antuna",
       "team": "Mexico",
       "minute": 77,
       "x": 109.4,
@@ -292,7 +292,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Edson Omar Álvarez Velázquez",
+      "player": "Edson Álvarez",
       "team": "Mexico",
       "minute": 77,
       "x": 85.8,
@@ -302,7 +302,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Salem Mohammed Al Dawsari",
+      "player": "Salem Al Dawsari",
       "team": "Saudi Arabia",
       "minute": 80,
       "x": 89.2,
@@ -312,7 +312,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 82,
       "x": 101.0,
@@ -322,7 +322,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Rogelio Gabriel Funes Mori",
+      "player": "Rogelio Funes Mori",
       "team": "Mexico",
       "minute": 88,
       "x": 98.8,
@@ -332,7 +332,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Hirving Rodrigo Lozano Bahena",
+      "player": "Hirving Lozano",
       "team": "Mexico",
       "minute": 91,
       "x": 92.9,
@@ -342,7 +342,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Hirving Rodrigo Lozano Bahena",
+      "player": "Hirving Lozano",
       "team": "Mexico",
       "minute": 93,
       "x": 101.9,
@@ -352,7 +352,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Salem Mohammed Al Dawsari",
+      "player": "Salem Al Dawsari",
       "team": "Saudi Arabia",
       "minute": 94,
       "x": 110.9,

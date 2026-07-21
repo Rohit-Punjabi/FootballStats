@@ -2,7 +2,7 @@
   "match_id": 3869420,
   "shots": [
     {
-      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "player": "Vinícius Júnior",
       "team": "Brazil",
       "minute": 4,
       "x": 98.8,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "player": "Vinícius Júnior",
       "team": "Brazil",
       "minute": 19,
       "x": 103.0,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 20,
       "x": 107.2,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Carlos Henrique Casimiro",
+      "player": "Casemiro",
       "team": "Brazil",
       "minute": 22,
       "x": 96.4,
@@ -72,7 +72,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 41,
       "x": 100.9,
@@ -92,7 +92,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 54,
       "x": 112.6,
@@ -102,7 +102,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Carlos Henrique Casimiro",
+      "player": "Casemiro",
       "team": "Brazil",
       "minute": 65,
       "x": 89.1,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lucas Tolentino Coelho de Lima",
+      "player": "Lucas Paquetá",
       "team": "Brazil",
       "minute": 65,
       "x": 111.6,
@@ -122,7 +122,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Éder Gabriel Militão",
+      "player": "Éder Militão",
       "team": "Brazil",
       "minute": 66,
       "x": 101.4,
@@ -142,7 +142,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 75,
       "x": 114.1,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lucas Tolentino Coelho de Lima",
+      "player": "Lucas Paquetá",
       "team": "Brazil",
       "minute": 79,
       "x": 104.6,
@@ -162,7 +162,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Richarlison de Andrade",
+      "player": "Richarlison",
       "team": "Brazil",
       "minute": 81,
       "x": 109.4,
@@ -182,7 +182,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Éder Gabriel Militão",
+      "player": "Éder Militão",
       "team": "Brazil",
       "minute": 85,
       "x": 102.5,
@@ -192,7 +192,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Éder Gabriel Militão",
+      "player": "Éder Militão",
       "team": "Brazil",
       "minute": 85,
       "x": 104.7,
@@ -202,7 +202,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Antony Matheus dos Santos",
+      "player": "Antony",
       "team": "Brazil",
       "minute": 93,
       "x": 94.6,
@@ -212,7 +212,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Pedro Guilherme Abreu dos Santos",
+      "player": "Pedro",
       "team": "Brazil",
       "minute": 91,
       "x": 112.9,
@@ -222,7 +222,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Pedro Guilherme Abreu dos Santos",
+      "player": "Pedro",
       "team": "Brazil",
       "minute": 100,
       "x": 107.2,
@@ -242,7 +242,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Danilo Luiz da Silva",
+      "player": "Danilo",
       "team": "Brazil",
       "minute": 104,
       "x": 96.9,
@@ -252,7 +252,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 105,
       "x": 116.5,
@@ -282,7 +282,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Carlos Henrique Casimiro",
+      "player": "Casemiro",
       "team": "Brazil",
       "minute": 121,
       "x": 114.0,

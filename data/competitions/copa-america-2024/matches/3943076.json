@@ -2,7 +2,7 @@
   "match_id": 3943076,
   "shots": [
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 7,
       "x": 90.6,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Sebastián Enzo Cáceres Ramos",
+      "player": "Sebastián Cáceres",
       "team": "Uruguay",
       "minute": 7,
       "x": 110.9,
@@ -22,7 +22,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Rodrigo Bentancur Colmán",
+      "player": "Rodrigo Bentancur",
       "team": "Uruguay",
       "minute": 7,
       "x": 113.9,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Maximiliano Javier Araújo Vilches",
+      "player": "Maximiliano Araújo",
       "team": "Uruguay",
       "minute": 17,
       "x": 110.4,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 36,
       "x": 99.0,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Paul Brian Rodríguez Bravo",
+      "player": "Brian Rodríguez",
       "team": "Uruguay",
       "minute": 69,
       "x": 109.3,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Alberto Suárez Díaz",
+      "player": "Luis Suárez",
       "team": "Uruguay",
       "minute": 69,
       "x": 104.7,
@@ -192,7 +192,7 @@
       "body_part": "Head"
     },
     {
-      "player": "José María Giménez de Vargas",
+      "player": "José Giménez",
       "team": "Uruguay",
       "minute": 75,
       "x": 108.2,
@@ -202,7 +202,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 77,
       "x": 102.7,
@@ -232,7 +232,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "José María Giménez de Vargas",
+      "player": "José Giménez",
       "team": "Uruguay",
       "minute": 82,
       "x": 111.0,
@@ -242,7 +242,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Luis Alberto Suárez Díaz",
+      "player": "Luis Suárez",
       "team": "Uruguay",
       "minute": 91,
       "x": 112.1,
@@ -252,7 +252,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Luis Alberto Suárez Díaz",
+      "player": "Luis Suárez",
       "team": "Uruguay",
       "minute": 91,
       "x": 110.0,

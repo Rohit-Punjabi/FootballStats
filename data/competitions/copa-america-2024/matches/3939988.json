@@ -2,7 +2,7 @@
   "match_id": 3939988,
   "shots": [
     {
-      "player": "Orbelín Pineda Alvarado",
+      "player": "Orbelín Pineda",
       "team": "Mexico",
       "minute": 1,
       "x": 96.5,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "César Saúl Huerta Valera",
+      "player": "César Huerta",
       "team": "Mexico",
       "minute": 2,
       "x": 98.2,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Orbelín Pineda Alvarado",
+      "player": "Orbelín Pineda",
       "team": "Mexico",
       "minute": 3,
       "x": 102.0,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Moisés Isaac Caicedo Corozo",
+      "player": "Moisés Caicedo",
       "team": "Ecuador",
       "minute": 6,
       "x": 94.3,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ray Kendry Páez Andrade",
+      "player": "Kendry Páez",
       "team": "Ecuador",
       "minute": 6,
       "x": 92.6,
@@ -52,7 +52,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Julián Andrés Quiñones Quiñones",
+      "player": "Julián Quiñones",
       "team": "Mexico",
       "minute": 15,
       "x": 90.8,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 15,
       "x": 104.5,
@@ -72,7 +72,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ray Kendry Páez Andrade",
+      "player": "Kendry Páez",
       "team": "Ecuador",
       "minute": 18,
       "x": 113.3,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Felix Eduardo Torres Caicedo",
+      "player": "Félix Torres",
       "team": "Ecuador",
       "minute": 19,
       "x": 111.6,
@@ -92,7 +92,7 @@
       "body_part": "Head"
     },
     {
-      "player": "César Saúl Huerta Valera",
+      "player": "César Huerta",
       "team": "Mexico",
       "minute": 20,
       "x": 113.5,
@@ -102,7 +102,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jeremy Leonel Sarmiento Morante",
+      "player": "Jeremy Sarmiento",
       "team": "Ecuador",
       "minute": 24,
       "x": 104.8,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Francisco Romo Barrón",
+      "player": "Luis Romo",
       "team": "Mexico",
       "minute": 30,
       "x": 96.4,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Santiago Tomás Giménez",
+      "player": "Santiago Giménez",
       "team": "Mexico",
       "minute": 34,
       "x": 103.2,
@@ -132,7 +132,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Kevin José Rodríguez Cortez",
+      "player": "Kevin Rodríguez",
       "team": "Ecuador",
       "minute": 40,
       "x": 114.7,
@@ -142,7 +142,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Johan Felipe Vásquez Ibarra",
+      "player": "Johan Vásquez",
       "team": "Mexico",
       "minute": 43,
       "x": 94.9,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Santiago Tomás Giménez",
+      "player": "Santiago Giménez",
       "team": "Mexico",
       "minute": 45,
       "x": 111.3,
@@ -162,7 +162,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Julián Andrés Quiñones Quiñones",
+      "player": "Julián Quiñones",
       "team": "Mexico",
       "minute": 56,
       "x": 115.7,
@@ -172,7 +172,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Santiago Tomás Giménez",
+      "player": "Santiago Giménez",
       "team": "Mexico",
       "minute": 58,
       "x": 117.7,
@@ -182,7 +182,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Johan Felipe Vásquez Ibarra",
+      "player": "Johan Vásquez",
       "team": "Mexico",
       "minute": 64,
       "x": 88.9,
@@ -192,7 +192,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Luis Francisco Romo Barrón",
+      "player": "Luis Romo",
       "team": "Mexico",
       "minute": 64,
       "x": 96.3,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Julián Andrés Quiñones Quiñones",
+      "player": "Julián Quiñones",
       "team": "Mexico",
       "minute": 64,
       "x": 95.3,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Santiago Tomás Giménez",
+      "player": "Santiago Giménez",
       "team": "Mexico",
       "minute": 64,
       "x": 117.8,
@@ -222,7 +222,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 67,
       "x": 101.8,
@@ -232,7 +232,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Johan Felipe Vásquez Ibarra",
+      "player": "Johan Vásquez",
       "team": "Mexico",
       "minute": 70,
       "x": 84.5,
@@ -242,7 +242,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Jorge Eduardo Sánchez Ramos",
+      "player": "Jorge Sánchez",
       "team": "Mexico",
       "minute": 75,
       "x": 99.3,
@@ -252,7 +252,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 79,
       "x": 97.1,
@@ -262,7 +262,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 82,
       "x": 99.0,
@@ -272,7 +272,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Santiago Tomás Giménez",
+      "player": "Santiago Giménez",
       "team": "Mexico",
       "minute": 91,
       "x": 104.4,

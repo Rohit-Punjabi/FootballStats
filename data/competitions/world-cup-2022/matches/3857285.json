@@ -72,7 +72,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Idrissa Gana Gueye",
+      "player": "Idrissa Gueye",
       "team": "Senegal",
       "minute": 28,
       "x": 100.9,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Idrissa Gana Gueye",
+      "player": "Idrissa Gueye",
       "team": "Senegal",
       "minute": 72,
       "x": 103.3,
@@ -172,7 +172,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cheikh Ahmadou Bamba Mbacke Dieng",
+      "player": "Bamba Dieng",
       "team": "Senegal",
       "minute": 74,
       "x": 104.3,
@@ -192,7 +192,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Cody Mathès Gakpo",
+      "player": "Cody Gakpo",
       "team": "Netherlands",
       "minute": 83,
       "x": 112.3,
@@ -222,7 +222,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Cheikh Ahmadou Bamba Mbacke Dieng",
+      "player": "Bamba Dieng",
       "team": "Senegal",
       "minute": 92,
       "x": 112.8,

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getPlayers, getPlayer, competitionSlugs } from "@/lib/data";
 import { MetricCard, Section } from "@/components/ui";
+import { TeamBadge } from "@/components/TeamBadge";
 
 export function generateStaticParams() {
   return competitionSlugs().flatMap((competition) =>
@@ -17,7 +18,7 @@ export default async function PlayerPage({ params }: PageProps<"/[competition]/p
   return (
     <div>
       <Link href={`/${competition}/players`} className="text-sm text-primary hover:underline">
-        ← All players
+        Back to all players
       </Link>
 
       {/* Hero */}
@@ -27,7 +28,8 @@ export default async function PlayerPage({ params }: PageProps<"/[competition]/p
         </div>
         <div>
           <h1 className="text-[32px] leading-tight font-bold tracking-tight">{player.name}</h1>
-          <p className="text-muted">
+          <p className="text-muted flex items-center gap-2 mt-0.5">
+            <TeamBadge team={player.team} size="sm" />
             {player.team_id ? (
               <Link href={`/${competition}/teams/${player.team_id}`} className="hover:text-primary">
                 {player.team}
@@ -42,33 +44,39 @@ export default async function PlayerPage({ params }: PageProps<"/[competition]/p
 
       {/* Key stats — the story at a glance */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
-        <MetricCard value={player.goals} label="Goals" />
-        <MetricCard value={player.assists} label="Assists" accent="secondary" />
-        <MetricCard value={player.xg.toFixed(2)} label="Expected Goals" accent="muted" />
+        <MetricCard value={player.goals} label="Goals" icon="⚽" />
+        <MetricCard value={player.assists} label="Assists" accent="secondary" icon="🅰️" />
+        <MetricCard value={player.xg.toFixed(2)} label="Expected Goals" accent="muted" icon="📊" />
         <MetricCard
-          value={(player.goals - player.xg).toFixed(2)}
-          label="Goals − xG"
+          value={Math.abs(player.goals - player.xg).toFixed(2)}
+          label="Finishing"
           accent="muted"
-          sub="finishing vs. chance quality"
+          icon="🔥"
+          sub={
+            player.goals - player.xg >= 0
+              ? "goals above expected"
+              : "goals below expected"
+          }
         />
       </div>
 
       {/* Secondary stats */}
       <Section title="Passing & shooting">
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
-          <MetricCard value={player.shots} label="Shots" accent="muted" />
-          <MetricCard value={player.passes} label="Passes" accent="muted" />
-          <MetricCard value={player.passes_completed} label="Completed" accent="muted" />
+          <MetricCard value={player.shots} label="Shots" accent="muted" icon="👟" />
+          <MetricCard value={player.passes} label="Passes" accent="muted" icon="🔁" />
+          <MetricCard value={player.passes_completed} label="Completed" accent="muted" icon="✅" />
           <MetricCard
-            value={player.pass_pct != null ? `${player.pass_pct}%` : "—"}
+            value={player.pass_pct != null ? `${player.pass_pct}%` : "n/a"}
             label="Pass Accuracy"
             accent="muted"
+            icon="🎯"
           />
         </div>
         <p className="text-sm text-muted mt-4">
-          <span className="font-medium text-fg">Goals − xG</span> shows finishing vs. chance
-          quality: positive means the player scored more than an average finisher would from the
-          same chances.
+          <span className="font-medium text-fg">Finishing</span> compares goals with expected
+          goals (xG). When it&apos;s above expected, the player scored more than an average
+          finisher would have from the same chances.
         </p>
       </Section>
     </div>

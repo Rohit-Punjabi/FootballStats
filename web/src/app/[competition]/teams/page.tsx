@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTeams, getCompetition, competitionSlugs } from "@/lib/data";
 import { PageHeader } from "@/components/ui";
+import { TeamBadge } from "@/components/TeamBadge";
 
 export function generateStaticParams() {
   return competitionSlugs().map((competition) => ({ competition }));
@@ -20,9 +21,10 @@ export default async function TeamsPage({ params }: PageProps<"/[competition]/te
           <Link
             key={t.id}
             href={`/${competition}/teams/${t.id}`}
-            className="card card-hover px-5 py-4 font-medium"
+            className="card card-hover px-5 py-4 font-medium flex items-center gap-3"
           >
-            {t.name}
+            <TeamBadge team={t.name} size="md" />
+            <span className="truncate">{t.name}</span>
           </Link>
         ))}
       </div>

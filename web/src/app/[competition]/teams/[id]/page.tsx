@@ -8,6 +8,7 @@ import {
   competitionSlugs,
 } from "@/lib/data";
 import { MetricCard, Section } from "@/components/ui";
+import { TeamBadge } from "@/components/TeamBadge";
 
 export function generateStaticParams() {
   return competitionSlugs().flatMap((competition) =>
@@ -28,16 +29,21 @@ export default async function TeamPage({ params }: PageProps<"/[competition]/tea
   return (
     <div>
       <Link href={`/${competition}/teams`} className="text-sm text-primary hover:underline">
-        ← All teams
+        Back to all teams
       </Link>
-      <h1 className="text-[32px] leading-tight font-bold tracking-tight mt-4">{team.name}</h1>
-      <p className="text-muted mt-1">{matches.length} matches at the tournament</p>
+      <div className="flex items-center gap-4 mt-4">
+        <TeamBadge team={team.name} size="lg" />
+        <div>
+          <h1 className="text-[32px] leading-tight font-bold tracking-tight">{team.name}</h1>
+          <p className="text-muted">{matches.length} matches at the tournament</p>
+        </div>
+      </div>
 
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
-        <MetricCard value={goals} label="Goals" />
-        <MetricCard value={xg.toFixed(1)} label="Expected Goals" accent="secondary" />
-        <MetricCard value={players.length} label="Players Used" accent="muted" />
-        <MetricCard value={matches.length} label="Matches" accent="muted" />
+        <MetricCard value={goals} label="Goals" icon="⚽" />
+        <MetricCard value={xg.toFixed(1)} label="Expected Goals" accent="secondary" icon="📊" />
+        <MetricCard value={players.length} label="Players Used" accent="muted" icon="👥" />
+        <MetricCard value={matches.length} label="Matches" accent="muted" icon="📅" />
       </div>
 
       <Section title="Results">
@@ -46,13 +52,19 @@ export default async function TeamPage({ params }: PageProps<"/[competition]/tea
             <Link
               key={m.id}
               href={`/${competition}/matches/${m.id}`}
-              className="card card-hover px-5 py-3 flex items-center gap-3 text-sm"
+              className="card card-hover px-5 py-3 flex items-center gap-2 text-sm"
             >
-              <span className="flex-1 text-right truncate">{m.home_team}</span>
-              <span className="stat-num font-bold">
-                {m.home_score}-{m.away_score}
+              <span className="flex-1 flex items-center justify-end gap-2 min-w-0">
+                <span className="truncate">{m.home_team}</span>
+                <TeamBadge team={m.home_team} size="sm" />
               </span>
-              <span className="flex-1 truncate">{m.away_team}</span>
+              <span className="stat-num font-bold">
+                {m.home_score}&nbsp;·&nbsp;{m.away_score}
+              </span>
+              <span className="flex-1 flex items-center gap-2 min-w-0">
+                <TeamBadge team={m.away_team} size="sm" />
+                <span className="truncate">{m.away_team}</span>
+              </span>
             </Link>
           ))}
         </div>
@@ -85,7 +97,7 @@ export default async function TeamPage({ params }: PageProps<"/[competition]/tea
                   <td className="px-4 py-2.5 text-right stat-num">{p.assists}</td>
                   <td className="px-4 py-2.5 text-right stat-num">{p.xg.toFixed(1)}</td>
                   <td className="px-4 py-2.5 text-right stat-num">
-                    {p.pass_pct != null ? `${p.pass_pct}%` : "—"}
+                    {p.pass_pct != null ? `${p.pass_pct}%` : "n/a"}
                   </td>
                 </tr>
               ))}

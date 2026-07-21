@@ -2,7 +2,7 @@
   "match_id": 3857258,
   "shots": [
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 12,
       "x": 119.2,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 20,
       "x": 91.6,
@@ -22,7 +22,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Carlos Henrique Casimiro",
+      "player": "Casemiro",
       "team": "Brazil",
       "minute": 20,
       "x": 84.3,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Raphael Dias Belloli",
+      "player": "Raphinha",
       "team": "Brazil",
       "minute": 34,
       "x": 105.3,
@@ -52,7 +52,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "player": "Vinícius Júnior",
       "team": "Brazil",
       "minute": 40,
       "x": 113.2,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Raphael Dias Belloli",
+      "player": "Raphinha",
       "team": "Brazil",
       "minute": 45,
       "x": 105.9,
@@ -72,7 +72,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 49,
       "x": 99.1,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Thiago Emiliano da Silva",
+      "player": "Thiago Silva",
       "team": "Brazil",
       "minute": 50,
       "x": 113.1,
@@ -92,7 +92,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Richarlison de Andrade",
+      "player": "Richarlison",
       "team": "Brazil",
       "minute": 50,
       "x": 115.8,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Danilo Luiz da Silva",
+      "player": "Danilo",
       "team": "Brazil",
       "minute": 53,
       "x": 95.9,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Neymar da Silva Santos Junior",
+      "player": "Neymar",
       "team": "Brazil",
       "minute": 54,
       "x": 107.5,
@@ -122,7 +122,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Alex Sandro Lobo Silva",
+      "player": "Alex Sandro",
       "team": "Brazil",
       "minute": 59,
       "x": 88.0,
@@ -132,7 +132,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "player": "Vinícius Júnior",
       "team": "Brazil",
       "minute": 59,
       "x": 105.0,
@@ -142,7 +142,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "player": "Vinícius Júnior",
       "team": "Brazil",
       "minute": 61,
       "x": 110.0,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Richarlison de Andrade",
+      "player": "Richarlison",
       "team": "Brazil",
       "minute": 61,
       "x": 114.5,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "player": "Vinícius Júnior",
       "team": "Brazil",
       "minute": 66,
       "x": 109.1,
@@ -192,7 +192,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Richarlison de Andrade",
+      "player": "Richarlison",
       "team": "Brazil",
       "minute": 72,
       "x": 107.1,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Carlos Henrique Casimiro",
+      "player": "Casemiro",
       "team": "Brazil",
       "minute": 76,
       "x": 86.3,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Carlos Henrique Casimiro",
+      "player": "Casemiro",
       "team": "Brazil",
       "minute": 80,
       "x": 98.1,
@@ -222,7 +222,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rodrygo Silva de Goes",
+      "player": "Rodrygo",
       "team": "Brazil",
       "minute": 81,
       "x": 98.8,
@@ -232,7 +232,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Frederico Rodrigues Santos",
+      "player": "Fred",
       "team": "Brazil",
       "minute": 82,
       "x": 95.6,
@@ -252,7 +252,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rodrygo Silva de Goes",
+      "player": "Rodrygo",
       "team": "Brazil",
       "minute": 86,
       "x": 101.5,
@@ -262,7 +262,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Antony Matheus dos Santos",
+      "player": "Antony",
       "team": "Brazil",
       "minute": 87,
       "x": 99.4,

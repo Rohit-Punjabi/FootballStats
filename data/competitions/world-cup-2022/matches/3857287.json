@@ -2,7 +2,7 @@
   "match_id": 3857287,
   "shots": [
     {
-      "player": "Matías Vecino Falero",
+      "player": "Matías Vecino",
       "team": "Uruguay",
       "minute": 12,
       "x": 109.5,
@@ -12,7 +12,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 18,
       "x": 103.9,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ui-Jo Hwang",
+      "player": "Hwang Ui-jo",
       "team": "South Korea",
       "minute": 33,
       "x": 108.9,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "In-Beom Hwang",
+      "player": "Hwang In-Beom",
       "team": "South Korea",
       "minute": 38,
       "x": 89.7,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Diego Roberto Godín Leal",
+      "player": "Diego Godín",
       "team": "Uruguay",
       "minute": 42,
       "x": 110.0,
@@ -52,7 +52,7 @@
       "body_part": "Head"
     },
     {
-      "player": "José María Giménez de Vargas",
+      "player": "José Giménez",
       "team": "Uruguay",
       "minute": 45,
       "x": 103.5,
@@ -72,7 +72,7 @@
       "body_part": "Other"
     },
     {
-      "player": "Rodrigo Bentancur Colmán",
+      "player": "Rodrigo Bentancur",
       "team": "Uruguay",
       "minute": 54,
       "x": 101.3,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 68,
       "x": 90.5,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Edinson Roberto Cavani Gómez",
+      "player": "Edinson Cavani",
       "team": "Uruguay",
       "minute": 68,
       "x": 106.6,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kang-In Lee",
+      "player": "Lee Kang-In",
       "team": "South Korea",
       "minute": 74,
       "x": 94.5,
@@ -112,7 +112,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Gue-Sung Cho",
+      "player": "Cho Kyu-Sung",
       "team": "South Korea",
       "minute": 76,
       "x": 93.4,
@@ -122,7 +122,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 80,
       "x": 100.6,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Edinson Roberto Cavani Gómez",
+      "player": "Edinson Cavani",
       "team": "Uruguay",
       "minute": 86,
       "x": 110.5,
@@ -142,7 +142,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 88,
       "x": 95.7,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Heung-Min Son",
+      "player": "Son Heung-Min",
       "team": "South Korea",
       "minute": 89,
       "x": 93.8,
@@ -162,7 +162,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "In-Beom Hwang",
+      "player": "Hwang In-Beom",
       "team": "South Korea",
       "minute": 93,
       "x": 94.9,

@@ -2,7 +2,7 @@
   "match_id": 3857291,
   "shots": [
     {
-      "player": "Daniel Olmo Carvajal",
+      "player": "Daniel Olmo",
       "team": "Spain",
       "minute": 4,
       "x": 112.4,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Daniel Olmo Carvajal",
+      "player": "Daniel Olmo",
       "team": "Spain",
       "minute": 10,
       "x": 112.3,
@@ -42,7 +42,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ferrán Torres García",
+      "player": "Ferrán Torres",
       "team": "Spain",
       "minute": 30,
       "x": 108.1,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ferrán Torres García",
+      "player": "Ferrán Torres",
       "team": "Spain",
       "minute": 53,
       "x": 114.7,
@@ -92,7 +92,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Daniel Olmo Carvajal",
+      "player": "Daniel Olmo",
       "team": "Spain",
       "minute": 61,
       "x": 92.0,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Álvaro Borja Morata Martín",
+      "player": "Álvaro Morata",
       "team": "Spain",
       "minute": 62,
       "x": 112.0,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Daniel Olmo Carvajal",
+      "player": "Daniel Olmo",
       "team": "Spain",
       "minute": 69,
       "x": 110.3,
@@ -122,7 +122,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Pablo Martín Páez Gavira",
+      "player": "Gavi",
       "team": "Spain",
       "minute": 73,
       "x": 103.0,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Carlos Soler Barragán",
+      "player": "Carlos Soler",
       "team": "Spain",
       "minute": 89,
       "x": 109.7,
@@ -142,7 +142,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Álvaro Borja Morata Martín",
+      "player": "Álvaro Morata",
       "team": "Spain",
       "minute": 91,
       "x": 104.0,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Carlos Soler Barragán",
+      "player": "Carlos Soler",
       "team": "Spain",
       "minute": 95,
       "x": 102.5,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Carlos Soler Barragán",
+      "player": "Carlos Soler",
       "team": "Spain",
       "minute": 97,
       "x": 103.5,

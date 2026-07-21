@@ -2,7 +2,7 @@
   "match_id": 3857262,
   "shots": [
     {
-      "player": "Ricardo Jorge Luz Horta",
+      "player": "Ricardo Horta",
       "team": "Portugal",
       "minute": 4,
       "x": 113.6,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "João Pedro Cavaco Cancelo",
+      "player": "João Cancelo",
       "team": "Portugal",
       "minute": 14,
       "x": 117.5,
@@ -22,7 +22,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Heung-Min Son",
+      "player": "Son Heung-Min",
       "team": "South Korea",
       "minute": 15,
       "x": 108.5,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Gue-Sung Cho",
+      "player": "Cho Kyu-Sung",
       "team": "South Korea",
       "minute": 16,
       "x": 111.1,
@@ -42,7 +42,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Young-Gwon Kim",
+      "player": "Kim Young-Gwon",
       "team": "South Korea",
       "minute": 26,
       "x": 116.7,
@@ -52,7 +52,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "In-Beom Hwang",
+      "player": "Hwang In-Beom",
       "team": "South Korea",
       "minute": 30,
       "x": 98.2,
@@ -62,7 +62,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "José Diogo Dalot Teixeira",
+      "player": "Diogo Dalot",
       "team": "Portugal",
       "minute": 33,
       "x": 92.8,
@@ -72,7 +72,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Vitor Machado Ferreira",
+      "player": "Vitinha",
       "team": "Portugal",
       "minute": 34,
       "x": 91.6,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 36,
       "x": 110.6,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Heung-Min Son",
+      "player": "Son Heung-Min",
       "team": "South Korea",
       "minute": 39,
       "x": 94.6,
@@ -102,7 +102,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Matheus Luiz Nunes",
+      "player": "Matheus Nunes",
       "team": "Portugal",
       "minute": 40,
       "x": 92.6,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Vitor Machado Ferreira",
+      "player": "Vitinha",
       "team": "Portugal",
       "minute": 41,
       "x": 97.8,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 41,
       "x": 112.7,
@@ -132,7 +132,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Ricardo Jorge Luz Horta",
+      "player": "Ricardo Horta",
       "team": "Portugal",
       "minute": 43,
       "x": 104.3,
@@ -142,7 +142,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Ricardo Jorge Luz Horta",
+      "player": "Ricardo Horta",
       "team": "Portugal",
       "minute": 46,
       "x": 101.8,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Heung-Min Son",
+      "player": "Son Heung-Min",
       "team": "South Korea",
       "minute": 55,
       "x": 104.5,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jae-Sung Lee",
+      "player": "Lee Jae-Sung",
       "team": "South Korea",
       "minute": 56,
       "x": 97.9,
@@ -172,7 +172,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Heung-Min Son",
+      "player": "Son Heung-Min",
       "team": "South Korea",
       "minute": 65,
       "x": 98.1,
@@ -182,7 +182,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "In-Beom Hwang",
+      "player": "Hwang In-Beom",
       "team": "South Korea",
       "minute": 66,
       "x": 98.4,
@@ -192,7 +192,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Heung-Min Son",
+      "player": "Son Heung-Min",
       "team": "South Korea",
       "minute": 69,
       "x": 111.1,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rafael Alexandre Conceição Leão",
+      "player": "Rafael Leão",
       "team": "Portugal",
       "minute": 71,
       "x": 94.1,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kang-In Lee",
+      "player": "Lee Kang-In",
       "team": "South Korea",
       "minute": 73,
       "x": 88.0,
@@ -222,7 +222,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "João Maria Lobo Alves Palhinha Gonçalves",
+      "player": "João Palhinha",
       "team": "Portugal",
       "minute": 80,
       "x": 88.8,
@@ -232,7 +232,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "João Pedro Cavaco Cancelo",
+      "player": "João Cancelo",
       "team": "Portugal",
       "minute": 89,
       "x": 112.1,
@@ -242,7 +242,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Hee-Chan Hwang",
+      "player": "Hwang Hee-Chan",
       "team": "South Korea",
       "minute": 90,
       "x": 108.3,

@@ -14,7 +14,10 @@ export default async function PlayersPage({ params }: PageProps<"/[competition]/
 
   return (
     <div>
-      <PageHeader title="Players" subtitle={`${players.length} players — search, sort, page through`} />
+      <PageHeader
+        title="Players"
+        subtitle={`${players.length} players. Search, sort, and page through them all.`}
+      />
       <PlayerTable players={players} slug={competition} />
     </div>
   );

@@ -46,11 +46,13 @@ export function MetricCard({
   value,
   label,
   sub,
+  icon,
   accent = "primary",
 }: {
   value: React.ReactNode;
   label: string;
   sub?: string;
+  icon?: string;
   accent?: "primary" | "secondary" | "accent" | "muted";
 }) {
   const color = {
@@ -60,7 +62,12 @@ export function MetricCard({
     muted: "text-fg",
   }[accent];
   return (
-    <div className="card p-6">
+    <div className="card p-6 relative overflow-hidden">
+      {icon && (
+        <span aria-hidden className="absolute top-4 right-4 text-2xl opacity-90">
+          {icon}
+        </span>
+      )}
       <div className={`text-[34px] leading-none font-bold stat-num ${color}`}>{value}</div>
       <div className="text-[13px] font-medium uppercase tracking-wide text-muted mt-2">{label}</div>
       {sub && <div className="text-sm text-muted mt-1">{sub}</div>}
@@ -99,21 +106,26 @@ export function Leaderboard({
         {title}
       </h3>
       <ol>
-        {rows.map((r, i) => (
-          <li key={r.id} className="border-b border-border last:border-0">
-            <Link
-              href={r.href}
-              className="flex items-center gap-3 px-5 py-2.5 hover:bg-bg transition-colors"
-            >
-              <span className="w-5 text-faint stat-num text-sm">{i + 1}</span>
-              <span className="flex-1 truncate">
-                {r.name}
-                {r.sub && <span className="text-muted text-sm ml-2">{r.sub}</span>}
-              </span>
-              <span className="stat-num font-semibold">{r.value}</span>
-            </Link>
-          </li>
-        ))}
+        {rows.map((r, i) => {
+          const medal = ["🥇", "🥈", "🥉"][i];
+          return (
+            <li key={r.id} className="border-b border-border last:border-0">
+              <Link
+                href={r.href}
+                className="flex items-center gap-3 px-5 py-2.5 hover:bg-bg transition-colors"
+              >
+                <span className="w-5 text-center text-sm">
+                  {medal ?? <span className="text-faint stat-num">{i + 1}</span>}
+                </span>
+                <span className="flex-1 truncate">
+                  {r.name}
+                  {r.sub && <span className="text-muted text-sm ml-2">{r.sub}</span>}
+                </span>
+                <span className="stat-num font-semibold">{r.value}</span>
+              </Link>
+            </li>
+          );
+        })}
       </ol>
     </div>
   );

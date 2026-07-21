@@ -2,7 +2,7 @@
   "match_id": 3942852,
   "shots": [
     {
-      "player": "Jhon Adolfo Arias Andrade",
+      "player": "Jhon Arias",
       "team": "Colombia",
       "minute": 5,
       "x": 97.9,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Daniel Muñoz Mejía",
+      "player": "Daniel Muñoz",
       "team": "Colombia",
       "minute": 14,
       "x": 109.4,
@@ -22,7 +22,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jefferson Andrés Lerma Solís",
+      "player": "Jefferson Lerma",
       "team": "Colombia",
       "minute": 15,
       "x": 85.8,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 16,
       "x": 103.5,
@@ -42,7 +42,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 21,
       "x": 108.0,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 24,
       "x": 115.3,
@@ -62,7 +62,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 27,
       "x": 99.4,
@@ -72,7 +72,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jhon Andrés Córdoba Copete",
+      "player": "Jhon Córdoba",
       "team": "Colombia",
       "minute": 32,
       "x": 108.7,
@@ -82,7 +82,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jefferson Andrés Lerma Solís",
+      "player": "Jefferson Lerma",
       "team": "Colombia",
       "minute": 38,
       "x": 115.2,
@@ -92,7 +92,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Richard Rios Montoya",
+      "player": "Richard",
       "team": "Colombia",
       "minute": 43,
       "x": 104.9,
@@ -102,7 +102,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Luis Fernando Díaz Marulanda",
+      "player": "Luis Díaz",
       "team": "Colombia",
       "minute": 49,
       "x": 105.6,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jhon Andrés Córdoba Copete",
+      "player": "Jhon Córdoba",
       "team": "Colombia",
       "minute": 50,
       "x": 112.9,
@@ -122,7 +122,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Diego Nicolás De La Cruz Arcosa",
+      "player": "Nicolás De La Cruz",
       "team": "Uruguay",
       "minute": 67,
       "x": 97.3,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Alberto Suárez Díaz",
+      "player": "Luis Suárez",
       "team": "Uruguay",
       "minute": 70,
       "x": 104.3,
@@ -142,7 +142,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 74,
       "x": 99.2,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Manuel Ugarte Ribeiro",
+      "player": "Manuel Ugarte",
       "team": "Uruguay",
       "minute": 84,
       "x": 92.8,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "José María Giménez de Vargas",
+      "player": "José Giménez",
       "team": "Uruguay",
       "minute": 84,
       "x": 111.7,
@@ -172,7 +172,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Andrés Mateus Uribe Villa",
+      "player": "Mateus Uribe",
       "team": "Colombia",
       "minute": 87,
       "x": 106.0,
@@ -182,7 +182,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Maximiliano Javier Araújo Vilches",
+      "player": "Maximiliano Araújo",
       "team": "Uruguay",
       "minute": 88,
       "x": 96.4,
@@ -192,7 +192,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Andrés Mateus Uribe Villa",
+      "player": "Mateus Uribe",
       "team": "Colombia",
       "minute": 93,
       "x": 105.4,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "José María Giménez de Vargas",
+      "player": "José Giménez",
       "team": "Uruguay",
       "minute": 94,
       "x": 106.9,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jefferson Andrés Lerma Solís",
+      "player": "Jefferson Lerma",
       "team": "Colombia",
       "minute": 97,
       "x": 58.9,

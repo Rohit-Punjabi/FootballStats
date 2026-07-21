@@ -20,9 +20,10 @@ export default async function StadiumsPage({ params }: PageProps<"/[competition]
           <Link
             key={s.name}
             href={`/${competition}/stadiums/${stadiumSlug(s.name)}`}
-            className="card card-hover px-5 py-4 flex items-center justify-between"
+            className="card card-hover px-5 py-4 flex items-center gap-3"
           >
-            <span className="font-medium">{s.name}</span>
+            <span aria-hidden className="text-2xl">🏟️</span>
+            <span className="font-medium flex-1 truncate">{s.name}</span>
             <span className="text-muted text-sm stat-num">{s.match_count} matches</span>
           </Link>
         ))}

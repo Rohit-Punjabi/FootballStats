@@ -2,7 +2,7 @@
   "match_id": 3857289,
   "shots": [
     {
-      "player": "César Jasib Montes Castro",
+      "player": "César Montes",
       "team": "Mexico",
       "minute": 9,
       "x": 107.6,
@@ -12,7 +12,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 39,
       "x": 112.7,
@@ -22,7 +22,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Ernesto Alexis Vega Rojas",
+      "player": "Alexis Vega",
       "team": "Mexico",
       "minute": 44,
       "x": 92.4,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ernesto Alexis Vega Rojas",
+      "player": "Alexis Vega",
       "team": "Mexico",
       "minute": 49,
       "x": 92.8,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Hirving Rodrigo Lozano Bahena",
+      "player": "Hirving Lozano",
       "team": "Mexico",
       "minute": 47,
       "x": 93.5,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 50,
       "x": 94.8,
@@ -62,7 +62,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 63,
       "x": 94.9,
@@ -72,7 +72,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Nahuel Molina Lucero",
+      "player": "Nahuel Molina",
       "team": "Argentina",
       "minute": 69,
       "x": 101.5,

@@ -2,7 +2,7 @@
   "match_id": 3942416,
   "shots": [
     {
-      "player": "Jhon Andrés Córdoba Copete",
+      "player": "Jhon Córdoba",
       "team": "Colombia",
       "minute": 7,
       "x": 113.9,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "James David Rodríguez Rubio",
+      "player": "James Rodríguez",
       "team": "Colombia",
       "minute": 14,
       "x": 108.1,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Cristian Jesús Martínez",
+      "player": "Christian Martínez",
       "team": "Panama",
       "minute": 17,
       "x": 104.1,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Roderick Alonso Miller Molina",
+      "player": "Roderick Miller",
       "team": "Panama",
       "minute": 17,
       "x": 112.9,
@@ -52,7 +52,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Roderick Alonso Miller Molina",
+      "player": "Roderick Miller",
       "team": "Panama",
       "minute": 18,
       "x": 111.0,
@@ -62,7 +62,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jhon Adolfo Arias Andrade",
+      "player": "Jhon Arias",
       "team": "Colombia",
       "minute": 27,
       "x": 107.7,
@@ -72,7 +72,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Jovani Francisco Welch Lopez",
+      "player": "Jovani Welch",
       "team": "Panama",
       "minute": 33,
       "x": 83.4,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "César Rodolfo Blackman Camarena",
+      "player": "César Blackman",
       "team": "Panama",
       "minute": 35,
       "x": 96.7,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Edgar Yoel Bárcenas Herrera",
+      "player": "Édgar Yoel Bárcenas",
       "team": "Panama",
       "minute": 36,
       "x": 92.8,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Fernando Díaz Marulanda",
+      "player": "Luis Díaz",
       "team": "Colombia",
       "minute": 40,
       "x": 97.2,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Richard Rios Montoya",
+      "player": "Richard",
       "team": "Colombia",
       "minute": 65,
       "x": 95.4,
@@ -142,7 +142,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Richard Rios Montoya",
+      "player": "Richard",
       "team": "Colombia",
       "minute": 69,
       "x": 92.1,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Erick Javier Davis Grajales",
+      "player": "Erick Davis",
       "team": "Panama",
       "minute": 75,
       "x": 91.4,
@@ -162,7 +162,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Abdiel Armando Ayarza Cocanegra",
+      "player": "Abdiel Ayarza",
       "team": "Panama",
       "minute": 79,
       "x": 107.4,
@@ -172,7 +172,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Michael Amir Murillo Bermudez",
+      "player": "Michael Murillo",
       "team": "Panama",
       "minute": 79,
       "x": 96.1,
@@ -182,7 +182,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jovani Francisco Welch Lopez",
+      "player": "Jovani Welch",
       "team": "Panama",
       "minute": 79,
       "x": 98.0,
@@ -192,7 +192,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Abdiel Armando Ayarza Cocanegra",
+      "player": "Abdiel Ayarza",
       "team": "Panama",
       "minute": 83,
       "x": 101.6,
@@ -202,7 +202,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Miguel Ángel Borja Hernández",
+      "player": "Miguel Borja",
       "team": "Colombia",
       "minute": 93,
       "x": 108.0,

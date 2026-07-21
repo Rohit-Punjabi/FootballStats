@@ -2,7 +2,7 @@
   "match_id": 3869685,
   "shots": [
     {
-      "player": "Alexis Mac Allister",
+      "player": "Alexis MacAllister",
       "team": "Argentina",
       "minute": 4,
       "x": 92.4,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 7,
       "x": 99.2,
@@ -22,7 +22,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ángel Fabián Di María Hernández",
+      "player": "Ángel Di María",
       "team": "Argentina",
       "minute": 16,
       "x": 103.1,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 22,
       "x": 108.0,
@@ -42,7 +42,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Alexis Mac Allister",
+      "player": "Alexis MacAllister",
       "team": "Argentina",
       "minute": 31,
       "x": 94.3,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ángel Fabián Di María Hernández",
+      "player": "Ángel Di María",
       "team": "Argentina",
       "minute": 35,
       "x": 111.8,
@@ -62,7 +62,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 48,
       "x": 103.3,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 59,
       "x": 109.7,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Randal Kolo Muani",
+      "player": "Randal Kolo",
       "team": "France",
       "minute": 67,
       "x": 113.4,
@@ -102,7 +102,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Kylian Mbappé Lottin",
+      "player": "Kylian Mbappé",
       "team": "France",
       "minute": 70,
       "x": 102.5,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kylian Mbappé Lottin",
+      "player": "Kylian Mbappé",
       "team": "France",
       "minute": 79,
       "x": 108.0,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kylian Mbappé Lottin",
+      "player": "Kylian Mbappé",
       "team": "France",
       "minute": 80,
       "x": 104.8,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kylian Mbappé Lottin",
+      "player": "Kylian Mbappé",
       "team": "France",
       "minute": 92,
       "x": 95.9,
@@ -172,7 +172,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 96,
       "x": 96.2,
@@ -182,7 +182,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Alexis Mac Allister",
+      "player": "Alexis MacAllister",
       "team": "Argentina",
       "minute": 92,
       "x": 98.2,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 104,
       "x": 108.8,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Gonzalo Ariel Montiel",
+      "player": "Gonzalo Montiel",
       "team": "Argentina",
       "minute": 104,
       "x": 96.3,
@@ -222,7 +222,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 105,
       "x": 105.1,
@@ -232,7 +232,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 106,
       "x": 103.6,
@@ -242,7 +242,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 107,
       "x": 114.4,
@@ -252,7 +252,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 107,
       "x": 116.6,
@@ -262,7 +262,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kylian Mbappé Lottin",
+      "player": "Kylian Mbappé",
       "team": "France",
       "minute": 115,
       "x": 101.4,
@@ -272,7 +272,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kylian Mbappé Lottin",
+      "player": "Kylian Mbappé",
       "team": "France",
       "minute": 117,
       "x": 108.0,
@@ -282,7 +282,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Randal Kolo Muani",
+      "player": "Randal Kolo",
       "team": "France",
       "minute": 122,
       "x": 103.7,
@@ -292,7 +292,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 122,
       "x": 110.8,

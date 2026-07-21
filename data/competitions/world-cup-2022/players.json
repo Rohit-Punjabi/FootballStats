@@ -1,7 +1,7 @@
 [
   {
     "id": 3009,
-    "name": "Kylian Mbappé Lottin",
+    "name": "Kylian Mbappé",
     "team": "France",
     "team_id": 771,
     "matches": 7,
@@ -15,7 +15,7 @@
   },
   {
     "id": 5503,
-    "name": "Lionel Andrés Messi Cuccittini",
+    "name": "Lionel Messi",
     "team": "Argentina",
     "team_id": 779,
     "matches": 7,
@@ -57,7 +57,7 @@
   },
   {
     "id": 28559,
-    "name": "Enner Remberto Valencia Lastra",
+    "name": "Enner Valencia",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -71,7 +71,7 @@
   },
   {
     "id": 38803,
-    "name": "Gonçalo Matias Ramos",
+    "name": "Gonçalo Ramos",
     "team": "Portugal",
     "team_id": 780,
     "matches": 4,
@@ -85,7 +85,7 @@
   },
   {
     "id": 3280,
-    "name": "Richarlison de Andrade",
+    "name": "Richarlison",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -113,7 +113,7 @@
   },
   {
     "id": 3477,
-    "name": "Álvaro Borja Morata Martín",
+    "name": "Álvaro Morata",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -141,7 +141,7 @@
   },
   {
     "id": 20750,
-    "name": "Cody Mathès Gakpo",
+    "name": "Cody Gakpo",
     "team": "Netherlands",
     "team_id": 941,
     "matches": 5,
@@ -169,7 +169,7 @@
   },
   {
     "id": 5545,
-    "name": "Breel-Donald Embolo",
+    "name": "Breel Embolo",
     "team": "Switzerland",
     "team_id": 773,
     "matches": 4,
@@ -197,7 +197,7 @@
   },
   {
     "id": 4320,
-    "name": "Neymar da Silva Santos Junior",
+    "name": "Neymar",
     "team": "Brazil",
     "team_id": 781,
     "matches": 3,
@@ -225,7 +225,7 @@
   },
   {
     "id": 5187,
-    "name": "Salem Mohammed Al Dawsari",
+    "name": "Salem Al Dawsari",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 3,
@@ -281,7 +281,7 @@
   },
   {
     "id": 5258,
-    "name": "Giorgian Daniel De Arrascaeta Benedetti",
+    "name": "Giorgian De Arrascaeta",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 2,
@@ -323,7 +323,7 @@
   },
   {
     "id": 5204,
-    "name": "Bruno Miguel Borges Fernandes",
+    "name": "Bruno Fernandes",
     "team": "Portugal",
     "team_id": 780,
     "matches": 4,
@@ -337,7 +337,7 @@
   },
   {
     "id": 6748,
-    "name": "Ferrán Torres García",
+    "name": "Ferrán Torres",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -351,7 +351,7 @@
   },
   {
     "id": 40542,
-    "name": "Gue-Sung Cho",
+    "name": "Cho Kyu-Sung",
     "team": "South Korea",
     "team_id": 791,
     "matches": 4,
@@ -393,7 +393,7 @@
   },
   {
     "id": 11174,
-    "name": "Vincent Paté Aboubakar",
+    "name": "Vincent Aboubakar",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 3,
@@ -421,7 +421,7 @@
   },
   {
     "id": 18360,
-    "name": "Rafael Alexandre Conceição Leão",
+    "name": "Rafael Leão",
     "team": "Portugal",
     "team_id": 780,
     "matches": 5,
@@ -435,7 +435,7 @@
   },
   {
     "id": 5207,
-    "name": "Cristiano Ronaldo dos Santos Aveiro",
+    "name": "Cristiano Ronaldo",
     "team": "Portugal",
     "team_id": 780,
     "matches": 5,
@@ -463,7 +463,7 @@
   },
   {
     "id": 3347,
-    "name": "André Ayew Pelé",
+    "name": "André Ayew",
     "team": "Ghana",
     "team_id": 4885,
     "matches": 3,
@@ -477,7 +477,7 @@
   },
   {
     "id": 22097,
-    "name": "Randal Kolo Muani",
+    "name": "Randal Kolo",
     "team": "France",
     "team_id": 771,
     "matches": 3,
@@ -547,7 +547,7 @@
   },
   {
     "id": 16532,
-    "name": "Daniel Olmo Carvajal",
+    "name": "Daniel Olmo",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -603,7 +603,7 @@
   },
   {
     "id": 5549,
-    "name": "Manuel Obafemi Akanji",
+    "name": "Manuel Akanji",
     "team": "Switzerland",
     "team_id": 773,
     "matches": 4,
@@ -645,7 +645,7 @@
   },
   {
     "id": 6399,
-    "name": "Gareth Frank Bale",
+    "name": "Gareth Bale",
     "team": "Wales",
     "team_id": 907,
     "matches": 3,
@@ -673,7 +673,7 @@
   },
   {
     "id": 18395,
-    "name": "Vinícius José Paixão de Oliveira Júnior",
+    "name": "Vinícius Júnior",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -757,7 +757,7 @@
   },
   {
     "id": 22600,
-    "name": "Lucas Tolentino Coelho de Lima",
+    "name": "Lucas Paquetá",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -771,7 +771,7 @@
   },
   {
     "id": 5604,
-    "name": "Young-Gwon Kim",
+    "name": "Kim Young-Gwon",
     "team": "South Korea",
     "team_id": 791,
     "matches": 4,
@@ -785,7 +785,7 @@
   },
   {
     "id": 26400,
-    "name": "Henry Josué Martín Mex",
+    "name": "Henry Martín",
     "team": "Mexico",
     "team_id": 794,
     "matches": 2,
@@ -799,7 +799,7 @@
   },
   {
     "id": 12041,
-    "name": "João Félix Sequeira",
+    "name": "João Félix",
     "team": "Portugal",
     "team_id": 780,
     "matches": 4,
@@ -841,7 +841,7 @@
   },
   {
     "id": 37726,
-    "name": "Moisés Isaac Caicedo Corozo",
+    "name": "Moisés Caicedo",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -869,7 +869,7 @@
   },
   {
     "id": 3457,
-    "name": "Michy Batshuayi Tunga",
+    "name": "Michy Batshuayi",
     "team": "Belgium",
     "team_id": 782,
     "matches": 2,
@@ -925,7 +925,7 @@
   },
   {
     "id": 5620,
-    "name": "Hee-Chan Hwang",
+    "name": "Hwang Hee-Chan",
     "team": "South Korea",
     "team_id": 791,
     "matches": 2,
@@ -995,7 +995,7 @@
   },
   {
     "id": 2995,
-    "name": "Ángel Fabián Di María Hernández",
+    "name": "Ángel Di María",
     "team": "Argentina",
     "team_id": 779,
     "matches": 5,
@@ -1023,7 +1023,7 @@
   },
   {
     "id": 3499,
-    "name": "Jean-Eric Maxim Choupo-Moting",
+    "name": "Eric Maxim Choupo-Moting",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 3,
@@ -1037,7 +1037,7 @@
   },
   {
     "id": 5839,
-    "name": "Yeltsin Ignacio Tejeda Valverde",
+    "name": "Yeltsin Tejeda",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 27886,
-    "name": "Alexis Mac Allister",
+    "name": "Alexis MacAllister",
     "team": "Argentina",
     "team_id": 779,
     "matches": 6,
@@ -1079,7 +1079,7 @@
   },
   {
     "id": 6583,
-    "name": "Carlos Soler Barragán",
+    "name": "Carlos Soler",
     "team": "Spain",
     "team_id": 772,
     "matches": 2,
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 29201,
-    "name": "Nahuel Molina Lucero",
+    "name": "Nahuel Molina",
     "team": "Argentina",
     "team_id": 779,
     "matches": 7,
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 10868,
-    "name": "Ricardo Jorge Luz Horta",
+    "name": "Ricardo Horta",
     "team": "Portugal",
     "team_id": 780,
     "matches": 3,
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 10481,
-    "name": "Aurélien Djani Tchouaméni",
+    "name": "Aurélien Tchouaméni",
     "team": "France",
     "team_id": 771,
     "matches": 7,
@@ -1205,7 +1205,7 @@
   },
   {
     "id": 5209,
-    "name": "Raphaël Adelino José Guerreiro",
+    "name": "Raphaël Guerreiro",
     "team": "Portugal",
     "team_id": 780,
     "matches": 4,
@@ -1219,7 +1219,7 @@
   },
   {
     "id": 88123,
-    "name": "Cheikh Ahmadou Bamba Mbacke Dieng",
+    "name": "Bamba Dieng",
     "team": "Senegal",
     "team_id": 787,
     "matches": 4,
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 5539,
-    "name": "Carlos Henrique Casimiro",
+    "name": "Casemiro",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -1247,7 +1247,7 @@
   },
   {
     "id": 20016,
-    "name": "Kléper Laveran Lima Ferreira",
+    "name": "Pepe",
     "team": "Portugal",
     "team_id": 780,
     "matches": 4,
@@ -1345,7 +1345,7 @@
   },
   {
     "id": 6704,
-    "name": "Theo Bernard François Hernández",
+    "name": "Theo Hernández",
     "team": "France",
     "team_id": 771,
     "matches": 6,
@@ -1359,7 +1359,7 @@
   },
   {
     "id": 33492,
-    "name": "Mitchell Thomas Duke",
+    "name": "Mitchell Duke",
     "team": "Australia",
     "team_id": 792,
     "matches": 4,
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 13314,
-    "name": "Famara Diedhiou",
+    "name": "Famara Diédhiou",
     "team": "Senegal",
     "team_id": 787,
     "matches": 2,
@@ -1429,7 +1429,7 @@
   },
   {
     "id": 28825,
-    "name": "Luis Gerardo Chávez Magallón",
+    "name": "Luis Chávez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -1527,7 +1527,7 @@
   },
   {
     "id": 3532,
-    "name": "Jordan Brian Henderson",
+    "name": "Jordan Henderson",
     "team": "England",
     "team_id": 768,
     "matches": 4,
@@ -1541,7 +1541,7 @@
   },
   {
     "id": 51469,
-    "name": "Saleh Khalid Al Shehri",
+    "name": "Saleh Al Shehri",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 3,
@@ -1583,7 +1583,7 @@
   },
   {
     "id": 133353,
-    "name": "Pablo Martín Páez Gavira",
+    "name": "Gavi",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -1611,7 +1611,7 @@
   },
   {
     "id": 23264,
-    "name": "Seung-Ho Paik",
+    "name": "Paik Seung-Ho",
     "team": "South Korea",
     "team_id": 791,
     "matches": 1,
@@ -1625,7 +1625,7 @@
   },
   {
     "id": 11456,
-    "name": "Lautaro Javier Martínez",
+    "name": "Lautaro Martínez",
     "team": "Argentina",
     "team_id": 779,
     "matches": 6,
@@ -1639,7 +1639,7 @@
   },
   {
     "id": 3289,
-    "name": "Romelu Lukaku Menama",
+    "name": "Romelu Lukaku",
     "team": "Belgium",
     "team_id": 782,
     "matches": 2,
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 10595,
-    "name": "Raphael Dias Belloli",
+    "name": "Raphinha",
     "team": "Brazil",
     "team_id": 781,
     "matches": 5,
@@ -1695,7 +1695,7 @@
   },
   {
     "id": 5507,
-    "name": "Nicolás Alejandro Tagliafico",
+    "name": "Nicolás Tagliafico",
     "team": "Argentina",
     "team_id": 779,
     "matches": 6,
@@ -1723,7 +1723,7 @@
   },
   {
     "id": 5732,
-    "name": "Andreas Evald Cornelius",
+    "name": "Andreas Cornelius",
     "team": "Denmark",
     "team_id": 776,
     "matches": 3,
@@ -1751,7 +1751,7 @@
   },
   {
     "id": 26301,
-    "name": "Ernesto Alexis Vega Rojas",
+    "name": "Alexis Vega",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -1793,7 +1793,7 @@
   },
   {
     "id": 25142,
-    "name": "Bruno Guimarães Rodriguez Moura",
+    "name": "Bruno Guimarães",
     "team": "Brazil",
     "team_id": 781,
     "matches": 2,
@@ -1807,7 +1807,7 @@
   },
   {
     "id": 3853,
-    "name": "Kieffer Roberto Francisco Moore",
+    "name": "Kieffer Moore",
     "team": "Wales",
     "team_id": 907,
     "matches": 3,
@@ -1849,7 +1849,7 @@
   },
   {
     "id": 5260,
-    "name": "Rodrigo Bentancur Colmán",
+    "name": "Rodrigo Bentancur",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -1905,7 +1905,7 @@
   },
   {
     "id": 7797,
-    "name": "Rodrigo Javier De Paul",
+    "name": "Rodrigo De Paul",
     "team": "Argentina",
     "team_id": 779,
     "matches": 7,
@@ -1947,7 +1947,7 @@
   },
   {
     "id": 26280,
-    "name": "Orbelín Pineda Alvarado",
+    "name": "Orbelín Pineda",
     "team": "Mexico",
     "team_id": 794,
     "matches": 1,
@@ -1989,7 +1989,7 @@
   },
   {
     "id": 124495,
-    "name": "Almoez Ali Zainalabiddin Abdulla",
+    "name": "Almoez Ali",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 3,
@@ -2003,7 +2003,7 @@
   },
   {
     "id": 9904,
-    "name": "Frederico Rodrigues Santos",
+    "name": "Fred",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -2031,7 +2031,7 @@
   },
   {
     "id": 25104,
-    "name": "Rodrygo Silva de Goes",
+    "name": "Rodrygo",
     "team": "Brazil",
     "team_id": 781,
     "matches": 5,
@@ -2045,7 +2045,7 @@
   },
   {
     "id": 3083,
-    "name": "Heung-Min Son",
+    "name": "Son Heung-Min",
     "team": "South Korea",
     "team_id": 791,
     "matches": 4,
@@ -2059,7 +2059,7 @@
   },
   {
     "id": 25305,
-    "name": "Pedro Guilherme Abreu dos Santos",
+    "name": "Pedro",
     "team": "Brazil",
     "team_id": 781,
     "matches": 2,
@@ -2087,7 +2087,7 @@
   },
   {
     "id": 29976,
-    "name": "Gabriel Teodoro Martinelli Silva",
+    "name": "Gabriel Martinelli",
     "team": "Brazil",
     "team_id": 781,
     "matches": 3,
@@ -2143,7 +2143,7 @@
   },
   {
     "id": 7472,
-    "name": "Nicolas Alexis Julio N'Koulou Ndoubena",
+    "name": "Nicolas N'Koulou",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 2,
@@ -2199,7 +2199,7 @@
   },
   {
     "id": 124899,
-    "name": "Ismaeel Mohammad Mohammad",
+    "name": "Ismaeel Mohammad",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 2,
@@ -2213,7 +2213,7 @@
   },
   {
     "id": 22168,
-    "name": "Joshua Sargent",
+    "name": "Josh Sargent",
     "team": "United States",
     "team_id": 1839,
     "matches": 3,
@@ -2227,7 +2227,7 @@
   },
   {
     "id": 5246,
-    "name": "Luis Alberto Suárez Díaz",
+    "name": "Luis Suárez",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -2269,7 +2269,7 @@
   },
   {
     "id": 11493,
-    "name": "Gleison Bremer Silva Nascimento",
+    "name": "Bremer",
     "team": "Brazil",
     "team_id": 781,
     "matches": 2,
@@ -2311,7 +2311,7 @@
   },
   {
     "id": 3436,
-    "name": "Idrissa Gana Gueye",
+    "name": "Idrissa Gueye",
     "team": "Senegal",
     "team_id": 787,
     "matches": 3,
@@ -2423,7 +2423,7 @@
   },
   {
     "id": 3202,
-    "name": "Gabriel Fernando de Jesus",
+    "name": "Gabriel Jesus",
     "team": "Brazil",
     "team_id": 781,
     "matches": 3,
@@ -2434,6 +2434,20 @@
     "passes": 27,
     "passes_completed": 23,
     "pass_pct": 85.2
+  },
+  {
+    "id": 29966,
+    "name": "Hwang Ui-jo",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 4,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.32,
+    "passes": 11,
+    "passes_completed": 8,
+    "pass_pct": 72.7
   },
   {
     "id": 5713,
@@ -2464,20 +2478,6 @@
     "pass_pct": 79.9
   },
   {
-    "id": 29966,
-    "name": "Ui-Jo Hwang",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 4,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.32,
-    "passes": 11,
-    "passes_completed": 8,
-    "pass_pct": 72.7
-  },
-  {
     "id": 17042,
     "name": "Andreas Skov Olsen",
     "team": "Denmark",
@@ -2493,7 +2493,7 @@
   },
   {
     "id": 15452,
-    "name": "Carlos Uriel Antuna Romero",
+    "name": "Uriel Antuna",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -2577,7 +2577,7 @@
   },
   {
     "id": 40538,
-    "name": "Jin-Su Kim",
+    "name": "Kim Jin-Su",
     "team": "South Korea",
     "team_id": 791,
     "matches": 4,
@@ -2591,7 +2591,7 @@
   },
   {
     "id": 124494,
-    "name": "Abdelkarim Hassan Al Haj Fadlalla",
+    "name": "Abdelkarim Hassan",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 3,
@@ -2633,7 +2633,7 @@
   },
   {
     "id": 24085,
-    "name": "Pervis Josué Estupiñán Tenorio",
+    "name": "Pervis Estupiñán",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -2703,7 +2703,7 @@
   },
   {
     "id": 13620,
-    "name": "Éder Gabriel Militão",
+    "name": "Éder Militão",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -2731,7 +2731,7 @@
   },
   {
     "id": 34396,
-    "name": "Michael Steveen Estrada Martínez",
+    "name": "Michael Estrada",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -2759,7 +2759,7 @@
   },
   {
     "id": 21881,
-    "name": "Sergino Dest",
+    "name": "Sergiño Dest",
     "team": "United States",
     "team_id": 1839,
     "matches": 4,
@@ -2801,7 +2801,7 @@
   },
   {
     "id": 5571,
-    "name": "Hirving Rodrigo Lozano Bahena",
+    "name": "Hirving Lozano",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -2815,7 +2815,7 @@
   },
   {
     "id": 4447,
-    "name": "Martin Braithwaite Christensen",
+    "name": "Martin Braithwaite",
     "team": "Denmark",
     "team_id": 776,
     "matches": 2,
@@ -2829,7 +2829,7 @@
   },
   {
     "id": 57620,
-    "name": "Sultan Abdullah Salim Al Ghannam",
+    "name": "Sultan Al Ghanam",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 3,
@@ -2843,7 +2843,7 @@
   },
   {
     "id": 6383,
-    "name": "Thomas Teye Partey",
+    "name": "Thomas Partey",
     "team": "Ghana",
     "team_id": 4885,
     "matches": 3,
@@ -2871,7 +2871,7 @@
   },
   {
     "id": 32478,
-    "name": "Darwin Gabriel Núñez Ribeiro",
+    "name": "Darwin Núñez",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -2885,7 +2885,7 @@
   },
   {
     "id": 3295,
-    "name": "Thiago Emiliano da Silva",
+    "name": "Thiago Silva",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -2899,7 +2899,7 @@
   },
   {
     "id": 23763,
-    "name": "In-Beom Hwang",
+    "name": "Hwang In-Beom",
     "team": "South Korea",
     "team_id": 791,
     "matches": 4,
@@ -2913,7 +2913,7 @@
   },
   {
     "id": 5633,
-    "name": "Yannick Ferreira Carrasco",
+    "name": "Yannick Carrasco",
     "team": "Belgium",
     "team_id": 782,
     "matches": 2,
@@ -2969,7 +2969,7 @@
   },
   {
     "id": 12623,
-    "name": "Pierre Kunde Malong",
+    "name": "Pierre Kunde",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 2,
@@ -3011,7 +3011,7 @@
   },
   {
     "id": 4319,
-    "name": "Edinson Roberto Cavani Gómez",
+    "name": "Edinson Cavani",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -3025,7 +3025,7 @@
   },
   {
     "id": 5573,
-    "name": "Héctor Alfredo Moreno Herrera",
+    "name": "Héctor Moreno",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -3053,7 +3053,7 @@
   },
   {
     "id": 27163,
-    "name": "Juan Pablo Vargas Campos",
+    "name": "Juan Pablo Vargas",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 1,
@@ -3067,7 +3067,7 @@
   },
   {
     "id": 3551,
-    "name": "Karl Brillant Toko Ekambi",
+    "name": "Karl Toko Ekambi",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 3,
@@ -3249,7 +3249,7 @@
   },
   {
     "id": 25363,
-    "name": "Antony Matheus dos Santos",
+    "name": "Antony",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -3263,7 +3263,7 @@
   },
   {
     "id": 3043,
-    "name": "Christian Dannemann Eriksen",
+    "name": "Christian Eriksen",
     "team": "Denmark",
     "team_id": 776,
     "matches": 3,
@@ -3291,7 +3291,7 @@
   },
   {
     "id": 30111,
-    "name": "Felix Eduardo Torres Caicedo",
+    "name": "Félix Torres",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -3333,7 +3333,7 @@
   },
   {
     "id": 56755,
-    "name": "Abdulelah Saad Hameed Al-Malki",
+    "name": "Abdulelah Al Malki",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 2,
@@ -3347,7 +3347,7 @@
   },
   {
     "id": 5245,
-    "name": "Achraf Hakimi Mouh",
+    "name": "Achraf Hakimi",
     "team": "Morocco",
     "team_id": 788,
     "matches": 7,
@@ -3389,7 +3389,7 @@
   },
   {
     "id": 348757,
-    "name": "Kevin José Rodríguez Cortez",
+    "name": "Kevin Rodríguez",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 2,
@@ -3431,7 +3431,7 @@
   },
   {
     "id": 12803,
-    "name": "Romario Andrés Ibarra Mina",
+    "name": "Romario Ibarra",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 2,
@@ -3459,7 +3459,7 @@
   },
   {
     "id": 5479,
-    "name": "Aziz Eraltay Behich",
+    "name": "Aziz Behich",
     "team": "Australia",
     "team_id": 792,
     "matches": 4,
@@ -3487,7 +3487,7 @@
   },
   {
     "id": 6393,
-    "name": "Iñaki Williams Arthuer",
+    "name": "Iñaki Williams",
     "team": "Ghana",
     "team_id": 4885,
     "matches": 3,
@@ -3501,7 +3501,7 @@
   },
   {
     "id": 5259,
-    "name": "José María Giménez de Vargas",
+    "name": "José Giménez",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -3585,7 +3585,7 @@
   },
   {
     "id": 4324,
-    "name": "Daniel Alves da Silva",
+    "name": "Dani Alves",
     "team": "Brazil",
     "team_id": 781,
     "matches": 2,
@@ -3598,22 +3598,8 @@
     "pass_pct": 88.9
   },
   {
-    "id": 9922,
-    "name": "David Junior Hoilett",
-    "team": "Canada",
-    "team_id": 1833,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 4,
-    "xg": 0.12,
-    "passes": 55,
-    "passes_completed": 40,
-    "pass_pct": 72.7
-  },
-  {
     "id": 6773,
-    "name": "Federico Santiago Valverde Dipetta",
+    "name": "Federico Valverde",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -3627,7 +3613,7 @@
   },
   {
     "id": 51099,
-    "name": "Firas Tariq Nasser Al Albirakan",
+    "name": "Firas Albirakan",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 3,
@@ -3654,8 +3640,22 @@
     "pass_pct": 84.1
   },
   {
+    "id": 9922,
+    "name": "Junior Hoilett",
+    "team": "Canada",
+    "team_id": 1833,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 4,
+    "xg": 0.12,
+    "passes": 55,
+    "passes_completed": 40,
+    "pass_pct": 72.7
+  },
+  {
     "id": 22740,
-    "name": "Kang-In Lee",
+    "name": "Lee Kang-In",
     "team": "South Korea",
     "team_id": 791,
     "matches": 4,
@@ -3711,7 +3711,7 @@
   },
   {
     "id": 3193,
-    "name": "Bernardo Mota Veiga de Carvalho e Silva",
+    "name": "Bernardo Silva",
     "team": "Portugal",
     "team_id": 780,
     "matches": 5,
@@ -3725,7 +3725,7 @@
   },
   {
     "id": 31152,
-    "name": "Gonzalo Jordy Plata Jiménez",
+    "name": "Gonzalo Plata",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -3781,7 +3781,7 @@
   },
   {
     "id": 54144,
-    "name": "Nawaf Shaker Al Abid",
+    "name": "Nawaf Al Abid",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 2,
@@ -3809,7 +3809,7 @@
   },
   {
     "id": 51096,
-    "name": "Ali Al Hassan",
+    "name": "Ali Al-Hassan",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 1,
@@ -3823,7 +3823,7 @@
   },
   {
     "id": 35592,
-    "name": "Anis Ben Slimane",
+    "name": "Anis Slimane",
     "team": "Tunisia",
     "team_id": 777,
     "matches": 2,
@@ -3851,7 +3851,7 @@
   },
   {
     "id": 26368,
-    "name": "César Jasib Montes Castro",
+    "name": "César Montes",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -3879,7 +3879,7 @@
   },
   {
     "id": 5537,
-    "name": "Fabian Lukas Schär",
+    "name": "Fabian Schär",
     "team": "Switzerland",
     "team_id": 773,
     "matches": 2,
@@ -3893,7 +3893,7 @@
   },
   {
     "id": 36288,
-    "name": "Facundo Pellistri Rebollo",
+    "name": "Facundo Pellistri",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -3907,7 +3907,7 @@
   },
   {
     "id": 6328,
-    "name": "Kendall Jamaal Waston Manley",
+    "name": "Kendall Waston",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -3935,7 +3935,7 @@
   },
   {
     "id": 11184,
-    "name": "Otávio Edmilson da Silva Monteiro",
+    "name": "Otavinho",
     "team": "Portugal",
     "team_id": 780,
     "matches": 3,
@@ -3949,7 +3949,7 @@
   },
   {
     "id": 6720,
-    "name": "Pablo Sarabia García",
+    "name": "Pablo Sarabia",
     "team": "Spain",
     "team_id": 772,
     "matches": 1,
@@ -3963,7 +3963,7 @@
   },
   {
     "id": 6300,
-    "name": "Sebastián Coates Nión",
+    "name": "Sebastián Coates",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 2,
@@ -3977,7 +3977,7 @@
   },
   {
     "id": 5203,
-    "name": "Sergio Busquets i Burgos",
+    "name": "Sergio Busquets",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -4075,7 +4075,7 @@
   },
   {
     "id": 50498,
-    "name": "Pape Matar Sarr",
+    "name": "Pape Sarr",
     "team": "Senegal",
     "team_id": 787,
     "matches": 2,
@@ -4089,7 +4089,7 @@
   },
   {
     "id": 9927,
-    "name": "Rúben Diogo Da Silva Neves",
+    "name": "Rúben Neves",
     "team": "Portugal",
     "team_id": 780,
     "matches": 5,
@@ -4131,7 +4131,7 @@
   },
   {
     "id": 39161,
-    "name": "Alejandro Balde Martínez",
+    "name": "Alejandro Balde",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -4145,7 +4145,7 @@
   },
   {
     "id": 44955,
-    "name": "Aïssa Bilal Laïdouni",
+    "name": "Aïssa Laïdouni",
     "team": "Tunisia",
     "team_id": 777,
     "matches": 3,
@@ -4186,22 +4186,8 @@
     "pass_pct": 84.3
   },
   {
-    "id": 4372,
-    "name": "Marcos Aoás Corrêa",
-    "team": "Brazil",
-    "team_id": 781,
-    "matches": 5,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.08,
-    "passes": 359,
-    "passes_completed": 345,
-    "pass_pct": 96.1
-  },
-  {
     "id": 19597,
-    "name": "Marcos Javier Acuña",
+    "name": "Marcos Acuña",
     "team": "Argentina",
     "team_id": 779,
     "matches": 6,
@@ -4212,6 +4198,20 @@
     "passes": 217,
     "passes_completed": 170,
     "pass_pct": 78.3
+  },
+  {
+    "id": 4372,
+    "name": "Marquinhos",
+    "team": "Brazil",
+    "team_id": 781,
+    "matches": 5,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.08,
+    "passes": 359,
+    "passes_completed": 345,
+    "pass_pct": 96.1
   },
   {
     "id": 30016,
@@ -4229,7 +4229,7 @@
   },
   {
     "id": 7104,
-    "name": "Mathías Olivera Miramontes",
+    "name": "Mathías Olivera",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -4243,7 +4243,7 @@
   },
   {
     "id": 6297,
-    "name": "Maximiliano Gómez González",
+    "name": "Maxi Gómez",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 2,
@@ -4299,7 +4299,7 @@
   },
   {
     "id": 37737,
-    "name": "Angelo Smit Preciado Quiñónez",
+    "name": "Angelo Preciado",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -4383,7 +4383,7 @@
   },
   {
     "id": 26318,
-    "name": "Rogelio Gabriel Funes Mori",
+    "name": "Rogelio Funes Mori",
     "team": "Mexico",
     "team_id": 794,
     "matches": 1,
@@ -4411,7 +4411,7 @@
   },
   {
     "id": 149714,
-    "name": "Abdessamad Ezzalzouli",
+    "name": "Abde Ezzalzouli",
     "team": "Morocco",
     "team_id": 788,
     "matches": 3,
@@ -4425,7 +4425,7 @@
   },
   {
     "id": 24547,
-    "name": "Alexander Hartmann Bah",
+    "name": "Alexander Bah",
     "team": "Denmark",
     "team_id": 776,
     "matches": 2,
@@ -4537,7 +4537,7 @@
   },
   {
     "id": 5576,
-    "name": "Jesús Daniel Gallardo Vasconcelos",
+    "name": "Jesús Gallardo",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -4592,6 +4592,20 @@
     "pass_pct": 70.0
   },
   {
+    "id": 41711,
+    "name": "Na Sangho",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.06,
+    "passes": 38,
+    "passes_completed": 25,
+    "pass_pct": 65.8
+  },
+  {
     "id": 16120,
     "name": "Richie Laryea",
     "team": "Canada",
@@ -4607,7 +4621,7 @@
   },
   {
     "id": 5722,
-    "name": "Saeid Ezatolahi Afagh",
+    "name": "Saeid Ezatolahi",
     "team": "Iran",
     "team_id": 797,
     "matches": 3,
@@ -4618,20 +4632,6 @@
     "passes": 93,
     "passes_completed": 71,
     "pass_pct": 76.3
-  },
-  {
-    "id": 41711,
-    "name": "Sang-Ho Na",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.06,
-    "passes": 38,
-    "passes_completed": 25,
-    "pass_pct": 65.8
   },
   {
     "id": 12524,
@@ -4649,7 +4649,7 @@
   },
   {
     "id": 3141,
-    "name": "André-Frank Zambo Anguissa",
+    "name": "André Zambo Anguissa",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 3,
@@ -4677,7 +4677,7 @@
   },
   {
     "id": 5249,
-    "name": "Diego Roberto Godín Leal",
+    "name": "Diego Godín",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 2,
@@ -4691,7 +4691,7 @@
   },
   {
     "id": 28268,
-    "name": "Exequiel Alejandro Palacios",
+    "name": "Exequiel Palacios",
     "team": "Argentina",
     "team_id": 779,
     "matches": 3,
@@ -4705,7 +4705,7 @@
   },
   {
     "id": 51969,
-    "name": "Jackson Gabriel Porozo Vernaza",
+    "name": "Jackson Porozo",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 2,
@@ -4719,7 +4719,7 @@
   },
   {
     "id": 5581,
-    "name": "Joel Nathaniel Campbell Samuels",
+    "name": "Joel Campbell",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -4733,7 +4733,7 @@
   },
   {
     "id": 5211,
-    "name": "Jordi Alba Ramos",
+    "name": "Jordi Alba",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -4747,7 +4747,7 @@
   },
   {
     "id": 7005,
-    "name": "João Pedro Cavaco Cancelo",
+    "name": "João Cancelo",
     "team": "Portugal",
     "team_id": 780,
     "matches": 4,
@@ -4803,7 +4803,7 @@
   },
   {
     "id": 5255,
-    "name": "Matías Vecino Falero",
+    "name": "Matías Vecino",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -4831,7 +4831,7 @@
   },
   {
     "id": 3090,
-    "name": "Nicolás Hernán Otamendi",
+    "name": "Nicolás Otamendi",
     "team": "Argentina",
     "team_id": 779,
     "matches": 7,
@@ -4873,7 +4873,7 @@
   },
   {
     "id": 34639,
-    "name": "Vitor Machado Ferreira",
+    "name": "Vitinha",
     "team": "Portugal",
     "team_id": 780,
     "matches": 3,
@@ -4887,7 +4887,7 @@
   },
   {
     "id": 5214,
-    "name": "William Silva de Carvalho",
+    "name": "William Carvalho",
     "team": "Portugal",
     "team_id": 780,
     "matches": 4,
@@ -4957,7 +4957,7 @@
   },
   {
     "id": 51705,
-    "name": "Abdulrahman Al-Obood",
+    "name": "Abdulrahman Al Obod",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 2,
@@ -4999,7 +4999,7 @@
   },
   {
     "id": 5538,
-    "name": "Denis Lemi Zakaria Lako Lado",
+    "name": "Denis Zakaria",
     "team": "Switzerland",
     "team_id": 773,
     "matches": 2,
@@ -5012,22 +5012,22 @@
     "pass_pct": 86.4
   },
   {
-    "id": 28729,
-    "name": "Diego Nicolás De La Cruz Arcosa",
-    "team": "Uruguay",
-    "team_id": 783,
-    "matches": 2,
+    "id": 16028,
+    "name": "Diogo Dalot",
+    "team": "Portugal",
+    "team_id": 780,
+    "matches": 3,
     "goals": 0,
-    "assists": 0,
+    "assists": 1,
     "shots": 1,
     "xg": 0.04,
-    "passes": 24,
-    "passes_completed": 20,
-    "pass_pct": 83.3
+    "passes": 142,
+    "passes_completed": 115,
+    "pass_pct": 81.0
   },
   {
     "id": 7161,
-    "name": "Germán Alejandro Pezzella",
+    "name": "Germán Pezzella",
     "team": "Argentina",
     "team_id": 779,
     "matches": 3,
@@ -5055,7 +5055,7 @@
   },
   {
     "id": 16554,
-    "name": "Joakim Mæhle",
+    "name": "Joakim Maehle",
     "team": "Denmark",
     "team_id": 776,
     "matches": 3,
@@ -5110,20 +5110,6 @@
     "pass_pct": 73.5
   },
   {
-    "id": 16028,
-    "name": "José Diogo Dalot Teixeira",
-    "team": "Portugal",
-    "team_id": 780,
-    "matches": 3,
-    "goals": 0,
-    "assists": 1,
-    "shots": 1,
-    "xg": 0.04,
-    "passes": 142,
-    "passes_completed": 115,
-    "pass_pct": 81.0
-  },
-  {
     "id": 33488,
     "name": "Keanu Baccus",
     "team": "Australia",
@@ -5166,6 +5152,20 @@
     "pass_pct": 87.7
   },
   {
+    "id": 28729,
+    "name": "Nicolás De La Cruz",
+    "team": "Uruguay",
+    "team_id": 783,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.04,
+    "passes": 24,
+    "passes_completed": 20,
+    "pass_pct": 83.3
+  },
+  {
     "id": 124506,
     "name": "Pedro Miguel Correia",
     "team": "Qatar",
@@ -5195,7 +5195,7 @@
   },
   {
     "id": 5206,
-    "name": "Rúben Santos Gato Alves Dias",
+    "name": "Rúben Dias",
     "team": "Portugal",
     "team_id": 780,
     "matches": 4,
@@ -5251,7 +5251,7 @@
   },
   {
     "id": 40784,
-    "name": "Akram Hassan Afif",
+    "name": "Akram Afif",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 3,
@@ -5293,7 +5293,7 @@
   },
   {
     "id": 3063,
-    "name": "Danilo Luiz da Silva",
+    "name": "Danilo",
     "team": "Brazil",
     "team_id": 781,
     "matches": 3,
@@ -5334,8 +5334,22 @@
     "pass_pct": 79.2
   },
   {
+    "id": 22067,
+    "name": "Jeong Woo-Yeong",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.03,
+    "passes": 16,
+    "passes_completed": 13,
+    "pass_pct": 81.2
+  },
+  {
     "id": 40211,
-    "name": "Jeremy Leonel Sarmiento Morante",
+    "name": "Jeremy Sarmiento",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -5349,7 +5363,7 @@
   },
   {
     "id": 36148,
-    "name": "José Adoni Cifuentes Charcopa",
+    "name": "José Cifuentes",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 2,
@@ -5360,20 +5374,6 @@
     "passes": 43,
     "passes_completed": 33,
     "pass_pct": 76.7
-  },
-  {
-    "id": 10530,
-    "name": "Jules Olivier Ntcham",
-    "team": "Cameroon",
-    "team_id": 2722,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.03,
-    "passes": 12,
-    "passes_completed": 11,
-    "pass_pct": 91.7
   },
   {
     "id": 12493,
@@ -5432,6 +5432,20 @@
     "pass_pct": 81.0
   },
   {
+    "id": 10530,
+    "name": "Olivier Ntcham",
+    "team": "Cameroon",
+    "team_id": 2722,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.03,
+    "passes": 12,
+    "passes_completed": 11,
+    "pass_pct": 91.7
+  },
+  {
     "id": 31751,
     "name": "Pathé Ismaël Ciss",
     "team": "Senegal",
@@ -5474,22 +5488,8 @@
     "pass_pct": 91.5
   },
   {
-    "id": 22067,
-    "name": "Woo-Yeong Jeong",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.03,
-    "passes": 16,
-    "passes_completed": 13,
-    "pass_pct": 81.2
-  },
-  {
     "id": 124514,
-    "name": "Abdulaziz Hatem Mohammed Abdullah",
+    "name": "Abdulaziz Hatem",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 3,
@@ -5502,22 +5502,8 @@
     "pass_pct": 79.1
   },
   {
-    "id": 7006,
-    "name": "Alejandro Darío Gómez",
-    "team": "Argentina",
-    "team_id": 779,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 2,
-    "xg": 0.02,
-    "passes": 58,
-    "passes_completed": 52,
-    "pass_pct": 89.7
-  },
-  {
     "id": 6945,
-    "name": "Alex Sandro Lobo Silva",
+    "name": "Alex Sandro",
     "team": "Brazil",
     "team_id": 781,
     "matches": 3,
@@ -5587,7 +5573,7 @@
   },
   {
     "id": 28263,
-    "name": "Gonzalo Ariel Montiel",
+    "name": "Gonzalo Montiel",
     "team": "Argentina",
     "team_id": 779,
     "matches": 4,
@@ -5615,7 +5601,7 @@
   },
   {
     "id": 124488,
-    "name": "Hassan Khalid Al Heidos",
+    "name": "Hassan Al Heidos",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 3,
@@ -5628,22 +5614,8 @@
     "pass_pct": 81.8
   },
   {
-    "id": 5623,
-    "name": "Jae-Sung Lee",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.02,
-    "passes": 96,
-    "passes_completed": 84,
-    "pass_pct": 87.5
-  },
-  {
     "id": 12169,
-    "name": "João Maria Lobo Alves Palhinha Gonçalves",
+    "name": "João Palhinha",
     "team": "Portugal",
     "team_id": 780,
     "matches": 3,
@@ -5656,8 +5628,22 @@
     "pass_pct": 86.7
   },
   {
+    "id": 5623,
+    "name": "Lee Jae-Sung",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.02,
+    "passes": 96,
+    "passes_completed": 84,
+    "pass_pct": 87.5
+  },
+  {
     "id": 6840,
-    "name": "Marcos Llorente Moreno",
+    "name": "Marcos Llorente",
     "team": "Spain",
     "team_id": 772,
     "matches": 1,
@@ -5682,6 +5668,20 @@
     "passes": 156,
     "passes_completed": 121,
     "pass_pct": 77.6
+  },
+  {
+    "id": 7006,
+    "name": "Papu Gómez",
+    "team": "Argentina",
+    "team_id": 779,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 2,
+    "xg": 0.02,
+    "passes": 58,
+    "passes_completed": 52,
+    "pass_pct": 89.7
   },
   {
     "id": 3570,
@@ -5740,6 +5740,20 @@
     "pass_pct": 86.5
   },
   {
+    "id": 16346,
+    "name": "Collins Fai",
+    "team": "Cameroon",
+    "team_id": 2722,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.01,
+    "passes": 152,
+    "passes_completed": 103,
+    "pass_pct": 67.8
+  },
+  {
     "id": 3621,
     "name": "Eden Hazard",
     "team": "Belgium",
@@ -5755,7 +5769,7 @@
   },
   {
     "id": 5567,
-    "name": "Edson Omar Álvarez Velázquez",
+    "name": "Edson Álvarez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 2,
@@ -5797,7 +5811,7 @@
   },
   {
     "id": 5600,
-    "name": "Francisco Javier Calvo Quesada",
+    "name": "Francisco Calvo",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 2,
@@ -5811,7 +5825,7 @@
   },
   {
     "id": 3639,
-    "name": "Georges-Kévin Nkoudou Mbida",
+    "name": "Georges-Kevin N'Koudou",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 2,
@@ -5853,7 +5867,7 @@
   },
   {
     "id": 26406,
-    "name": "Jorge Eduardo Sánchez Ramos",
+    "name": "Jorge Sánchez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 2,
@@ -5866,8 +5880,22 @@
     "pass_pct": 83.7
   },
   {
+    "id": 5618,
+    "name": "Jung Woo-Young",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 4,
+    "goals": 0,
+    "assists": 0,
+    "shots": 1,
+    "xg": 0.01,
+    "passes": 208,
+    "passes_completed": 179,
+    "pass_pct": 86.1
+  },
+  {
     "id": 40564,
-    "name": "Kyung-Won Kwon",
+    "name": "Kwon Kyung-Won",
     "team": "South Korea",
     "team_id": 791,
     "matches": 2,
@@ -5881,7 +5909,7 @@
   },
   {
     "id": 16308,
-    "name": "Leandro Daniel Paredes",
+    "name": "Leandro Paredes",
     "team": "Argentina",
     "team_id": 779,
     "matches": 5,
@@ -5895,7 +5923,7 @@
   },
   {
     "id": 40874,
-    "name": "Matheus Luiz Nunes",
+    "name": "Matheus Nunes",
     "team": "Portugal",
     "team_id": 780,
     "matches": 2,
@@ -5922,22 +5950,8 @@
     "pass_pct": 86.5
   },
   {
-    "id": 16346,
-    "name": "Ngoran Suiru Fai Collins",
-    "team": "Cameroon",
-    "team_id": 2722,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.01,
-    "passes": 152,
-    "passes_completed": 103,
-    "pass_pct": 67.8
-  },
-  {
     "id": 6765,
-    "name": "Rodrigo Hernández Cascante",
+    "name": "Rodri",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -5951,7 +5965,7 @@
   },
   {
     "id": 51710,
-    "name": "Saud Abdullah Abdul Hamid",
+    "name": "Saud Abdul Hamid",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 3,
@@ -5978,22 +5992,8 @@
     "pass_pct": 66.7
   },
   {
-    "id": 5618,
-    "name": "Woo-Young Jung",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 4,
-    "goals": 0,
-    "assists": 0,
-    "shots": 1,
-    "xg": 0.01,
-    "passes": 208,
-    "passes_completed": 179,
-    "pass_pct": 86.1
-  },
-  {
     "id": 136306,
-    "name": "Abdul Fatawu Issahaku",
+    "name": "Abdul Fatawu",
     "team": "Ghana",
     "team_id": 4885,
     "matches": 1,
@@ -6006,22 +6006,8 @@
     "pass_pct": null
   },
   {
-    "id": 12325,
-    "name": "Abdul Rahman Baba",
-    "team": "Ghana",
-    "team_id": 4885,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 103,
-    "passes_completed": 70,
-    "pass_pct": 68.0
-  },
-  {
     "id": 51103,
-    "name": "Abdullah Mohammed Madu",
+    "name": "Abdullah Madu",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 1,
@@ -6049,7 +6035,7 @@
   },
   {
     "id": 36666,
-    "name": "Agustín Canobbio Graviz",
+    "name": "Agustín Canobbio",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 1,
@@ -6063,7 +6049,7 @@
   },
   {
     "id": 124490,
-    "name": "Ahmed Alaa Eldin Abdelmotaal",
+    "name": "Ahmed Alaa Eldin",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 1,
@@ -6077,7 +6063,7 @@
   },
   {
     "id": 37945,
-    "name": "Alan Steven Franco Palma",
+    "name": "Alan Franco",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 2,
@@ -6091,7 +6077,7 @@
   },
   {
     "id": 11183,
-    "name": "Alex Nicolao Telles",
+    "name": "Alex Telles",
     "team": "Brazil",
     "team_id": 781,
     "matches": 2,
@@ -6147,7 +6133,7 @@
   },
   {
     "id": 149463,
-    "name": "Ali Assadalla Thaimn Qambar",
+    "name": "Ali Assadalla",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 1,
@@ -6189,7 +6175,7 @@
   },
   {
     "id": 5227,
-    "name": "Alireza Safar Beiranvand",
+    "name": "Alireza Beiranvand",
     "team": "Iran",
     "team_id": 797,
     "matches": 2,
@@ -6203,7 +6189,7 @@
   },
   {
     "id": 5547,
-    "name": "Alisson Ramsés Becker",
+    "name": "Alisson",
     "team": "Brazil",
     "team_id": 781,
     "matches": 4,
@@ -6244,20 +6230,6 @@
     "pass_pct": 82.2
   },
   {
-    "id": 5218,
-    "name": "André Miguel Valente Silva",
-    "team": "Portugal",
-    "team_id": 780,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 11,
-    "passes_completed": 10,
-    "pass_pct": 90.9
-  },
-  {
     "id": 8064,
     "name": "André Onana",
     "team": "Cameroon",
@@ -6272,8 +6244,36 @@
     "pass_pct": 73.3
   },
   {
+    "id": 5218,
+    "name": "André Silva",
+    "team": "Portugal",
+    "team_id": 780,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 11,
+    "passes_completed": 10,
+    "pass_pct": 90.9
+  },
+  {
+    "id": 5563,
+    "name": "Andrés Guardado",
+    "team": "Mexico",
+    "team_id": 794,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 16,
+    "passes_completed": 11,
+    "pass_pct": 68.8
+  },
+  {
     "id": 30756,
-    "name": "Anssumane Fati",
+    "name": "Ansu Fati",
     "team": "Spain",
     "team_id": 772,
     "matches": 2,
@@ -6315,7 +6315,7 @@
   },
   {
     "id": 143854,
-    "name": "António João Pereira Albuquerque Tavares Silva",
+    "name": "António Silva",
     "team": "Portugal",
     "team_id": 780,
     "matches": 1,
@@ -6357,7 +6357,7 @@
   },
   {
     "id": 124500,
-    "name": "Assim Omer Al Haj Madibo",
+    "name": "Assim Madibo",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 2,
@@ -6412,6 +6412,20 @@
     "pass_pct": 62.3
   },
   {
+    "id": 12325,
+    "name": "Baba Rahman",
+    "team": "Ghana",
+    "team_id": 4885,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 103,
+    "passes_completed": 70,
+    "pass_pct": 68.0
+  },
+  {
     "id": 67700,
     "name": "Badr Banoun",
     "team": "Morocco",
@@ -6455,7 +6469,7 @@
   },
   {
     "id": 124503,
-    "name": "Bassam Hisham Al Rawi",
+    "name": "Bassam Hisham",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 1,
@@ -6511,7 +6525,7 @@
   },
   {
     "id": 108340,
-    "name": "Brandon Aguilera Zamora",
+    "name": "Brandon Aguilera",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -6539,7 +6553,7 @@
   },
   {
     "id": 5592,
-    "name": "Bryan Ruiz González",
+    "name": "Bryan Ruiz",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 1,
@@ -6581,7 +6595,7 @@
   },
   {
     "id": 26297,
-    "name": "Carlos Alberto Rodríguez Gómez",
+    "name": "Carlos Alberto Rodríguez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 2,
@@ -6595,7 +6609,7 @@
   },
   {
     "id": 12583,
-    "name": "Carlos Armando Gruezo Arboleda",
+    "name": "Carlos Gruezo",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 1,
@@ -6609,7 +6623,7 @@
   },
   {
     "id": 132271,
-    "name": "Carlos Manuel Martínez Castro",
+    "name": "Carlos Martínez",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 1,
@@ -6623,7 +6637,7 @@
   },
   {
     "id": 5582,
-    "name": "Celso Borges Mora",
+    "name": "Celso Borges",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -6634,20 +6648,6 @@
     "passes": 113,
     "passes_completed": 94,
     "pass_pct": 83.2
-  },
-  {
-    "id": 3135,
-    "name": "Chang-Hoon Kwon",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 23,
-    "passes_completed": 19,
-    "pass_pct": 82.6
   },
   {
     "id": 32688,
@@ -6678,6 +6678,20 @@
     "pass_pct": 80.8
   },
   {
+    "id": 99479,
+    "name": "Cho Yu-Min",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 0,
+    "passes_completed": 0,
+    "pass_pct": null
+  },
+  {
     "id": 4767,
     "name": "Chris Mepham",
     "team": "Wales",
@@ -6693,7 +6707,7 @@
   },
   {
     "id": 46903,
-    "name": "Christian Mougang Bassogog",
+    "name": "Christian Bassogog",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 1,
@@ -6720,20 +6734,6 @@
     "pass_pct": 93.3
   },
   {
-    "id": 5986,
-    "name": "Chul Hong",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 20,
-    "passes_completed": 17,
-    "pass_pct": 85.0
-  },
-  {
     "id": 4774,
     "name": "Connor Roberts",
     "team": "Wales",
@@ -6749,7 +6749,7 @@
   },
   {
     "id": 20572,
-    "name": "Cristian Gabriel Romero",
+    "name": "Cristian Romero",
     "team": "Argentina",
     "team_id": 779,
     "matches": 7,
@@ -6763,7 +6763,7 @@
   },
   {
     "id": 3957,
-    "name": "César Azpilicueta Tanco",
+    "name": "César Azpilicueta",
     "team": "Spain",
     "team_id": 772,
     "matches": 2,
@@ -6788,20 +6788,6 @@
     "passes": 9,
     "passes_completed": 9,
     "pass_pct": 100.0
-  },
-  {
-    "id": 6909,
-    "name": "Damián Emiliano Martínez",
-    "team": "Argentina",
-    "team_id": 779,
-    "matches": 7,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 186,
-    "passes_completed": 123,
-    "pass_pct": 66.1
   },
   {
     "id": 132772,
@@ -6833,7 +6819,7 @@
   },
   {
     "id": 5721,
-    "name": "Daniel Carvajal Ramos",
+    "name": "Daniel Carvajal",
     "team": "Spain",
     "team_id": 772,
     "matches": 2,
@@ -6889,7 +6875,7 @@
   },
   {
     "id": 13621,
-    "name": "Danilo Luís Hélio Pereira",
+    "name": "Danilo Pereira",
     "team": "Portugal",
     "team_id": 780,
     "matches": 1,
@@ -6987,7 +6973,7 @@
   },
   {
     "id": 15326,
-    "name": "Devis Rogers Epassy Mboka",
+    "name": "Devis Epassy",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 2,
@@ -7001,7 +6987,7 @@
   },
   {
     "id": 32975,
-    "name": "Diogo Meireles Costa",
+    "name": "Diogo Costa",
     "team": "Portugal",
     "team_id": 780,
     "matches": 5,
@@ -7043,7 +7029,7 @@
   },
   {
     "id": 3067,
-    "name": "Ederson Santana de Moraes",
+    "name": "Ederson Moraes",
     "team": "Brazil",
     "team_id": 781,
     "matches": 1,
@@ -7084,6 +7070,20 @@
     "pass_pct": 88.3
   },
   {
+    "id": 6909,
+    "name": "Emiliano Martínez",
+    "team": "Argentina",
+    "team_id": 779,
+    "matches": 7,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 186,
+    "passes_completed": 123,
+    "pass_pct": 66.1
+  },
+  {
     "id": 7551,
     "name": "Enzo Ebosse",
     "team": "Cameroon",
@@ -7099,7 +7099,7 @@
   },
   {
     "id": 29012,
-    "name": "Eray Ervin Cömert",
+    "name": "Eray Cömert",
     "team": "Switzerland",
     "team_id": 773,
     "matches": 2,
@@ -7124,6 +7124,20 @@
     "passes": 42,
     "passes_completed": 40,
     "pass_pct": 95.2
+  },
+  {
+    "id": 15872,
+    "name": "Erick Gutiérrez",
+    "team": "Mexico",
+    "team_id": 794,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 30,
+    "passes_completed": 25,
+    "pass_pct": 83.3
   },
   {
     "id": 8561,
@@ -7154,8 +7168,22 @@
     "pass_pct": 51.9
   },
   {
+    "id": 3247,
+    "name": "Fabinho",
+    "team": "Brazil",
+    "team_id": 781,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 56,
+    "passes_completed": 50,
+    "pass_pct": 89.3
+  },
+  {
     "id": 7117,
-    "name": "Filip Đuričić",
+    "name": "Filip Djuricic",
     "team": "Serbia",
     "team_id": 786,
     "matches": 2,
@@ -7180,34 +7208,6 @@
     "passes": 8,
     "passes_completed": 6,
     "pass_pct": 75.0
-  },
-  {
-    "id": 5577,
-    "name": "Francisco Guillermo Ochoa Magaña",
-    "team": "Mexico",
-    "team_id": 794,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 108,
-    "passes_completed": 90,
-    "pass_pct": 83.3
-  },
-  {
-    "id": 3247,
-    "name": "Fábio Henrique Tavares",
-    "team": "Brazil",
-    "team_id": 781,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 56,
-    "passes_completed": 50,
-    "pass_pct": 89.3
   },
   {
     "id": 28966,
@@ -7280,8 +7280,22 @@
     "pass_pct": 87.1
   },
   {
+    "id": 5577,
+    "name": "Guillermo Ochoa",
+    "team": "Mexico",
+    "team_id": 794,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 108,
+    "passes_completed": 90,
+    "pass_pct": 83.3
+  },
+  {
     "id": 5264,
-    "name": "Guillermo Varela Olivera",
+    "name": "Guillermo Varela",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -7295,7 +7309,7 @@
   },
   {
     "id": 121539,
-    "name": "Haitham Mohammed Asiri",
+    "name": "Haitham Asiri",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 1,
@@ -7323,7 +7337,7 @@
   },
   {
     "id": 51546,
-    "name": "Hassan Mohammed Al-Tambakti",
+    "name": "Hassan Mohammed Al Tambakti",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 2,
@@ -7351,7 +7365,7 @@
   },
   {
     "id": 37522,
-    "name": "Hernán Ismael Galíndez",
+    "name": "Hernán Galíndez",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -7379,7 +7393,7 @@
   },
   {
     "id": 124900,
-    "name": "Homam Alamin Ahmed",
+    "name": "Homam Ahmed",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 3,
@@ -7390,6 +7404,20 @@
     "passes": 103,
     "passes_completed": 77,
     "pass_pct": 74.8
+  },
+  {
+    "id": 5986,
+    "name": "Hong Chul",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 20,
+    "passes_completed": 17,
+    "pass_pct": 85.0
   },
   {
     "id": 3099,
@@ -7407,7 +7435,7 @@
   },
   {
     "id": 5575,
-    "name": "Héctor Miguel Herrera López",
+    "name": "Héctor Herrera",
     "team": "Mexico",
     "team_id": 794,
     "matches": 2,
@@ -7418,20 +7446,6 @@
     "passes": 75,
     "passes_completed": 63,
     "pass_pct": 84.0
-  },
-  {
-    "id": 16275,
-    "name": "Ikoma Loïs Openda",
-    "team": "Belgium",
-    "team_id": 782,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 5,
-    "passes_completed": 3,
-    "pass_pct": 60.0
   },
   {
     "id": 21214,
@@ -7477,7 +7491,7 @@
   },
   {
     "id": 9980,
-    "name": "Jamie MacLaren",
+    "name": "Jamie Maclaren",
     "team": "Australia",
     "team_id": 792,
     "matches": 3,
@@ -7518,22 +7532,8 @@
     "pass_pct": 66.7
   },
   {
-    "id": 23650,
-    "name": "Jeremy Doku",
-    "team": "Belgium",
-    "team_id": 782,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 14,
-    "passes_completed": 8,
-    "pass_pct": 57.1
-  },
-  {
     "id": 33813,
-    "name": "Jerome Ngom Mbekeli",
+    "name": "Jerome Mbekeli",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 1,
@@ -7561,7 +7561,7 @@
   },
   {
     "id": 23830,
-    "name": "Jhegson Sebastián Méndez Carabalí",
+    "name": "Jhegson Méndez",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 2,
@@ -7589,7 +7589,7 @@
   },
   {
     "id": 5595,
-    "name": "Johan Alberto Venegas Ulloa",
+    "name": "Johan Venegas",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 1,
@@ -7644,20 +7644,6 @@
     "pass_pct": 91.4
   },
   {
-    "id": 5199,
-    "name": "Jorge Resurrección Merodio",
-    "team": "Spain",
-    "team_id": 772,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 63,
-    "passes_completed": 56,
-    "pass_pct": 88.9
-  },
-  {
     "id": 22074,
     "name": "Joseff Morrell",
     "team": "Wales",
@@ -7686,36 +7672,8 @@
     "pass_pct": 93.9
   },
   {
-    "id": 5563,
-    "name": "José Andrés Guardado Hernández",
-    "team": "Mexico",
-    "team_id": 794,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 16,
-    "passes_completed": 11,
-    "pass_pct": 68.8
-  },
-  {
-    "id": 5248,
-    "name": "José Martín Cáceres Silva",
-    "team": "Uruguay",
-    "team_id": 783,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 81,
-    "passes_completed": 68,
-    "pass_pct": 84.0
-  },
-  {
     "id": 4272,
-    "name": "João Mário Naval da Costa Eduardo",
+    "name": "João Mário",
     "team": "Portugal",
     "team_id": 780,
     "matches": 2,
@@ -7729,7 +7687,7 @@
   },
   {
     "id": 21081,
-    "name": "Juan Marcos Foyth",
+    "name": "Juan Foyth",
     "team": "Argentina",
     "team_id": 779,
     "matches": 1,
@@ -7742,22 +7700,8 @@
     "pass_pct": 75.0
   },
   {
-    "id": 40558,
-    "name": "Jun-Ho Son",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 61,
-    "passes_completed": 56,
-    "pass_pct": 91.8
-  },
-  {
     "id": 21809,
-    "name": "Jurriën David Norman Timber",
+    "name": "Jurriën Timber",
     "team": "Netherlands",
     "team_id": 941,
     "matches": 4,
@@ -7768,6 +7712,20 @@
     "passes": 316,
     "passes_completed": 286,
     "pass_pct": 90.5
+  },
+  {
+    "id": 23650,
+    "name": "Jérémy Doku",
+    "team": "Belgium",
+    "team_id": 782,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 14,
+    "passes_completed": 8,
+    "pass_pct": 57.1
   },
   {
     "id": 4706,
@@ -7883,7 +7841,7 @@
   },
   {
     "id": 30500,
-    "name": "Kevin Nahin Álvarez Campos",
+    "name": "Kevin Álvarez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 2,
@@ -7897,7 +7855,7 @@
   },
   {
     "id": 5597,
-    "name": "Keylor Navas Gamboa",
+    "name": "Keylor Navas",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,
@@ -7908,6 +7866,62 @@
     "passes": 101,
     "passes_completed": 55,
     "pass_pct": 54.5
+  },
+  {
+    "id": 40672,
+    "name": "Kim Moon-Hwan",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 4,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 242,
+    "passes_completed": 205,
+    "pass_pct": 84.7
+  },
+  {
+    "id": 37641,
+    "name": "Kim Seung-Gyu",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 4,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 128,
+    "passes_completed": 94,
+    "pass_pct": 73.4
+  },
+  {
+    "id": 5199,
+    "name": "Koke",
+    "team": "Spain",
+    "team_id": 772,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 63,
+    "passes_completed": 56,
+    "pass_pct": 88.9
+  },
+  {
+    "id": 3135,
+    "name": "Kwon Chang-Hoon",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 23,
+    "passes_completed": 19,
+    "pass_pct": 82.6
   },
   {
     "id": 33495,
@@ -7980,8 +7994,22 @@
     "pass_pct": 55.6
   },
   {
+    "id": 16275,
+    "name": "Loïs Openda",
+    "team": "Belgium",
+    "team_id": 782,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 5,
+    "passes_completed": 3,
+    "pass_pct": 60.0
+  },
+  {
     "id": 26348,
-    "name": "Lucas Daniel Cavallini",
+    "name": "Lucas Cavallini",
     "team": "Canada",
     "team_id": 1833,
     "matches": 1,
@@ -7995,7 +8023,7 @@
   },
   {
     "id": 5484,
-    "name": "Lucas Hernández Pi",
+    "name": "Lucas Hernandez",
     "team": "France",
     "team_id": 771,
     "matches": 1,
@@ -8020,6 +8048,20 @@
     "passes": 47,
     "passes_completed": 46,
     "pass_pct": 97.9
+  },
+  {
+    "id": 5228,
+    "name": "Majid Hosseini",
+    "team": "Iran",
+    "team_id": 797,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 108,
+    "passes_completed": 87,
+    "pass_pct": 80.6
   },
   {
     "id": 5570,
@@ -8050,8 +8092,22 @@
     "pass_pct": 81.1
   },
   {
+    "id": 5248,
+    "name": "Martín Cáceres",
+    "team": "Uruguay",
+    "team_id": 783,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 81,
+    "passes_completed": 68,
+    "pass_pct": 84.0
+  },
+  {
     "id": 3240,
-    "name": "Mathew Ryan",
+    "name": "Mat Ryan",
     "team": "Australia",
     "team_id": 792,
     "matches": 4,
@@ -8065,7 +8121,7 @@
   },
   {
     "id": 12352,
-    "name": "Matthew Charles Turner",
+    "name": "Matt Turner",
     "team": "United States",
     "team_id": 1839,
     "matches": 4,
@@ -8107,7 +8163,7 @@
   },
   {
     "id": 7345,
-    "name": "Mattéo Guendouzi Olié",
+    "name": "Mattéo Guendouzi",
     "team": "France",
     "team_id": 771,
     "matches": 1,
@@ -8121,7 +8177,7 @@
   },
   {
     "id": 34476,
-    "name": "Matías Nicolás Viña Susperreguy",
+    "name": "Matías Viña",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 2,
@@ -8149,7 +8205,7 @@
   },
   {
     "id": 124510,
-    "name": "Meshaal Aissa Barsham",
+    "name": "Meshaal Barsham",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 2,
@@ -8288,22 +8344,8 @@
     "pass_pct": 72.7
   },
   {
-    "id": 5714,
-    "name": "Mohammed Khalil Al Owais",
-    "team": "Saudi Arabia",
-    "team_id": 799,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 98,
-    "passes_completed": 53,
-    "pass_pct": 54.1
-  },
-  {
     "id": 124909,
-    "name": "Mohammed Waed Abdulwahhab Al Bayati",
+    "name": "Mohammed Al Bayati",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 2,
@@ -8316,22 +8358,22 @@
     "pass_pct": 75.0
   },
   {
-    "id": 40672,
-    "name": "Moon-Hwan Kim",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 4,
+    "id": 5714,
+    "name": "Mohammed Al Owais",
+    "team": "Saudi Arabia",
+    "team_id": 799,
+    "matches": 3,
     "goals": 0,
     "assists": 0,
     "shots": 0,
     "xg": 0.0,
-    "passes": 242,
-    "passes_completed": 205,
-    "pass_pct": 84.7
+    "passes": 98,
+    "passes_completed": 53,
+    "pass_pct": 54.1
   },
   {
     "id": 124512,
-    "name": "Mosaab Khoder Jibril",
+    "name": "Mosaab Khoder",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 1,
@@ -8344,8 +8386,22 @@
     "pass_pct": 100.0
   },
   {
+    "id": 16015,
+    "name": "Moumi Ngamaleu",
+    "team": "Cameroon",
+    "team_id": 2722,
+    "matches": 2,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 24,
+    "passes_completed": 21,
+    "pass_pct": 87.5
+  },
+  {
     "id": 5233,
-    "name": "Munir Mohand Mohamedi",
+    "name": "Munir",
     "team": "Morocco",
     "team_id": 788,
     "matches": 1,
@@ -8442,20 +8498,6 @@
     "pass_pct": 89.5
   },
   {
-    "id": 68574,
-    "name": "Nicholas Williams Arthuer",
-    "team": "Spain",
-    "team_id": 772,
-    "matches": 4,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 62,
-    "passes_completed": 52,
-    "pass_pct": 83.9
-  },
-  {
     "id": 24118,
     "name": "Nico Schlotterbeck",
     "team": "Germany",
@@ -8468,6 +8510,20 @@
     "passes": 123,
     "passes_completed": 112,
     "pass_pct": 91.1
+  },
+  {
+    "id": 68574,
+    "name": "Nico Williams",
+    "team": "Spain",
+    "team_id": 772,
+    "matches": 4,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 62,
+    "passes_completed": 52,
+    "pass_pct": 83.9
   },
   {
     "id": 50502,
@@ -8496,20 +8552,6 @@
     "passes": 10,
     "passes_completed": 9,
     "pass_pct": 90.0
-  },
-  {
-    "id": 16015,
-    "name": "Nicolas Moumi Ngamaleu",
-    "team": "Cameroon",
-    "team_id": 2722,
-    "matches": 2,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 24,
-    "passes_completed": 21,
-    "pass_pct": 87.5
   },
   {
     "id": 21547,
@@ -8555,7 +8597,7 @@
   },
   {
     "id": 11388,
-    "name": "Néstor Alejandro Araújo Razo",
+    "name": "Néstor Araujo",
     "team": "Mexico",
     "team_id": 794,
     "matches": 1,
@@ -8583,7 +8625,7 @@
   },
   {
     "id": 6892,
-    "name": "Pau Francisco Torres",
+    "name": "Pau Torres",
     "team": "Spain",
     "team_id": 772,
     "matches": 1,
@@ -8597,7 +8639,7 @@
   },
   {
     "id": 5743,
-    "name": "Paulo Bruno Exequiel Dybala",
+    "name": "Paulo Dybala",
     "team": "Argentina",
     "team_id": 779,
     "matches": 2,
@@ -8611,7 +8653,7 @@
   },
   {
     "id": 30486,
-    "name": "Pedro González López",
+    "name": "Pedri",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -8625,7 +8667,7 @@
   },
   {
     "id": 38004,
-    "name": "Piero Martín Hincapié Reyna",
+    "name": "Piero Hincapié",
     "team": "Ecuador",
     "team_id": 3565,
     "matches": 3,
@@ -8653,7 +8695,7 @@
   },
   {
     "id": 16190,
-    "name": "Rasmus Nissen Kristensen",
+    "name": "Rasmus Kristensen",
     "team": "Denmark",
     "team_id": 776,
     "matches": 3,
@@ -8667,7 +8709,7 @@
   },
   {
     "id": 5568,
-    "name": "Raúl Alonso Jiménez Rodríguez",
+    "name": "Raúl Jiménez",
     "team": "Mexico",
     "team_id": 794,
     "matches": 3,
@@ -8695,7 +8737,7 @@
   },
   {
     "id": 5544,
-    "name": "Ricardo Iván Rodríguez Araya",
+    "name": "Ricardo Rodríguez",
     "team": "Switzerland",
     "team_id": 773,
     "matches": 4,
@@ -8751,7 +8793,7 @@
   },
   {
     "id": 26375,
-    "name": "Roberto Carlos Alvarado Hernández",
+    "name": "Roberto Alvarado",
     "team": "Mexico",
     "team_id": 794,
     "matches": 1,
@@ -8765,7 +8807,7 @@
   },
   {
     "id": 15477,
-    "name": "Ronald Alberto Matarrita Ulate",
+    "name": "Ronald Matarrita",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 2,
@@ -8779,7 +8821,7 @@
   },
   {
     "id": 124496,
-    "name": "Saad Abdullah Al Sheeb",
+    "name": "Saad Al Sheeb",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 1,
@@ -8807,7 +8849,7 @@
   },
   {
     "id": 5178,
-    "name": "Salman Mohammed Al Faraj",
+    "name": "Salman Al Faraj",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 1,
@@ -8835,7 +8877,7 @@
   },
   {
     "id": 51632,
-    "name": "Sami Khalil Al Naji",
+    "name": "Sami Al Naji",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 1,
@@ -8849,7 +8891,7 @@
   },
   {
     "id": 8591,
-    "name": "Samuel Yves Oum Gwet",
+    "name": "Samuel Gouet",
     "team": "Cameroon",
     "team_id": 2722,
     "matches": 2,
@@ -8877,7 +8919,7 @@
   },
   {
     "id": 36710,
-    "name": "Sergio Rochet Álvarez",
+    "name": "Sergio Rochet",
     "team": "Uruguay",
     "team_id": 783,
     "matches": 3,
@@ -8888,20 +8930,6 @@
     "passes": 76,
     "passes_completed": 53,
     "pass_pct": 69.7
-  },
-  {
-    "id": 37641,
-    "name": "Seung-Gyu Kim",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 4,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 128,
-    "passes_completed": 94,
-    "pass_pct": 73.4
   },
   {
     "id": 125823,
@@ -8918,22 +8946,8 @@
     "pass_pct": 45.8
   },
   {
-    "id": 5228,
-    "name": "Seyed Majid Hosseini",
-    "team": "Iran",
-    "team_id": 797,
-    "matches": 3,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 108,
-    "passes_completed": 87,
-    "pass_pct": 80.6
-  },
-  {
     "id": 6806,
-    "name": "Shaquell Moore",
+    "name": "Shaq Moore",
     "team": "United States",
     "team_id": 1839,
     "matches": 2,
@@ -8961,7 +8975,7 @@
   },
   {
     "id": 5534,
-    "name": "Simon Thorup Kjær",
+    "name": "Simon Kjær",
     "team": "Denmark",
     "team_id": 776,
     "matches": 1,
@@ -8972,6 +8986,20 @@
     "passes": 55,
     "passes_completed": 50,
     "pass_pct": 90.9
+  },
+  {
+    "id": 40558,
+    "name": "Son Jun-Ho",
+    "team": "South Korea",
+    "team_id": 791,
+    "matches": 3,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 61,
+    "passes_completed": 56,
+    "pass_pct": 91.8
   },
   {
     "id": 50528,
@@ -9031,7 +9059,7 @@
   },
   {
     "id": 11846,
-    "name": "Steven de Sousa Vitoria",
+    "name": "Steven Vitória",
     "team": "Canada",
     "team_id": 1833,
     "matches": 3,
@@ -9073,7 +9101,7 @@
   },
   {
     "id": 124504,
-    "name": "Tarek Salman Salman",
+    "name": "Tarek Salman",
     "team": "Qatar",
     "team_id": 3566,
     "matches": 1,
@@ -9087,7 +9115,7 @@
   },
   {
     "id": 28637,
-    "name": "Thiago Ezequiel Almada",
+    "name": "Thiago Almada",
     "team": "Argentina",
     "team_id": 779,
     "matches": 1,
@@ -9199,7 +9227,7 @@
   },
   {
     "id": 11748,
-    "name": "Unai Simón Mendibil",
+    "name": "Unai Simón",
     "team": "Spain",
     "team_id": 772,
     "matches": 4,
@@ -9268,20 +9296,6 @@
     "pass_pct": 78.8
   },
   {
-    "id": 25101,
-    "name": "Weverton Pereira da Silva",
-    "team": "Brazil",
-    "team_id": 781,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 5,
-    "passes_completed": 4,
-    "pass_pct": 80.0
-  },
-  {
     "id": 17592,
     "name": "William Saliba",
     "team": "France",
@@ -9308,6 +9322,20 @@
     "passes": 146,
     "passes_completed": 88,
     "pass_pct": 60.3
+  },
+  {
+    "id": 25101,
+    "name": "Wéverton",
+    "team": "Brazil",
+    "team_id": 781,
+    "matches": 1,
+    "goals": 0,
+    "assists": 0,
+    "shots": 0,
+    "xg": 0.0,
+    "passes": 5,
+    "passes_completed": 4,
+    "pass_pct": 80.0
   },
   {
     "id": 39167,
@@ -9353,7 +9381,7 @@
   },
   {
     "id": 5183,
-    "name": "Yasir Gharsan Al Shahrani",
+    "name": "Yasir Al Shahrani",
     "team": "Saudi Arabia",
     "team_id": 799,
     "matches": 1,
@@ -9422,20 +9450,6 @@
     "pass_pct": 83.3
   },
   {
-    "id": 99479,
-    "name": "Yu-Min Cho",
-    "team": "South Korea",
-    "team_id": 791,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 0,
-    "passes_completed": 0,
-    "pass_pct": null
-  },
-  {
     "id": 5690,
     "name": "Yuto Nagatomo",
     "team": "Japan",
@@ -9465,7 +9479,7 @@
   },
   {
     "id": 6377,
-    "name": "Ángel Martín Correa",
+    "name": "Ángel Correa",
     "team": "Argentina",
     "team_id": 779,
     "matches": 1,
@@ -9478,22 +9492,8 @@
     "pass_pct": 100.0
   },
   {
-    "id": 15872,
-    "name": "Érick Gabriel Gutiérrez Galaviz",
-    "team": "Mexico",
-    "team_id": 794,
-    "matches": 1,
-    "goals": 0,
-    "assists": 0,
-    "shots": 0,
-    "xg": 0.0,
-    "passes": 30,
-    "passes_completed": 25,
-    "pass_pct": 83.3
-  },
-  {
     "id": 25154,
-    "name": "Éverton Augusto de Barros Ribeiro",
+    "name": "Éverton Ribeiro",
     "team": "Brazil",
     "team_id": 781,
     "matches": 1,
@@ -9507,7 +9507,7 @@
   },
   {
     "id": 5598,
-    "name": "Óscar Esau Duarte Gaitán",
+    "name": "Óscar Duarte",
     "team": "Costa Rica",
     "team_id": 795,
     "matches": 3,

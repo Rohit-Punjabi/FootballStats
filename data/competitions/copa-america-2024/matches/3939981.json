@@ -2,7 +2,7 @@
   "match_id": 3939981,
   "shots": [
     {
-      "player": "Edgar Yoel Bárcenas Herrera",
+      "player": "Édgar Yoel Bárcenas",
       "team": "Panama",
       "minute": 1,
       "x": 106.6,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "César Rodolfo Blackman Camarena",
+      "player": "César Blackman",
       "team": "Panama",
       "minute": 25,
       "x": 99.5,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "César Rodolfo Blackman Camarena",
+      "player": "César Blackman",
       "team": "Panama",
       "minute": 25,
       "x": 101.6,
@@ -52,7 +52,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "César Rodolfo Blackman Camarena",
+      "player": "César Blackman",
       "team": "Panama",
       "minute": 27,
       "x": 109.0,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Edgar Yoel Bárcenas Herrera",
+      "player": "Édgar Yoel Bárcenas",
       "team": "Panama",
       "minute": 28,
       "x": 102.7,
@@ -102,7 +102,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Cristian Jesús Martínez",
+      "player": "Christian Martínez",
       "team": "Panama",
       "minute": 48,
       "x": 89.4,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Michael Amir Murillo Bermudez",
+      "player": "Michael Murillo",
       "team": "Panama",
       "minute": 73,
       "x": 106.5,
@@ -152,7 +152,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Abdiel Armando Ayarza Cocanegra",
+      "player": "Abdiel Ayarza",
       "team": "Panama",
       "minute": 81,
       "x": 85.2,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Edgar Yoel Bárcenas Herrera",
+      "player": "Édgar Yoel Bárcenas",
       "team": "Panama",
       "minute": 82,
       "x": 95.6,

@@ -2,7 +2,7 @@
   "match_id": 3869151,
   "shots": [
     {
-      "player": "Alejandro Darío Gómez",
+      "player": "Papu Gómez",
       "team": "Argentina",
       "minute": 16,
       "x": 98.2,
@@ -22,7 +22,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 34,
       "x": 104.2,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 49,
       "x": 99.8,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 65,
       "x": 95.4,
@@ -62,7 +62,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Nicolás Alejandro Tagliafico",
+      "player": "Nicolás Tagliafico",
       "team": "Argentina",
       "minute": 74,
       "x": 103.2,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Aziz Eraltay Behich",
+      "player": "Aziz Behich",
       "team": "Australia",
       "minute": 80,
       "x": 110.6,
@@ -102,7 +102,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 87,
       "x": 108.3,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 88,
       "x": 107.6,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 92,
       "x": 109.1,
@@ -132,7 +132,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 92,
       "x": 104.6,
@@ -142,7 +142,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Exequiel Alejandro Palacios",
+      "player": "Exequiel Palacios",
       "team": "Argentina",
       "minute": 93,
       "x": 103.6,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 93,
       "x": 102.2,
@@ -162,7 +162,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 93,
       "x": 108.3,
@@ -172,7 +172,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 94,
       "x": 106.4,

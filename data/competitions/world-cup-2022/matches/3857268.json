@@ -2,7 +2,7 @@
   "match_id": 3857268,
   "shots": [
     {
-      "player": "Michy Batshuayi Tunga",
+      "player": "Michy Batshuayi",
       "team": "Belgium",
       "minute": 0,
       "x": 91.7,
@@ -82,7 +82,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "David Junior Hoilett",
+      "player": "Junior Hoilett",
       "team": "Canada",
       "minute": 15,
       "x": 104.9,
@@ -92,7 +92,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Michy Batshuayi Tunga",
+      "player": "Michy Batshuayi",
       "team": "Belgium",
       "minute": 22,
       "x": 112.3,
@@ -142,7 +142,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Michy Batshuayi Tunga",
+      "player": "Michy Batshuayi",
       "team": "Belgium",
       "minute": 32,
       "x": 111.8,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Michy Batshuayi Tunga",
+      "player": "Michy Batshuayi",
       "team": "Belgium",
       "minute": 43,
       "x": 109.0,
@@ -222,7 +222,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Michy Batshuayi Tunga",
+      "player": "Michy Batshuayi",
       "team": "Belgium",
       "minute": 66,
       "x": 103.9,

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getMatches, getCompetition, competitionSlugs } from "@/lib/data";
 import { PageHeader } from "@/components/ui";
+import { TeamBadge } from "@/components/TeamBadge";
 
 export function generateStaticParams() {
   return competitionSlugs().map((competition) => ({ competition }));
@@ -29,11 +30,17 @@ export default async function MatchesPage({ params }: PageProps<"/[competition]/
                   href={`/${competition}/matches/${m.id}`}
                   className="card card-hover px-5 py-4 flex items-center gap-3"
                 >
-                  <span className="flex-1 text-right truncate">{m.home_team}</span>
-                  <span className="stat-num font-bold px-2">
-                    {m.home_score}&nbsp;-&nbsp;{m.away_score}
+                  <span className="flex-1 flex items-center justify-end gap-2 min-w-0">
+                    <span className="truncate">{m.home_team}</span>
+                    <TeamBadge team={m.home_team} size="sm" />
                   </span>
-                  <span className="flex-1 truncate">{m.away_team}</span>
+                  <span className="stat-num font-bold px-1">
+                    {m.home_score}&nbsp;·&nbsp;{m.away_score}
+                  </span>
+                  <span className="flex-1 flex items-center gap-2 min-w-0">
+                    <TeamBadge team={m.away_team} size="sm" />
+                    <span className="truncate">{m.away_team}</span>
+                  </span>
                 </Link>
               ))}
             </div>

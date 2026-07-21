@@ -10,6 +10,7 @@ import {
 } from "@/lib/data";
 import { ShotMap } from "@/components/ShotMap";
 import { Section } from "@/components/ui";
+import { TeamBadge } from "@/components/TeamBadge";
 
 export function generateStaticParams() {
   return competitionSlugs().flatMap((competition) =>
@@ -33,7 +34,7 @@ export default async function MatchPage({ params }: PageProps<"/[competition]/ma
   return (
     <div>
       <Link href={`/${competition}/matches`} className="text-sm text-primary hover:underline">
-        ← All matches
+        Back to all matches
       </Link>
 
       <div className="card p-8 mt-4">
@@ -55,12 +56,18 @@ export default async function MatchPage({ params }: PageProps<"/[competition]/ma
             </>
           )}
         </p>
-        <div className="flex items-center justify-center gap-6 mt-4">
-          <span className="flex-1 text-right text-xl font-semibold">{match.home_team}</span>
-          <span className="stat-num text-4xl font-bold">
-            {match.home_score} <span className="text-faint">–</span> {match.away_score}
+        <div className="flex items-center justify-center gap-5 mt-4">
+          <span className="flex-1 flex items-center justify-end gap-3 text-xl font-semibold min-w-0">
+            <span className="truncate">{match.home_team}</span>
+            <TeamBadge team={match.home_team} size="lg" />
           </span>
-          <span className="flex-1 text-left text-xl font-semibold">{match.away_team}</span>
+          <span className="stat-num text-4xl font-bold whitespace-nowrap">
+            {match.home_score} <span className="text-faint">·</span> {match.away_score}
+          </span>
+          <span className="flex-1 flex items-center gap-3 text-xl font-semibold min-w-0">
+            <TeamBadge team={match.away_team} size="lg" />
+            <span className="truncate">{match.away_team}</span>
+          </span>
         </div>
         <div className="flex items-center justify-center gap-6 mt-3 text-sm text-muted">
           <span className="flex-1 text-right stat-num">xG {sumXg(homeShots)}</span>

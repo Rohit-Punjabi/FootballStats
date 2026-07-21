@@ -2,7 +2,7 @@
   "match_id": 3857298,
   "shots": [
     {
-      "player": "Otávio Edmilson da Silva Monteiro",
+      "player": "Otavinho",
       "team": "Portugal",
       "minute": 4,
       "x": 96.6,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rúben Diogo Da Silva Neves",
+      "player": "Rúben Neves",
       "team": "Portugal",
       "minute": 5,
       "x": 98.1,
@@ -22,7 +22,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 9,
       "x": 107.7,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 12,
       "x": 116.3,
@@ -42,7 +42,7 @@
       "body_part": "Head"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 27,
       "x": 104.2,
@@ -52,7 +52,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Otávio Edmilson da Silva Monteiro",
+      "player": "Otavinho",
       "team": "Portugal",
       "minute": 35,
       "x": 99.9,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 41,
       "x": 110.0,
@@ -92,7 +92,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 64,
       "x": 108.1,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Iñaki Williams Arthuer",
+      "player": "Iñaki Williams",
       "team": "Ghana",
       "minute": 66,
       "x": 91.1,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Thomas Teye Partey",
+      "player": "Thomas Partey",
       "team": "Ghana",
       "minute": 68,
       "x": 92.4,
@@ -132,7 +132,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "André Ayew Pelé",
+      "player": "André Ayew",
       "team": "Ghana",
       "minute": 72,
       "x": 115.6,
@@ -142,7 +142,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 77,
       "x": 107.5,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rafael Alexandre Conceição Leão",
+      "player": "Rafael Leão",
       "team": "Portugal",
       "minute": 79,
       "x": 111.7,
@@ -182,7 +182,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Rafael Alexandre Conceição Leão",
+      "player": "Rafael Leão",
       "team": "Portugal",
       "minute": 95,
       "x": 95.5,

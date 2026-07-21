@@ -16,7 +16,7 @@ export default async function ComparePage({ params }: PageProps<"/[competition]/
     <div>
       <PageHeader
         title="Compare players"
-        subtitle="Pick any two players to see their tournament stats head to head."
+        subtitle="Pick any two players and see how they stack up against each other."
       />
       <CompareTool players={players} slug={competition} />
     </div>

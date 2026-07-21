@@ -2,7 +2,7 @@
   "match_id": 3869254,
   "shots": [
     {
-      "player": "Breel-Donald Embolo",
+      "player": "Breel Embolo",
       "team": "Switzerland",
       "minute": 4,
       "x": 104.1,
@@ -12,7 +12,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Gonçalo Matias Ramos",
+      "player": "Gonçalo Ramos",
       "team": "Portugal",
       "minute": 16,
       "x": 111.3,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Otávio Edmilson da Silva Monteiro",
+      "player": "Otavinho",
       "team": "Portugal",
       "minute": 21,
       "x": 101.4,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Gonçalo Matias Ramos",
+      "player": "Gonçalo Ramos",
       "team": "Portugal",
       "minute": 21,
       "x": 100.7,
@@ -52,7 +52,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Kléper Laveran Lima Ferreira",
+      "player": "Pepe",
       "team": "Portugal",
       "minute": 32,
       "x": 114.3,
@@ -72,7 +72,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Fabian Lukas Schär",
+      "player": "Fabian Schär",
       "team": "Switzerland",
       "minute": 37,
       "x": 99.9,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Gonçalo Matias Ramos",
+      "player": "Gonçalo Ramos",
       "team": "Portugal",
       "minute": 42,
       "x": 107.5,
@@ -92,7 +92,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Raphaël Adelino José Guerreiro",
+      "player": "Raphaël Guerreiro",
       "team": "Portugal",
       "minute": 47,
       "x": 96.0,
@@ -102,7 +102,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Gonçalo Matias Ramos",
+      "player": "Gonçalo Ramos",
       "team": "Portugal",
       "minute": 48,
       "x": 114.4,
@@ -112,7 +112,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Gonçalo Matias Ramos",
+      "player": "Gonçalo Ramos",
       "team": "Portugal",
       "minute": 50,
       "x": 115.8,
@@ -122,7 +122,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 52,
       "x": 103.5,
@@ -132,7 +132,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Kléper Laveran Lima Ferreira",
+      "player": "Pepe",
       "team": "Portugal",
       "minute": 53,
       "x": 110.8,
@@ -142,7 +142,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Raphaël Adelino José Guerreiro",
+      "player": "Raphaël Guerreiro",
       "team": "Portugal",
       "minute": 54,
       "x": 110.9,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Manuel Obafemi Akanji",
+      "player": "Manuel Akanji",
       "team": "Switzerland",
       "minute": 57,
       "x": 118.7,
@@ -172,7 +172,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Gonçalo Matias Ramos",
+      "player": "Gonçalo Ramos",
       "team": "Portugal",
       "minute": 66,
       "x": 112.6,
@@ -182,7 +182,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Denis Lemi Zakaria Lako Lado",
+      "player": "Denis Zakaria",
       "team": "Switzerland",
       "minute": 70,
       "x": 97.5,
@@ -192,7 +192,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 75,
       "x": 88.9,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Breel-Donald Embolo",
+      "player": "Breel Embolo",
       "team": "Switzerland",
       "minute": 79,
       "x": 102.1,
@@ -232,7 +232,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rafael Alexandre Conceição Leão",
+      "player": "Rafael Leão",
       "team": "Portugal",
       "minute": 91,
       "x": 105.0,
@@ -242,7 +242,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rúben Santos Gato Alves Dias",
+      "player": "Rúben Dias",
       "team": "Portugal",
       "minute": 93,
       "x": 108.0,

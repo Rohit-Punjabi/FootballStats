@@ -80,7 +80,7 @@ export function ShotMap({
                 fillOpacity={s.isGoal ? 0.9 : 0}
               >
                 <title>
-                  {s.player} — {s.minute}&apos; · xG {(s.xg ?? 0).toFixed(2)} ·{" "}
+                  {s.player}, {s.minute}&apos; · xG {(s.xg ?? 0).toFixed(2)} ·{" "}
                   {s.outcome}
                 </title>
               </circle>
@@ -88,7 +88,8 @@ export function ShotMap({
           })}
       </svg>
       <p className="text-xs text-muted mt-2 px-1">
-        Circle size = expected goals (xG). Filled = goal. Hover a shot for detail.
+        Bigger circles are better chances (higher xG). Filled circles are goals. Hover over any
+        shot to see the details.
       </p>
     </div>
   );

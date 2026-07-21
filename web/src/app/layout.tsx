@@ -6,9 +6,9 @@ import "./globals.css";
 const inter = Inter({ variable: "--font-inter", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "FootballStats — the story behind the numbers",
+  title: "FootballStats: the story behind the numbers",
   description:
-    "A calm, visual home for football statistics. Shot maps, xG, and deep stats for every match, player, team and stadium. Built on StatsBomb open data.",
+    "A calm, welcoming home for football stats. Shot maps, xG, and deep numbers for every match, player, team and stadium. Built on StatsBomb open data.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
@@ -33,7 +33,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
 
         <footer className="border-t border-border/70 text-sm text-muted mt-16">
           <div className="mx-auto max-w-[1200px] px-6 py-8 flex flex-col sm:flex-row gap-2 justify-between">
-            <p>A portfolio project — non-commercial.</p>
+            <p>A little project made for the love of the game.</p>
             <p>
               Data ©{" "}
               <a

@@ -2,7 +2,7 @@
   "match_id": 3869486,
   "shots": [
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 3,
       "x": 106.8,
@@ -22,7 +22,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Raphaël Adelino José Guerreiro",
+      "player": "Raphaël Guerreiro",
       "team": "Portugal",
       "minute": 12,
       "x": 105.6,
@@ -52,7 +52,7 @@
       "body_part": "Head"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 30,
       "x": 100.9,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 38,
       "x": 102.2,
@@ -102,7 +102,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Bruno Miguel Borges Fernandes",
+      "player": "Bruno Fernandes",
       "team": "Portugal",
       "minute": 44,
       "x": 108.0,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Gonçalo Matias Ramos",
+      "player": "Gonçalo Ramos",
       "team": "Portugal",
       "minute": 57,
       "x": 108.7,
@@ -142,7 +142,7 @@
       "body_part": "Head"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 60,
       "x": 109.7,
@@ -152,7 +152,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Bruno Miguel Borges Fernandes",
+      "player": "Bruno Fernandes",
       "team": "Portugal",
       "minute": 63,
       "x": 101.0,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Bernardo Mota Veiga de Carvalho e Silva",
+      "player": "Bernardo Silva",
       "team": "Portugal",
       "minute": 70,
       "x": 109.8,
@@ -172,7 +172,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 81,
       "x": 102.0,
@@ -182,7 +182,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 90,
       "x": 101.8,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kléper Laveran Lima Ferreira",
+      "player": "Pepe",
       "team": "Portugal",
       "minute": 96,
       "x": 114.1,

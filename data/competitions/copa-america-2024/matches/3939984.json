@@ -2,7 +2,7 @@
   "match_id": 3939984,
   "shots": [
     {
-      "player": "Luis Fernando Díaz Marulanda",
+      "player": "Luis Díaz",
       "team": "Colombia",
       "minute": 5,
       "x": 110.4,
@@ -12,7 +12,7 @@
       "body_part": "Other"
     },
     {
-      "player": "Davinson Sánchez Mina",
+      "player": "Davinson Sánchez",
       "team": "Colombia",
       "minute": 9,
       "x": 113.7,
@@ -22,7 +22,7 @@
       "body_part": "Head"
     },
     {
-      "player": "James David Rodríguez Rubio",
+      "player": "James Rodríguez",
       "team": "Colombia",
       "minute": 19,
       "x": 103.3,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Davinson Sánchez Mina",
+      "player": "Davinson Sánchez",
       "team": "Colombia",
       "minute": 23,
       "x": 114.4,
@@ -42,7 +42,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jhon Andrés Córdoba Copete",
+      "player": "Jhon Córdoba",
       "team": "Colombia",
       "minute": 23,
       "x": 114.4,
@@ -72,7 +72,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Fernando Díaz Marulanda",
+      "player": "Luis Díaz",
       "team": "Colombia",
       "minute": 30,
       "x": 108.1,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Richard Rios Montoya",
+      "player": "Richard",
       "team": "Colombia",
       "minute": 32,
       "x": 90.8,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jefferson Andrés Lerma Solís",
+      "player": "Jefferson Lerma",
       "team": "Colombia",
       "minute": 33,
       "x": 112.9,
@@ -112,7 +112,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Davinson Sánchez Mina",
+      "player": "Davinson Sánchez",
       "team": "Colombia",
       "minute": 36,
       "x": 116.8,
@@ -132,7 +132,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Luis Fernando Díaz Marulanda",
+      "player": "Luis Díaz",
       "team": "Colombia",
       "minute": 51,
       "x": 109.7,
@@ -142,7 +142,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Johan Andrés Mojica Palacio",
+      "player": "Johan Mojica",
       "team": "Colombia",
       "minute": 51,
       "x": 108.6,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Davinson Sánchez Mina",
+      "player": "Davinson Sánchez",
       "team": "Colombia",
       "minute": 58,
       "x": 112.7,
@@ -162,7 +162,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Jhon Andrés Córdoba Copete",
+      "player": "Jhon Córdoba",
       "team": "Colombia",
       "minute": 61,
       "x": 113.5,
@@ -172,7 +172,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jhon Adolfo Arias Andrade",
+      "player": "Jhon Arias",
       "team": "Colombia",
       "minute": 72,
       "x": 92.7,
@@ -182,7 +182,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Jhon Andrés Córdoba Copete",
+      "player": "Jhon Córdoba",
       "team": "Colombia",
       "minute": 72,
       "x": 102.5,
@@ -202,7 +202,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Yaser Esneider Asprilla Martínez",
+      "player": "Yáser Asprilla",
       "team": "Colombia",
       "minute": 75,
       "x": 101.5,
@@ -212,7 +212,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Yaser Esneider Asprilla Martínez",
+      "player": "Yáser Asprilla",
       "team": "Colombia",
       "minute": 81,
       "x": 92.6,

@@ -26,6 +26,24 @@ import config
 sys.stdout.reconfigure(encoding="utf-8")
 
 
+def load_nicknames(slug: str) -> dict[int, str]:
+    """player_id -> common name from StatsBomb lineups (e.g. 'Lionel Messi').
+
+    StatsBomb stores the full legal name in events ('Lionel Andrés Messi
+    Cuccittini') but a familiar 'player_nickname' in the lineups. We prefer the
+    nickname wherever it exists.
+    """
+    names: dict[int, str] = {}
+    for f in (config.raw_dir(slug) / "lineups").glob("*.json"):
+        for players in config.read_json(f).values():
+            for p in players:
+                pid = p.get("player_id")
+                nick = p.get("player_nickname")
+                if pid is not None and isinstance(nick, str) and nick.strip():
+                    names[int(pid)] = nick.strip()
+    return names
+
+
 def _load_events(slug: str) -> pd.DataFrame:
     frames = []
     for f in sorted((config.raw_dir(slug) / "events").glob("*.json")):
@@ -74,7 +92,7 @@ def build_teams(events: pd.DataFrame) -> list[dict]:
     return [{"id": int(r.team_id), "name": r.team} for r in teams.itertuples(index=False)]
 
 
-def build_players(events: pd.DataFrame) -> list[dict]:
+def build_players(events: pd.DataFrame, nicknames: dict[int, str]) -> list[dict]:
     etype = _col(events, "type")
     in_play = _col(events, "period") != 5  # exclude penalty-shootout kicks
     shots = events[(etype == "Shot") & in_play].copy()
@@ -104,7 +122,7 @@ def build_players(events: pd.DataFrame) -> list[dict]:
         passes_c = int(p["passes_completed"]) if p is not None else 0
         players.append({
             "id": int(pid),
-            "name": row["player"],
+            "name": nicknames.get(int(pid), row["player"]),
             "team": row["team"],
             "team_id": _int_or_none(row["team_id"]),
             "matches": int(row["matches"]),
@@ -131,7 +149,7 @@ def build_stadiums(matches: list[dict]) -> list[dict]:
     return stadiums
 
 
-def build_match_details(slug: str, events: pd.DataFrame) -> None:
+def build_match_details(slug: str, events: pd.DataFrame, nicknames: dict[int, str]) -> None:
     etype = _col(events, "type")
     in_play = _col(events, "period") != 5
     shots = events[(etype == "Shot") & in_play].copy()
@@ -139,8 +157,10 @@ def build_match_details(slug: str, events: pd.DataFrame) -> None:
         shot_list = []
         for _, r in g.iterrows():
             loc = r.get("location")
+            pid = r.get("player_id")
+            name = nicknames.get(int(pid), r.get("player")) if pd.notna(pid) else r.get("player")
             shot_list.append({
-                "player": r.get("player"), "team": r.get("team"),
+                "player": name, "team": r.get("team"),
                 "minute": _int_or_none(r.get("minute")),
                 "x": loc[0] if isinstance(loc, list) and len(loc) >= 2 else None,
                 "y": loc[1] if isinstance(loc, list) and len(loc) >= 2 else None,
@@ -176,13 +196,14 @@ def process_competition(slug: str) -> dict:
     meta = config.read_json(config.raw_dir(slug) / "meta.json")
     raw_matches = config.read_json(config.raw_dir(slug) / "matches.json")
     events = _load_events(slug)
-    print(f"  {slug}: {len(events):,} events", flush=True)
+    nicknames = load_nicknames(slug)
+    print(f"  {slug}: {len(events):,} events, {len(nicknames)} nicknames", flush=True)
 
     matches = build_matches(raw_matches)
     teams = build_teams(events)
-    players = build_players(events)
+    players = build_players(events, nicknames)
     stadiums = build_stadiums(matches)
-    build_match_details(slug, events)
+    build_match_details(slug, events, nicknames)
 
     champion = find_champion(matches, events)
     top = players[0] if players else None

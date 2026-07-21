@@ -2,7 +2,7 @@
   "match_id": 3857270,
   "shots": [
     {
-      "player": "Mathías Olivera Miramontes",
+      "player": "Mathías Olivera",
       "team": "Uruguay",
       "minute": 2,
       "x": 98.2,
@@ -12,7 +12,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "William Silva de Carvalho",
+      "player": "William Carvalho",
       "team": "Portugal",
       "minute": 2,
       "x": 104.9,
@@ -22,7 +22,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Bruno Miguel Borges Fernandes",
+      "player": "Bruno Fernandes",
       "team": "Portugal",
       "minute": 7,
       "x": 90.8,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "José María Giménez de Vargas",
+      "player": "José Giménez",
       "team": "Uruguay",
       "minute": 11,
       "x": 109.4,
@@ -42,7 +42,7 @@
       "body_part": "Head"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 15,
       "x": 101.0,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 17,
       "x": 96.0,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rúben Diogo Da Silva Neves",
+      "player": "Rúben Neves",
       "team": "Portugal",
       "minute": 19,
       "x": 92.4,
@@ -72,7 +72,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rodrigo Bentancur Colmán",
+      "player": "Rodrigo Bentancur",
       "team": "Uruguay",
       "minute": 31,
       "x": 106.8,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 34,
       "x": 99.4,
@@ -92,7 +92,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 34,
       "x": 91.6,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rodrigo Bentancur Colmán",
+      "player": "Rodrigo Bentancur",
       "team": "Uruguay",
       "minute": 35,
       "x": 108.4,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Bruno Miguel Borges Fernandes",
+      "player": "Bruno Fernandes",
       "team": "Portugal",
       "minute": 36,
       "x": 93.1,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "João Félix Sequeira",
+      "player": "João Félix",
       "team": "Portugal",
       "minute": 51,
       "x": 107.9,
@@ -132,7 +132,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Bruno Miguel Borges Fernandes",
+      "player": "Bruno Fernandes",
       "team": "Portugal",
       "minute": 53,
       "x": 99.4,
@@ -142,7 +142,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "player": "Cristiano Ronaldo",
       "team": "Portugal",
       "minute": 56,
       "x": 84.9,
@@ -152,7 +152,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Edinson Roberto Cavani Gómez",
+      "player": "Edinson Cavani",
       "team": "Uruguay",
       "minute": 57,
       "x": 102.9,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Darwin Gabriel Núñez Ribeiro",
+      "player": "Darwin Núñez",
       "team": "Uruguay",
       "minute": 59,
       "x": 92.8,
@@ -172,7 +172,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Mathías Olivera Miramontes",
+      "player": "Mathías Olivera",
       "team": "Uruguay",
       "minute": 64,
       "x": 108.1,
@@ -182,7 +182,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Maximiliano Gómez González",
+      "player": "Maxi Gómez",
       "team": "Uruguay",
       "minute": 74,
       "x": 99.2,
@@ -192,7 +192,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Alberto Suárez Díaz",
+      "player": "Luis Suárez",
       "team": "Uruguay",
       "minute": 77,
       "x": 115.6,
@@ -202,7 +202,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Giorgian Daniel De Arrascaeta Benedetti",
+      "player": "Giorgian De Arrascaeta",
       "team": "Uruguay",
       "minute": 78,
       "x": 109.3,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rafael Alexandre Conceição Leão",
+      "player": "Rafael Leão",
       "team": "Portugal",
       "minute": 82,
       "x": 95.3,
@@ -222,7 +222,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Federico Santiago Valverde Dipetta",
+      "player": "Federico Valverde",
       "team": "Uruguay",
       "minute": 85,
       "x": 88.2,
@@ -232,7 +232,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Bruno Miguel Borges Fernandes",
+      "player": "Bruno Fernandes",
       "team": "Portugal",
       "minute": 92,
       "x": 108.0,
@@ -242,7 +242,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Bruno Miguel Borges Fernandes",
+      "player": "Bruno Fernandes",
       "team": "Portugal",
       "minute": 97,
       "x": 117.7,
@@ -252,7 +252,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Bruno Miguel Borges Fernandes",
+      "player": "Bruno Fernandes",
       "team": "Portugal",
       "minute": 98,
       "x": 100.6,

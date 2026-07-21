@@ -2,7 +2,7 @@
   "match_id": 3939986,
   "shots": [
     {
-      "player": "Alejandro Garnacho Ferreyra",
+      "player": "Alejandro Garnacho",
       "team": "Argentina",
       "minute": 10,
       "x": 104.5,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Carlos Augusto Zambrano Ochandarte",
+      "player": "Carlos Zambrano",
       "team": "Peru",
       "minute": 20,
       "x": 108.8,
@@ -22,7 +22,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Leandro Daniel Paredes",
+      "player": "Leandro Paredes",
       "team": "Argentina",
       "minute": 25,
       "x": 91.1,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Germán Alejandro Pezzella",
+      "player": "Germán Pezzella",
       "team": "Argentina",
       "minute": 36,
       "x": 107.4,
@@ -42,7 +42,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Wilder José Cartagena Mendoza",
+      "player": "Wilder Cartagena",
       "team": "Peru",
       "minute": 39,
       "x": 96.1,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ángel Fabián Di María Hernández",
+      "player": "Ángel Di María",
       "team": "Argentina",
       "minute": 40,
       "x": 100.2,
@@ -72,7 +72,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Alejandro Garnacho Ferreyra",
+      "player": "Alejandro Garnacho",
       "team": "Argentina",
       "minute": 43,
       "x": 105.3,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 46,
       "x": 106.1,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Marcos Johan López Lanfranco",
+      "player": "Marcos López",
       "team": "Peru",
       "minute": 65,
       "x": 90.2,
@@ -102,7 +102,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Carlos Augusto Zambrano Ochandarte",
+      "player": "Carlos Zambrano",
       "team": "Peru",
       "minute": 66,
       "x": 107.3,
@@ -112,7 +112,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Leandro Daniel Paredes",
+      "player": "Leandro Paredes",
       "team": "Argentina",
       "minute": 71,
       "x": 108.0,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 71,
       "x": 107.7,
@@ -142,7 +142,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 82,
       "x": 107.0,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 85,
       "x": 107.3,
@@ -162,7 +162,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Franco Zanelatto Téllez",
+      "player": "Franco Zanelatto",
       "team": "Peru",
       "minute": 88,
       "x": 108.2,
@@ -182,7 +182,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Jesús Abdallah Castillo Molina",
+      "player": "Jesús Castillo",
       "team": "Peru",
       "minute": 92,
       "x": 99.6,

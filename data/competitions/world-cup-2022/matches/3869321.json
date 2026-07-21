@@ -2,7 +2,7 @@
   "match_id": 3869321,
   "shots": [
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 4,
       "x": 101.6,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 21,
       "x": 96.6,
@@ -32,7 +32,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 32,
       "x": 97.6,
@@ -42,7 +42,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Nahuel Molina Lucero",
+      "player": "Nahuel Molina",
       "team": "Argentina",
       "minute": 34,
       "x": 109.1,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 39,
       "x": 104.0,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 62,
       "x": 96.0,
@@ -72,7 +72,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 72,
       "x": 108.0,
@@ -132,7 +132,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 109,
       "x": 101.1,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 113,
       "x": 109.5,
@@ -172,7 +172,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Germán Alejandro Pezzella",
+      "player": "Germán Pezzella",
       "team": "Argentina",
       "minute": 115,
       "x": 112.5,
@@ -182,7 +182,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 118,
       "x": 97.6,
@@ -192,7 +192,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 119,
       "x": 96.6,

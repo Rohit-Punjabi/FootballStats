@@ -2,7 +2,7 @@
   "match_id": 3857300,
   "shots": [
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 1,
       "x": 104.5,
@@ -12,7 +12,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 9,
       "x": 108.0,
@@ -22,7 +22,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Alejandro Darío Gómez",
+      "player": "Papu Gómez",
       "team": "Argentina",
       "minute": 20,
       "x": 98.4,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 41,
       "x": 113.2,
@@ -42,7 +42,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 41,
       "x": 101.1,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Saleh Khalid Al Shehri",
+      "player": "Saleh Al Shehri",
       "team": "Saudi Arabia",
       "minute": 47,
       "x": 108.0,
@@ -62,7 +62,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Nawaf Shaker Al Abid",
+      "player": "Nawaf Al Abid",
       "team": "Saudi Arabia",
       "minute": 52,
       "x": 104.9,
@@ -72,7 +72,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Salem Mohammed Al Dawsari",
+      "player": "Salem Al Dawsari",
       "team": "Saudi Arabia",
       "minute": 52,
       "x": 102.4,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Nicolás Alejandro Tagliafico",
+      "player": "Nicolás Tagliafico",
       "team": "Argentina",
       "minute": 62,
       "x": 116.1,
@@ -102,7 +102,7 @@
       "body_part": "Other"
     },
     {
-      "player": "Lautaro Javier Martínez",
+      "player": "Lautaro Martínez",
       "team": "Argentina",
       "minute": 68,
       "x": 116.5,
@@ -112,7 +112,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Ángel Fabián Di María Hernández",
+      "player": "Ángel Di María",
       "team": "Argentina",
       "minute": 71,
       "x": 111.4,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Ángel Fabián Di María Hernández",
+      "player": "Ángel Di María",
       "team": "Argentina",
       "minute": 73,
       "x": 86.7,
@@ -142,7 +142,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 79,
       "x": 92.8,
@@ -152,7 +152,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 83,
       "x": 113.6,
@@ -162,7 +162,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Nicolás Hernán Otamendi",
+      "player": "Nicolás Otamendi",
       "team": "Argentina",
       "minute": 90,
       "x": 109.5,

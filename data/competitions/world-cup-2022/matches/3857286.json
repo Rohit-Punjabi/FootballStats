@@ -2,7 +2,7 @@
   "match_id": 3857286,
   "shots": [
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 15,
       "x": 108.1,
@@ -12,7 +12,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Romario Andrés Ibarra Mina",
+      "player": "Romario Ibarra",
       "team": "Ecuador",
       "minute": 28,
       "x": 96.5,
@@ -22,7 +22,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Enner Remberto Valencia Lastra",
+      "player": "Enner Valencia",
       "team": "Ecuador",
       "minute": 30,
       "x": 109.6,
@@ -32,7 +32,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Abdelkarim Hassan Al Haj Fadlalla",
+      "player": "Abdelkarim Hassan",
       "team": "Qatar",
       "minute": 32,
       "x": 88.4,
@@ -42,7 +42,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Almoez Ali Zainalabiddin Abdulla",
+      "player": "Almoez Ali",
       "team": "Qatar",
       "minute": 49,
       "x": 113.0,
@@ -52,7 +52,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Angelo Smit Preciado Quiñónez",
+      "player": "Angelo Preciado",
       "team": "Ecuador",
       "minute": 51,
       "x": 91.7,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Romario Andrés Ibarra Mina",
+      "player": "Romario Ibarra",
       "team": "Ecuador",
       "minute": 54,
       "x": 101.9,
@@ -82,7 +82,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Akram Hassan Afif",
+      "player": "Akram Afif",
       "team": "Qatar",
       "minute": 74,
       "x": 92.1,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Kevin José Rodríguez Cortez",
+      "player": "Kevin Rodríguez",
       "team": "Ecuador",
       "minute": 94,
       "x": 112.3,

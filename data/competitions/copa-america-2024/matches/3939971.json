@@ -2,7 +2,7 @@
   "match_id": 3939971,
   "shots": [
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 3,
       "x": 105.1,
@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Santiago Tomás Giménez",
+      "player": "Santiago Giménez",
       "team": "Mexico",
       "minute": 14,
       "x": 115.0,
@@ -82,7 +82,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 35,
       "x": 86.7,
@@ -92,7 +92,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Bobby Armani De Cordova-Reid",
+      "player": "Bobby De Cordova-Reid",
       "team": "Jamaica",
       "minute": 36,
       "x": 100.5,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "César Jasib Montes Castro",
+      "player": "César Montes",
       "team": "Mexico",
       "minute": 42,
       "x": 87.8,
@@ -112,7 +112,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Francisco Romo Barrón",
+      "player": "Luis Romo",
       "team": "Mexico",
       "minute": 45,
       "x": 100.2,
@@ -122,7 +122,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Julián Andrés Quiñones Quiñones",
+      "player": "Julián Quiñones",
       "team": "Mexico",
       "minute": 47,
       "x": 108.7,
@@ -132,7 +132,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "César Jasib Montes Castro",
+      "player": "César Montes",
       "team": "Mexico",
       "minute": 50,
       "x": 111.8,
@@ -162,7 +162,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 54,
       "x": 102.7,
@@ -182,7 +182,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 56,
       "x": 96.3,
@@ -192,7 +192,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "César Jasib Montes Castro",
+      "player": "César Montes",
       "team": "Mexico",
       "minute": 56,
       "x": 111.6,
@@ -202,7 +202,7 @@
       "body_part": "Head"
     },
     {
-      "player": "Julián Andrés Quiñones Quiñones",
+      "player": "Julián Quiñones",
       "team": "Mexico",
       "minute": 59,
       "x": 105.2,
@@ -212,7 +212,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Gerardo Chávez Magallón",
+      "player": "Luis Chávez",
       "team": "Mexico",
       "minute": 61,
       "x": 91.9,
@@ -222,7 +222,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Santiago Tomás Giménez",
+      "player": "Santiago Giménez",
       "team": "Mexico",
       "minute": 63,
       "x": 109.9,
@@ -232,7 +232,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Gerardo Daniel Arteaga Zamora",
+      "player": "Gerardo Arteaga",
       "team": "Mexico",
       "minute": 63,
       "x": 100.1,
@@ -242,7 +242,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Julián Andrés Quiñones Quiñones",
+      "player": "Julián Quiñones",
       "team": "Mexico",
       "minute": 65,
       "x": 105.0,
@@ -252,7 +252,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Jorge Eduardo Sánchez Ramos",
+      "player": "Jorge Sánchez",
       "team": "Mexico",
       "minute": 66,
       "x": 101.5,
@@ -262,7 +262,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Gerardo Daniel Arteaga Zamora",
+      "player": "Gerardo Arteaga",
       "team": "Mexico",
       "minute": 68,
       "x": 101.7,
@@ -272,7 +272,7 @@
       "body_part": "Left Foot"
     },
     {
-      "player": "Julián Andrés Quiñones Quiñones",
+      "player": "Julián Quiñones",
       "team": "Mexico",
       "minute": 74,
       "x": 94.5,
@@ -282,7 +282,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Erick Daniel Sánchez Ocegueda",
+      "player": "Erick Sánchez",
       "team": "Mexico",
       "minute": 79,
       "x": 85.5,
@@ -292,7 +292,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Luis Francisco Romo Barrón",
+      "player": "Luis Romo",
       "team": "Mexico",
       "minute": 82,
       "x": 83.4,

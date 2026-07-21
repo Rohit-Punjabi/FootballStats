@@ -32,7 +32,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 33,
       "x": 108.0,
@@ -52,7 +52,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Rodrigo Javier De Paul",
+      "player": "Rodrigo De Paul",
       "team": "Argentina",
       "minute": 40,
       "x": 95.6,
@@ -62,7 +62,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Alexis Mac Allister",
+      "player": "Alexis MacAllister",
       "team": "Argentina",
       "minute": 41,
       "x": 113.5,
@@ -92,7 +92,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Leandro Daniel Paredes",
+      "player": "Leandro Paredes",
       "team": "Argentina",
       "minute": 48,
       "x": 85.0,
@@ -102,7 +102,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Lionel Andrés Messi Cuccittini",
+      "player": "Lionel Messi",
       "team": "Argentina",
       "minute": 57,
       "x": 112.7,
@@ -172,7 +172,7 @@
       "body_part": "Right Foot"
     },
     {
-      "player": "Alexis Mac Allister",
+      "player": "Alexis MacAllister",
       "team": "Argentina",
       "minute": 82,
       "x": 107.1,
