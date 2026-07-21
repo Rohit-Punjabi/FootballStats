@@ -1,0 +1,315 @@
+{
+  "match_id": 3857268,
+  "shots": [
+    {
+      "player": "Michy Batshuayi Tunga",
+      "team": "Belgium",
+      "minute": 0,
+      "x": 91.7,
+      "y": 31.8,
+      "xg": 0.018,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Stephen Antunes Eustáquio",
+      "team": "Canada",
+      "minute": 1,
+      "x": 109.8,
+      "y": 50.0,
+      "xg": 0.08,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 6,
+      "x": 111.4,
+      "y": 42.8,
+      "xg": 0.126,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tajon Buchanan",
+      "team": "Canada",
+      "minute": 7,
+      "x": 106.2,
+      "y": 35.6,
+      "xg": 0.057,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada",
+      "minute": 10,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 10,
+      "x": 110.4,
+      "y": 34.6,
+      "xg": 0.205,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Richie Laryea",
+      "team": "Canada",
+      "minute": 12,
+      "x": 105.0,
+      "y": 56.4,
+      "xg": 0.034,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 12,
+      "x": 107.7,
+      "y": 45.9,
+      "xg": 0.086,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "David Junior Hoilett",
+      "team": "Canada",
+      "minute": 15,
+      "x": 104.9,
+      "y": 53.9,
+      "xg": 0.041,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Michy Batshuayi Tunga",
+      "team": "Belgium",
+      "minute": 22,
+      "x": 112.3,
+      "y": 50.2,
+      "xg": 0.047,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Atiba Hutchinson",
+      "team": "Canada",
+      "minute": 26,
+      "x": 98.1,
+      "y": 44.7,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alistair Johnston",
+      "team": "Canada",
+      "minute": 29,
+      "x": 108.1,
+      "y": 56.3,
+      "xg": 0.034,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 30,
+      "x": 104.4,
+      "y": 37.5,
+      "xg": 0.088,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 31,
+      "x": 111.1,
+      "y": 34.1,
+      "xg": 0.089,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Michy Batshuayi Tunga",
+      "team": "Belgium",
+      "minute": 32,
+      "x": 111.8,
+      "y": 51.3,
+      "xg": 0.081,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Michy Batshuayi Tunga",
+      "team": "Belgium",
+      "minute": 43,
+      "x": 109.0,
+      "y": 36.1,
+      "xg": 0.25,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Tajon Buchanan",
+      "team": "Canada",
+      "minute": 46,
+      "x": 112.6,
+      "y": 42.5,
+      "xg": 0.296,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Stephen Antunes Eustáquio",
+      "team": "Canada",
+      "minute": 48,
+      "x": 100.5,
+      "y": 38.5,
+      "xg": 0.049,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 47,
+      "x": 111.7,
+      "y": 36.9,
+      "xg": 0.12,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Stephen Antunes Eustáquio",
+      "team": "Canada",
+      "minute": 49,
+      "x": 97.8,
+      "y": 52.7,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tajon Buchanan",
+      "team": "Canada",
+      "minute": 62,
+      "x": 98.3,
+      "y": 34.5,
+      "xg": 0.059,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Richie Laryea",
+      "team": "Canada",
+      "minute": 66,
+      "x": 101.7,
+      "y": 54.6,
+      "xg": 0.023,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Michy Batshuayi Tunga",
+      "team": "Belgium",
+      "minute": 66,
+      "x": 103.9,
+      "y": 43.0,
+      "xg": 0.09,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 76,
+      "x": 103.1,
+      "y": 38.1,
+      "xg": 0.046,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 79,
+      "x": 108.2,
+      "y": 44.1,
+      "xg": 0.072,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Leander Dendoncker",
+      "team": "Belgium",
+      "minute": 84,
+      "x": 112.5,
+      "y": 43.5,
+      "xg": 0.089,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 85,
+      "x": 96.6,
+      "y": 39.5,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 85,
+      "x": 111.7,
+      "y": 37.5,
+      "xg": 0.111,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Thomas Meunier",
+      "team": "Belgium",
+      "minute": 90,
+      "x": 98.0,
+      "y": 55.5,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 90,
+      "x": 114.3,
+      "y": 59.2,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 91,
+      "x": 111.1,
+      "y": 36.1,
+      "xg": 0.067,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    }
+  ]
+}

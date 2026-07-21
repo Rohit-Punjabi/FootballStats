@@ -1,0 +1,175 @@
+{
+  "match_id": 3857295,
+  "shots": [
+    {
+      "player": "Ritsu Doan",
+      "team": "Japan",
+      "minute": 2,
+      "x": 91.7,
+      "y": 53.8,
+      "xg": 0.016,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Gerson Torres Barrantes",
+      "team": "Costa Rica",
+      "minute": 3,
+      "x": 90.1,
+      "y": 47.7,
+      "xg": 0.014,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Francisco Javier Calvo Quesada",
+      "team": "Costa Rica",
+      "minute": 34,
+      "x": 91.0,
+      "y": 26.8,
+      "xg": 0.014,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Joel Nathaniel Campbell Samuels",
+      "team": "Costa Rica",
+      "minute": 34,
+      "x": 101.0,
+      "y": 29.1,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Wataru Endo",
+      "team": "Japan",
+      "minute": 37,
+      "x": 100.1,
+      "y": 51.7,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Hidemasa Morita",
+      "team": "Japan",
+      "minute": 45,
+      "x": 101.4,
+      "y": 30.9,
+      "xg": 0.097,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Takuma Asano",
+      "team": "Japan",
+      "minute": 45,
+      "x": 104.1,
+      "y": 50.2,
+      "xg": 0.051,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Wataru Endo",
+      "team": "Japan",
+      "minute": 47,
+      "x": 95.2,
+      "y": 41.1,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Takuma Asano",
+      "team": "Japan",
+      "minute": 47,
+      "x": 107.6,
+      "y": 37.5,
+      "xg": 0.087,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ko Itakura",
+      "team": "Japan",
+      "minute": 49,
+      "x": 105.0,
+      "y": 40.0,
+      "xg": 0.078,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Wataru Endo",
+      "team": "Japan",
+      "minute": 49,
+      "x": 103.1,
+      "y": 34.1,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yuki Soma",
+      "team": "Japan",
+      "minute": 56,
+      "x": 105.4,
+      "y": 22.1,
+      "xg": 0.022,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yuki Soma",
+      "team": "Japan",
+      "minute": 62,
+      "x": 98.1,
+      "y": 35.7,
+      "xg": 0.086,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daichi Kamada",
+      "team": "Japan",
+      "minute": 71,
+      "x": 101.2,
+      "y": 43.2,
+      "xg": 0.1,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yuki Soma",
+      "team": "Japan",
+      "minute": 71,
+      "x": 95.7,
+      "y": 44.3,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Keysher Fuller Spence",
+      "team": "Costa Rica",
+      "minute": 80,
+      "x": 102.6,
+      "y": 47.5,
+      "xg": 0.12,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daichi Kamada",
+      "team": "Japan",
+      "minute": 87,
+      "x": 108.0,
+      "y": 37.6,
+      "xg": 0.094,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "match_id": 3857283,
+  "shots": [
+    {
+      "player": "Michy Batshuayi Tunga",
+      "team": "Belgium",
+      "minute": 4,
+      "x": 110.0,
+      "y": 29.6,
+      "xg": 0.136,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 15,
+      "x": 95.2,
+      "y": 30.1,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Amadou Onana",
+      "team": "Belgium",
+      "minute": 16,
+      "x": 114.6,
+      "y": 38.6,
+      "xg": 0.227,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Thomas Meunier",
+      "team": "Belgium",
+      "minute": 18,
+      "x": 101.1,
+      "y": 27.4,
+      "xg": 0.05,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 20,
+      "x": 88.5,
+      "y": 52.0,
+      "xg": 0.011,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Selim Amallah",
+      "team": "Morocco",
+      "minute": 27,
+      "x": 106.0,
+      "y": 49.7,
+      "xg": 0.054,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Achraf Hakimi Mouh",
+      "team": "Morocco",
+      "minute": 34,
+      "x": 109.4,
+      "y": 56.3,
+      "xg": 0.054,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 34,
+      "x": 94.1,
+      "y": 42.1,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 38,
+      "x": 112.6,
+      "y": 6.7,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 49,
+      "x": 95.2,
+      "y": 48.1,
+      "xg": 0.03,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Eden Hazard",
+      "team": "Belgium",
+      "minute": 51,
+      "x": 104.9,
+      "y": 58.7,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Amadou Onana",
+      "team": "Belgium",
+      "minute": 51,
+      "x": 111.4,
+      "y": 40.8,
+      "xg": 0.065,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Sofiane Boufal",
+      "team": "Morocco",
+      "minute": 56,
+      "x": 106.6,
+      "y": 22.0,
+      "xg": 0.014,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Noussair Mazraoui",
+      "team": "Morocco",
+      "minute": 60,
+      "x": 87.4,
+      "y": 35.3,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dries Mertens",
+      "team": "Belgium",
+      "minute": 64,
+      "x": 97.9,
+      "y": 37.7,
+      "xg": 0.066,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Azzedine Ounahi",
+      "team": "Morocco",
+      "minute": 68,
+      "x": 87.6,
+      "y": 38.2,
+      "xg": 0.023,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Romain Saïss",
+      "team": "Morocco",
+      "minute": 72,
+      "x": 118.0,
+      "y": 36.4,
+      "xg": 0.565,
+      "outcome": "Goal",
+      "body_part": "Other"
+    },
+    {
+      "player": "Jan Vertonghen",
+      "team": "Belgium",
+      "minute": 81,
+      "x": 109.1,
+      "y": 37.6,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Abderrazak Hamdallah",
+      "team": "Morocco",
+      "minute": 90,
+      "x": 116.6,
+      "y": 28.9,
+      "xg": 0.037,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Zakaria Aboukhlal",
+      "team": "Morocco",
+      "minute": 91,
+      "x": 110.3,
+      "y": 46.8,
+      "xg": 0.181,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ]
+}

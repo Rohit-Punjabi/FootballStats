@@ -1,0 +1,285 @@
+{
+  "match_id": 3869152,
+  "shots": [
+    {
+      "player": "Raphaël Varane",
+      "team": "France",
+      "minute": 3,
+      "x": 114.3,
+      "y": 40.0,
+      "xg": 0.146,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ousmane Dembélé",
+      "team": "France",
+      "minute": 10,
+      "x": 116.0,
+      "y": 51.8,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Aurélien Djani Tchouaméni",
+      "team": "France",
+      "minute": 12,
+      "x": 87.8,
+      "y": 30.9,
+      "xg": 0.017,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ousmane Dembélé",
+      "team": "France",
+      "minute": 16,
+      "x": 99.2,
+      "y": 46.7,
+      "xg": 0.077,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 20,
+      "x": 92.5,
+      "y": 43.3,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "France",
+      "minute": 21,
+      "x": 94.5,
+      "y": 56.1,
+      "xg": 0.016,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Przemysław Frankowski",
+      "team": "Poland",
+      "minute": 24,
+      "x": 109.5,
+      "y": 24.7,
+      "xg": 0.044,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 32,
+      "x": 94.8,
+      "y": 26.6,
+      "xg": 0.043,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Matty Cash",
+      "team": "Poland",
+      "minute": 33,
+      "x": 99.1,
+      "y": 56.2,
+      "xg": 0.024,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 34,
+      "x": 111.5,
+      "y": 24.9,
+      "xg": 0.048,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 35,
+      "x": 105.2,
+      "y": 44.5,
+      "xg": 0.047,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 37,
+      "x": 106.6,
+      "y": 41.6,
+      "xg": 0.139,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 37,
+      "x": 111.4,
+      "y": 43.9,
+      "xg": 0.21,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jakub Kamiński",
+      "team": "Poland",
+      "minute": 37,
+      "x": 114.1,
+      "y": 50.5,
+      "xg": 0.072,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 43,
+      "x": 105.6,
+      "y": 32.3,
+      "xg": 0.286,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jakub Kamiński",
+      "team": "Poland",
+      "minute": 45,
+      "x": 108.8,
+      "y": 51.7,
+      "xg": 0.039,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antoine Griezmann",
+      "team": "France",
+      "minute": 47,
+      "x": 106.9,
+      "y": 63.2,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Theo Bernard François Hernández",
+      "team": "France",
+      "minute": 47,
+      "x": 98.0,
+      "y": 38.5,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 55,
+      "x": 102.0,
+      "y": 26.7,
+      "xg": 0.029,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 62,
+      "x": 110.2,
+      "y": 26.3,
+      "xg": 0.054,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 65,
+      "x": 115.8,
+      "y": 46.8,
+      "xg": 0.124,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kamil Glik",
+      "team": "Poland",
+      "minute": 70,
+      "x": 114.0,
+      "y": 32.0,
+      "xg": 0.041,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 73,
+      "x": 104.8,
+      "y": 28.6,
+      "xg": 0.087,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Theo Bernard François Hernández",
+      "team": "France",
+      "minute": 80,
+      "x": 105.0,
+      "y": 33.4,
+      "xg": 0.07,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 90,
+      "x": 106.2,
+      "y": 25.2,
+      "xg": 0.043,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 91,
+      "x": 105.6,
+      "y": 48.7,
+      "xg": 0.061,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 93,
+      "x": 113.0,
+      "y": 40.0,
+      "xg": 0.104,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 98,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "match_id": 3857255,
+  "shots": [
+    {
+      "player": "Sergio Busquets i Burgos",
+      "team": "Spain",
+      "minute": 6,
+      "x": 97.0,
+      "y": 46.1,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Junya Ito",
+      "team": "Japan",
+      "minute": 7,
+      "x": 114.0,
+      "y": 53.5,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Álvaro Borja Morata Martín",
+      "team": "Spain",
+      "minute": 8,
+      "x": 109.9,
+      "y": 35.6,
+      "xg": 0.064,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Álvaro Borja Morata Martín",
+      "team": "Spain",
+      "minute": 11,
+      "x": 115.3,
+      "y": 38.3,
+      "xg": 0.331,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Álvaro Borja Morata Martín",
+      "team": "Spain",
+      "minute": 22,
+      "x": 104.7,
+      "y": 51.6,
+      "xg": 0.101,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daichi Kamada",
+      "team": "Japan",
+      "minute": 35,
+      "x": 107.0,
+      "y": 54.5,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 41,
+      "x": 102.8,
+      "y": 35.2,
+      "xg": 0.104,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ritsu Doan",
+      "team": "Japan",
+      "minute": 47,
+      "x": 100.5,
+      "y": 55.8,
+      "xg": 0.028,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ao Tanaka",
+      "team": "Japan",
+      "minute": 50,
+      "x": 118.7,
+      "y": 40.2,
+      "xg": 0.873,
+      "outcome": "Goal",
+      "body_part": "Other"
+    },
+    {
+      "player": "Takuma Asano",
+      "team": "Japan",
+      "minute": 69,
+      "x": 100.5,
+      "y": 36.3,
+      "xg": 0.131,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marco Asensio Willemsen",
+      "team": "Spain",
+      "minute": 73,
+      "x": 104.8,
+      "y": 23.5,
+      "xg": 0.016,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 79,
+      "x": 86.3,
+      "y": 46.3,
+      "xg": 0.016,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ko Itakura",
+      "team": "Japan",
+      "minute": 82,
+      "x": 104.0,
+      "y": 39.0,
+      "xg": 0.05,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Marco Asensio Willemsen",
+      "team": "Spain",
+      "minute": 84,
+      "x": 96.8,
+      "y": 52.1,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jordi Alba Ramos",
+      "team": "Spain",
+      "minute": 88,
+      "x": 97.9,
+      "y": 27.0,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marco Asensio Willemsen",
+      "team": "Spain",
+      "minute": 88,
+      "x": 94.8,
+      "y": 61.9,
+      "xg": 0.008,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 89,
+      "x": 111.0,
+      "y": 52.0,
+      "xg": 0.124,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 95,
+      "x": 94.2,
+      "y": 57.0,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

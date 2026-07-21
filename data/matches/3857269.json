@@ -1,0 +1,195 @@
+{
+  "match_id": 3857269,
+  "shots": [
+    {
+      "player": "Silvan Widmer",
+      "team": "Switzerland",
+      "minute": 5,
+      "x": 114.9,
+      "y": 30.0,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "team": "Brazil",
+      "minute": 26,
+      "x": 112.1,
+      "y": 34.0,
+      "xg": 0.216,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Carlos Henrique Casimiro",
+      "team": "Brazil",
+      "minute": 27,
+      "x": 94.3,
+      "y": 39.7,
+      "xg": 0.023,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Raphael Dias Belloli",
+      "team": "Brazil",
+      "minute": 30,
+      "x": 90.1,
+      "y": 46.2,
+      "xg": 0.022,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Richarlison de Andrade",
+      "team": "Brazil",
+      "minute": 31,
+      "x": 104.2,
+      "y": 41.2,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Éder Gabriel Militão",
+      "team": "Brazil",
+      "minute": 36,
+      "x": 93.2,
+      "y": 45.0,
+      "xg": 0.029,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Thiago Emiliano da Silva",
+      "team": "Brazil",
+      "minute": 43,
+      "x": 115.0,
+      "y": 43.5,
+      "xg": 0.141,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Djibril Sow",
+      "team": "Switzerland",
+      "minute": 52,
+      "x": 112.6,
+      "y": 48.8,
+      "xg": 0.088,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ruben Vargas",
+      "team": "Switzerland",
+      "minute": 53,
+      "x": 104.3,
+      "y": 26.2,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Manuel Obafemi Akanji",
+      "team": "Switzerland",
+      "minute": 54,
+      "x": 103.5,
+      "y": 43.9,
+      "xg": 0.028,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Djibril Sow",
+      "team": "Switzerland",
+      "minute": 59,
+      "x": 99.4,
+      "y": 37.0,
+      "xg": 0.063,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edimilson Fernandes",
+      "team": "Switzerland",
+      "minute": 59,
+      "x": 97.4,
+      "y": 42.8,
+      "xg": 0.029,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcos Aoás Corrêa",
+      "team": "Brazil",
+      "minute": 69,
+      "x": 110.6,
+      "y": 37.4,
+      "xg": 0.078,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Richarlison de Andrade",
+      "team": "Brazil",
+      "minute": 71,
+      "x": 107.0,
+      "y": 26.5,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 80,
+      "x": 102.2,
+      "y": 47.4,
+      "xg": 0.021,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Carlos Henrique Casimiro",
+      "team": "Brazil",
+      "minute": 82,
+      "x": 106.3,
+      "y": 29.4,
+      "xg": 0.069,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 86,
+      "x": 109.7,
+      "y": 25.4,
+      "xg": 0.048,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antony Matheus dos Santos",
+      "team": "Brazil",
+      "minute": 86,
+      "x": 102.1,
+      "y": 56.6,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 93,
+      "x": 105.8,
+      "y": 41.8,
+      "xg": 0.193,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ]
+}

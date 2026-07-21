@@ -1,0 +1,305 @@
+{
+  "match_id": 3869685,
+  "shots": [
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 4,
+      "x": 92.4,
+      "y": 30.0,
+      "xg": 0.025,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrigo Javier De Paul",
+      "team": "Argentina",
+      "minute": 7,
+      "x": 99.2,
+      "y": 47.9,
+      "xg": 0.063,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 16,
+      "x": 103.1,
+      "y": 34.6,
+      "xg": 0.107,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 22,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 31,
+      "x": 94.3,
+      "y": 23.5,
+      "xg": 0.011,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 35,
+      "x": 111.8,
+      "y": 32.1,
+      "xg": 0.303,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodrigo Javier De Paul",
+      "team": "Argentina",
+      "minute": 48,
+      "x": 103.3,
+      "y": 52.3,
+      "xg": 0.04,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 58,
+      "x": 110.5,
+      "y": 24.9,
+      "xg": 0.06,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 59,
+      "x": 109.7,
+      "y": 46.0,
+      "xg": 0.116,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Randal Kolo Muani",
+      "team": "France",
+      "minute": 67,
+      "x": 113.4,
+      "y": 34.6,
+      "xg": 0.096,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 70,
+      "x": 102.5,
+      "y": 27.9,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enzo Fernandez",
+      "team": "Argentina",
+      "minute": 71,
+      "x": 98.9,
+      "y": 32.2,
+      "xg": 0.042,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 79,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 80,
+      "x": 104.8,
+      "y": 30.1,
+      "xg": 0.102,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enzo Fernandez",
+      "team": "Argentina",
+      "minute": 83,
+      "x": 92.2,
+      "y": 35.9,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 92,
+      "x": 95.9,
+      "y": 32.2,
+      "xg": 0.032,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Adrien Rabiot",
+      "team": "France",
+      "minute": 93,
+      "x": 108.9,
+      "y": 28.5,
+      "xg": 0.093,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 96,
+      "x": 96.2,
+      "y": 40.9,
+      "xg": 0.043,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 92,
+      "x": 98.2,
+      "y": 23.8,
+      "xg": 0.019,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Youssouf Fofana",
+      "team": "France",
+      "minute": 99,
+      "x": 89.8,
+      "y": 39.9,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 104,
+      "x": 108.8,
+      "y": 45.3,
+      "xg": 0.233,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gonzalo Ariel Montiel",
+      "team": "Argentina",
+      "minute": 104,
+      "x": 96.3,
+      "y": 49.4,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 105,
+      "x": 105.1,
+      "y": 33.5,
+      "xg": 0.14,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 106,
+      "x": 103.6,
+      "y": 55.8,
+      "xg": 0.025,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 107,
+      "x": 114.4,
+      "y": 52.0,
+      "xg": 0.104,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 107,
+      "x": 116.6,
+      "y": 43.0,
+      "xg": 0.488,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 115,
+      "x": 101.4,
+      "y": 26.6,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 117,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Randal Kolo Muani",
+      "team": "France",
+      "minute": 122,
+      "x": 103.7,
+      "y": 45.1,
+      "xg": 0.278,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 122,
+      "x": 110.8,
+      "y": 41.6,
+      "xg": 0.107,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ]
+}

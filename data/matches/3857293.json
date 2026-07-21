@@ -1,0 +1,215 @@
+{
+  "match_id": 3857293,
+  "shots": [
+    {
+      "player": "Jordan Ayew",
+      "team": "Ghana",
+      "minute": 15,
+      "x": 101.8,
+      "y": 36.6,
+      "xg": 0.071,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "André Ayew Pelé",
+      "team": "Ghana",
+      "minute": 20,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 22,
+      "x": 106.8,
+      "y": 29.0,
+      "xg": 0.158,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Alberto Suárez Díaz",
+      "team": "Uruguay",
+      "minute": 25,
+      "x": 108.6,
+      "y": 33.4,
+      "xg": 0.273,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Giorgian Daniel De Arrascaeta Benedetti",
+      "team": "Uruguay",
+      "minute": 25,
+      "x": 118.0,
+      "y": 42.7,
+      "xg": 0.711,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Giorgian Daniel De Arrascaeta Benedetti",
+      "team": "Uruguay",
+      "minute": 31,
+      "x": 110.8,
+      "y": 31.2,
+      "xg": 0.167,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Kudus",
+      "team": "Ghana",
+      "minute": 36,
+      "x": 94.7,
+      "y": 45.8,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José María Giménez de Vargas",
+      "team": "Uruguay",
+      "minute": 49,
+      "x": 106.5,
+      "y": 42.5,
+      "xg": 0.032,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Osman Bukari",
+      "team": "Ghana",
+      "minute": 45,
+      "x": 104.7,
+      "y": 50.8,
+      "xg": 0.084,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Facundo Pellistri Rebollo",
+      "team": "Uruguay",
+      "minute": 64,
+      "x": 107.5,
+      "y": 33.2,
+      "xg": 0.099,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 69,
+      "x": 92.5,
+      "y": 22.5,
+      "xg": 0.007,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 69,
+      "x": 93.0,
+      "y": 21.1,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Kudus",
+      "team": "Ghana",
+      "minute": 70,
+      "x": 95.7,
+      "y": 47.2,
+      "xg": 0.047,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 76,
+      "x": 59.0,
+      "y": 4.0,
+      "xg": 0.004,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antoine Semenyo",
+      "team": "Ghana",
+      "minute": 78,
+      "x": 109.6,
+      "y": 28.0,
+      "xg": 0.12,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mohammed Kudus",
+      "team": "Ghana",
+      "minute": 80,
+      "x": 96.8,
+      "y": 42.8,
+      "xg": 0.056,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mohammed Kudus",
+      "team": "Ghana",
+      "minute": 94,
+      "x": 108.0,
+      "y": 43.6,
+      "xg": 0.108,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Maximiliano Gómez González",
+      "team": "Uruguay",
+      "minute": 94,
+      "x": 93.0,
+      "y": 49.4,
+      "xg": 0.03,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kamaldeen Sulemana",
+      "team": "Ghana",
+      "minute": 95,
+      "x": 99.5,
+      "y": 50.6,
+      "xg": 0.081,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sebastián Coates Nión",
+      "team": "Uruguay",
+      "minute": 96,
+      "x": 108.8,
+      "y": 43.0,
+      "xg": 0.103,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Diego Nicolás De La Cruz Arcosa",
+      "team": "Uruguay",
+      "minute": 99,
+      "x": 91.4,
+      "y": 33.9,
+      "xg": 0.043,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ]
+}

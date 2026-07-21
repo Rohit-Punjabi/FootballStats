@@ -1,0 +1,285 @@
+{
+  "match_id": 3857299,
+  "shots": [
+    {
+      "player": "Gue-Sung Cho",
+      "team": "South Korea",
+      "minute": 3,
+      "x": 111.9,
+      "y": 44.7,
+      "xg": 0.092,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Woo-Yeong Jeong",
+      "team": "South Korea",
+      "minute": 7,
+      "x": 96.7,
+      "y": 49.1,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Min Jae Kim",
+      "team": "South Korea",
+      "minute": 7,
+      "x": 114.5,
+      "y": 47.9,
+      "xg": 0.059,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "In-Beom Hwang",
+      "team": "South Korea",
+      "minute": 7,
+      "x": 95.7,
+      "y": 54.9,
+      "xg": 0.02,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gue-Sung Cho",
+      "team": "South Korea",
+      "minute": 17,
+      "x": 115.4,
+      "y": 30.4,
+      "xg": 0.056,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mohamed Salisu",
+      "team": "Ghana",
+      "minute": 23,
+      "x": 115.5,
+      "y": 37.9,
+      "xg": 0.404,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mohammed Kudus",
+      "team": "Ghana",
+      "minute": 33,
+      "x": 113.1,
+      "y": 41.8,
+      "xg": 0.201,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Woo-Young Jung",
+      "team": "South Korea",
+      "minute": 44,
+      "x": 100.6,
+      "y": 20.0,
+      "xg": 0.011,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Thomas Teye Partey",
+      "team": "Ghana",
+      "minute": 49,
+      "x": 118.3,
+      "y": 36.2,
+      "xg": 0.215,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Tariq Lamptey",
+      "team": "Ghana",
+      "minute": 49,
+      "x": 104.8,
+      "y": 52.1,
+      "xg": 0.075,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Gue-Sung Cho",
+      "team": "South Korea",
+      "minute": 52,
+      "x": 111.6,
+      "y": 36.7,
+      "xg": 0.077,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Gue-Sung Cho",
+      "team": "South Korea",
+      "minute": 57,
+      "x": 112.6,
+      "y": 38.4,
+      "xg": 0.235,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Gue-Sung Cho",
+      "team": "South Korea",
+      "minute": 60,
+      "x": 115.5,
+      "y": 43.7,
+      "xg": 0.162,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Iñaki Williams Arthuer",
+      "team": "Ghana",
+      "minute": 67,
+      "x": 109.2,
+      "y": 32.5,
+      "xg": 0.106,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Kudus",
+      "team": "Ghana",
+      "minute": 67,
+      "x": 108.4,
+      "y": 48.6,
+      "xg": 0.154,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kang-In Lee",
+      "team": "South Korea",
+      "minute": 74,
+      "x": 90.9,
+      "y": 45.4,
+      "xg": 0.035,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Heung-Min Son",
+      "team": "South Korea",
+      "minute": 75,
+      "x": 110.9,
+      "y": 29.2,
+      "xg": 0.065,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kang-In Lee",
+      "team": "South Korea",
+      "minute": 75,
+      "x": 114.2,
+      "y": 56.1,
+      "xg": 0.011,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jin-Su Kim",
+      "team": "South Korea",
+      "minute": 75,
+      "x": 112.0,
+      "y": 30.1,
+      "xg": 0.191,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Salis Abdul Samed",
+      "team": "Ghana",
+      "minute": 82,
+      "x": 96.1,
+      "y": 40.1,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jin-Su Kim",
+      "team": "South Korea",
+      "minute": 83,
+      "x": 107.7,
+      "y": 23.5,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jin-Su Kim",
+      "team": "South Korea",
+      "minute": 85,
+      "x": 112.0,
+      "y": 33.2,
+      "xg": 0.055,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Heung-Min Son",
+      "team": "South Korea",
+      "minute": 90,
+      "x": 109.6,
+      "y": 28.5,
+      "xg": 0.06,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Young-Gwon Kim",
+      "team": "South Korea",
+      "minute": 90,
+      "x": 103.6,
+      "y": 37.6,
+      "xg": 0.065,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sang-Ho Na",
+      "team": "South Korea",
+      "minute": 90,
+      "x": 113.0,
+      "y": 49.3,
+      "xg": 0.06,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Gue-Sung Cho",
+      "team": "South Korea",
+      "minute": 93,
+      "x": 111.6,
+      "y": 23.1,
+      "xg": 0.014,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kang-In Lee",
+      "team": "South Korea",
+      "minute": 99,
+      "x": 98.5,
+      "y": 56.8,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kyung-Won Kwon",
+      "team": "South Korea",
+      "minute": 100,
+      "x": 83.8,
+      "y": 54.1,
+      "xg": 0.005,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "match_id": 3857263,
+  "shots": [
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 6,
+      "x": 100.5,
+      "y": 26.1,
+      "xg": 0.032,
+      "outcome": "Saved to Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jordi Alba Ramos",
+      "team": "Spain",
+      "minute": 21,
+      "x": 96.6,
+      "y": 23.3,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Serge Gnabry",
+      "team": "Germany",
+      "minute": 24,
+      "x": 102.8,
+      "y": 56.6,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ferrán Torres García",
+      "team": "Spain",
+      "minute": 25,
+      "x": 102.8,
+      "y": 46.4,
+      "xg": 0.069,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Antonio Rüdiger",
+      "team": "Germany",
+      "minute": 29,
+      "x": 89.6,
+      "y": 25.9,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ferrán Torres García",
+      "team": "Spain",
+      "minute": 35,
+      "x": 109.8,
+      "y": 54.6,
+      "xg": 0.048,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antonio Rüdiger",
+      "team": "Germany",
+      "minute": 44,
+      "x": 113.7,
+      "y": 60.2,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 55,
+      "x": 105.8,
+      "y": 40.6,
+      "xg": 0.096,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 58,
+      "x": 85.8,
+      "y": 31.1,
+      "xg": 0.012,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Álvaro Borja Morata Martín",
+      "team": "Spain",
+      "minute": 61,
+      "x": 113.2,
+      "y": 34.3,
+      "xg": 0.319,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Leon Goretzka",
+      "team": "Germany",
+      "minute": 63,
+      "x": 96.2,
+      "y": 39.7,
+      "xg": 0.036,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marco Asensio Willemsen",
+      "team": "Spain",
+      "minute": 64,
+      "x": 101.7,
+      "y": 45.4,
+      "xg": 0.138,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Niclas Füllkrug",
+      "team": "Germany",
+      "minute": 72,
+      "x": 111.2,
+      "y": 41.5,
+      "xg": 0.373,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 72,
+      "x": 110.1,
+      "y": 50.1,
+      "xg": 0.29,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Serge Gnabry",
+      "team": "Germany",
+      "minute": 72,
+      "x": 104.9,
+      "y": 23.6,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Niclas Füllkrug",
+      "team": "Germany",
+      "minute": 73,
+      "x": 111.3,
+      "y": 42.8,
+      "xg": 0.065,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 80,
+      "x": 98.9,
+      "y": 25.7,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Niclas Füllkrug",
+      "team": "Germany",
+      "minute": 82,
+      "x": 110.8,
+      "y": 51.9,
+      "xg": 0.164,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ]
+}

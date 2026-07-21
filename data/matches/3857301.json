@@ -1,0 +1,225 @@
+{
+  "match_id": 3857301,
+  "shots": [
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 3,
+      "x": 113.5,
+      "y": 52.4,
+      "xg": 0.073,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nampalys Mendy",
+      "team": "Senegal",
+      "minute": 8,
+      "x": 93.8,
+      "y": 39.3,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Akram Hassan Afif",
+      "team": "Qatar",
+      "minute": 14,
+      "x": 92.5,
+      "y": 41.5,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Krépin Diatta",
+      "team": "Senegal",
+      "minute": 15,
+      "x": 111.2,
+      "y": 26.7,
+      "xg": 0.039,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Famara Diedhiou",
+      "team": "Senegal",
+      "minute": 16,
+      "x": 112.9,
+      "y": 38.6,
+      "xg": 0.146,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Idrissa Gana Gueye",
+      "team": "Senegal",
+      "minute": 23,
+      "x": 95.4,
+      "y": 52.7,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Abdelkarim Hassan Al Haj Fadlalla",
+      "team": "Qatar",
+      "minute": 25,
+      "x": 93.6,
+      "y": 20.3,
+      "xg": 0.009,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Boulaye Dia",
+      "team": "Senegal",
+      "minute": 40,
+      "x": 107.2,
+      "y": 33.3,
+      "xg": 0.231,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Famara Diedhiou",
+      "team": "Senegal",
+      "minute": 47,
+      "x": 112.5,
+      "y": 48.1,
+      "xg": 0.038,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Abdelkarim Hassan Al Haj Fadlalla",
+      "team": "Qatar",
+      "minute": 54,
+      "x": 111.6,
+      "y": 39.3,
+      "xg": 0.163,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 56,
+      "x": 112.1,
+      "y": 27.2,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Famara Diedhiou",
+      "team": "Senegal",
+      "minute": 58,
+      "x": 108.8,
+      "y": 48.6,
+      "xg": 0.053,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Abdelkarim Hassan Al Haj Fadlalla",
+      "team": "Qatar",
+      "minute": 60,
+      "x": 89.5,
+      "y": 22.9,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Almoez Ali Zainalabiddin Abdulla",
+      "team": "Qatar",
+      "minute": 62,
+      "x": 102.6,
+      "y": 34.4,
+      "xg": 0.214,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ismaeel Mohammad Mohammad",
+      "team": "Qatar",
+      "minute": 66,
+      "x": 113.2,
+      "y": 40.5,
+      "xg": 0.328,
+      "outcome": "Saved",
+      "body_part": "Other"
+    },
+    {
+      "player": "Nampalys Mendy",
+      "team": "Senegal",
+      "minute": 68,
+      "x": 107.3,
+      "y": 53.4,
+      "xg": 0.068,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Muntari",
+      "team": "Qatar",
+      "minute": 77,
+      "x": 110.1,
+      "y": 38.7,
+      "xg": 0.072,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Boulaye Dia",
+      "team": "Senegal",
+      "minute": 80,
+      "x": 107.1,
+      "y": 38.8,
+      "xg": 0.052,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Cheikh Ahmadou Bamba Mbacke Dieng",
+      "team": "Senegal",
+      "minute": 83,
+      "x": 107.8,
+      "y": 45.3,
+      "xg": 0.116,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Abdelkarim Hassan Al Haj Fadlalla",
+      "team": "Qatar",
+      "minute": 88,
+      "x": 95.4,
+      "y": 52.1,
+      "xg": 0.023,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mohammed Muntari",
+      "team": "Qatar",
+      "minute": 89,
+      "x": 110.5,
+      "y": 39.5,
+      "xg": 0.067,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Almoez Ali Zainalabiddin Abdulla",
+      "team": "Qatar",
+      "minute": 93,
+      "x": 97.1,
+      "y": 41.8,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "match_id": 3857264,
+  "shots": [
+    {
+      "player": "Krystian Bielik",
+      "team": "Poland",
+      "minute": 4,
+      "x": 100.7,
+      "y": 41.3,
+      "xg": 0.061,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 6,
+      "x": 99.0,
+      "y": 37.7,
+      "xg": 0.051,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 8,
+      "x": 94.3,
+      "y": 40.5,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 9,
+      "x": 111.7,
+      "y": 25.8,
+      "xg": 0.053,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marcos Javier Acuña",
+      "team": "Argentina",
+      "minute": 16,
+      "x": 107.0,
+      "y": 27.9,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kamil Glik",
+      "team": "Poland",
+      "minute": 21,
+      "x": 105.9,
+      "y": 43.5,
+      "xg": 0.066,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 27,
+      "x": 110.8,
+      "y": 47.7,
+      "xg": 0.149,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcos Javier Acuña",
+      "team": "Argentina",
+      "minute": 27,
+      "x": 102.9,
+      "y": 22.5,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 32,
+      "x": 119.6,
+      "y": 79.2,
+      "xg": 0.0,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Enzo Fernandez",
+      "team": "Argentina",
+      "minute": 34,
+      "x": 91.6,
+      "y": 39.7,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 35,
+      "x": 110.4,
+      "y": 27.6,
+      "xg": 0.191,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 38,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 42,
+      "x": 102.4,
+      "y": 27.0,
+      "xg": 0.037,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrigo Javier De Paul",
+      "team": "Argentina",
+      "minute": 42,
+      "x": 112.2,
+      "y": 40.3,
+      "xg": 0.315,
+      "outcome": "Saved",
+      "body_part": "Other"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 43,
+      "x": 106.7,
+      "y": 58.4,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 45,
+      "x": 106.0,
+      "y": 46.7,
+      "xg": 0.108,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kamil Glik",
+      "team": "Poland",
+      "minute": 49,
+      "x": 108.8,
+      "y": 43.5,
+      "xg": 0.044,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Michał Skóraś",
+      "team": "Poland",
+      "minute": 52,
+      "x": 101.1,
+      "y": 56.9,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 52,
+      "x": 105.8,
+      "y": 28.4,
+      "xg": 0.061,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 55,
+      "x": 109.4,
+      "y": 50.7,
+      "xg": 0.058,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 55,
+      "x": 107.7,
+      "y": 41.5,
+      "xg": 0.152,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 60,
+      "x": 106.0,
+      "y": 46.0,
+      "xg": 0.13,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 63,
+      "x": 107.2,
+      "y": 25.9,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 66,
+      "x": 106.0,
+      "y": 33.5,
+      "xg": 0.101,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 70,
+      "x": 106.5,
+      "y": 35.1,
+      "xg": 0.132,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 72,
+      "x": 106.1,
+      "y": 52.6,
+      "xg": 0.181,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 85,
+      "x": 109.4,
+      "y": 52.2,
+      "xg": 0.18,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolás Alejandro Tagliafico",
+      "team": "Argentina",
+      "minute": 91,
+      "x": 108.2,
+      "y": 30.2,
+      "xg": 0.224,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    }
+  ]
+}

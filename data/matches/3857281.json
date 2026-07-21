@@ -1,0 +1,215 @@
+{
+  "match_id": 3857281,
+  "shots": [
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada",
+      "minute": 1,
+      "x": 109.6,
+      "y": 36.4,
+      "xg": 0.081,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Marko Livaja",
+      "team": "Croatia",
+      "minute": 21,
+      "x": 109.5,
+      "y": 36.8,
+      "xg": 0.434,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marko Livaja",
+      "team": "Croatia",
+      "minute": 34,
+      "x": 109.9,
+      "y": 50.0,
+      "xg": 0.245,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 35,
+      "x": 114.1,
+      "y": 29.4,
+      "xg": 0.146,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marko Livaja",
+      "team": "Croatia",
+      "minute": 43,
+      "x": 101.0,
+      "y": 39.1,
+      "xg": 0.139,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 46,
+      "x": 98.7,
+      "y": 33.1,
+      "xg": 0.059,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jonathan Osorio",
+      "team": "Canada",
+      "minute": 48,
+      "x": 98.3,
+      "y": 50.1,
+      "xg": 0.038,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 53,
+      "x": 108.2,
+      "y": 42.1,
+      "xg": 0.249,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 55,
+      "x": 96.4,
+      "y": 39.9,
+      "xg": 0.053,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tajon Buchanan",
+      "team": "Canada",
+      "minute": 57,
+      "x": 99.8,
+      "y": 52.9,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada",
+      "minute": 62,
+      "x": 101.1,
+      "y": 59.8,
+      "xg": 0.012,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 69,
+      "x": 106.8,
+      "y": 47.1,
+      "xg": 0.109,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 71,
+      "x": 115.1,
+      "y": 46.8,
+      "xg": 0.136,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "David Junior Hoilett",
+      "team": "Canada",
+      "minute": 76,
+      "x": 92.2,
+      "y": 33.0,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 77,
+      "x": 115.3,
+      "y": 26.9,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marcelo Brozović",
+      "team": "Croatia",
+      "minute": 77,
+      "x": 110.3,
+      "y": 42.6,
+      "xg": 0.304,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 81,
+      "x": 96.0,
+      "y": 26.3,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mislav Oršić",
+      "team": "Croatia",
+      "minute": 89,
+      "x": 98.2,
+      "y": 35.1,
+      "xg": 0.046,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "David Junior Hoilett",
+      "team": "Canada",
+      "minute": 92,
+      "x": 98.1,
+      "y": 33.5,
+      "xg": 0.037,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "David Junior Hoilett",
+      "team": "Canada",
+      "minute": 92,
+      "x": 99.5,
+      "y": 26.7,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lovro Majer",
+      "team": "Croatia",
+      "minute": 93,
+      "x": 109.2,
+      "y": 45.4,
+      "xg": 0.687,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    }
+  ]
+}

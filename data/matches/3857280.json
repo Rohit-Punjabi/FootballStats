@@ -1,0 +1,285 @@
+{
+  "match_id": 3857280,
+  "shots": [
+    {
+      "player": "Frederico Rodrigues Santos",
+      "team": "Brazil",
+      "minute": 1,
+      "x": 108.7,
+      "y": 38.6,
+      "xg": 0.295,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Antony Matheus dos Santos",
+      "team": "Brazil",
+      "minute": 1,
+      "x": 103.3,
+      "y": 25.5,
+      "xg": 0.039,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Gabriel Teodoro Martinelli Silva",
+      "team": "Brazil",
+      "minute": 13,
+      "x": 111.8,
+      "y": 34.5,
+      "xg": 0.124,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Gabriel Fernando de Jesus",
+      "team": "Brazil",
+      "minute": 14,
+      "x": 113.4,
+      "y": 48.9,
+      "xg": 0.045,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Frederico Rodrigues Santos",
+      "team": "Brazil",
+      "minute": 21,
+      "x": 107.6,
+      "y": 39.2,
+      "xg": 0.084,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 29,
+      "x": 94.0,
+      "y": 42.7,
+      "xg": 0.065,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Alves da Silva",
+      "team": "Brazil",
+      "minute": 33,
+      "x": 96.7,
+      "y": 29.3,
+      "xg": 0.065,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antony Matheus dos Santos",
+      "team": "Brazil",
+      "minute": 37,
+      "x": 105.6,
+      "y": 52.3,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Gabriel Teodoro Martinelli Silva",
+      "team": "Brazil",
+      "minute": 45,
+      "x": 101.3,
+      "y": 45.2,
+      "xg": 0.048,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 46,
+      "x": 107.8,
+      "y": 50.0,
+      "xg": 0.067,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bryan Mbeumo",
+      "team": "Cameroon",
+      "minute": 47,
+      "x": 113.5,
+      "y": 47.4,
+      "xg": 0.118,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Vincent Paté Aboubakar",
+      "team": "Cameroon",
+      "minute": 50,
+      "x": 109.5,
+      "y": 54.0,
+      "xg": 0.071,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gabriel Fernando de Jesus",
+      "team": "Brazil",
+      "minute": 52,
+      "x": 111.9,
+      "y": 36.3,
+      "xg": 0.279,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pierre Kunde Malong",
+      "team": "Cameroon",
+      "minute": 53,
+      "x": 91.8,
+      "y": 17.8,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gabriel Teodoro Martinelli Silva",
+      "team": "Brazil",
+      "minute": 55,
+      "x": 108.9,
+      "y": 25.7,
+      "xg": 0.039,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Éder Gabriel Militão",
+      "team": "Brazil",
+      "minute": 56,
+      "x": 105.3,
+      "y": 39.2,
+      "xg": 0.076,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Antony Matheus dos Santos",
+      "team": "Brazil",
+      "minute": 57,
+      "x": 101.0,
+      "y": 51.2,
+      "xg": 0.038,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 72,
+      "x": 99.9,
+      "y": 37.6,
+      "xg": 0.086,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jules Olivier Ntcham",
+      "team": "Cameroon",
+      "minute": 77,
+      "x": 92.8,
+      "y": 35.5,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Vincent Paté Aboubakar",
+      "team": "Cameroon",
+      "minute": 79,
+      "x": 104.1,
+      "y": 25.5,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christopher Wooh",
+      "team": "Cameroon",
+      "minute": 80,
+      "x": 106.3,
+      "y": 39.9,
+      "xg": 0.057,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 83,
+      "x": 114.9,
+      "y": 44.0,
+      "xg": 0.149,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pedro Guilherme Abreu dos Santos",
+      "team": "Brazil",
+      "minute": 88,
+      "x": 104.2,
+      "y": 47.1,
+      "xg": 0.185,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Vincent Paté Aboubakar",
+      "team": "Cameroon",
+      "minute": 91,
+      "x": 106.7,
+      "y": 40.7,
+      "xg": 0.055,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Pedro Guilherme Abreu dos Santos",
+      "team": "Brazil",
+      "minute": 95,
+      "x": 108.8,
+      "y": 37.5,
+      "xg": 0.076,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 96,
+      "x": 112.9,
+      "y": 39.8,
+      "xg": 0.171,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Gabriel Teodoro Martinelli Silva",
+      "team": "Brazil",
+      "minute": 97,
+      "x": 115.1,
+      "y": 36.0,
+      "xg": 0.195,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 98,
+      "x": 114.1,
+      "y": 35.3,
+      "xg": 0.22,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

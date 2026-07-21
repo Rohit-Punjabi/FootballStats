@@ -1,0 +1,295 @@
+{
+  "match_id": 3869117,
+  "shots": [
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 2,
+      "x": 107.1,
+      "y": 34.9,
+      "xg": 0.32,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Memphis Depay",
+      "team": "Netherlands",
+      "minute": 9,
+      "x": 104.9,
+      "y": 43.7,
+      "xg": 0.162,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daley Blind",
+      "team": "Netherlands",
+      "minute": 17,
+      "x": 103.6,
+      "y": 30.6,
+      "xg": 0.073,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Memphis Depay",
+      "team": "Netherlands",
+      "minute": 20,
+      "x": 106.1,
+      "y": 62.1,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Timothy Weah",
+      "team": "United States",
+      "minute": 42,
+      "x": 97.5,
+      "y": 53.3,
+      "xg": 0.028,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sergino Dest",
+      "team": "United States",
+      "minute": 43,
+      "x": 105.2,
+      "y": 46.2,
+      "xg": 0.074,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daley Blind",
+      "team": "Netherlands",
+      "minute": 45,
+      "x": 107.6,
+      "y": 38.5,
+      "xg": 0.25,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Weston McKennie",
+      "team": "United States",
+      "minute": 48,
+      "x": 109.1,
+      "y": 36.5,
+      "xg": 0.039,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Tim Ream",
+      "team": "United States",
+      "minute": 48,
+      "x": 116.5,
+      "y": 37.1,
+      "xg": 0.258,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Weston McKennie",
+      "team": "United States",
+      "minute": 48,
+      "x": 108.4,
+      "y": 37.0,
+      "xg": 0.069,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Sergino Dest",
+      "team": "United States",
+      "minute": 50,
+      "x": 100.9,
+      "y": 57.3,
+      "xg": 0.016,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 52,
+      "x": 98.4,
+      "y": 27.3,
+      "xg": 0.041,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Weston McKennie",
+      "team": "United States",
+      "minute": 53,
+      "x": 102.1,
+      "y": 35.0,
+      "xg": 0.053,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cody Mathès Gakpo",
+      "team": "Netherlands",
+      "minute": 60,
+      "x": 100.0,
+      "y": 50.7,
+      "xg": 0.053,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Memphis Depay",
+      "team": "Netherlands",
+      "minute": 60,
+      "x": 98.6,
+      "y": 47.0,
+      "xg": 0.046,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Timothy Weah",
+      "team": "United States",
+      "minute": 62,
+      "x": 99.1,
+      "y": 51.0,
+      "xg": 0.043,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Virgil van Dijk",
+      "team": "Netherlands",
+      "minute": 70,
+      "x": 111.8,
+      "y": 41.3,
+      "xg": 0.08,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Teun Koopmeiners",
+      "team": "Netherlands",
+      "minute": 70,
+      "x": 94.5,
+      "y": 37.8,
+      "xg": 0.045,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Memphis Depay",
+      "team": "Netherlands",
+      "minute": 70,
+      "x": 113.1,
+      "y": 34.4,
+      "xg": 0.277,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Giovanni Reyna",
+      "team": "United States",
+      "minute": 73,
+      "x": 98.9,
+      "y": 49.9,
+      "xg": 0.043,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Haji Wright",
+      "team": "United States",
+      "minute": 74,
+      "x": 115.2,
+      "y": 55.6,
+      "xg": 0.047,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Haji Wright",
+      "team": "United States",
+      "minute": 75,
+      "x": 115.1,
+      "y": 45.2,
+      "xg": 0.364,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Steven Bergwijn",
+      "team": "Netherlands",
+      "minute": 77,
+      "x": 109.5,
+      "y": 32.8,
+      "xg": 0.25,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 78,
+      "x": 99.5,
+      "y": 25.3,
+      "xg": 0.031,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Denzel Dumfries",
+      "team": "Netherlands",
+      "minute": 80,
+      "x": 113.5,
+      "y": 44.3,
+      "xg": 0.236,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Walker Zimmerman",
+      "team": "United States",
+      "minute": 85,
+      "x": 107.2,
+      "y": 43.0,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Giovanni Reyna",
+      "team": "United States",
+      "minute": 88,
+      "x": 103.1,
+      "y": 51.4,
+      "xg": 0.043,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Yunus Dimoara Musah",
+      "team": "United States",
+      "minute": 93,
+      "x": 103.9,
+      "y": 44.2,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Haji Wright",
+      "team": "United States",
+      "minute": 94,
+      "x": 111.3,
+      "y": 40.2,
+      "xg": 0.072,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    }
+  ]
+}

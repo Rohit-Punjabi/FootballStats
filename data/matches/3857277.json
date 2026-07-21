@@ -1,0 +1,135 @@
+{
+  "match_id": 3857277,
+  "shots": [
+    {
+      "player": "Noussair Mazraoui",
+      "team": "Morocco",
+      "minute": 6,
+      "x": 96.9,
+      "y": 32.0,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 12,
+      "x": 101.9,
+      "y": 43.3,
+      "xg": 0.052,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 16,
+      "x": 82.9,
+      "y": 33.6,
+      "xg": 0.01,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sofiane Boufal",
+      "team": "Morocco",
+      "minute": 18,
+      "x": 96.7,
+      "y": 46.7,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 20,
+      "x": 94.5,
+      "y": 37.4,
+      "xg": 0.066,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 24,
+      "x": 117.8,
+      "y": 31.5,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nikola Vlašić",
+      "team": "Croatia",
+      "minute": 45,
+      "x": 114.7,
+      "y": 35.7,
+      "xg": 0.448,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nikola Vlašić",
+      "team": "Croatia",
+      "minute": 46,
+      "x": 105.2,
+      "y": 33.9,
+      "xg": 0.069,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luka Modrić",
+      "team": "Croatia",
+      "minute": 46,
+      "x": 98.8,
+      "y": 39.3,
+      "xg": 0.073,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sofiane Boufal",
+      "team": "Morocco",
+      "minute": 50,
+      "x": 94.0,
+      "y": 38.6,
+      "xg": 0.043,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Noussair Mazraoui",
+      "team": "Morocco",
+      "minute": 50,
+      "x": 115.3,
+      "y": 29.2,
+      "xg": 0.08,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Dejan Lovren",
+      "team": "Croatia",
+      "minute": 51,
+      "x": 112.7,
+      "y": 38.8,
+      "xg": 0.25,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Achraf Hakimi Mouh",
+      "team": "Morocco",
+      "minute": 64,
+      "x": 88.5,
+      "y": 31.5,
+      "xg": 0.019,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ]
+}

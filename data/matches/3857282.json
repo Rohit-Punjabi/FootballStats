@@ -1,0 +1,135 @@
+{
+  "match_id": 3857282,
+  "shots": [
+    {
+      "player": "Joshua Sargent",
+      "team": "United States",
+      "minute": 9,
+      "x": 116.0,
+      "y": 35.3,
+      "xg": 0.253,
+      "outcome": "Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ethan Ampadu",
+      "team": "Wales",
+      "minute": 13,
+      "x": 87.6,
+      "y": 43.1,
+      "xg": 0.014,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sergino Dest",
+      "team": "United States",
+      "minute": 28,
+      "x": 90.9,
+      "y": 56.6,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Timothy Weah",
+      "team": "United States",
+      "minute": 35,
+      "x": 107.7,
+      "y": 37.8,
+      "xg": 0.201,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ben Davies",
+      "team": "Wales",
+      "minute": 44,
+      "x": 114.7,
+      "y": 37.5,
+      "xg": 0.144,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kieffer Roberto Francisco Moore",
+      "team": "Wales",
+      "minute": 60,
+      "x": 93.4,
+      "y": 42.2,
+      "xg": 0.032,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ben Davies",
+      "team": "Wales",
+      "minute": 63,
+      "x": 109.2,
+      "y": 38.3,
+      "xg": 0.187,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kieffer Roberto Francisco Moore",
+      "team": "Wales",
+      "minute": 64,
+      "x": 116.3,
+      "y": 43.4,
+      "xg": 0.193,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Haji Wright",
+      "team": "United States",
+      "minute": 74,
+      "x": 106.6,
+      "y": 46.9,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Brenden Aaronson",
+      "team": "United States",
+      "minute": 76,
+      "x": 116.3,
+      "y": 46.7,
+      "xg": 0.094,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Gareth Frank Bale",
+      "team": "Wales",
+      "minute": 81,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Brennan Johnson",
+      "team": "Wales",
+      "minute": 88,
+      "x": 109.9,
+      "y": 56.2,
+      "xg": 0.043,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tyler Adams",
+      "team": "United States",
+      "minute": 91,
+      "x": 92.8,
+      "y": 35.5,
+      "xg": 0.02,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ]
+}

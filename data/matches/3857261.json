@@ -1,0 +1,255 @@
+{
+  "match_id": 3857261,
+  "shots": [
+    {
+      "player": "Marcus Rashford",
+      "team": "England",
+      "minute": 9,
+      "x": 104.0,
+      "y": 39.5,
+      "xg": 0.284,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Phil Foden",
+      "team": "England",
+      "minute": 14,
+      "x": 97.4,
+      "y": 54.6,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Harry Maguire",
+      "team": "England",
+      "minute": 17,
+      "x": 120.0,
+      "y": 54.6,
+      "xg": 0.011,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Marcus Rashford",
+      "team": "England",
+      "minute": 23,
+      "x": 98.2,
+      "y": 19.5,
+      "xg": 0.01,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Phil Foden",
+      "team": "England",
+      "minute": 37,
+      "x": 105.5,
+      "y": 47.4,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Joe Allen",
+      "team": "Wales",
+      "minute": 38,
+      "x": 94.1,
+      "y": 47.0,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcus Rashford",
+      "team": "England",
+      "minute": 38,
+      "x": 108.4,
+      "y": 35.0,
+      "xg": 0.081,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 43,
+      "x": 101.5,
+      "y": 35.7,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 47,
+      "x": 101.2,
+      "y": 27.6,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "John Stones",
+      "team": "England",
+      "minute": 47,
+      "x": 112.8,
+      "y": 55.4,
+      "xg": 0.006,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Joe Allen",
+      "team": "Wales",
+      "minute": 49,
+      "x": 100.7,
+      "y": 51.3,
+      "xg": 0.041,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marcus Rashford",
+      "team": "England",
+      "minute": 49,
+      "x": 96.1,
+      "y": 29.3,
+      "xg": 0.058,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Phil Foden",
+      "team": "England",
+      "minute": 50,
+      "x": 114.5,
+      "y": 34.1,
+      "xg": 0.44,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kieffer Roberto Francisco Moore",
+      "team": "Wales",
+      "minute": 55,
+      "x": 90.1,
+      "y": 22.3,
+      "xg": 0.008,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcus Rashford",
+      "team": "England",
+      "minute": 67,
+      "x": 109.9,
+      "y": 50.3,
+      "xg": 0.097,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marcus Rashford",
+      "team": "England",
+      "minute": 71,
+      "x": 110.3,
+      "y": 52.4,
+      "xg": 0.132,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Brennan Johnson",
+      "team": "Wales",
+      "minute": 72,
+      "x": 104.5,
+      "y": 57.3,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jude Bellingham",
+      "team": "England",
+      "minute": 76,
+      "x": 104.3,
+      "y": 32.8,
+      "xg": 0.25,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jude Bellingham",
+      "team": "England",
+      "minute": 76,
+      "x": 112.7,
+      "y": 29.3,
+      "xg": 0.244,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Phil Foden",
+      "team": "England",
+      "minute": 76,
+      "x": 116.1,
+      "y": 39.5,
+      "xg": 0.61,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Harry Wilson",
+      "team": "Wales",
+      "minute": 82,
+      "x": 92.6,
+      "y": 52.6,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rubin Colwill",
+      "team": "Wales",
+      "minute": 83,
+      "x": 98.3,
+      "y": 26.1,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kieffer Roberto Francisco Moore",
+      "team": "Wales",
+      "minute": 86,
+      "x": 102.1,
+      "y": 34.6,
+      "xg": 0.058,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "John Stones",
+      "team": "England",
+      "minute": 90,
+      "x": 114.4,
+      "y": 43.9,
+      "xg": 0.455,
+      "outcome": "Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Phil Foden",
+      "team": "England",
+      "minute": 93,
+      "x": 111.0,
+      "y": 48.5,
+      "xg": 0.098,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    }
+  ]
+}

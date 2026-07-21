@@ -1,0 +1,265 @@
+{
+  "match_id": 3857270,
+  "shots": [
+    {
+      "player": "Mathías Olivera Miramontes",
+      "team": "Uruguay",
+      "minute": 2,
+      "x": 98.2,
+      "y": 27.8,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "William Silva de Carvalho",
+      "team": "Portugal",
+      "minute": 2,
+      "x": 104.9,
+      "y": 30.5,
+      "xg": 0.049,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Miguel Borges Fernandes",
+      "team": "Portugal",
+      "minute": 7,
+      "x": 90.8,
+      "y": 53.9,
+      "xg": 0.015,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José María Giménez de Vargas",
+      "team": "Uruguay",
+      "minute": 11,
+      "x": 109.4,
+      "y": 37.1,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 15,
+      "x": 101.0,
+      "y": 30.9,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 17,
+      "x": 96.0,
+      "y": 23.4,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rúben Diogo Da Silva Neves",
+      "team": "Portugal",
+      "minute": 19,
+      "x": 92.4,
+      "y": 50.0,
+      "xg": 0.015,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrigo Bentancur Colmán",
+      "team": "Uruguay",
+      "minute": 31,
+      "x": 106.8,
+      "y": 41.3,
+      "xg": 0.494,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 34,
+      "x": 99.4,
+      "y": 24.7,
+      "xg": 0.029,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 34,
+      "x": 91.6,
+      "y": 31.8,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrigo Bentancur Colmán",
+      "team": "Uruguay",
+      "minute": 35,
+      "x": 108.4,
+      "y": 29.5,
+      "xg": 0.074,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Miguel Borges Fernandes",
+      "team": "Portugal",
+      "minute": 36,
+      "x": 93.1,
+      "y": 33.0,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 51,
+      "x": 107.9,
+      "y": 27.1,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Miguel Borges Fernandes",
+      "team": "Portugal",
+      "minute": 53,
+      "x": 99.4,
+      "y": 14.6,
+      "xg": 0.008,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 56,
+      "x": 84.9,
+      "y": 19.1,
+      "xg": 0.007,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edinson Roberto Cavani Gómez",
+      "team": "Uruguay",
+      "minute": 57,
+      "x": 102.9,
+      "y": 39.7,
+      "xg": 0.074,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 59,
+      "x": 92.8,
+      "y": 43.6,
+      "xg": 0.031,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mathías Olivera Miramontes",
+      "team": "Uruguay",
+      "minute": 64,
+      "x": 108.1,
+      "y": 33.8,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Maximiliano Gómez González",
+      "team": "Uruguay",
+      "minute": 74,
+      "x": 99.2,
+      "y": 43.2,
+      "xg": 0.048,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Alberto Suárez Díaz",
+      "team": "Uruguay",
+      "minute": 77,
+      "x": 115.6,
+      "y": 34.0,
+      "xg": 0.088,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Giorgian Daniel De Arrascaeta Benedetti",
+      "team": "Uruguay",
+      "minute": 78,
+      "x": 109.3,
+      "y": 50.0,
+      "xg": 0.256,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rafael Alexandre Conceição Leão",
+      "team": "Portugal",
+      "minute": 82,
+      "x": 95.3,
+      "y": 49.1,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 85,
+      "x": 88.2,
+      "y": 44.5,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Miguel Borges Fernandes",
+      "team": "Portugal",
+      "minute": 92,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Miguel Borges Fernandes",
+      "team": "Portugal",
+      "minute": 97,
+      "x": 117.7,
+      "y": 50.0,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Miguel Borges Fernandes",
+      "team": "Portugal",
+      "minute": 98,
+      "x": 100.6,
+      "y": 35.0,
+      "xg": 0.101,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    }
+  ]
+}

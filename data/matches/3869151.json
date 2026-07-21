@@ -1,0 +1,195 @@
+{
+  "match_id": 3869151,
+  "shots": [
+    {
+      "player": "Alejandro Darío Gómez",
+      "team": "Argentina",
+      "minute": 16,
+      "x": 98.2,
+      "y": 20.1,
+      "xg": 0.011,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Harry Souttar",
+      "team": "Australia",
+      "minute": 28,
+      "x": 111.9,
+      "y": 44.0,
+      "xg": 0.068,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 34,
+      "x": 104.2,
+      "y": 48.9,
+      "xg": 0.067,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 49,
+      "x": 99.8,
+      "y": 38.5,
+      "xg": 0.045,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 56,
+      "x": 110.4,
+      "y": 50.3,
+      "xg": 0.281,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 65,
+      "x": 95.4,
+      "y": 33.6,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicolás Alejandro Tagliafico",
+      "team": "Argentina",
+      "minute": 74,
+      "x": 103.2,
+      "y": 24.9,
+      "xg": 0.052,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Craig Goodwin",
+      "team": "Australia",
+      "minute": 76,
+      "x": 98.2,
+      "y": 22.6,
+      "xg": 0.014,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Aziz Eraltay Behich",
+      "team": "Australia",
+      "minute": 80,
+      "x": 110.6,
+      "y": 33.2,
+      "xg": 0.077,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ajdin Hrustic",
+      "team": "Australia",
+      "minute": 80,
+      "x": 100.0,
+      "y": 52.7,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 87,
+      "x": 108.3,
+      "y": 52.3,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 88,
+      "x": 107.6,
+      "y": 31.9,
+      "xg": 0.249,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 92,
+      "x": 109.1,
+      "y": 31.8,
+      "xg": 0.372,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 92,
+      "x": 104.6,
+      "y": 52.2,
+      "xg": 0.056,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Exequiel Alejandro Palacios",
+      "team": "Argentina",
+      "minute": 93,
+      "x": 103.6,
+      "y": 50.1,
+      "xg": 0.047,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 93,
+      "x": 102.2,
+      "y": 40.0,
+      "xg": 0.032,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 93,
+      "x": 108.3,
+      "y": 30.8,
+      "xg": 0.076,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 94,
+      "x": 106.4,
+      "y": 37.0,
+      "xg": 0.11,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Garang Kuol",
+      "team": "Australia",
+      "minute": 96,
+      "x": 113.1,
+      "y": 49.4,
+      "xg": 0.234,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ]
+}

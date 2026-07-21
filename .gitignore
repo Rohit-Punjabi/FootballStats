@@ -1,0 +1,21 @@
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/next-env.d.ts
+
+# Python
+pipeline/__pycache__/
+**/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Raw StatsBomb dumps: large (~650MB) and fully regenerable with
+# `python pipeline/fetch.py`. The cleaned JSON in data/ IS committed so the
+# site builds without re-fetching.
+data/raw/
+
+# Env / editor
+.env*
+.DS_Store

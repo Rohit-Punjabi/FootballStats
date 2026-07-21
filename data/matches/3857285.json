@@ -1,0 +1,255 @@
+{
+  "match_id": 3857285,
+  "shots": [
+    {
+      "player": "Boulaye Dia",
+      "team": "Senegal",
+      "minute": 0,
+      "x": 107.0,
+      "y": 27.1,
+      "xg": 0.035,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Vincent Janssen",
+      "team": "Netherlands",
+      "minute": 3,
+      "x": 103.2,
+      "y": 34.3,
+      "xg": 0.122,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 8,
+      "x": 97.5,
+      "y": 44.1,
+      "xg": 0.06,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daley Blind",
+      "team": "Netherlands",
+      "minute": 16,
+      "x": 112.8,
+      "y": 32.9,
+      "xg": 0.049,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Vincent Janssen",
+      "team": "Netherlands",
+      "minute": 18,
+      "x": 98.3,
+      "y": 44.3,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 24,
+      "x": 102.7,
+      "y": 25.9,
+      "xg": 0.035,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Virgil van Dijk",
+      "team": "Netherlands",
+      "minute": 26,
+      "x": 109.4,
+      "y": 38.0,
+      "xg": 0.045,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Idrissa Gana Gueye",
+      "team": "Senegal",
+      "minute": 28,
+      "x": 100.9,
+      "y": 48.4,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Krépin Diatta",
+      "team": "Senegal",
+      "minute": 28,
+      "x": 100.0,
+      "y": 56.6,
+      "xg": 0.031,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Youssouf Sabaly",
+      "team": "Senegal",
+      "minute": 32,
+      "x": 84.7,
+      "y": 54.0,
+      "xg": 0.007,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Steven Berghuis",
+      "team": "Netherlands",
+      "minute": 39,
+      "x": 97.2,
+      "y": 47.3,
+      "xg": 0.03,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Virgil van Dijk",
+      "team": "Netherlands",
+      "minute": 52,
+      "x": 111.1,
+      "y": 40.2,
+      "xg": 0.069,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Youssouf Sabaly",
+      "team": "Senegal",
+      "minute": 53,
+      "x": 96.9,
+      "y": 57.9,
+      "xg": 0.011,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Krépin Diatta",
+      "team": "Senegal",
+      "minute": 57,
+      "x": 115.2,
+      "y": 50.5,
+      "xg": 0.058,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Steven Berghuis",
+      "team": "Netherlands",
+      "minute": 59,
+      "x": 95.3,
+      "y": 32.8,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Boulaye Dia",
+      "team": "Senegal",
+      "minute": 64,
+      "x": 107.6,
+      "y": 56.5,
+      "xg": 0.042,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Idrissa Gana Gueye",
+      "team": "Senegal",
+      "minute": 72,
+      "x": 103.3,
+      "y": 40.4,
+      "xg": 0.065,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cheikh Ahmadou Bamba Mbacke Dieng",
+      "team": "Senegal",
+      "minute": 74,
+      "x": 104.3,
+      "y": 31.7,
+      "xg": 0.074,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 81,
+      "x": 111.3,
+      "y": 40.6,
+      "xg": 0.064,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Cody Mathès Gakpo",
+      "team": "Netherlands",
+      "minute": 83,
+      "x": 112.3,
+      "y": 39.0,
+      "xg": 0.286,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Pape Gueye",
+      "team": "Senegal",
+      "minute": 85,
+      "x": 93.8,
+      "y": 56.8,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ismail Jakobs",
+      "team": "Senegal",
+      "minute": 91,
+      "x": 91.0,
+      "y": 27.5,
+      "xg": 0.014,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cheikh Ahmadou Bamba Mbacke Dieng",
+      "team": "Senegal",
+      "minute": 92,
+      "x": 112.8,
+      "y": 35.7,
+      "xg": 0.161,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Memphis Depay",
+      "team": "Netherlands",
+      "minute": 98,
+      "x": 101.2,
+      "y": 50.1,
+      "xg": 0.103,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Davy Klaassen",
+      "team": "Netherlands",
+      "minute": 98,
+      "x": 109.5,
+      "y": 34.8,
+      "xg": 0.348,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    }
+  ]
+}

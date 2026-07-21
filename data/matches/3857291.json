@@ -1,0 +1,175 @@
+{
+  "match_id": 3857291,
+  "shots": [
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 4,
+      "x": 112.4,
+      "y": 45.9,
+      "xg": 0.208,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marco Asensio Willemsen",
+      "team": "Spain",
+      "minute": 8,
+      "x": 102.5,
+      "y": 40.7,
+      "xg": 0.15,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 10,
+      "x": 112.3,
+      "y": 39.3,
+      "xg": 0.489,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marco Asensio Willemsen",
+      "team": "Spain",
+      "minute": 20,
+      "x": 105.8,
+      "y": 33.4,
+      "xg": 0.092,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ferrán Torres García",
+      "team": "Spain",
+      "minute": 30,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marco Asensio Willemsen",
+      "team": "Spain",
+      "minute": 42,
+      "x": 91.7,
+      "y": 29.8,
+      "xg": 0.016,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marco Asensio Willemsen",
+      "team": "Spain",
+      "minute": 49,
+      "x": 110.5,
+      "y": 30.5,
+      "xg": 0.048,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marco Asensio Willemsen",
+      "team": "Spain",
+      "minute": 47,
+      "x": 100.5,
+      "y": 45.7,
+      "xg": 0.085,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ferrán Torres García",
+      "team": "Spain",
+      "minute": 53,
+      "x": 114.7,
+      "y": 49.4,
+      "xg": 0.105,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 61,
+      "x": 92.0,
+      "y": 25.7,
+      "xg": 0.017,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Álvaro Borja Morata Martín",
+      "team": "Spain",
+      "minute": 62,
+      "x": 112.0,
+      "y": 54.0,
+      "xg": 0.065,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Olmo Carvajal",
+      "team": "Spain",
+      "minute": 69,
+      "x": 110.3,
+      "y": 29.3,
+      "xg": 0.034,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Pablo Martín Páez Gavira",
+      "team": "Spain",
+      "minute": 73,
+      "x": 103.0,
+      "y": 45.8,
+      "xg": 0.056,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Carlos Soler Barragán",
+      "team": "Spain",
+      "minute": 89,
+      "x": 109.7,
+      "y": 40.1,
+      "xg": 0.333,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Álvaro Borja Morata Martín",
+      "team": "Spain",
+      "minute": 91,
+      "x": 104.0,
+      "y": 36.4,
+      "xg": 0.164,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Carlos Soler Barragán",
+      "team": "Spain",
+      "minute": 95,
+      "x": 102.5,
+      "y": 42.5,
+      "xg": 0.107,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Carlos Soler Barragán",
+      "team": "Spain",
+      "minute": 97,
+      "x": 103.5,
+      "y": 16.7,
+      "xg": 0.009,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ]
+}

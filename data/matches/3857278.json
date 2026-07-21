@@ -1,0 +1,165 @@
+{
+  "match_id": 3857278,
+  "shots": [
+    {
+      "player": "Yunus Dimoara Musah",
+      "team": "United States",
+      "minute": 8,
+      "x": 100.5,
+      "y": 38.2,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 10,
+      "x": 110.1,
+      "y": 35.6,
+      "xg": 0.08,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Joshua Sargent",
+      "team": "United States",
+      "minute": 27,
+      "x": 99.0,
+      "y": 32.1,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Timothy Weah",
+      "team": "United States",
+      "minute": 27,
+      "x": 109.7,
+      "y": 35.9,
+      "xg": 0.122,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Sergino Dest",
+      "team": "United States",
+      "minute": 29,
+      "x": 101.3,
+      "y": 48.2,
+      "xg": 0.055,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Timothy Weah",
+      "team": "United States",
+      "minute": 32,
+      "x": 108.7,
+      "y": 54.1,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sergino Dest",
+      "team": "United States",
+      "minute": 36,
+      "x": 102.0,
+      "y": 50.5,
+      "xg": 0.044,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 37,
+      "x": 115.1,
+      "y": 38.7,
+      "xg": 0.53,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joshua Sargent",
+      "team": "United States",
+      "minute": 41,
+      "x": 114.2,
+      "y": 56.9,
+      "xg": 0.011,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joshua Sargent",
+      "team": "United States",
+      "minute": 46,
+      "x": 110.0,
+      "y": 25.2,
+      "xg": 0.057,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Saman Ghoddos",
+      "team": "Iran",
+      "minute": 51,
+      "x": 114.1,
+      "y": 38.7,
+      "xg": 0.391,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Yunus Dimoara Musah",
+      "team": "United States",
+      "minute": 68,
+      "x": 97.0,
+      "y": 43.3,
+      "xg": 0.08,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Saeid Ezatolahi Afagh",
+      "team": "Iran",
+      "minute": 69,
+      "x": 90.8,
+      "y": 21.8,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Morteza Pouraliganji",
+      "team": "Iran",
+      "minute": 92,
+      "x": 111.0,
+      "y": 35.6,
+      "xg": 0.217,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mehdi Taremi",
+      "team": "Iran",
+      "minute": 97,
+      "x": 111.1,
+      "y": 39.5,
+      "xg": 0.305,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Haji Wright",
+      "team": "United States",
+      "minute": 99,
+      "x": 105.1,
+      "y": 23.9,
+      "xg": 0.058,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "match_id": 3869118,
+  "shots": [
+    {
+      "player": "John Stones",
+      "team": "England",
+      "minute": 20,
+      "x": 113.5,
+      "y": 45.4,
+      "xg": 0.084,
+      "outcome": "Off T",
+      "body_part": "Other"
+    },
+    {
+      "player": "Boulaye Dia",
+      "team": "Senegal",
+      "minute": 21,
+      "x": 108.6,
+      "y": 42.7,
+      "xg": 0.053,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 22,
+      "x": 115.7,
+      "y": 40.5,
+      "xg": 0.629,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Boulaye Dia",
+      "team": "Senegal",
+      "minute": 31,
+      "x": 112.8,
+      "y": 28.9,
+      "xg": 0.036,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jordan Brian Henderson",
+      "team": "England",
+      "minute": 38,
+      "x": 107.6,
+      "y": 38.0,
+      "xg": 0.132,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 40,
+      "x": 110.0,
+      "y": 39.3,
+      "xg": 0.184,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 47,
+      "x": 104.3,
+      "y": 50.7,
+      "xg": 0.207,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pape Matar Sarr",
+      "team": "Senegal",
+      "minute": 49,
+      "x": 92.8,
+      "y": 35.2,
+      "xg": 0.019,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bukayo Saka",
+      "team": "England",
+      "minute": 53,
+      "x": 107.7,
+      "y": 53.4,
+      "xg": 0.035,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 55,
+      "x": 90.5,
+      "y": 27.1,
+      "xg": 0.015,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bukayo Saka",
+      "team": "England",
+      "minute": 56,
+      "x": 111.0,
+      "y": 35.9,
+      "xg": 0.217,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Pape Matar Sarr",
+      "team": "Senegal",
+      "minute": 68,
+      "x": 89.0,
+      "y": 36.2,
+      "xg": 0.013,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pape Matar Sarr",
+      "team": "Senegal",
+      "minute": 73,
+      "x": 87.8,
+      "y": 49.9,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 83,
+      "x": 111.6,
+      "y": 39.3,
+      "xg": 0.108,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Pape Gueye",
+      "team": "Senegal",
+      "minute": 86,
+      "x": 96.7,
+      "y": 52.4,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Pape Matar Sarr",
+      "team": "Senegal",
+      "minute": 88,
+      "x": 93.1,
+      "y": 38.3,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcus Rashford",
+      "team": "England",
+      "minute": 90,
+      "x": 117.8,
+      "y": 45.9,
+      "xg": 0.146,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cheikh Ahmadou Bamba Mbacke Dieng",
+      "team": "Senegal",
+      "minute": 92,
+      "x": 94.0,
+      "y": 54.7,
+      "xg": 0.033,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ]
+}

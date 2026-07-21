@@ -1,0 +1,115 @@
+{
+  "match_id": 3857286,
+  "shots": [
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 15,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Romario Andrés Ibarra Mina",
+      "team": "Ecuador",
+      "minute": 28,
+      "x": 96.5,
+      "y": 46.4,
+      "xg": 0.058,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 30,
+      "x": 109.6,
+      "y": 38.0,
+      "xg": 0.089,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Abdelkarim Hassan Al Haj Fadlalla",
+      "team": "Qatar",
+      "minute": 32,
+      "x": 88.4,
+      "y": 22.4,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Almoez Ali Zainalabiddin Abdulla",
+      "team": "Qatar",
+      "minute": 49,
+      "x": 113.0,
+      "y": 43.7,
+      "xg": 0.213,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Angelo Smit Preciado Quiñónez",
+      "team": "Ecuador",
+      "minute": 51,
+      "x": 91.7,
+      "y": 61.5,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Romario Andrés Ibarra Mina",
+      "team": "Ecuador",
+      "minute": 54,
+      "x": 101.9,
+      "y": 32.3,
+      "xg": 0.079,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pedro Miguel Correia",
+      "team": "Qatar",
+      "minute": 61,
+      "x": 106.5,
+      "y": 47.5,
+      "xg": 0.031,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Akram Hassan Afif",
+      "team": "Qatar",
+      "minute": 74,
+      "x": 92.1,
+      "y": 23.1,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Muntari",
+      "team": "Qatar",
+      "minute": 85,
+      "x": 100.2,
+      "y": 55.2,
+      "xg": 0.045,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin José Rodríguez Cortez",
+      "team": "Ecuador",
+      "minute": 94,
+      "x": 112.3,
+      "y": 37.4,
+      "xg": 0.138,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ]
+}

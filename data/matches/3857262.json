@@ -1,0 +1,255 @@
+{
+  "match_id": 3857262,
+  "shots": [
+    {
+      "player": "Ricardo Jorge Luz Horta",
+      "team": "Portugal",
+      "minute": 4,
+      "x": 113.6,
+      "y": 47.0,
+      "xg": 0.292,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Pedro Cavaco Cancelo",
+      "team": "Portugal",
+      "minute": 14,
+      "x": 117.5,
+      "y": 20.6,
+      "xg": 0.011,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Heung-Min Son",
+      "team": "South Korea",
+      "minute": 15,
+      "x": 108.5,
+      "y": 21.6,
+      "xg": 0.011,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gue-Sung Cho",
+      "team": "South Korea",
+      "minute": 16,
+      "x": 111.1,
+      "y": 32.0,
+      "xg": 0.041,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Young-Gwon Kim",
+      "team": "South Korea",
+      "minute": 26,
+      "x": 116.7,
+      "y": 38.0,
+      "xg": 0.624,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "In-Beom Hwang",
+      "team": "South Korea",
+      "minute": 30,
+      "x": 98.2,
+      "y": 31.4,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Diogo Dalot Teixeira",
+      "team": "Portugal",
+      "minute": 33,
+      "x": 92.8,
+      "y": 40.0,
+      "xg": 0.036,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Vitor Machado Ferreira",
+      "team": "Portugal",
+      "minute": 34,
+      "x": 91.6,
+      "y": 45.7,
+      "xg": 0.017,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 36,
+      "x": 110.6,
+      "y": 56.3,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Heung-Min Son",
+      "team": "South Korea",
+      "minute": 39,
+      "x": 94.6,
+      "y": 44.2,
+      "xg": 0.025,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Matheus Luiz Nunes",
+      "team": "Portugal",
+      "minute": 40,
+      "x": 92.6,
+      "y": 58.9,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Vitor Machado Ferreira",
+      "team": "Portugal",
+      "minute": 41,
+      "x": 97.8,
+      "y": 46.9,
+      "xg": 0.037,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 41,
+      "x": 112.7,
+      "y": 35.0,
+      "xg": 0.289,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ricardo Jorge Luz Horta",
+      "team": "Portugal",
+      "minute": 43,
+      "x": 104.3,
+      "y": 43.4,
+      "xg": 0.115,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ricardo Jorge Luz Horta",
+      "team": "Portugal",
+      "minute": 46,
+      "x": 101.8,
+      "y": 45.2,
+      "xg": 0.053,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Heung-Min Son",
+      "team": "South Korea",
+      "minute": 55,
+      "x": 104.5,
+      "y": 54.7,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jae-Sung Lee",
+      "team": "South Korea",
+      "minute": 56,
+      "x": 97.9,
+      "y": 50.9,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Heung-Min Son",
+      "team": "South Korea",
+      "minute": 65,
+      "x": 98.1,
+      "y": 47.1,
+      "xg": 0.04,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "In-Beom Hwang",
+      "team": "South Korea",
+      "minute": 66,
+      "x": 98.4,
+      "y": 35.1,
+      "xg": 0.101,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Heung-Min Son",
+      "team": "South Korea",
+      "minute": 69,
+      "x": 111.1,
+      "y": 52.8,
+      "xg": 0.046,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rafael Alexandre Conceição Leão",
+      "team": "Portugal",
+      "minute": 71,
+      "x": 94.1,
+      "y": 55.0,
+      "xg": 0.03,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kang-In Lee",
+      "team": "South Korea",
+      "minute": 73,
+      "x": 88.0,
+      "y": 49.4,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "João Maria Lobo Alves Palhinha Gonçalves",
+      "team": "Portugal",
+      "minute": 80,
+      "x": 88.8,
+      "y": 40.2,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Pedro Cavaco Cancelo",
+      "team": "Portugal",
+      "minute": 89,
+      "x": 112.1,
+      "y": 25.0,
+      "xg": 0.044,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Hee-Chan Hwang",
+      "team": "South Korea",
+      "minute": 90,
+      "x": 108.3,
+      "y": 44.6,
+      "xg": 0.422,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ]
+}

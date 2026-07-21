@@ -1,0 +1,285 @@
+{
+  "match_id": 3857259,
+  "shots": [
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 5,
+      "x": 110.4,
+      "y": 33.0,
+      "xg": 0.065,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 10,
+      "x": 114.4,
+      "y": 54.2,
+      "xg": 0.017,
+      "outcome": "Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Filip Kostić",
+      "team": "Serbia",
+      "minute": 10,
+      "x": 108.2,
+      "y": 21.4,
+      "xg": 0.012,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicolas Alexis Julio N'Koulou Ndoubena",
+      "team": "Cameroon",
+      "minute": 15,
+      "x": 95.9,
+      "y": 33.9,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 16,
+      "x": 108.9,
+      "y": 38.6,
+      "xg": 0.063,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pierre Kunde Malong",
+      "team": "Cameroon",
+      "minute": 18,
+      "x": 108.1,
+      "y": 60.1,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pierre Kunde Malong",
+      "team": "Cameroon",
+      "minute": 19,
+      "x": 96.8,
+      "y": 50.1,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolas Alexis Julio N'Koulou Ndoubena",
+      "team": "Cameroon",
+      "minute": 28,
+      "x": 115.2,
+      "y": 33.5,
+      "xg": 0.091,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jean-Charles Castelletto",
+      "team": "Cameroon",
+      "minute": 28,
+      "x": 118.5,
+      "y": 43.2,
+      "xg": 0.895,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pierre Kunde Malong",
+      "team": "Cameroon",
+      "minute": 42,
+      "x": 103.5,
+      "y": 53.8,
+      "xg": 0.085,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pierre Kunde Malong",
+      "team": "Cameroon",
+      "minute": 42,
+      "x": 110.5,
+      "y": 55.1,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Strahinja Pavlović",
+      "team": "Serbia",
+      "minute": 45,
+      "x": 110.7,
+      "y": 42.8,
+      "xg": 0.079,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Sergej Milinković-Savić",
+      "team": "Serbia",
+      "minute": 47,
+      "x": 99.6,
+      "y": 46.7,
+      "xg": 0.059,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 50,
+      "x": 98.4,
+      "y": 45.9,
+      "xg": 0.083,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Saša Lukić",
+      "team": "Serbia",
+      "minute": 51,
+      "x": 103.0,
+      "y": 49.6,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 52,
+      "x": 113.6,
+      "y": 40.2,
+      "xg": 0.897,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Vincent Paté Aboubakar",
+      "team": "Cameroon",
+      "minute": 59,
+      "x": 106.5,
+      "y": 47.6,
+      "xg": 0.052,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Karl Brillant Toko Ekambi",
+      "team": "Cameroon",
+      "minute": 61,
+      "x": 106.4,
+      "y": 24.5,
+      "xg": 0.021,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sergej Milinković-Savić",
+      "team": "Serbia",
+      "minute": 62,
+      "x": 96.4,
+      "y": 47.8,
+      "xg": 0.109,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Vincent Paté Aboubakar",
+      "team": "Cameroon",
+      "minute": 62,
+      "x": 104.4,
+      "y": 49.0,
+      "xg": 0.283,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jean-Eric Maxim Choupo-Moting",
+      "team": "Cameroon",
+      "minute": 65,
+      "x": 111.0,
+      "y": 37.0,
+      "xg": 0.469,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nikola Milenković",
+      "team": "Serbia",
+      "minute": 69,
+      "x": 110.5,
+      "y": 45.7,
+      "xg": 0.03,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 75,
+      "x": 110.1,
+      "y": 55.7,
+      "xg": 0.109,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sergej Milinković-Savić",
+      "team": "Serbia",
+      "minute": 77,
+      "x": 95.2,
+      "y": 48.2,
+      "xg": 0.032,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Vincent Paté Aboubakar",
+      "team": "Cameroon",
+      "minute": 86,
+      "x": 94.0,
+      "y": 24.8,
+      "xg": 0.026,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 88,
+      "x": 105.1,
+      "y": 38.3,
+      "xg": 0.113,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georges-Kévin Nkoudou Mbida",
+      "team": "Cameroon",
+      "minute": 94,
+      "x": 103.3,
+      "y": 13.7,
+      "xg": 0.007,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marko Grujić",
+      "team": "Serbia",
+      "minute": 94,
+      "x": 92.3,
+      "y": 33.6,
+      "xg": 0.027,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ]
+}

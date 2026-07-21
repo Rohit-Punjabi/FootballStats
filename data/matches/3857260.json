@@ -1,0 +1,365 @@
+{
+  "match_id": 3857260,
+  "shots": [
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 1,
+      "x": 91.7,
+      "y": 51.5,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Saleh Khalid Al Shehri",
+      "team": "Saudi Arabia",
+      "minute": 2,
+      "x": 92.9,
+      "y": 41.7,
+      "xg": 0.022,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ernesto Alexis Vega Rojas",
+      "team": "Mexico",
+      "minute": 2,
+      "x": 101.6,
+      "y": 38.9,
+      "xg": 0.367,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Kanoo",
+      "team": "Saudi Arabia",
+      "minute": 7,
+      "x": 113.0,
+      "y": 54.1,
+      "xg": 0.048,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Kanoo",
+      "team": "Saudi Arabia",
+      "minute": 12,
+      "x": 96.3,
+      "y": 33.5,
+      "xg": 0.073,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 22,
+      "x": 92.7,
+      "y": 40.4,
+      "xg": 0.02,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Orbelín Pineda Alvarado",
+      "team": "Mexico",
+      "minute": 24,
+      "x": 104.0,
+      "y": 44.6,
+      "xg": 0.049,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Orbelín Pineda Alvarado",
+      "team": "Mexico",
+      "minute": 26,
+      "x": 115.8,
+      "y": 34.5,
+      "xg": 0.308,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 34,
+      "x": 89.6,
+      "y": 28.9,
+      "xg": 0.017,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jesús Daniel Gallardo Vasconcelos",
+      "team": "Mexico",
+      "minute": 35,
+      "x": 106.8,
+      "y": 43.3,
+      "xg": 0.064,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 40,
+      "x": 84.6,
+      "y": 49.2,
+      "xg": 0.007,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Orbelín Pineda Alvarado",
+      "team": "Mexico",
+      "minute": 40,
+      "x": 102.0,
+      "y": 45.2,
+      "xg": 0.062,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ernesto Alexis Vega Rojas",
+      "team": "Mexico",
+      "minute": 44,
+      "x": 106.1,
+      "y": 29.3,
+      "xg": 0.05,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 44,
+      "x": 92.9,
+      "y": 30.0,
+      "xg": 0.015,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ali Al Hassan",
+      "team": "Saudi Arabia",
+      "minute": 50,
+      "x": 110.1,
+      "y": 45.6,
+      "xg": 0.102,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 46,
+      "x": 85.5,
+      "y": 41.2,
+      "xg": 0.018,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Hirving Rodrigo Lozano Bahena",
+      "team": "Mexico",
+      "minute": 46,
+      "x": 102.7,
+      "y": 19.2,
+      "xg": 0.007,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Henry Josué Martín Mex",
+      "team": "Mexico",
+      "minute": 46,
+      "x": 116.7,
+      "y": 40.2,
+      "xg": 0.288,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sultan Abdullah Salim Al Ghannam",
+      "team": "Saudi Arabia",
+      "minute": 49,
+      "x": 115.8,
+      "y": 46.7,
+      "xg": 0.215,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 51,
+      "x": 86.7,
+      "y": 41.3,
+      "xg": 0.024,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sultan Abdullah Salim Al Ghannam",
+      "team": "Saudi Arabia",
+      "minute": 54,
+      "x": 114.8,
+      "y": 52.4,
+      "xg": 0.03,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Henry Josué Martín Mex",
+      "team": "Mexico",
+      "minute": 58,
+      "x": 112.0,
+      "y": 40.0,
+      "xg": 0.091,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Abdulelah Al Amri",
+      "team": "Saudi Arabia",
+      "minute": 61,
+      "x": 109.1,
+      "y": 45.1,
+      "xg": 0.038,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Hirving Rodrigo Lozano Bahena",
+      "team": "Mexico",
+      "minute": 66,
+      "x": 97.5,
+      "y": 31.3,
+      "xg": 0.053,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Firas Tariq Nasser Al Albirakan",
+      "team": "Saudi Arabia",
+      "minute": 66,
+      "x": 101.4,
+      "y": 25.4,
+      "xg": 0.013,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Henry Josué Martín Mex",
+      "team": "Mexico",
+      "minute": 69,
+      "x": 108.8,
+      "y": 34.9,
+      "xg": 0.225,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 72,
+      "x": 87.3,
+      "y": 40.5,
+      "xg": 0.027,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Orbelín Pineda Alvarado",
+      "team": "Mexico",
+      "minute": 75,
+      "x": 100.5,
+      "y": 32.9,
+      "xg": 0.086,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Carlos Uriel Antuna Romero",
+      "team": "Mexico",
+      "minute": 77,
+      "x": 109.4,
+      "y": 35.9,
+      "xg": 0.269,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edson Omar Álvarez Velázquez",
+      "team": "Mexico",
+      "minute": 77,
+      "x": 85.8,
+      "y": 42.8,
+      "xg": 0.014,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Salem Mohammed Al Dawsari",
+      "team": "Saudi Arabia",
+      "minute": 80,
+      "x": 89.2,
+      "y": 40.3,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 82,
+      "x": 101.0,
+      "y": 46.0,
+      "xg": 0.058,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rogelio Gabriel Funes Mori",
+      "team": "Mexico",
+      "minute": 88,
+      "x": 98.8,
+      "y": 37.4,
+      "xg": 0.067,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hirving Rodrigo Lozano Bahena",
+      "team": "Mexico",
+      "minute": 91,
+      "x": 92.9,
+      "y": 31.8,
+      "xg": 0.054,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hirving Rodrigo Lozano Bahena",
+      "team": "Mexico",
+      "minute": 93,
+      "x": 101.9,
+      "y": 28.3,
+      "xg": 0.063,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Salem Mohammed Al Dawsari",
+      "team": "Saudi Arabia",
+      "minute": 94,
+      "x": 110.9,
+      "y": 45.2,
+      "xg": 0.516,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ]
+}

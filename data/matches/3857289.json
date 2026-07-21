@@ -1,0 +1,95 @@
+{
+  "match_id": 3857289,
+  "shots": [
+    {
+      "player": "César Jasib Montes Castro",
+      "team": "Mexico",
+      "minute": 9,
+      "x": 107.6,
+      "y": 38.6,
+      "xg": 0.099,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 39,
+      "x": 112.7,
+      "y": 39.5,
+      "xg": 0.138,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ernesto Alexis Vega Rojas",
+      "team": "Mexico",
+      "minute": 44,
+      "x": 92.4,
+      "y": 35.8,
+      "xg": 0.059,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ernesto Alexis Vega Rojas",
+      "team": "Mexico",
+      "minute": 49,
+      "x": 92.8,
+      "y": 23.0,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hirving Rodrigo Lozano Bahena",
+      "team": "Mexico",
+      "minute": 47,
+      "x": 93.5,
+      "y": 36.8,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 50,
+      "x": 94.8,
+      "y": 41.9,
+      "xg": 0.067,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 63,
+      "x": 94.9,
+      "y": 37.4,
+      "xg": 0.034,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nahuel Molina Lucero",
+      "team": "Argentina",
+      "minute": 69,
+      "x": 101.5,
+      "y": 49.2,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enzo Fernandez",
+      "team": "Argentina",
+      "minute": 86,
+      "x": 106.5,
+      "y": 22.8,
+      "xg": 0.035,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "match_id": 3869219,
+  "shots": [
+    {
+      "player": "Shogo Taniguchi",
+      "team": "Japan",
+      "minute": 2,
+      "x": 112.6,
+      "y": 38.8,
+      "xg": 0.114,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 7,
+      "x": 116.7,
+      "y": 29.0,
+      "xg": 0.059,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 7,
+      "x": 114.5,
+      "y": 38.3,
+      "xg": 0.178,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Joško Gvardiol",
+      "team": "Croatia",
+      "minute": 23,
+      "x": 101.1,
+      "y": 43.6,
+      "xg": 0.062,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daichi Kamada",
+      "team": "Japan",
+      "minute": 40,
+      "x": 114.1,
+      "y": 28.8,
+      "xg": 0.09,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daizen Maeda",
+      "team": "Japan",
+      "minute": 42,
+      "x": 113.5,
+      "y": 44.3,
+      "xg": 0.459,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daichi Kamada",
+      "team": "Japan",
+      "minute": 45,
+      "x": 94.7,
+      "y": 38.3,
+      "xg": 0.039,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mateo Kovačić",
+      "team": "Croatia",
+      "minute": 48,
+      "x": 100.1,
+      "y": 47.1,
+      "xg": 0.03,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hidemasa Morita",
+      "team": "Japan",
+      "minute": 49,
+      "x": 98.2,
+      "y": 36.8,
+      "xg": 0.041,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 54,
+      "x": 106.0,
+      "y": 34.1,
+      "xg": 0.027,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Wataru Endo",
+      "team": "Japan",
+      "minute": 56,
+      "x": 94.4,
+      "y": 52.9,
+      "xg": 0.02,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Wataru Endo",
+      "team": "Japan",
+      "minute": 59,
+      "x": 90.0,
+      "y": 41.9,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hidemasa Morita",
+      "team": "Japan",
+      "minute": 59,
+      "x": 97.8,
+      "y": 36.3,
+      "xg": 0.052,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ritsu Doan",
+      "team": "Japan",
+      "minute": 59,
+      "x": 100.4,
+      "y": 43.7,
+      "xg": 0.056,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luka Modrić",
+      "team": "Croatia",
+      "minute": 62,
+      "x": 96.3,
+      "y": 48.9,
+      "xg": 0.031,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 65,
+      "x": 95.5,
+      "y": 48.2,
+      "xg": 0.018,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 65,
+      "x": 98.9,
+      "y": 23.8,
+      "xg": 0.018,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ante Budimir",
+      "team": "Croatia",
+      "minute": 65,
+      "x": 109.5,
+      "y": 45.1,
+      "xg": 0.101,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mario Pašalić",
+      "team": "Croatia",
+      "minute": 73,
+      "x": 107.5,
+      "y": 44.5,
+      "xg": 0.035,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 76,
+      "x": 98.1,
+      "y": 30.4,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mario Pašalić",
+      "team": "Croatia",
+      "minute": 85,
+      "x": 110.5,
+      "y": 42.8,
+      "xg": 0.053,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Shogo Taniguchi",
+      "team": "Japan",
+      "minute": 91,
+      "x": 114.6,
+      "y": 49.3,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 100,
+      "x": 107.2,
+      "y": 34.1,
+      "xg": 0.074,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Borna Barišić",
+      "team": "Croatia",
+      "minute": 100,
+      "x": 95.1,
+      "y": 31.3,
+      "xg": 0.015,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kaoru Mitoma",
+      "team": "Japan",
+      "minute": 104,
+      "x": 99.8,
+      "y": 34.6,
+      "xg": 0.054,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Wataru Endo",
+      "team": "Japan",
+      "minute": 104,
+      "x": 95.7,
+      "y": 37.1,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Takumi Minamino",
+      "team": "Japan",
+      "minute": 104,
+      "x": 102.6,
+      "y": 40.3,
+      "xg": 0.037,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marko Livaja",
+      "team": "Croatia",
+      "minute": 113,
+      "x": 112.8,
+      "y": 47.7,
+      "xg": 0.047,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mislav Oršić",
+      "team": "Croatia",
+      "minute": 120,
+      "x": 106.8,
+      "y": 19.7,
+      "xg": 0.01,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lovro Majer",
+      "team": "Croatia",
+      "minute": 120,
+      "x": 99.8,
+      "y": 33.0,
+      "xg": 0.065,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

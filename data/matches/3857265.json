@@ -1,0 +1,175 @@
+{
+  "match_id": 3857265,
+  "shots": [
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 6,
+      "x": 110.6,
+      "y": 37.2,
+      "xg": 0.057,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Héctor Alfredo Moreno Herrera",
+      "team": "Mexico",
+      "minute": 11,
+      "x": 114.5,
+      "y": 42.4,
+      "xg": 0.177,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ernesto Alexis Vega Rojas",
+      "team": "Mexico",
+      "minute": 25,
+      "x": 113.2,
+      "y": 34.6,
+      "xg": 0.098,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ernesto Alexis Vega Rojas",
+      "team": "Mexico",
+      "minute": 43,
+      "x": 108.5,
+      "y": 23.7,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jorge Eduardo Sánchez Ramos",
+      "team": "Mexico",
+      "minute": 44,
+      "x": 110.1,
+      "y": 60.7,
+      "xg": 0.007,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 46,
+      "x": 92.1,
+      "y": 56.9,
+      "xg": 0.008,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Hirving Rodrigo Lozano Bahena",
+      "team": "Mexico",
+      "minute": 51,
+      "x": 93.9,
+      "y": 25.2,
+      "xg": 0.024,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 57,
+      "x": 108.1,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jakub Kamiński",
+      "team": "Poland",
+      "minute": 57,
+      "x": 113.4,
+      "y": 48.8,
+      "xg": 0.102,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ernesto Alexis Vega Rojas",
+      "team": "Mexico",
+      "minute": 59,
+      "x": 107.9,
+      "y": 29.9,
+      "xg": 0.061,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Henry Josué Martín Mex",
+      "team": "Mexico",
+      "minute": 63,
+      "x": 106.7,
+      "y": 35.1,
+      "xg": 0.064,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ernesto Alexis Vega Rojas",
+      "team": "Mexico",
+      "minute": 65,
+      "x": 102.7,
+      "y": 60.6,
+      "xg": 0.01,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ernesto Alexis Vega Rojas",
+      "team": "Mexico",
+      "minute": 79,
+      "x": 93.0,
+      "y": 24.5,
+      "xg": 0.014,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jakub Piotr Kiwior",
+      "team": "Poland",
+      "minute": 81,
+      "x": 113.3,
+      "y": 41.7,
+      "xg": 0.124,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jakub Kamiński",
+      "team": "Poland",
+      "minute": 93,
+      "x": 109.4,
+      "y": 24.8,
+      "xg": 0.05,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Grzegorz Krychowiak",
+      "team": "Poland",
+      "minute": 95,
+      "x": 90.9,
+      "y": 48.7,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Carlos Uriel Antuna Romero",
+      "team": "Mexico",
+      "minute": 95,
+      "x": 101.9,
+      "y": 56.4,
+      "xg": 0.04,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    }
+  ]
+}

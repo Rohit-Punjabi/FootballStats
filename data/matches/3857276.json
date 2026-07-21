@@ -1,0 +1,125 @@
+{
+  "match_id": 3857276,
+  "shots": [
+    {
+      "player": "Mark Anthony Kaye",
+      "team": "Canada",
+      "minute": 2,
+      "x": 96.5,
+      "y": 40.7,
+      "xg": 0.039,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 3,
+      "x": 83.9,
+      "y": 45.0,
+      "xg": 0.024,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Abdelhamid Sabiri",
+      "team": "Morocco",
+      "minute": 8,
+      "x": 86.8,
+      "y": 38.4,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sofiane Boufal",
+      "team": "Morocco",
+      "minute": 9,
+      "x": 107.0,
+      "y": 48.3,
+      "xg": 0.062,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Tajon Buchanan",
+      "team": "Canada",
+      "minute": 14,
+      "x": 113.3,
+      "y": 34.9,
+      "xg": 0.279,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 15,
+      "x": 97.5,
+      "y": 54.0,
+      "xg": 0.023,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 22,
+      "x": 107.6,
+      "y": 53.2,
+      "xg": 0.104,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Abdelhamid Sabiri",
+      "team": "Morocco",
+      "minute": 32,
+      "x": 107.9,
+      "y": 34.2,
+      "xg": 0.097,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 47,
+      "x": 106.8,
+      "y": 46.7,
+      "xg": 0.094,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada",
+      "minute": 57,
+      "x": 105.1,
+      "y": 41.2,
+      "xg": 0.052,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Atiba Hutchinson",
+      "team": "Canada",
+      "minute": 70,
+      "x": 112.2,
+      "y": 37.7,
+      "xg": 0.087,
+      "outcome": "Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alistair Johnston",
+      "team": "Canada",
+      "minute": 70,
+      "x": 118.8,
+      "y": 41.6,
+      "xg": 0.639,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ]
+}

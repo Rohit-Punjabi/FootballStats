@@ -1,0 +1,185 @@
+{
+  "match_id": 3857300,
+  "shots": [
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 1,
+      "x": 104.5,
+      "y": 44.5,
+      "xg": 0.153,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 9,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alejandro Darío Gómez",
+      "team": "Argentina",
+      "minute": 20,
+      "x": 98.4,
+      "y": 20.2,
+      "xg": 0.012,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 41,
+      "x": 113.2,
+      "y": 33.8,
+      "xg": 0.088,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Rodrigo Javier De Paul",
+      "team": "Argentina",
+      "minute": 41,
+      "x": 101.1,
+      "y": 41.8,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Saleh Khalid Al Shehri",
+      "team": "Saudi Arabia",
+      "minute": 47,
+      "x": 108.0,
+      "y": 29.6,
+      "xg": 0.081,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nawaf Shaker Al Abid",
+      "team": "Saudi Arabia",
+      "minute": 52,
+      "x": 104.9,
+      "y": 54.1,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Salem Mohammed Al Dawsari",
+      "team": "Saudi Arabia",
+      "minute": 52,
+      "x": 102.4,
+      "y": 25.3,
+      "xg": 0.033,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lisandro Martínez",
+      "team": "Argentina",
+      "minute": 62,
+      "x": 111.1,
+      "y": 39.9,
+      "xg": 0.332,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolás Alejandro Tagliafico",
+      "team": "Argentina",
+      "minute": 62,
+      "x": 116.1,
+      "y": 37.2,
+      "xg": 0.636,
+      "outcome": "Saved",
+      "body_part": "Other"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 68,
+      "x": 116.5,
+      "y": 31.1,
+      "xg": 0.077,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 71,
+      "x": 111.4,
+      "y": 54.4,
+      "xg": 0.064,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 73,
+      "x": 86.7,
+      "y": 57.3,
+      "xg": 0.015,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Enzo Fernandez",
+      "team": "Argentina",
+      "minute": 75,
+      "x": 108.2,
+      "y": 39.6,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 79,
+      "x": 92.8,
+      "y": 47.1,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 83,
+      "x": 113.6,
+      "y": 32.2,
+      "xg": 0.078,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Nicolás Hernán Otamendi",
+      "team": "Argentina",
+      "minute": 90,
+      "x": 109.5,
+      "y": 37.8,
+      "xg": 0.048,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 100,
+      "x": 112.5,
+      "y": 33.2,
+      "xg": 0.061,
+      "outcome": "Saved",
+      "body_part": "Head"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "match_id": 3857274,
+  "shots": [
+    {
+      "player": "Cody Mathès Gakpo",
+      "team": "Netherlands",
+      "minute": 5,
+      "x": 100.6,
+      "y": 31.0,
+      "xg": 0.059,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 10,
+      "x": 107.0,
+      "y": 30.0,
+      "xg": 0.062,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Moisés Isaac Caicedo Corozo",
+      "team": "Ecuador",
+      "minute": 23,
+      "x": 94.8,
+      "y": 37.9,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Michael Steveen Estrada Martínez",
+      "team": "Ecuador",
+      "minute": 26,
+      "x": 112.1,
+      "y": 34.6,
+      "xg": 0.07,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 31,
+      "x": 100.6,
+      "y": 23.5,
+      "xg": 0.03,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 46,
+      "x": 110.2,
+      "y": 47.9,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Angelo Smit Preciado Quiñónez",
+      "team": "Ecuador",
+      "minute": 47,
+      "x": 100.6,
+      "y": 54.0,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pervis Josué Estupiñán Tenorio",
+      "team": "Ecuador",
+      "minute": 47,
+      "x": 112.0,
+      "y": 44.1,
+      "xg": 0.189,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Pervis Josué Estupiñán Tenorio",
+      "team": "Ecuador",
+      "minute": 48,
+      "x": 105.8,
+      "y": 28.7,
+      "xg": 0.081,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 48,
+      "x": 116.0,
+      "y": 38.1,
+      "xg": 0.791,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 58,
+      "x": 102.0,
+      "y": 37.5,
+      "xg": 0.096,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gonzalo Jordy Plata Jiménez",
+      "team": "Ecuador",
+      "minute": 58,
+      "x": 104.2,
+      "y": 52.6,
+      "xg": 0.046,
+      "outcome": "Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Michael Steveen Estrada Martínez",
+      "team": "Ecuador",
+      "minute": 63,
+      "x": 105.1,
+      "y": 38.0,
+      "xg": 0.134,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Teun Koopmeiners",
+      "team": "Netherlands",
+      "minute": 65,
+      "x": 96.5,
+      "y": 40.9,
+      "xg": 0.045,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Moisés Isaac Caicedo Corozo",
+      "team": "Ecuador",
+      "minute": 72,
+      "x": 103.2,
+      "y": 29.4,
+      "xg": 0.033,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Angelo Smit Preciado Quiñónez",
+      "team": "Ecuador",
+      "minute": 80,
+      "x": 95.3,
+      "y": 57.9,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Angelo Smit Preciado Quiñónez",
+      "team": "Ecuador",
+      "minute": 91,
+      "x": 98.9,
+      "y": 38.2,
+      "xg": 0.034,
+      "outcome": "Saved",
+      "body_part": "Head"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "match_id": 3869552,
+  "shots": [
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 4,
+      "x": 108.5,
+      "y": 47.3,
+      "xg": 0.095,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Theo Bernard François Hernández",
+      "team": "France",
+      "minute": 4,
+      "x": 115.7,
+      "y": 31.5,
+      "xg": 0.098,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Azzedine Ounahi",
+      "team": "Morocco",
+      "minute": 9,
+      "x": 95.5,
+      "y": 26.2,
+      "xg": 0.019,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 16,
+      "x": 106.4,
+      "y": 54.6,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 16,
+      "x": 105.4,
+      "y": 26.8,
+      "xg": 0.098,
+      "outcome": "Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Achraf Hakimi Mouh",
+      "team": "Morocco",
+      "minute": 25,
+      "x": 95.3,
+      "y": 53.3,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Aurélien Djani Tchouaméni",
+      "team": "France",
+      "minute": 32,
+      "x": 96.0,
+      "y": 32.9,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 34,
+      "x": 111.9,
+      "y": 44.5,
+      "xg": 0.061,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Youssouf Fofana",
+      "team": "France",
+      "minute": 34,
+      "x": 104.3,
+      "y": 46.5,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 35,
+      "x": 111.7,
+      "y": 30.9,
+      "xg": 0.151,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 35,
+      "x": 105.8,
+      "y": 42.5,
+      "xg": 0.264,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Raphaël Varane",
+      "team": "France",
+      "minute": 39,
+      "x": 113.7,
+      "y": 47.9,
+      "xg": 0.076,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jawad El Yamiq",
+      "team": "Morocco",
+      "minute": 43,
+      "x": 107.2,
+      "y": 33.9,
+      "xg": 0.064,
+      "outcome": "Saved to Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sofiane Boufal",
+      "team": "Morocco",
+      "minute": 43,
+      "x": 96.7,
+      "y": 37.2,
+      "xg": 0.035,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "France",
+      "minute": 46,
+      "x": 94.0,
+      "y": 50.6,
+      "xg": 0.018,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yahia Attiyat allah",
+      "team": "Morocco",
+      "minute": 52,
+      "x": 109.8,
+      "y": 35.1,
+      "xg": 0.249,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sofyan Amrabat",
+      "team": "Morocco",
+      "minute": 53,
+      "x": 92.5,
+      "y": 36.0,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcus Thuram",
+      "team": "France",
+      "minute": 70,
+      "x": 114.5,
+      "y": 45.5,
+      "xg": 0.116,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Youssouf Fofana",
+      "team": "France",
+      "minute": 73,
+      "x": 111.6,
+      "y": 27.3,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 78,
+      "x": 107.2,
+      "y": 29.8,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Randal Kolo Muani",
+      "team": "France",
+      "minute": 78,
+      "x": 115.6,
+      "y": 43.8,
+      "xg": 0.852,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Zakaria Aboukhlal",
+      "team": "Morocco",
+      "minute": 85,
+      "x": 107.1,
+      "y": 41.0,
+      "xg": 0.025,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Abdessamad Ezzalzouli",
+      "team": "Morocco",
+      "minute": 92,
+      "x": 106.9,
+      "y": 32.9,
+      "xg": 0.06,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Azzedine Ounahi",
+      "team": "Morocco",
+      "minute": 92,
+      "x": 103.0,
+      "y": 48.2,
+      "xg": 0.064,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Azzedine Ounahi",
+      "team": "Morocco",
+      "minute": 93,
+      "x": 98.1,
+      "y": 48.0,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Azzedine Ounahi",
+      "team": "Morocco",
+      "minute": 93,
+      "x": 108.6,
+      "y": 44.6,
+      "xg": 0.067,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Abderrazak Hamdallah",
+      "team": "Morocco",
+      "minute": 93,
+      "x": 115.9,
+      "y": 37.4,
+      "xg": 0.506,
+      "outcome": "Blocked",
+      "body_part": "Other"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "match_id": 3857272,
+  "shots": [
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 9,
+      "x": 108.9,
+      "y": 42.6,
+      "xg": 0.106,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "John Stones",
+      "team": "England",
+      "minute": 9,
+      "x": 109.2,
+      "y": 38.6,
+      "xg": 0.042,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mason Mount",
+      "team": "England",
+      "minute": 10,
+      "x": 94.2,
+      "y": 27.2,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Haji Wright",
+      "team": "United States",
+      "minute": 16,
+      "x": 108.1,
+      "y": 43.9,
+      "xg": 0.048,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Weston McKennie",
+      "team": "United States",
+      "minute": 25,
+      "x": 110.5,
+      "y": 39.5,
+      "xg": 0.183,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yunus Dimoara Musah",
+      "team": "United States",
+      "minute": 28,
+      "x": 93.0,
+      "y": 25.1,
+      "xg": 0.017,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 32,
+      "x": 106.4,
+      "y": 24.4,
+      "xg": 0.023,
+      "outcome": "Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sergino Dest",
+      "team": "United States",
+      "minute": 40,
+      "x": 108.6,
+      "y": 51.2,
+      "xg": 0.056,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 42,
+      "x": 110.0,
+      "y": 42.8,
+      "xg": 0.054,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Bukayo Saka",
+      "team": "England",
+      "minute": 44,
+      "x": 113.2,
+      "y": 36.1,
+      "xg": 0.087,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mason Mount",
+      "team": "England",
+      "minute": 45,
+      "x": 100.1,
+      "y": 32.9,
+      "xg": 0.071,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Haji Wright",
+      "team": "United States",
+      "minute": 48,
+      "x": 106.5,
+      "y": 28.3,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Weston McKennie",
+      "team": "United States",
+      "minute": 48,
+      "x": 99.2,
+      "y": 53.9,
+      "xg": 0.032,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 57,
+      "x": 98.8,
+      "y": 24.7,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 61,
+      "x": 95.3,
+      "y": 40.1,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marcus Rashford",
+      "team": "England",
+      "minute": 86,
+      "x": 105.3,
+      "y": 20.7,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Harry Maguire",
+      "team": "England",
+      "minute": 90,
+      "x": 109.9,
+      "y": 37.5,
+      "xg": 0.056,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 92,
+      "x": 111.2,
+      "y": 40.8,
+      "xg": 0.07,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "match_id": 3857298,
+  "shots": [
+    {
+      "player": "Otávio Edmilson da Silva Monteiro",
+      "team": "Portugal",
+      "minute": 4,
+      "x": 96.6,
+      "y": 34.3,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rúben Diogo Da Silva Neves",
+      "team": "Portugal",
+      "minute": 5,
+      "x": 98.1,
+      "y": 36.6,
+      "xg": 0.072,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 9,
+      "x": 107.7,
+      "y": 39.2,
+      "xg": 0.458,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 12,
+      "x": 116.3,
+      "y": 43.7,
+      "xg": 0.207,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 27,
+      "x": 104.2,
+      "y": 35.6,
+      "xg": 0.078,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Otávio Edmilson da Silva Monteiro",
+      "team": "Portugal",
+      "minute": 35,
+      "x": 99.9,
+      "y": 32.5,
+      "xg": 0.046,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 41,
+      "x": 110.0,
+      "y": 25.1,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alidu Seidu",
+      "team": "Ghana",
+      "minute": 53,
+      "x": 88.8,
+      "y": 44.2,
+      "xg": 0.015,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mohammed Kudus",
+      "team": "Ghana",
+      "minute": 54,
+      "x": 92.9,
+      "y": 31.0,
+      "xg": 0.03,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 64,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Iñaki Williams Arthuer",
+      "team": "Ghana",
+      "minute": 66,
+      "x": 91.1,
+      "y": 47.3,
+      "xg": 0.02,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Thomas Teye Partey",
+      "team": "Ghana",
+      "minute": 68,
+      "x": 92.4,
+      "y": 52.5,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Kudus",
+      "team": "Ghana",
+      "minute": 71,
+      "x": 90.8,
+      "y": 34.5,
+      "xg": 0.022,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "André Ayew Pelé",
+      "team": "Ghana",
+      "minute": 72,
+      "x": 115.6,
+      "y": 39.8,
+      "xg": 0.485,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 77,
+      "x": 107.5,
+      "y": 52.6,
+      "xg": 0.215,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rafael Alexandre Conceição Leão",
+      "team": "Portugal",
+      "minute": 79,
+      "x": 111.7,
+      "y": 28.3,
+      "xg": 0.155,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Osman Bukari",
+      "team": "Ghana",
+      "minute": 88,
+      "x": 113.5,
+      "y": 40.2,
+      "xg": 0.155,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mohamed Salisu",
+      "team": "Ghana",
+      "minute": 91,
+      "x": 106.9,
+      "y": 30.6,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Rafael Alexandre Conceição Leão",
+      "team": "Portugal",
+      "minute": 95,
+      "x": 95.5,
+      "y": 29.9,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Osman Bukari",
+      "team": "Ghana",
+      "minute": 97,
+      "x": 103.3,
+      "y": 12.6,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

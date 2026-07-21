@@ -1,0 +1,175 @@
+{
+  "match_id": 3857287,
+  "shots": [
+    {
+      "player": "Matías Vecino Falero",
+      "team": "Uruguay",
+      "minute": 12,
+      "x": 109.5,
+      "y": 28.6,
+      "xg": 0.052,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 18,
+      "x": 103.9,
+      "y": 35.4,
+      "xg": 0.052,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ui-Jo Hwang",
+      "team": "South Korea",
+      "minute": 33,
+      "x": 108.9,
+      "y": 42.7,
+      "xg": 0.323,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "In-Beom Hwang",
+      "team": "South Korea",
+      "minute": 38,
+      "x": 89.7,
+      "y": 57.6,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Diego Roberto Godín Leal",
+      "team": "Uruguay",
+      "minute": 42,
+      "x": 110.0,
+      "y": 40.4,
+      "xg": 0.055,
+      "outcome": "Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "José María Giménez de Vargas",
+      "team": "Uruguay",
+      "minute": 45,
+      "x": 103.5,
+      "y": 35.9,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Min Jae Kim",
+      "team": "South Korea",
+      "minute": 52,
+      "x": 111.5,
+      "y": 46.1,
+      "xg": 0.047,
+      "outcome": "Wayward",
+      "body_part": "Other"
+    },
+    {
+      "player": "Rodrigo Bentancur Colmán",
+      "team": "Uruguay",
+      "minute": 54,
+      "x": 101.3,
+      "y": 38.3,
+      "xg": 0.053,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 68,
+      "x": 90.5,
+      "y": 27.4,
+      "xg": 0.014,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edinson Roberto Cavani Gómez",
+      "team": "Uruguay",
+      "minute": 68,
+      "x": 106.6,
+      "y": 47.5,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kang-In Lee",
+      "team": "South Korea",
+      "minute": 74,
+      "x": 94.5,
+      "y": 54.2,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Gue-Sung Cho",
+      "team": "South Korea",
+      "minute": 76,
+      "x": 93.4,
+      "y": 42.0,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 80,
+      "x": 100.6,
+      "y": 28.3,
+      "xg": 0.028,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edinson Roberto Cavani Gómez",
+      "team": "Uruguay",
+      "minute": 86,
+      "x": 110.5,
+      "y": 39.7,
+      "xg": 0.067,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 88,
+      "x": 95.7,
+      "y": 22.6,
+      "xg": 0.012,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Heung-Min Son",
+      "team": "South Korea",
+      "minute": 89,
+      "x": 93.8,
+      "y": 36.6,
+      "xg": 0.034,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "In-Beom Hwang",
+      "team": "South Korea",
+      "minute": 93,
+      "x": 94.9,
+      "y": 26.7,
+      "xg": 0.023,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    }
+  ]
+}

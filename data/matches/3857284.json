@@ -1,0 +1,385 @@
+{
+  "match_id": 3857284,
+  "shots": [
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 13,
+      "x": 93.0,
+      "y": 31.2,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antonio Rüdiger",
+      "team": "Germany",
+      "minute": 15,
+      "x": 110.5,
+      "y": 50.6,
+      "xg": 0.026,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 19,
+      "x": 96.9,
+      "y": 39.6,
+      "xg": 0.052,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 25,
+      "x": 99.7,
+      "y": 29.6,
+      "xg": 0.043,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 27,
+      "x": 94.4,
+      "y": 42.8,
+      "xg": 0.042,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 28,
+      "x": 105.3,
+      "y": 36.8,
+      "xg": 0.122,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 32,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Serge Gnabry",
+      "team": "Germany",
+      "minute": 37,
+      "x": 93.1,
+      "y": 48.2,
+      "xg": 0.029,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 37,
+      "x": 108.5,
+      "y": 28.3,
+      "xg": 0.039,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 40,
+      "x": 93.3,
+      "y": 39.0,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 41,
+      "x": 97.0,
+      "y": 42.2,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 44,
+      "x": 101.9,
+      "y": 45.1,
+      "xg": 0.066,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 48,
+      "x": 100.3,
+      "y": 40.5,
+      "xg": 0.048,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Serge Gnabry",
+      "team": "Germany",
+      "minute": 48,
+      "x": 114.3,
+      "y": 29.9,
+      "xg": 0.215,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daizen Maeda",
+      "team": "Japan",
+      "minute": 50,
+      "x": 111.0,
+      "y": 34.3,
+      "xg": 0.077,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Serge Gnabry",
+      "team": "Germany",
+      "minute": 46,
+      "x": 108.3,
+      "y": 57.9,
+      "xg": 0.013,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daichi Kamada",
+      "team": "Japan",
+      "minute": 49,
+      "x": 103.3,
+      "y": 47.4,
+      "xg": 0.064,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 50,
+      "x": 107.2,
+      "y": 41.0,
+      "xg": 0.159,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Takuma Asano",
+      "team": "Japan",
+      "minute": 57,
+      "x": 114.7,
+      "y": 49.4,
+      "xg": 0.067,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 59,
+      "x": 103.0,
+      "y": 40.0,
+      "xg": 0.107,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Takuma Asano",
+      "team": "Japan",
+      "minute": 60,
+      "x": 106.4,
+      "y": 25.8,
+      "xg": 0.066,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Takuma Asano",
+      "team": "Japan",
+      "minute": 65,
+      "x": 106.9,
+      "y": 26.5,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ko Itakura",
+      "team": "Japan",
+      "minute": 66,
+      "x": 112.6,
+      "y": 51.3,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Takuma Asano",
+      "team": "Japan",
+      "minute": 67,
+      "x": 112.5,
+      "y": 51.1,
+      "xg": 0.036,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonas Hofmann",
+      "team": "Germany",
+      "minute": 69,
+      "x": 111.1,
+      "y": 48.5,
+      "xg": 0.327,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Serge Gnabry",
+      "team": "Germany",
+      "minute": 69,
+      "x": 103.3,
+      "y": 57.9,
+      "xg": 0.025,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Serge Gnabry",
+      "team": "Germany",
+      "minute": 70,
+      "x": 112.2,
+      "y": 43.5,
+      "xg": 0.112,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Serge Gnabry",
+      "team": "Germany",
+      "minute": 70,
+      "x": 117.7,
+      "y": 49.5,
+      "xg": 0.055,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Junya Ito",
+      "team": "Japan",
+      "minute": 72,
+      "x": 109.2,
+      "y": 36.3,
+      "xg": 0.068,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hiroki Sakai",
+      "team": "Japan",
+      "minute": 72,
+      "x": 113.4,
+      "y": 46.3,
+      "xg": 0.288,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Takumi Minamino",
+      "team": "Japan",
+      "minute": 74,
+      "x": 112.8,
+      "y": 24.4,
+      "xg": 0.014,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ritsu Doan",
+      "team": "Japan",
+      "minute": 74,
+      "x": 112.1,
+      "y": 41.5,
+      "xg": 0.478,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Antonio Rüdiger",
+      "team": "Germany",
+      "minute": 79,
+      "x": 115.5,
+      "y": 39.4,
+      "xg": 0.186,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Takuma Asano",
+      "team": "Japan",
+      "minute": 82,
+      "x": 117.7,
+      "y": 50.2,
+      "xg": 0.027,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Niclas Füllkrug",
+      "team": "Germany",
+      "minute": 89,
+      "x": 106.9,
+      "y": 41.0,
+      "xg": 0.032,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Antonio Rüdiger",
+      "team": "Germany",
+      "minute": 93,
+      "x": 86.2,
+      "y": 37.2,
+      "xg": 0.018,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Leon Goretzka",
+      "team": "Germany",
+      "minute": 94,
+      "x": 100.3,
+      "y": 40.9,
+      "xg": 0.089,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Niklas Süle",
+      "team": "Germany",
+      "minute": 97,
+      "x": 116.5,
+      "y": 31.6,
+      "xg": 0.076,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ]
+}

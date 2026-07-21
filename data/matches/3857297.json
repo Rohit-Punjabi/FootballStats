@@ -1,0 +1,265 @@
+{
+  "match_id": 3857297,
+  "shots": [
+    {
+      "player": "Mohammed Al Burayk",
+      "team": "Saudi Arabia",
+      "minute": 7,
+      "x": 91.6,
+      "y": 24.8,
+      "xg": 0.012,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Kanoo",
+      "team": "Saudi Arabia",
+      "minute": 12,
+      "x": 105.5,
+      "y": 54.5,
+      "xg": 0.038,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Krystian Bielik",
+      "team": "Poland",
+      "minute": 25,
+      "x": 111.7,
+      "y": 39.3,
+      "xg": 0.075,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Saleh Khalid Al Shehri",
+      "team": "Saudi Arabia",
+      "minute": 32,
+      "x": 108.5,
+      "y": 45.0,
+      "xg": 0.045,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 38,
+      "x": 111.9,
+      "y": 44.7,
+      "xg": 0.235,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 40,
+      "x": 112.9,
+      "y": 58.5,
+      "xg": 0.01,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Salem Mohammed Al Dawsari",
+      "team": "Saudi Arabia",
+      "minute": 45,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Al Burayk",
+      "team": "Saudi Arabia",
+      "minute": 45,
+      "x": 112.7,
+      "y": 32.9,
+      "xg": 0.357,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Saud Abdullah Abdul Hamid",
+      "team": "Saudi Arabia",
+      "minute": 50,
+      "x": 85.9,
+      "y": 24.5,
+      "xg": 0.006,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Kanoo",
+      "team": "Saudi Arabia",
+      "minute": 50,
+      "x": 104.2,
+      "y": 39.3,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Salem Mohammed Al Dawsari",
+      "team": "Saudi Arabia",
+      "minute": 53,
+      "x": 97.6,
+      "y": 21.6,
+      "xg": 0.011,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Salem Mohammed Al Dawsari",
+      "team": "Saudi Arabia",
+      "minute": 54,
+      "x": 114.6,
+      "y": 36.1,
+      "xg": 0.164,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Abdulelah Saad Hameed Al-Malki",
+      "team": "Saudi Arabia",
+      "minute": 54,
+      "x": 97.0,
+      "y": 40.0,
+      "xg": 0.039,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Firas Tariq Nasser Al Albirakan",
+      "team": "Saudi Arabia",
+      "minute": 59,
+      "x": 112.9,
+      "y": 27.5,
+      "xg": 0.111,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mohammed Kanoo",
+      "team": "Saudi Arabia",
+      "minute": 60,
+      "x": 107.3,
+      "y": 49.4,
+      "xg": 0.076,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Arkadiusz Milik",
+      "team": "Poland",
+      "minute": 62,
+      "x": 111.0,
+      "y": 38.8,
+      "xg": 0.135,
+      "outcome": "Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 65,
+      "x": 115.1,
+      "y": 44.4,
+      "xg": 0.259,
+      "outcome": "Post",
+      "body_part": "Other"
+    },
+    {
+      "player": "Nawaf Shaker Al Abid",
+      "team": "Saudi Arabia",
+      "minute": 67,
+      "x": 95.1,
+      "y": 46.7,
+      "xg": 0.066,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Salem Mohammed Al Dawsari",
+      "team": "Saudi Arabia",
+      "minute": 68,
+      "x": 96.0,
+      "y": 34.2,
+      "xg": 0.037,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 72,
+      "x": 107.3,
+      "y": 49.0,
+      "xg": 0.095,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Abdulelah Saad Hameed Al-Malki",
+      "team": "Saudi Arabia",
+      "minute": 77,
+      "x": 103.2,
+      "y": 34.7,
+      "xg": 0.1,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Krzysztof Piątek",
+      "team": "Poland",
+      "minute": 80,
+      "x": 107.4,
+      "y": 41.4,
+      "xg": 0.028,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 81,
+      "x": 107.2,
+      "y": 44.6,
+      "xg": 0.478,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Abdulrahman Al-Obood",
+      "team": "Saudi Arabia",
+      "minute": 86,
+      "x": 118.0,
+      "y": 48.2,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 89,
+      "x": 109.9,
+      "y": 48.1,
+      "xg": 0.418,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mohammed Kanoo",
+      "team": "Saudi Arabia",
+      "minute": 95,
+      "x": 95.3,
+      "y": 32.9,
+      "xg": 0.047,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

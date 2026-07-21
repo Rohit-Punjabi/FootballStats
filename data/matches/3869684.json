@@ -1,0 +1,215 @@
+{
+  "match_id": 3869684,
+  "shots": [
+    {
+      "player": "Joško Gvardiol",
+      "team": "Croatia",
+      "minute": 6,
+      "x": 108.8,
+      "y": 38.0,
+      "xg": 0.124,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Achraf Dari",
+      "team": "Morocco",
+      "minute": 8,
+      "x": 115.6,
+      "y": 39.0,
+      "xg": 0.418,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mislav Oršić",
+      "team": "Croatia",
+      "minute": 9,
+      "x": 99.5,
+      "y": 23.8,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Josip Stanišić",
+      "team": "Croatia",
+      "minute": 13,
+      "x": 94.4,
+      "y": 41.3,
+      "xg": 0.041,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mislav Oršić",
+      "team": "Croatia",
+      "minute": 17,
+      "x": 104.9,
+      "y": 38.8,
+      "xg": 0.113,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 17,
+      "x": 111.3,
+      "y": 34.8,
+      "xg": 0.134,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Luka Modrić",
+      "team": "Croatia",
+      "minute": 23,
+      "x": 101.2,
+      "y": 49.5,
+      "xg": 0.07,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sofiane Boufal",
+      "team": "Morocco",
+      "minute": 32,
+      "x": 112.4,
+      "y": 29.5,
+      "xg": 0.086,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 36,
+      "x": 117.8,
+      "y": 48.9,
+      "xg": 0.048,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 39,
+      "x": 90.6,
+      "y": 53.5,
+      "xg": 0.015,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mislav Oršić",
+      "team": "Croatia",
+      "minute": 41,
+      "x": 106.5,
+      "y": 21.3,
+      "xg": 0.013,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marko Livaja",
+      "team": "Croatia",
+      "minute": 46,
+      "x": 90.5,
+      "y": 39.5,
+      "xg": 0.02,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mislav Oršić",
+      "team": "Croatia",
+      "minute": 46,
+      "x": 100.8,
+      "y": 24.2,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mislav Oršić",
+      "team": "Croatia",
+      "minute": 54,
+      "x": 87.5,
+      "y": 26.6,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 64,
+      "x": 110.6,
+      "y": 40.5,
+      "xg": 0.073,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Nikola Vlašić",
+      "team": "Croatia",
+      "minute": 70,
+      "x": 90.9,
+      "y": 36.9,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 74,
+      "x": 115.5,
+      "y": 48.3,
+      "xg": 0.16,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mateo Kovačić",
+      "team": "Croatia",
+      "minute": 86,
+      "x": 110.3,
+      "y": 29.2,
+      "xg": 0.236,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 89,
+      "x": 110.9,
+      "y": 36.5,
+      "xg": 0.057,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 90,
+      "x": 89.6,
+      "y": 46.9,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 95,
+      "x": 113.6,
+      "y": 43.4,
+      "xg": 0.113,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ]
+}

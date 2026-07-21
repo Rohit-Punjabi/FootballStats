@@ -1,0 +1,225 @@
+{
+  "match_id": 3857267,
+  "shots": [
+    {
+      "player": "Idrissa Gana Gueye",
+      "team": "Senegal",
+      "minute": 2,
+      "x": 106.9,
+      "y": 45.7,
+      "xg": 0.213,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Boulaye Dia",
+      "team": "Senegal",
+      "minute": 7,
+      "x": 109.3,
+      "y": 51.9,
+      "xg": 0.168,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 9,
+      "x": 86.9,
+      "y": 40.9,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 9,
+      "x": 95.9,
+      "y": 37.7,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 10,
+      "x": 99.2,
+      "y": 40.2,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Iliman Ndiaye",
+      "team": "Senegal",
+      "minute": 11,
+      "x": 99.7,
+      "y": 52.9,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 23,
+      "x": 104.1,
+      "y": 25.5,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pape Gueye",
+      "team": "Senegal",
+      "minute": 24,
+      "x": 93.0,
+      "y": 36.3,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Abdou Diallo",
+      "team": "Senegal",
+      "minute": 24,
+      "x": 107.9,
+      "y": 41.9,
+      "xg": 0.035,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Pathé Ismaël Ciss",
+      "team": "Senegal",
+      "minute": 36,
+      "x": 108.1,
+      "y": 33.6,
+      "xg": 0.031,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "minute": 43,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Iliman Ndiaye",
+      "team": "Senegal",
+      "minute": 46,
+      "x": 107.3,
+      "y": 46.7,
+      "xg": 0.045,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Adoni Cifuentes Charcopa",
+      "team": "Ecuador",
+      "minute": 48,
+      "x": 93.8,
+      "y": 51.3,
+      "xg": 0.025,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Michael Steveen Estrada Martínez",
+      "team": "Ecuador",
+      "minute": 56,
+      "x": 106.7,
+      "y": 38.8,
+      "xg": 0.043,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Felix Eduardo Torres Caicedo",
+      "team": "Ecuador",
+      "minute": 66,
+      "x": 113.7,
+      "y": 42.7,
+      "xg": 0.154,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Moisés Isaac Caicedo Corozo",
+      "team": "Ecuador",
+      "minute": 66,
+      "x": 117.2,
+      "y": 35.6,
+      "xg": 0.589,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kalidou Koulibaly",
+      "team": "Senegal",
+      "minute": 69,
+      "x": 114.3,
+      "y": 46.0,
+      "xg": 0.234,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gonzalo Jordy Plata Jiménez",
+      "team": "Ecuador",
+      "minute": 75,
+      "x": 107.0,
+      "y": 42.8,
+      "xg": 0.059,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Boulaye Dia",
+      "team": "Senegal",
+      "minute": 81,
+      "x": 101.3,
+      "y": 54.6,
+      "xg": 0.045,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pape Gueye",
+      "team": "Senegal",
+      "minute": 87,
+      "x": 102.6,
+      "y": 54.8,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jeremy Leonel Sarmiento Morante",
+      "team": "Ecuador",
+      "minute": 88,
+      "x": 105.3,
+      "y": 32.1,
+      "xg": 0.029,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jackson Gabriel Porozo Vernaza",
+      "team": "Ecuador",
+      "minute": 93,
+      "x": 105.9,
+      "y": 34.3,
+      "xg": 0.053,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ]
+}

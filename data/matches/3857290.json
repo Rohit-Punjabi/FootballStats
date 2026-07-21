@@ -1,0 +1,155 @@
+{
+  "match_id": 3857290,
+  "shots": [
+    {
+      "player": "Bryan Mbeumo",
+      "team": "Cameroon",
+      "minute": 9,
+      "x": 109.4,
+      "y": 22.7,
+      "xg": 0.016,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Karl Brillant Toko Ekambi",
+      "team": "Cameroon",
+      "minute": 9,
+      "x": 108.7,
+      "y": 32.1,
+      "xg": 0.159,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Granit Xhaka",
+      "team": "Switzerland",
+      "minute": 11,
+      "x": 88.1,
+      "y": 28.2,
+      "xg": 0.012,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ngoran Suiru Fai Collins",
+      "team": "Cameroon",
+      "minute": 25,
+      "x": 98.8,
+      "y": 59.8,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Martin Hongla Yma II",
+      "team": "Cameroon",
+      "minute": 29,
+      "x": 110.6,
+      "y": 53.8,
+      "xg": 0.082,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nico Elvedi",
+      "team": "Switzerland",
+      "minute": 39,
+      "x": 113.3,
+      "y": 38.7,
+      "xg": 0.19,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jean-Eric Maxim Choupo-Moting",
+      "team": "Cameroon",
+      "minute": 40,
+      "x": 105.2,
+      "y": 53.5,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Manuel Obafemi Akanji",
+      "team": "Switzerland",
+      "minute": 45,
+      "x": 114.7,
+      "y": 38.7,
+      "xg": 0.156,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Breel-Donald Embolo",
+      "team": "Switzerland",
+      "minute": 47,
+      "x": 111.9,
+      "y": 39.5,
+      "xg": 0.552,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolas Alexis Julio N'Koulou Ndoubena",
+      "team": "Cameroon",
+      "minute": 49,
+      "x": 116.1,
+      "y": 35.1,
+      "xg": 0.246,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jean-Eric Maxim Choupo-Moting",
+      "team": "Cameroon",
+      "minute": 56,
+      "x": 119.2,
+      "y": 47.9,
+      "xg": 0.012,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "André-Frank Zambo Anguissa",
+      "team": "Cameroon",
+      "minute": 65,
+      "x": 107.5,
+      "y": 44.3,
+      "xg": 0.046,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ruben Vargas",
+      "team": "Switzerland",
+      "minute": 65,
+      "x": 107.5,
+      "y": 41.8,
+      "xg": 0.198,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Granit Xhaka",
+      "team": "Switzerland",
+      "minute": 88,
+      "x": 96.2,
+      "y": 37.3,
+      "xg": 0.049,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Haris Seferović",
+      "team": "Switzerland",
+      "minute": 94,
+      "x": 108.0,
+      "y": 45.8,
+      "xg": 0.27,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    }
+  ]
+}

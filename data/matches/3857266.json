@@ -1,0 +1,315 @@
+{
+  "match_id": 3857266,
+  "shots": [
+    {
+      "player": "Ousmane Dembélé",
+      "team": "France",
+      "minute": 5,
+      "x": 97.8,
+      "y": 38.0,
+      "xg": 0.048,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Adrien Rabiot",
+      "team": "France",
+      "minute": 9,
+      "x": 115.0,
+      "y": 45.6,
+      "xg": 0.109,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Raphaël Varane",
+      "team": "France",
+      "minute": 12,
+      "x": 112.4,
+      "y": 46.9,
+      "xg": 0.043,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 14,
+      "x": 111.9,
+      "y": 38.9,
+      "xg": 0.119,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Adrien Rabiot",
+      "team": "France",
+      "minute": 20,
+      "x": 108.9,
+      "y": 44.3,
+      "xg": 0.042,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "France",
+      "minute": 29,
+      "x": 109.0,
+      "y": 56.2,
+      "xg": 0.029,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antoine Griezmann",
+      "team": "France",
+      "minute": 32,
+      "x": 118.2,
+      "y": 23.1,
+      "xg": 0.011,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Aurélien Djani Tchouaméni",
+      "team": "France",
+      "minute": 32,
+      "x": 99.7,
+      "y": 39.1,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ousmane Dembélé",
+      "team": "France",
+      "minute": 32,
+      "x": 108.2,
+      "y": 48.0,
+      "xg": 0.047,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Adrien Rabiot",
+      "team": "France",
+      "minute": 33,
+      "x": 100.1,
+      "y": 24.5,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andreas Evald Cornelius",
+      "team": "Denmark",
+      "minute": 35,
+      "x": 107.4,
+      "y": 55.8,
+      "xg": 0.048,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 36,
+      "x": 108.6,
+      "y": 45.2,
+      "xg": 0.045,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 39,
+      "x": 106.0,
+      "y": 43.8,
+      "xg": 0.186,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Dannemann Eriksen",
+      "team": "Denmark",
+      "minute": 44,
+      "x": 83.0,
+      "y": 42.5,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 47,
+      "x": 98.6,
+      "y": 18.5,
+      "xg": 0.011,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 55,
+      "x": 104.1,
+      "y": 30.1,
+      "xg": 0.036,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Antoine Griezmann",
+      "team": "France",
+      "minute": 59,
+      "x": 102.6,
+      "y": 38.8,
+      "xg": 0.217,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 60,
+      "x": 110.8,
+      "y": 31.3,
+      "xg": 0.085,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joachim Andersen",
+      "team": "Denmark",
+      "minute": 67,
+      "x": 112.2,
+      "y": 43.9,
+      "xg": 0.083,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "Denmark",
+      "minute": 67,
+      "x": 113.0,
+      "y": 37.6,
+      "xg": 0.254,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jesper Lindstrøm",
+      "team": "Denmark",
+      "minute": 72,
+      "x": 107.4,
+      "y": 33.0,
+      "xg": 0.189,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Dannemann Eriksen",
+      "team": "Denmark",
+      "minute": 73,
+      "x": 93.3,
+      "y": 45.1,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Aurélien Djani Tchouaméni",
+      "team": "France",
+      "minute": 77,
+      "x": 113.7,
+      "y": 37.7,
+      "xg": 0.224,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "France",
+      "minute": 78,
+      "x": 110.7,
+      "y": 40.7,
+      "xg": 0.107,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Adrien Rabiot",
+      "team": "France",
+      "minute": 79,
+      "x": 112.7,
+      "y": 47.3,
+      "xg": 0.081,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Martin Braithwaite Christensen",
+      "team": "Denmark",
+      "minute": 80,
+      "x": 110.0,
+      "y": 45.1,
+      "xg": 0.238,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pierre-Emile Højbjerg",
+      "team": "Denmark",
+      "minute": 83,
+      "x": 87.2,
+      "y": 48.7,
+      "xg": 0.015,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 85,
+      "x": 117.8,
+      "y": 36.5,
+      "xg": 0.384,
+      "outcome": "Goal",
+      "body_part": "Other"
+    },
+    {
+      "player": "Joachim Andersen",
+      "team": "Denmark",
+      "minute": 88,
+      "x": 94.3,
+      "y": 53.4,
+      "xg": 0.014,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kylian Mbappé Lottin",
+      "team": "France",
+      "minute": 90,
+      "x": 99.4,
+      "y": 25.5,
+      "xg": 0.034,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joakim Mæhle",
+      "team": "Denmark",
+      "minute": 96,
+      "x": 87.5,
+      "y": 42.4,
+      "xg": 0.014,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

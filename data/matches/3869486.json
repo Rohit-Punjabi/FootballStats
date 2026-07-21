@@ -1,0 +1,215 @@
+{
+  "match_id": 3869486,
+  "shots": [
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 3,
+      "x": 106.8,
+      "y": 44.2,
+      "xg": 0.099,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 5,
+      "x": 112.7,
+      "y": 39.4,
+      "xg": 0.118,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Raphaël Adelino José Guerreiro",
+      "team": "Portugal",
+      "minute": 12,
+      "x": 105.6,
+      "y": 23.6,
+      "xg": 0.019,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Hakim Ziyech",
+      "team": "Morocco",
+      "minute": 17,
+      "x": 96.1,
+      "y": 60.9,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 25,
+      "x": 106.7,
+      "y": 39.8,
+      "xg": 0.044,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 30,
+      "x": 100.9,
+      "y": 27.7,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Selim Amallah",
+      "team": "Morocco",
+      "minute": 34,
+      "x": 108.7,
+      "y": 31.3,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sofiane Boufal",
+      "team": "Morocco",
+      "minute": 34,
+      "x": 97.0,
+      "y": 27.8,
+      "xg": 0.035,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 38,
+      "x": 102.2,
+      "y": 35.4,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Youssef En-Nesyri",
+      "team": "Morocco",
+      "minute": 41,
+      "x": 112.6,
+      "y": 39.7,
+      "xg": 0.2,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Bruno Miguel Borges Fernandes",
+      "team": "Portugal",
+      "minute": 44,
+      "x": 108.0,
+      "y": 62.3,
+      "xg": 0.007,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yahia Attiyat allah",
+      "team": "Morocco",
+      "minute": 46,
+      "x": 107.6,
+      "y": 26.3,
+      "xg": 0.082,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Azzedine Ounahi",
+      "team": "Morocco",
+      "minute": 55,
+      "x": 93.4,
+      "y": 44.2,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gonçalo Matias Ramos",
+      "team": "Portugal",
+      "minute": 57,
+      "x": 108.7,
+      "y": 40.0,
+      "xg": 0.106,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 60,
+      "x": 109.7,
+      "y": 29.4,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Bruno Miguel Borges Fernandes",
+      "team": "Portugal",
+      "minute": 63,
+      "x": 101.0,
+      "y": 35.5,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bernardo Mota Veiga de Carvalho e Silva",
+      "team": "Portugal",
+      "minute": 70,
+      "x": 109.8,
+      "y": 35.9,
+      "xg": 0.109,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Félix Sequeira",
+      "team": "Portugal",
+      "minute": 81,
+      "x": 102.0,
+      "y": 57.1,
+      "xg": 0.026,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo dos Santos Aveiro",
+      "team": "Portugal",
+      "minute": 90,
+      "x": 101.8,
+      "y": 53.7,
+      "xg": 0.057,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Zakaria Aboukhlal",
+      "team": "Morocco",
+      "minute": 95,
+      "x": 101.1,
+      "y": 45.9,
+      "xg": 0.391,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kléper Laveran Lima Ferreira",
+      "team": "Portugal",
+      "minute": 96,
+      "x": 114.1,
+      "y": 44.5,
+      "xg": 0.149,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ]
+}
