@@ -1,0 +1,335 @@
+{
+  "match_id": 3939971,
+  "shots": [
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 3,
+      "x": 105.1,
+      "y": 42.1,
+      "xg": 0.096,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Shamar Nicholson",
+      "team": "Jamaica",
+      "minute": 4,
+      "x": 106.3,
+      "y": 45.1,
+      "xg": 0.033,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kasey Palmer",
+      "team": "Jamaica",
+      "minute": 11,
+      "x": 99.5,
+      "y": 36.4,
+      "xg": 0.038,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Santiago Tomás Giménez",
+      "team": "Mexico",
+      "minute": 14,
+      "x": 115.0,
+      "y": 45.2,
+      "xg": 0.15,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Shamar Nicholson",
+      "team": "Jamaica",
+      "minute": 20,
+      "x": 112.2,
+      "y": 40.6,
+      "xg": 0.117,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Demarai Gray",
+      "team": "Jamaica",
+      "minute": 23,
+      "x": 101.9,
+      "y": 27.7,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dexter Lembikisa",
+      "team": "Jamaica",
+      "minute": 25,
+      "x": 103.5,
+      "y": 60.5,
+      "xg": 0.014,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Michail Antonio",
+      "team": "Jamaica",
+      "minute": 30,
+      "x": 93.7,
+      "y": 31.1,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 35,
+      "x": 86.7,
+      "y": 36.2,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bobby Armani De Cordova-Reid",
+      "team": "Jamaica",
+      "minute": 36,
+      "x": 100.5,
+      "y": 49.1,
+      "xg": 0.036,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "César Jasib Montes Castro",
+      "team": "Mexico",
+      "minute": 42,
+      "x": 87.8,
+      "y": 51.5,
+      "xg": 0.011,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Francisco Romo Barrón",
+      "team": "Mexico",
+      "minute": 45,
+      "x": 100.2,
+      "y": 36.6,
+      "xg": 0.058,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julián Andrés Quiñones Quiñones",
+      "team": "Mexico",
+      "minute": 47,
+      "x": 108.7,
+      "y": 27.3,
+      "xg": 0.05,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "César Jasib Montes Castro",
+      "team": "Mexico",
+      "minute": 50,
+      "x": 111.8,
+      "y": 44.2,
+      "xg": 0.062,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kasey Palmer",
+      "team": "Jamaica",
+      "minute": 45,
+      "x": 100.2,
+      "y": 35.8,
+      "xg": 0.042,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dexter Lembikisa",
+      "team": "Jamaica",
+      "minute": 53,
+      "x": 93.1,
+      "y": 52.8,
+      "xg": 0.025,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 54,
+      "x": 102.7,
+      "y": 42.7,
+      "xg": 0.075,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Shamar Nicholson",
+      "team": "Jamaica",
+      "minute": 55,
+      "x": 99.0,
+      "y": 51.7,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 56,
+      "x": 96.3,
+      "y": 21.5,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "César Jasib Montes Castro",
+      "team": "Mexico",
+      "minute": 56,
+      "x": 111.6,
+      "y": 44.3,
+      "xg": 0.07,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Julián Andrés Quiñones Quiñones",
+      "team": "Mexico",
+      "minute": 59,
+      "x": 105.2,
+      "y": 25.9,
+      "xg": 0.059,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 61,
+      "x": 91.9,
+      "y": 30.2,
+      "xg": 0.026,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Santiago Tomás Giménez",
+      "team": "Mexico",
+      "minute": 63,
+      "x": 109.9,
+      "y": 52.6,
+      "xg": 0.123,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gerardo Daniel Arteaga Zamora",
+      "team": "Mexico",
+      "minute": 63,
+      "x": 100.1,
+      "y": 22.4,
+      "xg": 0.018,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Andrés Quiñones Quiñones",
+      "team": "Mexico",
+      "minute": 65,
+      "x": 105.0,
+      "y": 32.5,
+      "xg": 0.132,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jorge Eduardo Sánchez Ramos",
+      "team": "Mexico",
+      "minute": 66,
+      "x": 101.5,
+      "y": 47.4,
+      "xg": 0.061,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gerardo Daniel Arteaga Zamora",
+      "team": "Mexico",
+      "minute": 68,
+      "x": 101.7,
+      "y": 34.0,
+      "xg": 0.077,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Andrés Quiñones Quiñones",
+      "team": "Mexico",
+      "minute": 74,
+      "x": 94.5,
+      "y": 20.9,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Erick Daniel Sánchez Ocegueda",
+      "team": "Mexico",
+      "minute": 79,
+      "x": 85.5,
+      "y": 34.4,
+      "xg": 0.014,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Francisco Romo Barrón",
+      "team": "Mexico",
+      "minute": 82,
+      "x": 83.4,
+      "y": 41.0,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Shamar Nicholson",
+      "team": "Jamaica",
+      "minute": 83,
+      "x": 94.5,
+      "y": 49.2,
+      "xg": 0.052,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kaheim Dixon",
+      "team": "Jamaica",
+      "minute": 86,
+      "x": 100.8,
+      "y": 50.6,
+      "xg": 0.032,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dexter Lembikisa",
+      "team": "Jamaica",
+      "minute": 90,
+      "x": 91.0,
+      "y": 53.9,
+      "xg": 0.013,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ]
+}

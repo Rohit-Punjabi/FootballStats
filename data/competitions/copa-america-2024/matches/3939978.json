@@ -1,0 +1,145 @@
+{
+  "match_id": 3939978,
+  "shots": [
+    {
+      "player": "Gianluca Lapadula Vargas",
+      "team": "Peru",
+      "minute": 9,
+      "x": 100.3,
+      "y": 53.9,
+      "xg": 0.038,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Piero Aldair Quispe Córdova",
+      "team": "Peru",
+      "minute": 27,
+      "x": 107.8,
+      "y": 30.9,
+      "xg": 0.208,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Édison Michael Flores Peralta",
+      "team": "Peru",
+      "minute": 29,
+      "x": 96.5,
+      "y": 39.0,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 31,
+      "x": 114.8,
+      "y": 46.5,
+      "xg": 0.107,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gianluca Lapadula Vargas",
+      "team": "Peru",
+      "minute": 34,
+      "x": 107.6,
+      "y": 37.8,
+      "xg": 0.08,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Gianluca Lapadula Vargas",
+      "team": "Peru",
+      "minute": 45,
+      "x": 99.7,
+      "y": 42.0,
+      "xg": 0.05,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Gianluca Lapadula Vargas",
+      "team": "Peru",
+      "minute": 47,
+      "x": 60.7,
+      "y": 60.3,
+      "xg": 0.004,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 66,
+      "x": 115.1,
+      "y": 34.1,
+      "xg": 0.146,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 73,
+      "x": 104.3,
+      "y": 49.7,
+      "xg": 0.249,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "André Martín Carrillo Díaz",
+      "team": "Peru",
+      "minute": 83,
+      "x": 85.8,
+      "y": 39.1,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tanitoluwa Oluwaseyi",
+      "team": "Canada",
+      "minute": 87,
+      "x": 112.6,
+      "y": 23.7,
+      "xg": 0.042,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Tanitoluwa Oluwaseyi",
+      "team": "Canada",
+      "minute": 88,
+      "x": 113.6,
+      "y": 39.1,
+      "xg": 0.366,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Alberto Cueva Bravo",
+      "team": "Peru",
+      "minute": 90,
+      "x": 105.3,
+      "y": 35.5,
+      "xg": 0.104,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Paolo Guerrero Gonzáles",
+      "team": "Peru",
+      "minute": 94,
+      "x": 94.0,
+      "y": 26.9,
+      "xg": 0.04,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ]
+}

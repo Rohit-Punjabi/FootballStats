@@ -1,0 +1,185 @@
+{
+  "match_id": 3939970,
+  "shots": [
+    {
+      "player": "Alexis Alejandro Sánchez Sánchez",
+      "team": "Chile",
+      "minute": 15,
+      "x": 113.8,
+      "y": 36.2,
+      "xg": 0.532,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Édison Michael Flores Peralta",
+      "team": "Peru",
+      "minute": 19,
+      "x": 100.8,
+      "y": 56.5,
+      "xg": 0.028,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Víctor Alejandro Dávila Zavala",
+      "team": "Chile",
+      "minute": 23,
+      "x": 104.4,
+      "y": 47.5,
+      "xg": 0.074,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Víctor Alejandro Dávila Zavala",
+      "team": "Chile",
+      "minute": 24,
+      "x": 109.5,
+      "y": 45.2,
+      "xg": 0.063,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alexis Alejandro Sánchez Sánchez",
+      "team": "Chile",
+      "minute": 28,
+      "x": 105.1,
+      "y": 53.0,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gianluca Lapadula Vargas",
+      "team": "Peru",
+      "minute": 32,
+      "x": 94.2,
+      "y": 30.6,
+      "xg": 0.012,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Miguel Gianpierre Araujo Blanco",
+      "team": "Peru",
+      "minute": 42,
+      "x": 112.5,
+      "y": 43.7,
+      "xg": 0.09,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Darío Esteban Osorio Osorio",
+      "team": "Chile",
+      "minute": 46,
+      "x": 100.1,
+      "y": 56.7,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Víctor Alejandro Dávila Zavala",
+      "team": "Chile",
+      "minute": 52,
+      "x": 100.6,
+      "y": 41.8,
+      "xg": 0.048,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gianluca Lapadula Vargas",
+      "team": "Peru",
+      "minute": 56,
+      "x": 110.3,
+      "y": 44.0,
+      "xg": 0.263,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marcelino Ignacio Nuñez Espinoza",
+      "team": "Chile",
+      "minute": 60,
+      "x": 94.4,
+      "y": 36.4,
+      "xg": 0.046,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sergio Fernando Peña Flores",
+      "team": "Peru",
+      "minute": 65,
+      "x": 81.2,
+      "y": 59.4,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ben Brereton Díaz",
+      "team": "Chile",
+      "minute": 66,
+      "x": 101.2,
+      "y": 34.0,
+      "xg": 0.052,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gianluca Lapadula Vargas",
+      "team": "Peru",
+      "minute": 78,
+      "x": 108.7,
+      "y": 34.9,
+      "xg": 0.049,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Paolo Guerrero Gonzáles",
+      "team": "Peru",
+      "minute": 78,
+      "x": 117.6,
+      "y": 35.1,
+      "xg": 0.229,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ben Brereton Díaz",
+      "team": "Chile",
+      "minute": 85,
+      "x": 110.1,
+      "y": 30.8,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alexis Alejandro Sánchez Sánchez",
+      "team": "Chile",
+      "minute": 86,
+      "x": 115.4,
+      "y": 29.1,
+      "xg": 0.045,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Igor Lichnovsky Osorio",
+      "team": "Chile",
+      "minute": 88,
+      "x": 111.9,
+      "y": 37.6,
+      "xg": 0.063,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ]
+}

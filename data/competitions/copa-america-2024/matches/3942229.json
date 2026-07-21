@@ -1,0 +1,315 @@
+{
+  "match_id": 3942229,
+  "shots": [
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 11,
+      "x": 77.6,
+      "y": 60.8,
+      "xg": 0.01,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 11,
+      "x": 111.3,
+      "y": 54.7,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jacob Shaffelburg",
+      "team": "Canada",
+      "minute": 12,
+      "x": 113.1,
+      "y": 45.3,
+      "xg": 0.152,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Richie Laryea",
+      "team": "Canada",
+      "minute": 13,
+      "x": 99.5,
+      "y": 49.9,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 15,
+      "x": 109.0,
+      "y": 41.5,
+      "xg": 0.079,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 17,
+      "x": 92.1,
+      "y": 44.2,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 20,
+      "x": 114.3,
+      "y": 34.3,
+      "xg": 0.129,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Yeferson Julio Soteldo Martínez",
+      "team": "Venezuela",
+      "minute": 22,
+      "x": 93.9,
+      "y": 36.5,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jacob Shaffelburg",
+      "team": "Canada",
+      "minute": 23,
+      "x": 102.5,
+      "y": 40.3,
+      "xg": 0.065,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yordan Hernando Osorio Paredes",
+      "team": "Venezuela",
+      "minute": 25,
+      "x": 111.9,
+      "y": 38.7,
+      "xg": 0.083,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 25,
+      "x": 102.3,
+      "y": 41.7,
+      "xg": 0.349,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yordan Hernando Osorio Paredes",
+      "team": "Venezuela",
+      "minute": 28,
+      "x": 112.2,
+      "y": 44.0,
+      "xg": 0.078,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Yangel Clemente Herrera Ravelo",
+      "team": "Venezuela",
+      "minute": 28,
+      "x": 109.1,
+      "y": 17.7,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Richie Laryea",
+      "team": "Canada",
+      "minute": 30,
+      "x": 110.8,
+      "y": 52.0,
+      "xg": 0.059,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 31,
+      "x": 114.5,
+      "y": 34.0,
+      "xg": 0.09,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Yeferson Julio Soteldo Martínez",
+      "team": "Venezuela",
+      "minute": 48,
+      "x": 102.9,
+      "y": 32.8,
+      "xg": 0.052,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 51,
+      "x": 105.4,
+      "y": 44.0,
+      "xg": 0.164,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Andrés Martínez Torres",
+      "team": "Venezuela",
+      "minute": 53,
+      "x": 110.5,
+      "y": 48.9,
+      "xg": 0.124,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Eduard Alexander Bello Gil",
+      "team": "Venezuela",
+      "minute": 57,
+      "x": 117.8,
+      "y": 27.6,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 63,
+      "x": 71.0,
+      "y": 33.7,
+      "xg": 0.019,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Liam Millar",
+      "team": "Canada",
+      "minute": 65,
+      "x": 105.9,
+      "y": 28.0,
+      "xg": 0.058,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Liam Millar",
+      "team": "Canada",
+      "minute": 66,
+      "x": 116.8,
+      "y": 27.6,
+      "xg": 0.027,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 68,
+      "x": 98.8,
+      "y": 22.8,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jhonder Leonel Cádiz Fernández",
+      "team": "Venezuela",
+      "minute": 69,
+      "x": 98.8,
+      "y": 37.2,
+      "xg": 0.055,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Tanitoluwa Oluwaseyi",
+      "team": "Canada",
+      "minute": 76,
+      "x": 103.7,
+      "y": 29.3,
+      "xg": 0.085,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jhonder Leonel Cádiz Fernández",
+      "team": "Venezuela",
+      "minute": 78,
+      "x": 110.9,
+      "y": 24.4,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tanitoluwa Oluwaseyi",
+      "team": "Canada",
+      "minute": 80,
+      "x": 111.9,
+      "y": 48.5,
+      "xg": 0.128,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Miguel Ángel Navarro Zárate",
+      "team": "Venezuela",
+      "minute": 82,
+      "x": 109.2,
+      "y": 27.5,
+      "xg": 0.08,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alistair Johnston",
+      "team": "Canada",
+      "minute": 85,
+      "x": 110.9,
+      "y": 58.0,
+      "xg": 0.011,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ali Ahmed",
+      "team": "Canada",
+      "minute": 87,
+      "x": 104.4,
+      "y": 51.3,
+      "xg": 0.066,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ismael Koné",
+      "team": "Canada",
+      "minute": 88,
+      "x": 99.4,
+      "y": 31.7,
+      "xg": 0.059,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

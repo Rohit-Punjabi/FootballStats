@@ -1,44 +1,73 @@
-"""Shared configuration and small helpers for the data pipeline.
+"""Shared configuration and helpers for the data pipeline.
 
-Everything the pipeline writes lands in the top-level `data/` folder, which the
-Next.js site reads at build time. We keep raw StatsBomb dumps in `data/raw/` and
-the cleaned, site-ready JSON in `data/` itself.
+The pipeline is competition-aware. Each (competition, season) we pull becomes a
+"competition" in the site, identified by a URL-safe slug (e.g. "world-cup-2022").
+
+Layout on disk:
+    data/
+      competitions.json                 # index of every competition we've built
+      competitions/<slug>/
+        meta.json  matches.json  players.json  teams.json  stadiums.json
+        matches/<id>.json               # per-match detail (shots)
+      raw/<slug>/                        # raw StatsBomb dumps (gitignored, big)
+        matches.json  meta.json  events/<id>.json  lineups/<id>.json
 """
 from __future__ import annotations
 
 import json
 import math
+import re
 from pathlib import Path
 
 # --- Paths -------------------------------------------------------------------
-# config.py lives in <repo>/pipeline/, so the repo root is one level up.
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "data"
+COMPETITIONS_DIR = DATA_DIR / "competitions"
 RAW_DIR = DATA_DIR / "raw"
-RAW_EVENTS_DIR = RAW_DIR / "events"
-RAW_LINEUPS_DIR = RAW_DIR / "lineups"
+COMPETITIONS_INDEX = DATA_DIR / "competitions.json"
 
-# --- Which tournament to pull ------------------------------------------------
-# StatsBomb's competition_id for the men's FIFA World Cup is 43.
-# Seasons available in the free open data (as of writing): 2018, 2022.
-# Leave SEASON_NAME = None to auto-pick the most recent World Cup season that
-# StatsBomb actually publishes. Set it (e.g. "2022") to pin a specific edition.
-COMPETITION_NAME = "FIFA World Cup"
-SEASON_NAME: str | None = None
+# --- Which tournaments to pull ----------------------------------------------
+# Add a (competition_name, season_name) here and re-run the pipeline to grow the
+# site — no code changes needed. Names must match StatsBomb's `sb.competitions()`.
+COMPETITIONS: list[dict[str, str]] = [
+    {"competition_name": "FIFA World Cup", "season_name": "2022"},
+    {"competition_name": "Copa America", "season_name": "2024"},
+]
 
 
-def ensure_dirs() -> None:
-    """Create the data folders if they don't exist yet."""
-    for d in (DATA_DIR, RAW_DIR, RAW_EVENTS_DIR, RAW_LINEUPS_DIR):
+def slugify(name: str, season: str) -> str:
+    """'FIFA World Cup', '2022' -> 'world-cup-2022' (URL- and path-safe)."""
+    base = f"{name} {season}".lower()
+    base = base.replace("fifa ", "").replace("uefa ", "")
+    base = re.sub(r"[^a-z0-9]+", "-", base).strip("-")
+    return base
+
+
+# --- Per-competition path helpers -------------------------------------------
+def raw_dir(slug: str) -> Path:
+    return RAW_DIR / slug
+
+
+def clean_dir(slug: str) -> Path:
+    return COMPETITIONS_DIR / slug
+
+
+def ensure_dirs(slug: str) -> None:
+    for d in (
+        DATA_DIR,
+        COMPETITIONS_DIR,
+        clean_dir(slug),
+        clean_dir(slug) / "matches",
+        raw_dir(slug),
+        raw_dir(slug) / "events",
+        raw_dir(slug) / "lineups",
+    ):
         d.mkdir(parents=True, exist_ok=True)
 
 
+# --- JSON I/O ----------------------------------------------------------------
 def _clean(obj):
-    """Recursively convert NaN/Inf floats to None so output is valid JSON.
-
-    pandas represents missing values as float('nan'), which Python's json writes
-    as the literal `NaN` — not valid JSON and rejected by JSON.parse in the site.
-    """
+    """Recursively convert NaN/Inf floats to None so output is valid JSON."""
     if isinstance(obj, float):
         return None if (math.isnan(obj) or math.isinf(obj)) else obj
     if isinstance(obj, dict):
@@ -49,10 +78,8 @@ def _clean(obj):
 
 
 def write_json(path: Path, obj) -> None:
-    """Write `obj` as pretty, UTF-8 JSON, creating parent folders as needed."""
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as f:
-        # allow_nan=False makes any stray NaN a hard error instead of silent bad JSON.
         json.dump(_clean(obj), f, ensure_ascii=False, indent=2, allow_nan=False)
 
 

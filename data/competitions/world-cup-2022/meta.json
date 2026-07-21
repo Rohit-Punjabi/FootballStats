@@ -1,0 +1,19 @@
+{
+  "competition_id": 43,
+  "season_id": 106,
+  "competition_name": "FIFA World Cup",
+  "season_name": "2022",
+  "match_count": 64,
+  "slug": "world-cup-2022",
+  "team_count": 32,
+  "player_count": 680,
+  "goal_count": 169,
+  "champion": "Argentina",
+  "final_match_id": 3869685,
+  "top_scorer": {
+    "id": 3009,
+    "name": "Kylian Mbappé Lottin",
+    "team": "France",
+    "goals": 8
+  }
+}

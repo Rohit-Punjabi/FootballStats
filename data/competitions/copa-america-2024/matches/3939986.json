@@ -1,0 +1,195 @@
+{
+  "match_id": 3939986,
+  "shots": [
+    {
+      "player": "Alejandro Garnacho Ferreyra",
+      "team": "Argentina",
+      "minute": 10,
+      "x": 104.5,
+      "y": 28.8,
+      "xg": 0.048,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Carlos Augusto Zambrano Ochandarte",
+      "team": "Peru",
+      "minute": 20,
+      "x": 108.8,
+      "y": 56.0,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Leandro Daniel Paredes",
+      "team": "Argentina",
+      "minute": 25,
+      "x": 91.1,
+      "y": 30.1,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Germán Alejandro Pezzella",
+      "team": "Argentina",
+      "minute": 36,
+      "x": 107.4,
+      "y": 36.3,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Wilder José Cartagena Mendoza",
+      "team": "Peru",
+      "minute": 39,
+      "x": 96.1,
+      "y": 60.0,
+      "xg": 0.008,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 40,
+      "x": 100.2,
+      "y": 57.6,
+      "xg": 0.023,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Giovani Lo Celso",
+      "team": "Argentina",
+      "minute": 43,
+      "x": 107.6,
+      "y": 40.7,
+      "xg": 0.098,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alejandro Garnacho Ferreyra",
+      "team": "Argentina",
+      "minute": 43,
+      "x": 105.3,
+      "y": 28.3,
+      "xg": 0.075,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 46,
+      "x": 106.1,
+      "y": 47.0,
+      "xg": 0.343,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcos Johan López Lanfranco",
+      "team": "Peru",
+      "minute": 65,
+      "x": 90.2,
+      "y": 30.5,
+      "xg": 0.021,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Carlos Augusto Zambrano Ochandarte",
+      "team": "Peru",
+      "minute": 66,
+      "x": 107.3,
+      "y": 45.2,
+      "xg": 0.024,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Leandro Daniel Paredes",
+      "team": "Argentina",
+      "minute": 71,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 71,
+      "x": 107.7,
+      "y": 42.3,
+      "xg": 0.087,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enzo Fernandez",
+      "team": "Argentina",
+      "minute": 73,
+      "x": 103.7,
+      "y": 26.5,
+      "xg": 0.053,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 82,
+      "x": 107.0,
+      "y": 29.6,
+      "xg": 0.179,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 85,
+      "x": 107.3,
+      "y": 32.6,
+      "xg": 0.361,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Franco Zanelatto Téllez",
+      "team": "Peru",
+      "minute": 88,
+      "x": 108.2,
+      "y": 34.1,
+      "xg": 0.058,
+      "outcome": "Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "Gianluca Lapadula Vargas",
+      "team": "Peru",
+      "minute": 89,
+      "x": 63.9,
+      "y": 34.8,
+      "xg": 0.004,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jesús Abdallah Castillo Molina",
+      "team": "Peru",
+      "minute": 92,
+      "x": 99.6,
+      "y": 29.9,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ]
+}

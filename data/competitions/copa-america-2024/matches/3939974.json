@@ -1,0 +1,265 @@
+{
+  "match_id": 3939974,
+  "shots": [
+    {
+      "player": "Joseph Scally",
+      "team": "United States",
+      "minute": 0,
+      "x": 91.1,
+      "y": 41.6,
+      "xg": 0.019,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 2,
+      "x": 102.7,
+      "y": 23.1,
+      "xg": 0.027,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Fernando Javier Saucedo Pereyra",
+      "team": "Bolivia",
+      "minute": 4,
+      "x": 102.6,
+      "y": 3.0,
+      "xg": 0.007,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Timothy Weah",
+      "team": "United States",
+      "minute": 7,
+      "x": 114.5,
+      "y": 50.7,
+      "xg": 0.113,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gabriel Alejandro Villamíl Cortéz",
+      "team": "Bolivia",
+      "minute": 9,
+      "x": 92.1,
+      "y": 36.5,
+      "xg": 0.026,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Folarin Balogun",
+      "team": "United States",
+      "minute": 10,
+      "x": 116.4,
+      "y": 28.7,
+      "xg": 0.05,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Giovanni Reyna",
+      "team": "United States",
+      "minute": 11,
+      "x": 114.4,
+      "y": 32.0,
+      "xg": 0.073,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Folarin Balogun",
+      "team": "United States",
+      "minute": 30,
+      "x": 104.2,
+      "y": 41.0,
+      "xg": 0.069,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Folarin Balogun",
+      "team": "United States",
+      "minute": 43,
+      "x": 103.5,
+      "y": 28.9,
+      "xg": 0.071,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 47,
+      "x": 98.9,
+      "y": 33.5,
+      "xg": 0.068,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Timothy Weah",
+      "team": "United States",
+      "minute": 49,
+      "x": 111.0,
+      "y": 56.7,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Roberto Carlos Fernández Toro",
+      "team": "Bolivia",
+      "minute": 50,
+      "x": 91.5,
+      "y": 43.0,
+      "xg": 0.027,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Miguel Ángel Terceros",
+      "team": "Bolivia",
+      "minute": 53,
+      "x": 95.9,
+      "y": 42.8,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 59,
+      "x": 104.1,
+      "y": 31.9,
+      "xg": 0.06,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ricardo Daniel Pepi",
+      "team": "United States",
+      "minute": 65,
+      "x": 112.7,
+      "y": 39.2,
+      "xg": 0.3,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 67,
+      "x": 110.0,
+      "y": 28.7,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ricardo Daniel Pepi",
+      "team": "United States",
+      "minute": 69,
+      "x": 112.5,
+      "y": 51.2,
+      "xg": 0.112,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Miguel Ángel Terceros",
+      "team": "Bolivia",
+      "minute": 72,
+      "x": 94.5,
+      "y": 38.3,
+      "xg": 0.036,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Timothy Weah",
+      "team": "United States",
+      "minute": 75,
+      "x": 104.7,
+      "y": 36.2,
+      "xg": 0.083,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ricardo Daniel Pepi",
+      "team": "United States",
+      "minute": 78,
+      "x": 103.0,
+      "y": 37.6,
+      "xg": 0.068,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ricardo Daniel Pepi",
+      "team": "United States",
+      "minute": 80,
+      "x": 96.9,
+      "y": 28.5,
+      "xg": 0.051,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antonee Robinson",
+      "team": "United States",
+      "minute": 81,
+      "x": 101.1,
+      "y": 28.7,
+      "xg": 0.044,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antonee Robinson",
+      "team": "United States",
+      "minute": 82,
+      "x": 95.5,
+      "y": 29.4,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ramiro Vaca Ponce",
+      "team": "Bolivia",
+      "minute": 85,
+      "x": 93.6,
+      "y": 32.2,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ricardo Daniel Pepi",
+      "team": "United States",
+      "minute": 89,
+      "x": 114.1,
+      "y": 38.9,
+      "xg": 0.546,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ricardo Daniel Pepi",
+      "team": "United States",
+      "minute": 89,
+      "x": 115.7,
+      "y": 37.4,
+      "xg": 0.543,
+      "outcome": "Saved",
+      "body_part": "Other"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "match_id": 3943077,
+  "shots": [
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 0,
+      "x": 105.6,
+      "y": 44.0,
+      "xg": 0.072,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Fernando Díaz Marulanda",
+      "team": "Colombia",
+      "minute": 4,
+      "x": 98.6,
+      "y": 25.2,
+      "xg": 0.03,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 6,
+      "x": 105.5,
+      "y": 47.3,
+      "xg": 0.076,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Carlos Eccehomo Cuesta Figueroa",
+      "team": "Colombia",
+      "minute": 12,
+      "x": 113.4,
+      "y": 38.7,
+      "xg": 0.157,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 19,
+      "x": 106.2,
+      "y": 36.8,
+      "xg": 0.151,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 24,
+      "x": 108.3,
+      "y": 39.0,
+      "xg": 0.05,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jefferson Andrés Lerma Solís",
+      "team": "Colombia",
+      "minute": 32,
+      "x": 85.6,
+      "y": 34.4,
+      "xg": 0.015,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 33,
+      "x": 112.5,
+      "y": 42.5,
+      "xg": 0.085,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jhon Adolfo Arias Andrade",
+      "team": "Colombia",
+      "minute": 39,
+      "x": 106.1,
+      "y": 32.5,
+      "xg": 0.025,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Richard Rios Montoya",
+      "team": "Colombia",
+      "minute": 40,
+      "x": 83.5,
+      "y": 48.0,
+      "xg": 0.006,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolás Alejandro Tagliafico",
+      "team": "Argentina",
+      "minute": 43,
+      "x": 108.1,
+      "y": 39.3,
+      "xg": 0.048,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Santiago Arias Naranjo",
+      "team": "Colombia",
+      "minute": 47,
+      "x": 105.5,
+      "y": 57.6,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 48,
+      "x": 110.9,
+      "y": 25.6,
+      "xg": 0.066,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jhon Adolfo Arias Andrade",
+      "team": "Colombia",
+      "minute": 53,
+      "x": 98.9,
+      "y": 24.9,
+      "xg": 0.013,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Davinson Sánchez Mina",
+      "team": "Colombia",
+      "minute": 53,
+      "x": 114.8,
+      "y": 44.1,
+      "xg": 0.126,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 56,
+      "x": 107.2,
+      "y": 35.0,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 57,
+      "x": 107.5,
+      "y": 24.9,
+      "xg": 0.029,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jefferson Andrés Lerma Solís",
+      "team": "Colombia",
+      "minute": 61,
+      "x": 88.5,
+      "y": 38.1,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Carlos Eccehomo Cuesta Figueroa",
+      "team": "Colombia",
+      "minute": 78,
+      "x": 109.6,
+      "y": 41.5,
+      "xg": 0.056,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "James David Rodríguez Rubio",
+      "team": "Colombia",
+      "minute": 81,
+      "x": 94.8,
+      "y": 24.9,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicolás Iván González",
+      "team": "Argentina",
+      "minute": 92,
+      "x": 111.1,
+      "y": 42.0,
+      "xg": 0.263,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolás Iván González",
+      "team": "Argentina",
+      "minute": 94,
+      "x": 110.1,
+      "y": 35.3,
+      "xg": 0.185,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Juan Fernando Quintero Paniagua",
+      "team": "Colombia",
+      "minute": 96,
+      "x": 90.2,
+      "y": 41.4,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicolás Alejandro Tagliafico",
+      "team": "Argentina",
+      "minute": 99,
+      "x": 118.6,
+      "y": 31.5,
+      "xg": 0.026,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jhon Adolfo Arias Andrade",
+      "team": "Colombia",
+      "minute": 101,
+      "x": 94.3,
+      "y": 39.6,
+      "xg": 0.046,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Miguel Ángel Borja Hernández",
+      "team": "Colombia",
+      "minute": 108,
+      "x": 108.5,
+      "y": 27.6,
+      "xg": 0.059,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 111,
+      "x": 105.5,
+      "y": 52.1,
+      "xg": 0.199,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andrés Mateus Uribe Villa",
+      "team": "Colombia",
+      "minute": 119,
+      "x": 87.6,
+      "y": 49.0,
+      "xg": 0.018,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Leandro Daniel Paredes",
+      "team": "Argentina",
+      "minute": 120,
+      "x": 30.2,
+      "y": 42.3,
+      "xg": 0.003,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Carlos Eccehomo Cuesta Figueroa",
+      "team": "Colombia",
+      "minute": 121,
+      "x": 113.8,
+      "y": 36.7,
+      "xg": 0.107,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    }
+  ]
+}

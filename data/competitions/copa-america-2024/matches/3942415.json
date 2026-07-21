@@ -1,0 +1,195 @@
+{
+  "match_id": 3942415,
+  "shots": [
+    {
+      "player": "Raphael Dias Belloli",
+      "team": "Brazil",
+      "minute": 13,
+      "x": 90.9,
+      "y": 50.3,
+      "xg": 0.036,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Manuel Ugarte Ribeiro",
+      "team": "Uruguay",
+      "minute": 17,
+      "x": 93.3,
+      "y": 35.8,
+      "xg": 0.016,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 17,
+      "x": 107.3,
+      "y": 36.4,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mathías Olivera Miramontes",
+      "team": "Uruguay",
+      "minute": 18,
+      "x": 113.9,
+      "y": 42.6,
+      "xg": 0.148,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 34,
+      "x": 113.1,
+      "y": 36.8,
+      "xg": 0.17,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Raphael Dias Belloli",
+      "team": "Brazil",
+      "minute": 34,
+      "x": 103.4,
+      "y": 44.7,
+      "xg": 0.378,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 37,
+      "x": 93.5,
+      "y": 46.0,
+      "xg": 0.056,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Diego Nicolás De La Cruz Arcosa",
+      "team": "Uruguay",
+      "minute": 42,
+      "x": 93.2,
+      "y": 61.1,
+      "xg": 0.008,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Raphael Dias Belloli",
+      "team": "Brazil",
+      "minute": 46,
+      "x": 100.6,
+      "y": 40.7,
+      "xg": 0.103,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 47,
+      "x": 93.5,
+      "y": 53.5,
+      "xg": 0.015,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 52,
+      "x": 113.7,
+      "y": 51.2,
+      "xg": 0.066,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sebastián Enzo Cáceres Ramos",
+      "team": "Uruguay",
+      "minute": 52,
+      "x": 113.2,
+      "y": 42.1,
+      "xg": 0.09,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Maximiliano Javier Araújo Vilches",
+      "team": "Uruguay",
+      "minute": 52,
+      "x": 103.9,
+      "y": 20.7,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Maximiliano Javier Araújo Vilches",
+      "team": "Uruguay",
+      "minute": 56,
+      "x": 95.7,
+      "y": 31.8,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 62,
+      "x": 93.6,
+      "y": 58.0,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 67,
+      "x": 94.3,
+      "y": 43.6,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 75,
+      "x": 88.4,
+      "y": 34.5,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Endrick Felipe Moreira de Sousa",
+      "team": "Brazil",
+      "minute": 83,
+      "x": 95.2,
+      "y": 44.4,
+      "xg": 0.046,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 87,
+      "x": 87.8,
+      "y": 37.2,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ]
+}

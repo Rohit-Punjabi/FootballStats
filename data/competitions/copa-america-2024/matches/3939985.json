@@ -1,0 +1,175 @@
+{
+  "match_id": 3939985,
+  "shots": [
+    {
+      "player": "Derek Cornelius",
+      "team": "Canada",
+      "minute": 9,
+      "x": 107.7,
+      "y": 47.4,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 17,
+      "x": 111.1,
+      "y": 43.2,
+      "xg": 0.067,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Víctor Alejandro Dávila Zavala",
+      "team": "Chile",
+      "minute": 20,
+      "x": 105.3,
+      "y": 35.5,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 23,
+      "x": 102.8,
+      "y": 50.1,
+      "xg": 0.079,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada",
+      "minute": 28,
+      "x": 102.1,
+      "y": 63.9,
+      "xg": 0.008,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marcelino Ignacio Nuñez Espinoza",
+      "team": "Chile",
+      "minute": 37,
+      "x": 93.7,
+      "y": 24.1,
+      "xg": 0.022,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 37,
+      "x": 99.8,
+      "y": 35.1,
+      "xg": 0.177,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Stephen Antunes Eustáquio",
+      "team": "Canada",
+      "minute": 41,
+      "x": 102.2,
+      "y": 36.6,
+      "xg": 0.077,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodrigo Eduardo Echeverría Sáez",
+      "team": "Chile",
+      "minute": 46,
+      "x": 114.4,
+      "y": 35.3,
+      "xg": 0.125,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Igor Lichnovsky Osorio",
+      "team": "Chile",
+      "minute": 47,
+      "x": 112.3,
+      "y": 41.4,
+      "xg": 0.124,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Richie Laryea",
+      "team": "Canada",
+      "minute": 52,
+      "x": 106.7,
+      "y": 54.5,
+      "xg": 0.033,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Víctor Alejandro Dávila Zavala",
+      "team": "Chile",
+      "minute": 54,
+      "x": 100.3,
+      "y": 45.2,
+      "xg": 0.041,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodrigo Eduardo Echeverría Sáez",
+      "team": "Chile",
+      "minute": 54,
+      "x": 107.0,
+      "y": 39.4,
+      "xg": 0.059,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Liam Millar",
+      "team": "Canada",
+      "minute": 70,
+      "x": 104.0,
+      "y": 20.1,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alexis Alejandro Sánchez Sánchez",
+      "team": "Chile",
+      "minute": 73,
+      "x": 107.1,
+      "y": 56.9,
+      "xg": 0.014,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tajon Buchanan",
+      "team": "Canada",
+      "minute": 82,
+      "x": 110.9,
+      "y": 49.3,
+      "xg": 0.196,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "César Ignacio Pérez Maldonado",
+      "team": "Chile",
+      "minute": 94,
+      "x": 90.5,
+      "y": 49.6,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ]
+}

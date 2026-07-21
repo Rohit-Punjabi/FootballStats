@@ -1,0 +1,235 @@
+{
+  "match_id": 3939984,
+  "shots": [
+    {
+      "player": "Luis Fernando Díaz Marulanda",
+      "team": "Colombia",
+      "minute": 5,
+      "x": 110.4,
+      "y": 38.5,
+      "xg": 0.065,
+      "outcome": "Off T",
+      "body_part": "Other"
+    },
+    {
+      "player": "Davinson Sánchez Mina",
+      "team": "Colombia",
+      "minute": 9,
+      "x": 113.7,
+      "y": 43.4,
+      "xg": 0.101,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "James David Rodríguez Rubio",
+      "team": "Colombia",
+      "minute": 19,
+      "x": 103.3,
+      "y": 33.8,
+      "xg": 0.09,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Davinson Sánchez Mina",
+      "team": "Colombia",
+      "minute": 23,
+      "x": 114.4,
+      "y": 37.9,
+      "xg": 0.157,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 23,
+      "x": 114.4,
+      "y": 37.5,
+      "xg": 0.136,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ariel Lassiter",
+      "team": "Costa Rica",
+      "minute": 26,
+      "x": 93.1,
+      "y": 30.0,
+      "xg": 0.017,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Warren Steven Madrigal Molina",
+      "team": "Costa Rica",
+      "minute": 26,
+      "x": 105.5,
+      "y": 33.8,
+      "xg": 0.064,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Fernando Díaz Marulanda",
+      "team": "Colombia",
+      "minute": 30,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Orlando Moisés Galo Calderón",
+      "team": "Costa Rica",
+      "minute": 31,
+      "x": 91.8,
+      "y": 51.2,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Richard Rios Montoya",
+      "team": "Colombia",
+      "minute": 32,
+      "x": 90.8,
+      "y": 54.5,
+      "xg": 0.012,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jefferson Andrés Lerma Solís",
+      "team": "Colombia",
+      "minute": 33,
+      "x": 112.9,
+      "y": 35.8,
+      "xg": 0.067,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Davinson Sánchez Mina",
+      "team": "Colombia",
+      "minute": 36,
+      "x": 116.8,
+      "y": 40.2,
+      "xg": 0.703,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Orlando Moisés Galo Calderón",
+      "team": "Costa Rica",
+      "minute": 47,
+      "x": 95.3,
+      "y": 45.6,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luis Fernando Díaz Marulanda",
+      "team": "Colombia",
+      "minute": 51,
+      "x": 109.7,
+      "y": 34.3,
+      "xg": 0.111,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Johan Andrés Mojica Palacio",
+      "team": "Colombia",
+      "minute": 51,
+      "x": 108.6,
+      "y": 29.3,
+      "xg": 0.062,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Davinson Sánchez Mina",
+      "team": "Colombia",
+      "minute": 58,
+      "x": 112.7,
+      "y": 40.4,
+      "xg": 0.086,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 61,
+      "x": 113.5,
+      "y": 51.8,
+      "xg": 0.148,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jhon Adolfo Arias Andrade",
+      "team": "Colombia",
+      "minute": 72,
+      "x": 92.7,
+      "y": 34.4,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 72,
+      "x": 102.5,
+      "y": 40.1,
+      "xg": 0.061,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin Duvan Castaño Gil",
+      "team": "Colombia",
+      "minute": 72,
+      "x": 99.4,
+      "y": 43.9,
+      "xg": 0.076,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yaser Esneider Asprilla Martínez",
+      "team": "Colombia",
+      "minute": 75,
+      "x": 101.5,
+      "y": 44.8,
+      "xg": 0.184,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Yaser Esneider Asprilla Martínez",
+      "team": "Colombia",
+      "minute": 81,
+      "x": 92.6,
+      "y": 43.4,
+      "xg": 0.035,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jefferson Brenes Rojas",
+      "team": "Costa Rica",
+      "minute": 91,
+      "x": 103.8,
+      "y": 55.8,
+      "xg": 0.028,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

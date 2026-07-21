@@ -1,0 +1,295 @@
+{
+  "match_id": 3939988,
+  "shots": [
+    {
+      "player": "Orbelín Pineda Alvarado",
+      "team": "Mexico",
+      "minute": 1,
+      "x": 96.5,
+      "y": 57.7,
+      "xg": 0.012,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "César Saúl Huerta Valera",
+      "team": "Mexico",
+      "minute": 2,
+      "x": 98.2,
+      "y": 37.5,
+      "xg": 0.058,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Orbelín Pineda Alvarado",
+      "team": "Mexico",
+      "minute": 3,
+      "x": 102.0,
+      "y": 57.9,
+      "xg": 0.017,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Moisés Isaac Caicedo Corozo",
+      "team": "Ecuador",
+      "minute": 6,
+      "x": 94.3,
+      "y": 30.3,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ray Kendry Páez Andrade",
+      "team": "Ecuador",
+      "minute": 6,
+      "x": 92.6,
+      "y": 34.4,
+      "xg": 0.018,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Andrés Quiñones Quiñones",
+      "team": "Mexico",
+      "minute": 15,
+      "x": 90.8,
+      "y": 31.2,
+      "xg": 0.02,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Gerardo Chávez Magallón",
+      "team": "Mexico",
+      "minute": 15,
+      "x": 104.5,
+      "y": 29.2,
+      "xg": 0.055,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ray Kendry Páez Andrade",
+      "team": "Ecuador",
+      "minute": 18,
+      "x": 113.3,
+      "y": 75.6,
+      "xg": 0.008,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Felix Eduardo Torres Caicedo",
+      "team": "Ecuador",
+      "minute": 19,
+      "x": 111.6,
+      "y": 34.7,
+      "xg": 0.053,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "César Saúl Huerta Valera",
+      "team": "Mexico",
+      "minute": 20,
+      "x": 113.5,
+      "y": 47.2,
+      "xg": 0.084,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jeremy Leonel Sarmiento Morante",
+      "team": "Ecuador",
+      "minute": 24,
+      "x": 104.8,
+      "y": 34.1,
+      "xg": 0.059,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Francisco Romo Barrón",
+      "team": "Mexico",
+      "minute": 30,
+      "x": 96.4,
+      "y": 50.2,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Santiago Tomás Giménez",
+      "team": "Mexico",
+      "minute": 34,
+      "x": 103.2,
+      "y": 38.2,
+      "xg": 0.049,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kevin José Rodríguez Cortez",
+      "team": "Ecuador",
+      "minute": 40,
+      "x": 114.7,
+      "y": 23.3,
+      "xg": 0.009,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Johan Felipe Vásquez Ibarra",
+      "team": "Mexico",
+      "minute": 43,
+      "x": 94.9,
+      "y": 36.3,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Santiago Tomás Giménez",
+      "team": "Mexico",
+      "minute": 45,
+      "x": 111.3,
+      "y": 39.8,
+      "xg": 0.122,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Julián Andrés Quiñones Quiñones",
+      "team": "Mexico",
+      "minute": 56,
+      "x": 115.7,
+      "y": 27.6,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Santiago Tomás Giménez",
+      "team": "Mexico",
+      "minute": 58,
+      "x": 117.7,
+      "y": 45.4,
+      "xg": 0.215,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Johan Felipe Vásquez Ibarra",
+      "team": "Mexico",
+      "minute": 64,
+      "x": 88.9,
+      "y": 48.5,
+      "xg": 0.012,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luis Francisco Romo Barrón",
+      "team": "Mexico",
+      "minute": 64,
+      "x": 96.3,
+      "y": 39.6,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julián Andrés Quiñones Quiñones",
+      "team": "Mexico",
+      "minute": 64,
+      "x": 95.3,
+      "y": 29.9,
+      "xg": 0.029,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Santiago Tomás Giménez",
+      "team": "Mexico",
+      "minute": 64,
+      "x": 117.8,
+      "y": 49.8,
+      "xg": 0.035,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 67,
+      "x": 101.8,
+      "y": 60.9,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Johan Felipe Vásquez Ibarra",
+      "team": "Mexico",
+      "minute": 70,
+      "x": 84.5,
+      "y": 36.4,
+      "xg": 0.013,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jorge Eduardo Sánchez Ramos",
+      "team": "Mexico",
+      "minute": 75,
+      "x": 99.3,
+      "y": 54.0,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 79,
+      "x": 97.1,
+      "y": 42.3,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enner Remberto Valencia Lastra",
+      "team": "Ecuador",
+      "minute": 82,
+      "x": 99.0,
+      "y": 55.2,
+      "xg": 0.046,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Santiago Tomás Giménez",
+      "team": "Mexico",
+      "minute": 91,
+      "x": 104.4,
+      "y": 45.0,
+      "xg": 0.02,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Guillermo Martínez Ayala",
+      "team": "Mexico",
+      "minute": 99,
+      "x": 112.7,
+      "y": 47.5,
+      "xg": 0.069,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    }
+  ]
+}

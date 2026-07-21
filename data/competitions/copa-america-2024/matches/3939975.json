@@ -1,0 +1,225 @@
+{
+  "match_id": 3939975,
+  "shots": [
+    {
+      "player": "Alex Adrián Arce Barrios",
+      "team": "Paraguay",
+      "minute": 2,
+      "x": 86.7,
+      "y": 49.1,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Richard Rios Montoya",
+      "team": "Colombia",
+      "minute": 4,
+      "x": 92.8,
+      "y": 56.0,
+      "xg": 0.014,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Muñoz Mejía",
+      "team": "Colombia",
+      "minute": 6,
+      "x": 108.3,
+      "y": 47.0,
+      "xg": 0.031,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alex Adrián Arce Barrios",
+      "team": "Paraguay",
+      "minute": 9,
+      "x": 114.7,
+      "y": 41.7,
+      "xg": 0.364,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 16,
+      "x": 98.6,
+      "y": 18.2,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Fabián Cornelio Balbuena González",
+      "team": "Paraguay",
+      "minute": 16,
+      "x": 115.8,
+      "y": 31.4,
+      "xg": 0.096,
+      "outcome": "Off T",
+      "body_part": "Other"
+    },
+    {
+      "player": "Davinson Sánchez Mina",
+      "team": "Colombia",
+      "minute": 18,
+      "x": 112.5,
+      "y": 37.6,
+      "xg": 0.082,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Davinson Sánchez Mina",
+      "team": "Colombia",
+      "minute": 19,
+      "x": 104.4,
+      "y": 39.6,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 20,
+      "x": 94.4,
+      "y": 40.4,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alex Adrián Arce Barrios",
+      "team": "Paraguay",
+      "minute": 22,
+      "x": 94.8,
+      "y": 35.4,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 27,
+      "x": 100.0,
+      "y": 21.8,
+      "xg": 0.018,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Muñoz Mejía",
+      "team": "Colombia",
+      "minute": 31,
+      "x": 112.4,
+      "y": 46.8,
+      "xg": 0.079,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jefferson Andrés Lerma Solís",
+      "team": "Colombia",
+      "minute": 41,
+      "x": 110.8,
+      "y": 45.0,
+      "xg": 0.065,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Luis Fernando Díaz Marulanda",
+      "team": "Colombia",
+      "minute": 58,
+      "x": 103.9,
+      "y": 31.5,
+      "xg": 0.051,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mathías Adalberto Villasanti Rolón",
+      "team": "Paraguay",
+      "minute": 60,
+      "x": 100.2,
+      "y": 50.0,
+      "xg": 0.023,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Matías David Espinoza Acosta",
+      "team": "Paraguay",
+      "minute": 63,
+      "x": 96.1,
+      "y": 25.4,
+      "xg": 0.024,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 68,
+      "x": 115.4,
+      "y": 45.2,
+      "xg": 0.185,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "James David Rodríguez Rubio",
+      "team": "Colombia",
+      "minute": 75,
+      "x": 97.1,
+      "y": 21.3,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luis Fernando Díaz Marulanda",
+      "team": "Colombia",
+      "minute": 75,
+      "x": 112.1,
+      "y": 51.4,
+      "xg": 0.071,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "James David Rodríguez Rubio",
+      "team": "Colombia",
+      "minute": 76,
+      "x": 109.3,
+      "y": 52.2,
+      "xg": 0.095,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin Duvan Castaño Gil",
+      "team": "Colombia",
+      "minute": 93,
+      "x": 107.2,
+      "y": 41.9,
+      "xg": 0.102,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Matías Nicolás Rojas Romero",
+      "team": "Paraguay",
+      "minute": 96,
+      "x": 92.3,
+      "y": 53.6,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    }
+  ]
+}

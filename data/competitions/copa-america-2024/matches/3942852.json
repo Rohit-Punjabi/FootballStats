@@ -1,0 +1,225 @@
+{
+  "match_id": 3942852,
+  "shots": [
+    {
+      "player": "Jhon Adolfo Arias Andrade",
+      "team": "Colombia",
+      "minute": 5,
+      "x": 97.9,
+      "y": 53.9,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Muñoz Mejía",
+      "team": "Colombia",
+      "minute": 14,
+      "x": 109.4,
+      "y": 46.1,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jefferson Andrés Lerma Solís",
+      "team": "Colombia",
+      "minute": 15,
+      "x": 85.8,
+      "y": 39.6,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 16,
+      "x": 103.5,
+      "y": 44.4,
+      "xg": 0.198,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 21,
+      "x": 108.0,
+      "y": 55.0,
+      "xg": 0.064,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 24,
+      "x": 115.3,
+      "y": 24.6,
+      "xg": 0.011,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 27,
+      "x": 99.4,
+      "y": 38.0,
+      "xg": 0.092,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 32,
+      "x": 108.7,
+      "y": 37.2,
+      "xg": 0.072,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jefferson Andrés Lerma Solís",
+      "team": "Colombia",
+      "minute": 38,
+      "x": 115.2,
+      "y": 33.0,
+      "xg": 0.068,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Richard Rios Montoya",
+      "team": "Colombia",
+      "minute": 43,
+      "x": 104.9,
+      "y": 50.4,
+      "xg": 0.096,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luis Fernando Díaz Marulanda",
+      "team": "Colombia",
+      "minute": 49,
+      "x": 105.6,
+      "y": 27.8,
+      "xg": 0.03,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 50,
+      "x": 112.9,
+      "y": 43.7,
+      "xg": 0.076,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Diego Nicolás De La Cruz Arcosa",
+      "team": "Uruguay",
+      "minute": 67,
+      "x": 97.3,
+      "y": 48.7,
+      "xg": 0.049,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Alberto Suárez Díaz",
+      "team": "Uruguay",
+      "minute": 70,
+      "x": 104.3,
+      "y": 45.5,
+      "xg": 0.082,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 74,
+      "x": 99.2,
+      "y": 30.0,
+      "xg": 0.038,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Manuel Ugarte Ribeiro",
+      "team": "Uruguay",
+      "minute": 84,
+      "x": 92.8,
+      "y": 43.1,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José María Giménez de Vargas",
+      "team": "Uruguay",
+      "minute": 84,
+      "x": 111.7,
+      "y": 38.7,
+      "xg": 0.068,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Andrés Mateus Uribe Villa",
+      "team": "Colombia",
+      "minute": 87,
+      "x": 106.0,
+      "y": 45.8,
+      "xg": 0.33,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Maximiliano Javier Araújo Vilches",
+      "team": "Uruguay",
+      "minute": 88,
+      "x": 96.4,
+      "y": 28.4,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andrés Mateus Uribe Villa",
+      "team": "Colombia",
+      "minute": 93,
+      "x": 105.4,
+      "y": 41.0,
+      "xg": 0.411,
+      "outcome": "Saved to Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José María Giménez de Vargas",
+      "team": "Uruguay",
+      "minute": 94,
+      "x": 106.9,
+      "y": 35.8,
+      "xg": 0.094,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jefferson Andrés Lerma Solís",
+      "team": "Colombia",
+      "minute": 97,
+      "x": 58.9,
+      "y": 68.3,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

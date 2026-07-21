@@ -1,0 +1,325 @@
+{
+  "match_id": 3939983,
+  "shots": [
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 1,
+      "x": 108.4,
+      "y": 33.0,
+      "xg": 0.179,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "João Victor Gomes da Silva",
+      "team": "Brazil",
+      "minute": 5,
+      "x": 94.6,
+      "y": 44.0,
+      "xg": 0.031,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 8,
+      "x": 114.3,
+      "y": 17.3,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Damián Josué Bobadilla Benítez",
+      "team": "Paraguay",
+      "minute": 14,
+      "x": 94.0,
+      "y": 43.5,
+      "xg": 0.038,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alex Adrián Arce Barrios",
+      "team": "Paraguay",
+      "minute": 16,
+      "x": 97.7,
+      "y": 31.5,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Danilo Luiz da Silva",
+      "team": "Brazil",
+      "minute": 17,
+      "x": 112.8,
+      "y": 43.6,
+      "xg": 0.077,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alex Adrián Arce Barrios",
+      "team": "Paraguay",
+      "minute": 18,
+      "x": 50.9,
+      "y": 32.5,
+      "xg": 0.003,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcos Aoás Corrêa",
+      "team": "Brazil",
+      "minute": 22,
+      "x": 114.7,
+      "y": 40.1,
+      "xg": 0.166,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Damián Josué Bobadilla Benítez",
+      "team": "Paraguay",
+      "minute": 28,
+      "x": 107.4,
+      "y": 35.1,
+      "xg": 0.081,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 29,
+      "x": 98.8,
+      "y": 29.3,
+      "xg": 0.036,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 30,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "team": "Brazil",
+      "minute": 34,
+      "x": 109.7,
+      "y": 48.2,
+      "xg": 0.305,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 39,
+      "x": 102.0,
+      "y": 27.1,
+      "xg": 0.036,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mathías Adalberto Villasanti Rolón",
+      "team": "Paraguay",
+      "minute": 39,
+      "x": 111.2,
+      "y": 39.3,
+      "xg": 0.256,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 42,
+      "x": 99.5,
+      "y": 40.4,
+      "xg": 0.069,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 42,
+      "x": 112.6,
+      "y": 29.0,
+      "xg": 0.155,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sávio Moreira de Oliveira",
+      "team": "Brazil",
+      "minute": 42,
+      "x": 116.3,
+      "y": 44.7,
+      "xg": 0.59,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Damián Josué Bobadilla Benítez",
+      "team": "Paraguay",
+      "minute": 44,
+      "x": 94.1,
+      "y": 40.2,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "team": "Brazil",
+      "minute": 49,
+      "x": 114.7,
+      "y": 32.6,
+      "xg": 0.312,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 47,
+      "x": 92.7,
+      "y": 28.3,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Omar Federico Alderete Fernández",
+      "team": "Paraguay",
+      "minute": 47,
+      "x": 92.9,
+      "y": 47.3,
+      "xg": 0.023,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 50,
+      "x": 103.8,
+      "y": 18.7,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 54,
+      "x": 89.8,
+      "y": 47.8,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Omar Federico Alderete Fernández",
+      "team": "Paraguay",
+      "minute": 55,
+      "x": 80.4,
+      "y": 25.3,
+      "xg": 0.005,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sávio Moreira de Oliveira",
+      "team": "Brazil",
+      "minute": 62,
+      "x": 102.1,
+      "y": 52.4,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 64,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Miguel Ángel Almirón Rejala",
+      "team": "Paraguay",
+      "minute": 66,
+      "x": 93.2,
+      "y": 48.1,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 67,
+      "x": 98.1,
+      "y": 46.4,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Víctor Gustavo Velázquez Ramos",
+      "team": "Paraguay",
+      "minute": 70,
+      "x": 108.6,
+      "y": 35.9,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "team": "Brazil",
+      "minute": 72,
+      "x": 103.2,
+      "y": 26.5,
+      "xg": 0.099,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Fabián Cornelio Balbuena González",
+      "team": "Paraguay",
+      "minute": 84,
+      "x": 106.9,
+      "y": 46.0,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Raphael Dias Belloli",
+      "team": "Brazil",
+      "minute": 90,
+      "x": 106.5,
+      "y": 56.6,
+      "xg": 0.033,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    }
+  ]
+}

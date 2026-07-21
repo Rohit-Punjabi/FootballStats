@@ -1,0 +1,255 @@
+{
+  "match_id": 3939977,
+  "shots": [
+    {
+      "player": "Rodrigo Javier De Paul",
+      "team": "Argentina",
+      "minute": 11,
+      "x": 87.7,
+      "y": 42.5,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 21,
+      "x": 110.4,
+      "y": 35.1,
+      "xg": 0.271,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicolás Iván González",
+      "team": "Argentina",
+      "minute": 21,
+      "x": 118.4,
+      "y": 29.3,
+      "xg": 0.015,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodrigo Javier De Paul",
+      "team": "Argentina",
+      "minute": 25,
+      "x": 102.6,
+      "y": 58.8,
+      "xg": 0.01,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrigo Javier De Paul",
+      "team": "Argentina",
+      "minute": 26,
+      "x": 99.5,
+      "y": 47.2,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Enzo Fernandez",
+      "team": "Argentina",
+      "minute": 26,
+      "x": 97.9,
+      "y": 23.9,
+      "xg": 0.022,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolás Iván González",
+      "team": "Argentina",
+      "minute": 29,
+      "x": 100.4,
+      "y": 37.0,
+      "xg": 0.113,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 35,
+      "x": 91.7,
+      "y": 43.1,
+      "xg": 0.04,
+      "outcome": "Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 38,
+      "x": 116.2,
+      "y": 49.3,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 38,
+      "x": 114.9,
+      "y": 31.8,
+      "xg": 0.063,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 44,
+      "x": 95.1,
+      "y": 30.9,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 45,
+      "x": 100.2,
+      "y": 28.1,
+      "xg": 0.055,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodrigo Javier De Paul",
+      "team": "Argentina",
+      "minute": 46,
+      "x": 95.3,
+      "y": 38.5,
+      "xg": 0.041,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nahuel Molina Lucero",
+      "team": "Argentina",
+      "minute": 49,
+      "x": 110.2,
+      "y": 51.5,
+      "xg": 0.147,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lisandro Martínez",
+      "team": "Argentina",
+      "minute": 49,
+      "x": 103.2,
+      "y": 32.1,
+      "xg": 0.05,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 56,
+      "x": 113.0,
+      "y": 37.3,
+      "xg": 0.347,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolás Iván González",
+      "team": "Argentina",
+      "minute": 60,
+      "x": 106.4,
+      "y": 26.4,
+      "xg": 0.086,
+      "outcome": "Saved to Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodrigo Eduardo Echeverría Sáez",
+      "team": "Chile",
+      "minute": 71,
+      "x": 96.9,
+      "y": 38.5,
+      "xg": 0.038,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrigo Eduardo Echeverría Sáez",
+      "team": "Chile",
+      "minute": 75,
+      "x": 104.0,
+      "y": 38.8,
+      "xg": 0.083,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcelino Ignacio Nuñez Espinoza",
+      "team": "Chile",
+      "minute": 76,
+      "x": 84.3,
+      "y": 44.7,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 77,
+      "x": 107.6,
+      "y": 49.2,
+      "xg": 0.069,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristian Gabriel Romero",
+      "team": "Argentina",
+      "minute": 81,
+      "x": 113.3,
+      "y": 44.5,
+      "xg": 0.085,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Giovani Lo Celso",
+      "team": "Argentina",
+      "minute": 87,
+      "x": 118.1,
+      "y": 41.4,
+      "xg": 0.487,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 87,
+      "x": 112.6,
+      "y": 34.3,
+      "xg": 0.299,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 94,
+      "x": 112.0,
+      "y": 37.3,
+      "xg": 0.454,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ]
+}

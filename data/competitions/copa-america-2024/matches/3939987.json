@@ -1,0 +1,255 @@
+{
+  "match_id": 3939987,
+  "shots": [
+    {
+      "player": "Michael Hector",
+      "team": "Jamaica",
+      "minute": 5,
+      "x": 99.2,
+      "y": 48.8,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Demarai Gray",
+      "team": "Jamaica",
+      "minute": 6,
+      "x": 106.1,
+      "y": 29.6,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 12,
+      "x": 112.8,
+      "y": 39.4,
+      "xg": 0.106,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Darwin Daniel Machís Marcano",
+      "team": "Venezuela",
+      "minute": 15,
+      "x": 100.5,
+      "y": 18.8,
+      "xg": 0.01,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Telasco José Segovia Pérez",
+      "team": "Venezuela",
+      "minute": 15,
+      "x": 93.0,
+      "y": 43.8,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Renaldo Showayne Cephas",
+      "team": "Jamaica",
+      "minute": 20,
+      "x": 113.0,
+      "y": 40.7,
+      "xg": 0.473,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Damion Lowe",
+      "team": "Jamaica",
+      "minute": 26,
+      "x": 106.3,
+      "y": 44.5,
+      "xg": 0.018,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Yangel Clemente Herrera Ravelo",
+      "team": "Venezuela",
+      "minute": 27,
+      "x": 103.1,
+      "y": 43.0,
+      "xg": 0.08,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Andrés Martínez Torres",
+      "team": "Venezuela",
+      "minute": 28,
+      "x": 104.0,
+      "y": 57.7,
+      "xg": 0.028,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Renaldo Showayne Cephas",
+      "team": "Jamaica",
+      "minute": 33,
+      "x": 98.9,
+      "y": 44.1,
+      "xg": 0.053,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jon Mikel Aramburu Mejías",
+      "team": "Venezuela",
+      "minute": 36,
+      "x": 97.0,
+      "y": 48.7,
+      "xg": 0.026,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 37,
+      "x": 102.9,
+      "y": 40.4,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Michail Antonio",
+      "team": "Jamaica",
+      "minute": 39,
+      "x": 90.2,
+      "y": 26.7,
+      "xg": 0.015,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yangel Clemente Herrera Ravelo",
+      "team": "Venezuela",
+      "minute": 47,
+      "x": 102.6,
+      "y": 39.3,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Eduard Alexander Bello Gil",
+      "team": "Venezuela",
+      "minute": 48,
+      "x": 116.3,
+      "y": 44.8,
+      "xg": 0.277,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 55,
+      "x": 110.9,
+      "y": 36.5,
+      "xg": 0.24,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 57,
+      "x": 100.5,
+      "y": 44.2,
+      "xg": 0.049,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yangel Clemente Herrera Ravelo",
+      "team": "Venezuela",
+      "minute": 58,
+      "x": 97.8,
+      "y": 36.0,
+      "xg": 0.05,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tomás Eduardo Rincón Hernández",
+      "team": "Venezuela",
+      "minute": 63,
+      "x": 98.4,
+      "y": 43.9,
+      "xg": 0.049,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Salomón Rondón Giménez",
+      "team": "Venezuela",
+      "minute": 72,
+      "x": 106.4,
+      "y": 32.3,
+      "xg": 0.152,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kaheim Dixon",
+      "team": "Jamaica",
+      "minute": 76,
+      "x": 107.7,
+      "y": 57.7,
+      "xg": 0.014,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Andrés Martínez Torres",
+      "team": "Venezuela",
+      "minute": 83,
+      "x": 91.2,
+      "y": 29.9,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Eric Kleybel Ramírez Matheus",
+      "team": "Venezuela",
+      "minute": 84,
+      "x": 102.7,
+      "y": 40.2,
+      "xg": 0.459,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alexander Andre Marshsall",
+      "team": "Jamaica",
+      "minute": 91,
+      "x": 100.3,
+      "y": 63.7,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Eric Kleybel Ramírez Matheus",
+      "team": "Venezuela",
+      "minute": 92,
+      "x": 101.7,
+      "y": 29.2,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ]
+}

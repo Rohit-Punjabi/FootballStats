@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
+import type { Route } from "next";
 import type { Player } from "@/lib/data";
 
 type Col = { key: keyof Player; label: string; numeric: boolean };
@@ -18,20 +19,23 @@ const COLS: Col[] = [
   { key: "pass_pct", label: "Pass%", numeric: true },
 ];
 
-export function PlayerTable({ players }: { players: Player[] }) {
+const PAGE_SIZE = 25;
+
+export function PlayerTable({ players, slug }: { players: Player[]; slug: string }) {
   const [sort, setSort] = useState<keyof Player>("goals");
   const [asc, setAsc] = useState(false);
   const [q, setQ] = useState("");
+  const [page, setPage] = useState(0);
 
-  const rows = useMemo(() => {
-    const filtered = q
+  const filtered = useMemo(() => {
+    const rows = q
       ? players.filter(
           (p) =>
             p.name.toLowerCase().includes(q.toLowerCase()) ||
             p.team.toLowerCase().includes(q.toLowerCase()),
         )
       : players;
-    return [...filtered].sort((a, b) => {
+    return [...rows].sort((a, b) => {
       const av = a[sort] ?? -Infinity;
       const bv = b[sort] ?? -Infinity;
       if (av < bv) return asc ? -1 : 1;
@@ -40,21 +44,30 @@ export function PlayerTable({ players }: { players: Player[] }) {
     });
   }, [players, sort, asc, q]);
 
+  const pageCount = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  const clampedPage = Math.min(page, pageCount - 1);
+  const rows = filtered.slice(clampedPage * PAGE_SIZE, (clampedPage + 1) * PAGE_SIZE);
+
   function toggle(key: keyof Player) {
     if (key === sort) setAsc(!asc);
     else {
       setSort(key);
       setAsc(false);
     }
+    setPage(0);
   }
 
   return (
     <div>
       <input
         value={q}
-        onChange={(e) => setQ(e.target.value)}
+        onChange={(e) => {
+          setQ(e.target.value);
+          setPage(0);
+        }}
         placeholder="Search player or team…"
-        className="card px-3 py-2 mb-3 w-full sm:w-72 bg-transparent outline-none focus:border-accent"
+        className="card px-4 py-2.5 mb-4 w-full sm:w-80 bg-transparent outline-none focus:border-primary rounded-input"
+        style={{ borderRadius: "var(--radius-input)" }}
       />
       <div className="card overflow-x-auto">
         <table className="w-full text-sm">
@@ -64,7 +77,7 @@ export function PlayerTable({ players }: { players: Player[] }) {
                 <th
                   key={c.key}
                   onClick={() => toggle(c.key)}
-                  className={`px-3 py-2 cursor-pointer select-none hover:text-accent ${
+                  className={`px-4 py-3 cursor-pointer select-none hover:text-primary font-medium ${
                     c.numeric ? "text-right" : "text-left"
                   }`}
                 >
@@ -75,27 +88,62 @@ export function PlayerTable({ players }: { players: Player[] }) {
             </tr>
           </thead>
           <tbody>
-            {rows.map((p) => (
-              <tr key={p.id} className="border-b border-border last:border-0 hover:bg-background">
-                <td className="px-3 py-2">
-                  <Link href={`/players/${p.id}`} className="hover:text-accent font-medium">
+            {rows.map((p, i) => (
+              <tr
+                key={p.id}
+                className={`border-b border-border last:border-0 hover:bg-bg ${
+                  i % 2 ? "bg-bg/40" : ""
+                }`}
+              >
+                <td className="px-4 py-2.5">
+                  <Link
+                    href={`/${slug}/players/${p.id}` as Route}
+                    className="hover:text-primary font-medium"
+                  >
                     {p.name}
                   </Link>
                 </td>
-                <td className="px-3 py-2 text-muted">{p.team}</td>
-                <td className="px-3 py-2 text-right stat-num">{p.matches}</td>
-                <td className="px-3 py-2 text-right stat-num font-semibold">{p.goals}</td>
-                <td className="px-3 py-2 text-right stat-num">{p.assists}</td>
-                <td className="px-3 py-2 text-right stat-num">{p.xg.toFixed(1)}</td>
-                <td className="px-3 py-2 text-right stat-num">{p.shots}</td>
-                <td className="px-3 py-2 text-right stat-num">{p.passes_completed}</td>
-                <td className="px-3 py-2 text-right stat-num">
+                <td className="px-4 py-2.5 text-muted">{p.team}</td>
+                <td className="px-4 py-2.5 text-right stat-num">{p.matches}</td>
+                <td className="px-4 py-2.5 text-right stat-num font-semibold">{p.goals}</td>
+                <td className="px-4 py-2.5 text-right stat-num">{p.assists}</td>
+                <td className="px-4 py-2.5 text-right stat-num">{p.xg.toFixed(1)}</td>
+                <td className="px-4 py-2.5 text-right stat-num">{p.shots}</td>
+                <td className="px-4 py-2.5 text-right stat-num">{p.passes_completed}</td>
+                <td className="px-4 py-2.5 text-right stat-num">
                   {p.pass_pct != null ? `${p.pass_pct}%` : "—"}
                 </td>
               </tr>
             ))}
           </tbody>
         </table>
+      </div>
+
+      {/* Pagination — keeps the page light even with thousands of players */}
+      <div className="flex items-center justify-between mt-4 text-sm text-muted">
+        <span>
+          {filtered.length.toLocaleString()} players
+          {q && ` matching “${q}”`}
+        </span>
+        <div className="flex items-center gap-2">
+          <button
+            onClick={() => setPage((p) => Math.max(0, p - 1))}
+            disabled={clampedPage === 0}
+            className="px-3 py-1.5 rounded-lg border border-border disabled:opacity-40 hover:border-primary transition-colors"
+          >
+            Prev
+          </button>
+          <span className="stat-num">
+            {clampedPage + 1} / {pageCount}
+          </span>
+          <button
+            onClick={() => setPage((p) => Math.min(pageCount - 1, p + 1))}
+            disabled={clampedPage >= pageCount - 1}
+            className="px-3 py-1.5 rounded-lg border border-border disabled:opacity-40 hover:border-primary transition-colors"
+          >
+            Next
+          </button>
+        </div>
       </div>
     </div>
   );

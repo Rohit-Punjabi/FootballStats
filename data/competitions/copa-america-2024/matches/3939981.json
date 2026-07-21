@@ -1,0 +1,195 @@
+{
+  "match_id": 3939981,
+  "shots": [
+    {
+      "player": "Edgar Yoel Bárcenas Herrera",
+      "team": "Panama",
+      "minute": 1,
+      "x": 106.6,
+      "y": 42.0,
+      "xg": 0.063,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Chris Richards",
+      "team": "United States",
+      "minute": 4,
+      "x": 110.9,
+      "y": 39.8,
+      "xg": 0.078,
+      "outcome": "Saved to Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "Folarin Balogun",
+      "team": "United States",
+      "minute": 21,
+      "x": 102.5,
+      "y": 26.8,
+      "xg": 0.047,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "César Rodolfo Blackman Camarena",
+      "team": "Panama",
+      "minute": 25,
+      "x": 99.5,
+      "y": 43.0,
+      "xg": 0.055,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "César Rodolfo Blackman Camarena",
+      "team": "Panama",
+      "minute": 25,
+      "x": 101.6,
+      "y": 37.7,
+      "xg": 0.055,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "César Rodolfo Blackman Camarena",
+      "team": "Panama",
+      "minute": 27,
+      "x": 109.0,
+      "y": 54.2,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edgar Yoel Bárcenas Herrera",
+      "team": "Panama",
+      "minute": 28,
+      "x": 102.7,
+      "y": 40.4,
+      "xg": 0.085,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Edgardo Isaac Fariña Wynter",
+      "team": "Panama",
+      "minute": 29,
+      "x": 110.8,
+      "y": 44.0,
+      "xg": 0.056,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Eduardo Antonio Guerrero Lozcano",
+      "team": "Panama",
+      "minute": 32,
+      "x": 98.5,
+      "y": 51.1,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Weston McKennie",
+      "team": "United States",
+      "minute": 37,
+      "x": 113.1,
+      "y": 39.6,
+      "xg": 0.141,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Cristian Jesús Martínez",
+      "team": "Panama",
+      "minute": 48,
+      "x": 89.4,
+      "y": 46.8,
+      "xg": 0.014,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edgardo Isaac Fariña Wynter",
+      "team": "Panama",
+      "minute": 50,
+      "x": 88.7,
+      "y": 47.2,
+      "xg": 0.019,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Folarin Balogun",
+      "team": "United States",
+      "minute": 70,
+      "x": 112.2,
+      "y": 22.6,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Michael Amir Murillo Bermudez",
+      "team": "Panama",
+      "minute": 73,
+      "x": 106.5,
+      "y": 51.0,
+      "xg": 0.066,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ricardo Daniel Pepi",
+      "team": "United States",
+      "minute": 80,
+      "x": 117.1,
+      "y": 35.9,
+      "xg": 0.538,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Abdiel Armando Ayarza Cocanegra",
+      "team": "Panama",
+      "minute": 81,
+      "x": 85.2,
+      "y": 33.7,
+      "xg": 0.011,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edgar Yoel Bárcenas Herrera",
+      "team": "Panama",
+      "minute": 82,
+      "x": 95.6,
+      "y": 51.3,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Fajardo Nelson",
+      "team": "Panama",
+      "minute": 82,
+      "x": 111.3,
+      "y": 45.1,
+      "xg": 0.217,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Chris Richards",
+      "team": "United States",
+      "minute": 93,
+      "x": 115.3,
+      "y": 33.4,
+      "xg": 0.101,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ]
+}

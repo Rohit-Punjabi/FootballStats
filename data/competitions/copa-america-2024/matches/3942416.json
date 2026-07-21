@@ -1,0 +1,215 @@
+{
+  "match_id": 3942416,
+  "shots": [
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 7,
+      "x": 113.9,
+      "y": 41.0,
+      "xg": 0.386,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "José Fajardo Nelson",
+      "team": "Panama",
+      "minute": 10,
+      "x": 101.4,
+      "y": 44.2,
+      "xg": 0.068,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "James David Rodríguez Rubio",
+      "team": "Colombia",
+      "minute": 14,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cristian Jesús Martínez",
+      "team": "Panama",
+      "minute": 17,
+      "x": 104.1,
+      "y": 29.5,
+      "xg": 0.051,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Roderick Alonso Miller Molina",
+      "team": "Panama",
+      "minute": 17,
+      "x": 112.9,
+      "y": 39.2,
+      "xg": 0.114,
+      "outcome": "Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "Roderick Alonso Miller Molina",
+      "team": "Panama",
+      "minute": 18,
+      "x": 111.0,
+      "y": 29.9,
+      "xg": 0.039,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jhon Adolfo Arias Andrade",
+      "team": "Colombia",
+      "minute": 27,
+      "x": 107.7,
+      "y": 26.9,
+      "xg": 0.035,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jovani Francisco Welch Lopez",
+      "team": "Panama",
+      "minute": 33,
+      "x": 83.4,
+      "y": 47.2,
+      "xg": 0.006,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "César Rodolfo Blackman Camarena",
+      "team": "Panama",
+      "minute": 35,
+      "x": 96.7,
+      "y": 38.1,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edgar Yoel Bárcenas Herrera",
+      "team": "Panama",
+      "minute": 36,
+      "x": 92.8,
+      "y": 41.2,
+      "xg": 0.06,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Fernando Díaz Marulanda",
+      "team": "Colombia",
+      "minute": 40,
+      "x": 97.2,
+      "y": 39.6,
+      "xg": 0.153,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Eduardo Antonio Guerrero Lozcano",
+      "team": "Panama",
+      "minute": 52,
+      "x": 110.6,
+      "y": 57.2,
+      "xg": 0.013,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Edgardo Isaac Fariña Wynter",
+      "team": "Panama",
+      "minute": 62,
+      "x": 92.2,
+      "y": 52.8,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Richard Rios Montoya",
+      "team": "Colombia",
+      "minute": 65,
+      "x": 95.4,
+      "y": 27.0,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Richard Rios Montoya",
+      "team": "Colombia",
+      "minute": 69,
+      "x": 92.1,
+      "y": 54.5,
+      "xg": 0.016,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Erick Javier Davis Grajales",
+      "team": "Panama",
+      "minute": 75,
+      "x": 91.4,
+      "y": 34.0,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Abdiel Armando Ayarza Cocanegra",
+      "team": "Panama",
+      "minute": 79,
+      "x": 107.4,
+      "y": 39.6,
+      "xg": 0.049,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Michael Amir Murillo Bermudez",
+      "team": "Panama",
+      "minute": 79,
+      "x": 96.1,
+      "y": 50.0,
+      "xg": 0.046,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jovani Francisco Welch Lopez",
+      "team": "Panama",
+      "minute": 79,
+      "x": 98.0,
+      "y": 24.7,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Abdiel Armando Ayarza Cocanegra",
+      "team": "Panama",
+      "minute": 83,
+      "x": 101.6,
+      "y": 44.7,
+      "xg": 0.047,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Miguel Ángel Borja Hernández",
+      "team": "Colombia",
+      "minute": 93,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "match_id": 3939991,
+  "shots": [
+    {
+      "player": "James David Rodríguez Rubio",
+      "team": "Colombia",
+      "minute": 7,
+      "x": 88.9,
+      "y": 51.5,
+      "xg": 0.02,
+      "outcome": "Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 8,
+      "x": 97.2,
+      "y": 37.1,
+      "xg": 0.035,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 9,
+      "x": 97.3,
+      "y": 41.2,
+      "xg": 0.056,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Raphael Dias Belloli",
+      "team": "Brazil",
+      "minute": 11,
+      "x": 92.0,
+      "y": 51.3,
+      "xg": 0.041,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "James David Rodríguez Rubio",
+      "team": "Colombia",
+      "minute": 15,
+      "x": 111.9,
+      "y": 27.2,
+      "xg": 0.066,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Richard Rios Montoya",
+      "team": "Colombia",
+      "minute": 29,
+      "x": 95.7,
+      "y": 46.7,
+      "xg": 0.03,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "James David Rodríguez Rubio",
+      "team": "Colombia",
+      "minute": 33,
+      "x": 101.7,
+      "y": 3.3,
+      "xg": 0.008,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Richard Rios Montoya",
+      "team": "Colombia",
+      "minute": 34,
+      "x": 101.8,
+      "y": 51.4,
+      "xg": 0.036,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jefferson Andrés Lerma Solís",
+      "team": "Colombia",
+      "minute": 34,
+      "x": 113.5,
+      "y": 33.9,
+      "xg": 0.067,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Luis Fernando Díaz Marulanda",
+      "team": "Colombia",
+      "minute": 46,
+      "x": 101.0,
+      "y": 28.7,
+      "xg": 0.139,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Muñoz Mejía",
+      "team": "Colombia",
+      "minute": 46,
+      "x": 109.7,
+      "y": 48.2,
+      "xg": 0.463,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 50,
+      "x": 114.2,
+      "y": 37.1,
+      "xg": 0.176,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Vinícius José Paixão de Oliveira Júnior",
+      "team": "Brazil",
+      "minute": 50,
+      "x": 98.2,
+      "y": 57.7,
+      "xg": 0.016,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Éder Gabriel Militão",
+      "team": "Brazil",
+      "minute": 52,
+      "x": 106.3,
+      "y": 45.1,
+      "xg": 0.065,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Raphael Dias Belloli",
+      "team": "Brazil",
+      "minute": 58,
+      "x": 97.0,
+      "y": 52.3,
+      "xg": 0.052,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jhon Adolfo Arias Andrade",
+      "team": "Colombia",
+      "minute": 60,
+      "x": 96.0,
+      "y": 46.9,
+      "xg": 0.032,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jhon Andrés Córdoba Copete",
+      "team": "Colombia",
+      "minute": 68,
+      "x": 113.2,
+      "y": 35.5,
+      "xg": 0.103,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jorge Andrés Carrascal Guardo",
+      "team": "Colombia",
+      "minute": 83,
+      "x": 105.8,
+      "y": 54.1,
+      "xg": 0.058,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rafael Santos Borré Amaury",
+      "team": "Colombia",
+      "minute": 83,
+      "x": 111.5,
+      "y": 47.4,
+      "xg": 0.305,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andreas Hoelgebaum Pereira",
+      "team": "Brazil",
+      "minute": 94,
+      "x": 96.8,
+      "y": 42.3,
+      "xg": 0.041,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ]
+}

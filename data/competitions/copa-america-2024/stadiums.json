@@ -1,0 +1,118 @@
+[
+  {
+    "name": "AT&T Stadium",
+    "match_count": 3,
+    "match_ids": [
+      3939970,
+      3939974,
+      3942229
+    ]
+  },
+  {
+    "name": "Allegiant Stadium",
+    "match_count": 3,
+    "match_ids": [
+      3939980,
+      3939983,
+      3942415
+    ]
+  },
+  {
+    "name": "Hard Rock Stadium",
+    "match_count": 3,
+    "match_ids": [
+      3939973,
+      3939986,
+      3943077
+    ]
+  },
+  {
+    "name": "MetLife Stadium",
+    "match_count": 3,
+    "match_ids": [
+      3939977,
+      3939982,
+      3942785
+    ]
+  },
+  {
+    "name": "NRG Stadium",
+    "match_count": 3,
+    "match_ids": [
+      3939971,
+      3939975,
+      3942228
+    ]
+  },
+  {
+    "name": "State Farm Stadium",
+    "match_count": 3,
+    "match_ids": [
+      3939984,
+      3939988,
+      3942416
+    ]
+  },
+  {
+    "name": "Bank of America Stadium",
+    "match_count": 2,
+    "match_ids": [
+      3942852,
+      3943076
+    ]
+  },
+  {
+    "name": "Inter&Co Stadium",
+    "match_count": 2,
+    "match_ids": [
+      3939985,
+      3939989
+    ]
+  },
+  {
+    "name": "Levi''s Stadium",
+    "match_count": 2,
+    "match_ids": [
+      3939972,
+      3939991
+    ]
+  },
+  {
+    "name": "Mercedes-Benz Stadium",
+    "match_count": 2,
+    "match_ids": [
+      3939969,
+      3939981
+    ]
+  },
+  {
+    "name": "Q2 Stadium",
+    "match_count": 2,
+    "match_ids": [
+      3939987,
+      3939992
+    ]
+  },
+  {
+    "name": "SoFi Stadium",
+    "match_count": 2,
+    "match_ids": [
+      3939976,
+      3939979
+    ]
+  },
+  {
+    "name": "Arrowhead Stadium",
+    "match_count": 1,
+    "match_ids": [
+      3939990
+    ]
+  },
+  {
+    "name": "Children''s Mercy Park",
+    "match_count": 1,
+    "match_ids": [
+      3939978
+    ]
+  }
+]

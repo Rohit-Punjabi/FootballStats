@@ -1,0 +1,295 @@
+{
+  "match_id": 3939969,
+  "shots": [
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "minute": 1,
+      "x": 98.9,
+      "y": 28.3,
+      "xg": 0.016,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcos Javier Acuña",
+      "team": "Argentina",
+      "minute": 4,
+      "x": 107.0,
+      "y": 23.2,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Leandro Daniel Paredes",
+      "team": "Argentina",
+      "minute": 4,
+      "x": 94.0,
+      "y": 25.9,
+      "xg": 0.018,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Stephen Antunes Eustáquio",
+      "team": "Canada",
+      "minute": 7,
+      "x": 103.8,
+      "y": 30.0,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 8,
+      "x": 104.3,
+      "y": 45.3,
+      "xg": 0.385,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 17,
+      "x": 112.1,
+      "y": 52.1,
+      "xg": 0.056,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada",
+      "minute": 23,
+      "x": 98.6,
+      "y": 45.7,
+      "xg": 0.081,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Liam Millar",
+      "team": "Canada",
+      "minute": 23,
+      "x": 99.8,
+      "y": 32.9,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Tajon Buchanan",
+      "team": "Canada",
+      "minute": 29,
+      "x": 112.8,
+      "y": 48.8,
+      "xg": 0.096,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "team": "Argentina",
+      "minute": 38,
+      "x": 108.0,
+      "y": 42.5,
+      "xg": 0.098,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Stephen Antunes Eustáquio",
+      "team": "Canada",
+      "minute": 42,
+      "x": 113.1,
+      "y": 40.0,
+      "xg": 0.273,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada",
+      "minute": 42,
+      "x": 108.6,
+      "y": 33.8,
+      "xg": 0.169,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 44,
+      "x": 97.6,
+      "y": 50.1,
+      "xg": 0.041,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 45,
+      "x": 110.9,
+      "y": 20.2,
+      "xg": 0.046,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 48,
+      "x": 115.7,
+      "y": 50.0,
+      "xg": 0.281,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julián Álvarez",
+      "team": "Argentina",
+      "minute": 49,
+      "x": 104.5,
+      "y": 36.0,
+      "xg": 0.088,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Fabián Di María Hernández",
+      "team": "Argentina",
+      "minute": 54,
+      "x": 97.2,
+      "y": 56.1,
+      "xg": 0.026,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 64,
+      "x": 106.4,
+      "y": 26.8,
+      "xg": 0.157,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 64,
+      "x": 106.4,
+      "y": 35.2,
+      "xg": 0.296,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 66,
+      "x": 113.7,
+      "y": 45.9,
+      "xg": 0.158,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada",
+      "minute": 73,
+      "x": 107.0,
+      "y": 26.7,
+      "xg": 0.072,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Giovani Lo Celso",
+      "team": "Argentina",
+      "minute": 76,
+      "x": 103.2,
+      "y": 47.6,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 78,
+      "x": 105.8,
+      "y": 45.9,
+      "xg": 0.349,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicolás Hernán Otamendi",
+      "team": "Argentina",
+      "minute": 81,
+      "x": 112.6,
+      "y": 38.8,
+      "xg": 0.238,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 81,
+      "x": 103.0,
+      "y": 35.6,
+      "xg": 0.432,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolás Hernán Otamendi",
+      "team": "Argentina",
+      "minute": 85,
+      "x": 116.3,
+      "y": 39.9,
+      "xg": 0.485,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lautaro Javier Martínez",
+      "team": "Argentina",
+      "minute": 87,
+      "x": 107.0,
+      "y": 44.9,
+      "xg": 0.415,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jacob Shaffelburg",
+      "team": "Canada",
+      "minute": 91,
+      "x": 95.2,
+      "y": 55.7,
+      "xg": 0.02,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lionel Andrés Messi Cuccittini",
+      "team": "Argentina",
+      "minute": 95,
+      "x": 93.6,
+      "y": 42.1,
+      "xg": 0.062,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    }
+  ]
+}

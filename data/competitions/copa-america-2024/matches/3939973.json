@@ -1,0 +1,305 @@
+{
+  "match_id": 3939973,
+  "shots": [
+    {
+      "player": "Giorgian Daniel De Arrascaeta Benedetti",
+      "team": "Uruguay",
+      "minute": 0,
+      "x": 98.4,
+      "y": 25.0,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 4,
+      "x": 95.0,
+      "y": 47.3,
+      "xg": 0.02,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mathías Olivera Miramontes",
+      "team": "Uruguay",
+      "minute": 4,
+      "x": 106.5,
+      "y": 39.9,
+      "xg": 0.058,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 5,
+      "x": 101.1,
+      "y": 37.4,
+      "xg": 0.058,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ronald Federico Araújo da Silva",
+      "team": "Uruguay",
+      "minute": 7,
+      "x": 109.6,
+      "y": 37.1,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Adalberto Eliécer Carrasquilla Alcázar",
+      "team": "Panama",
+      "minute": 10,
+      "x": 89.1,
+      "y": 31.4,
+      "xg": 0.028,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Maximiliano Javier Araújo Vilches",
+      "team": "Uruguay",
+      "minute": 13,
+      "x": 108.8,
+      "y": 43.9,
+      "xg": 0.07,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Maximiliano Javier Araújo Vilches",
+      "team": "Uruguay",
+      "minute": 15,
+      "x": 101.1,
+      "y": 26.2,
+      "xg": 0.041,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 17,
+      "x": 101.2,
+      "y": 21.1,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Giorgian Daniel De Arrascaeta Benedetti",
+      "team": "Uruguay",
+      "minute": 18,
+      "x": 109.0,
+      "y": 43.3,
+      "xg": 0.077,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Maximiliano Javier Araújo Vilches",
+      "team": "Uruguay",
+      "minute": 18,
+      "x": 112.7,
+      "y": 33.3,
+      "xg": 0.137,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Manuel Ugarte Ribeiro",
+      "team": "Uruguay",
+      "minute": 18,
+      "x": 103.3,
+      "y": 36.1,
+      "xg": 0.085,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 28,
+      "x": 108.4,
+      "y": 42.0,
+      "xg": 0.18,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Fajardo Nelson",
+      "team": "Panama",
+      "minute": 36,
+      "x": 94.7,
+      "y": 34.7,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Fajardo Nelson",
+      "team": "Panama",
+      "minute": 45,
+      "x": 105.7,
+      "y": 44.2,
+      "xg": 0.053,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 45,
+      "x": 113.9,
+      "y": 35.9,
+      "xg": 0.138,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 49,
+      "x": 88.9,
+      "y": 25.9,
+      "xg": 0.004,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Fajardo Nelson",
+      "team": "Panama",
+      "minute": 53,
+      "x": 106.4,
+      "y": 54.5,
+      "xg": 0.088,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Roderick Alonso Miller Molina",
+      "team": "Panama",
+      "minute": 55,
+      "x": 113.6,
+      "y": 48.7,
+      "xg": 0.091,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "José Luis Rodríguez Francis",
+      "team": "Panama",
+      "minute": 56,
+      "x": 95.4,
+      "y": 49.9,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Luis Rodríguez Francis",
+      "team": "Panama",
+      "minute": 58,
+      "x": 96.7,
+      "y": 29.4,
+      "xg": 0.029,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Adalberto Eliécer Carrasquilla Alcázar",
+      "team": "Panama",
+      "minute": 59,
+      "x": 97.4,
+      "y": 43.7,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 65,
+      "x": 94.0,
+      "y": 25.7,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 71,
+      "x": 109.7,
+      "y": 50.1,
+      "xg": 0.142,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Diego Nicolás De La Cruz Arcosa",
+      "team": "Uruguay",
+      "minute": 71,
+      "x": 98.4,
+      "y": 27.1,
+      "xg": 0.05,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Michael Amir Murillo Bermudez",
+      "team": "Panama",
+      "minute": 76,
+      "x": 97.4,
+      "y": 32.3,
+      "xg": 0.076,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Maximiliano Javier Araújo Vilches",
+      "team": "Uruguay",
+      "minute": 84,
+      "x": 110.4,
+      "y": 32.0,
+      "xg": 0.039,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 84,
+      "x": 109.4,
+      "y": 33.5,
+      "xg": 0.092,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Matías Nicolás Viña Susperreguy",
+      "team": "Uruguay",
+      "minute": 90,
+      "x": 107.7,
+      "y": 41.6,
+      "xg": 0.072,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Michael Amir Murillo Bermudez",
+      "team": "Panama",
+      "minute": 94,
+      "x": 106.6,
+      "y": 52.2,
+      "xg": 0.076,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    }
+  ]
+}

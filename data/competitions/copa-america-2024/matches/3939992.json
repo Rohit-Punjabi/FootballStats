@@ -1,0 +1,195 @@
+{
+  "match_id": 3939992,
+  "shots": [
+    {
+      "player": "Francisco Javier Calvo Quesada",
+      "team": "Costa Rica",
+      "minute": 2,
+      "x": 112.3,
+      "y": 40.4,
+      "xg": 0.231,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Josimar Alcócer",
+      "team": "Costa Rica",
+      "minute": 6,
+      "x": 93.6,
+      "y": 29.1,
+      "xg": 0.041,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ramón Sosa Acosta",
+      "team": "Paraguay",
+      "minute": 11,
+      "x": 94.4,
+      "y": 46.3,
+      "xg": 0.032,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 18,
+      "x": 92.9,
+      "y": 34.2,
+      "xg": 0.03,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 22,
+      "x": 95.9,
+      "y": 44.3,
+      "xg": 0.034,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Damián Josué Bobadilla Benítez",
+      "team": "Paraguay",
+      "minute": 23,
+      "x": 94.4,
+      "y": 50.6,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mathías Adalberto Villasanti Rolón",
+      "team": "Paraguay",
+      "minute": 46,
+      "x": 110.4,
+      "y": 46.0,
+      "xg": 0.132,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ramón Sosa Acosta",
+      "team": "Paraguay",
+      "minute": 54,
+      "x": 104.4,
+      "y": 26.3,
+      "xg": 0.055,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 56,
+      "x": 83.6,
+      "y": 35.5,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Rodrigo Romero Villamayor",
+      "team": "Paraguay",
+      "minute": 59,
+      "x": 100.3,
+      "y": 41.3,
+      "xg": 0.06,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ramón Sosa Acosta",
+      "team": "Paraguay",
+      "minute": 60,
+      "x": 107.6,
+      "y": 25.3,
+      "xg": 0.049,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Fabián Cornelio Balbuena González",
+      "team": "Paraguay",
+      "minute": 63,
+      "x": 114.9,
+      "y": 32.7,
+      "xg": 0.076,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 63,
+      "x": 89.0,
+      "y": 28.5,
+      "xg": 0.015,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ángel Rodrigo Romero Villamayor",
+      "team": "Paraguay",
+      "minute": 83,
+      "x": 96.8,
+      "y": 46.7,
+      "xg": 0.073,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Omar Federico Alderete Fernández",
+      "team": "Paraguay",
+      "minute": 91,
+      "x": 96.4,
+      "y": 38.0,
+      "xg": 0.045,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 92,
+      "x": 108.2,
+      "y": 44.7,
+      "xg": 0.097,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Fabián Cornelio Balbuena González",
+      "team": "Paraguay",
+      "minute": 93,
+      "x": 114.3,
+      "y": 46.8,
+      "xg": 0.085,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ángel Rodrigo Romero Villamayor",
+      "team": "Paraguay",
+      "minute": 93,
+      "x": 115.6,
+      "y": 38.4,
+      "xg": 0.496,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Julio César Enciso Espínola",
+      "team": "Paraguay",
+      "minute": 93,
+      "x": 113.9,
+      "y": 38.2,
+      "xg": 0.134,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    }
+  ]
+}

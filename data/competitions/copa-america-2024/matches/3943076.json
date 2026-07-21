@@ -1,0 +1,265 @@
+{
+  "match_id": 3943076,
+  "shots": [
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 7,
+      "x": 90.6,
+      "y": 23.8,
+      "xg": 0.008,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sebastián Enzo Cáceres Ramos",
+      "team": "Uruguay",
+      "minute": 7,
+      "x": 110.9,
+      "y": 37.1,
+      "xg": 0.066,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Rodrigo Bentancur Colmán",
+      "team": "Uruguay",
+      "minute": 7,
+      "x": 113.9,
+      "y": 30.9,
+      "xg": 0.082,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Maximiliano Javier Araújo Vilches",
+      "team": "Uruguay",
+      "minute": 17,
+      "x": 110.4,
+      "y": 27.0,
+      "xg": 0.099,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Richie Laryea",
+      "team": "Canada",
+      "minute": 18,
+      "x": 96.8,
+      "y": 21.9,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Moise Bombito",
+      "team": "Canada",
+      "minute": 21,
+      "x": 111.7,
+      "y": 33.7,
+      "xg": 0.051,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ismael Koné",
+      "team": "Canada",
+      "minute": 21,
+      "x": 114.8,
+      "y": 36.2,
+      "xg": 0.278,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tanitoluwa Oluwaseyi",
+      "team": "Canada",
+      "minute": 31,
+      "x": 106.3,
+      "y": 34.3,
+      "xg": 0.123,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 36,
+      "x": 99.0,
+      "y": 32.8,
+      "xg": 0.083,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Moise Bombito",
+      "team": "Canada",
+      "minute": 39,
+      "x": 113.0,
+      "y": 50.2,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Tanitoluwa Oluwaseyi",
+      "team": "Canada",
+      "minute": 40,
+      "x": 113.2,
+      "y": 38.2,
+      "xg": 0.386,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jonathan Osorio",
+      "team": "Canada",
+      "minute": 42,
+      "x": 108.5,
+      "y": 41.8,
+      "xg": 0.512,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan Osorio",
+      "team": "Canada",
+      "minute": 42,
+      "x": 109.2,
+      "y": 42.4,
+      "xg": 0.163,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Tanitoluwa Oluwaseyi",
+      "team": "Canada",
+      "minute": 59,
+      "x": 107.4,
+      "y": 41.9,
+      "xg": 0.351,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luc Rollet De Fougerolles",
+      "team": "Canada",
+      "minute": 64,
+      "x": 112.5,
+      "y": 34.2,
+      "xg": 0.061,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Paul Brian Rodríguez Bravo",
+      "team": "Uruguay",
+      "minute": 69,
+      "x": 109.3,
+      "y": 50.2,
+      "xg": 0.134,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Alberto Suárez Díaz",
+      "team": "Uruguay",
+      "minute": 69,
+      "x": 104.7,
+      "y": 22.6,
+      "xg": 0.04,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alphonso Davies",
+      "team": "Canada",
+      "minute": 70,
+      "x": 94.4,
+      "y": 32.0,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Moise Bombito",
+      "team": "Canada",
+      "minute": 73,
+      "x": 109.4,
+      "y": 38.8,
+      "xg": 0.053,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "José María Giménez de Vargas",
+      "team": "Uruguay",
+      "minute": 75,
+      "x": 108.2,
+      "y": 44.4,
+      "xg": 0.102,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 77,
+      "x": 102.7,
+      "y": 53.9,
+      "xg": 0.033,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ismael Koné",
+      "team": "Canada",
+      "minute": 79,
+      "x": 94.8,
+      "y": 48.8,
+      "xg": 0.045,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "minute": 79,
+      "x": 107.2,
+      "y": 45.2,
+      "xg": 0.204,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José María Giménez de Vargas",
+      "team": "Uruguay",
+      "minute": 82,
+      "x": 111.0,
+      "y": 34.8,
+      "xg": 0.103,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Luis Alberto Suárez Díaz",
+      "team": "Uruguay",
+      "minute": 91,
+      "x": 112.1,
+      "y": 51.1,
+      "xg": 0.238,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luis Alberto Suárez Díaz",
+      "team": "Uruguay",
+      "minute": 91,
+      "x": 110.0,
+      "y": 38.2,
+      "xg": 0.527,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    }
+  ]
+}

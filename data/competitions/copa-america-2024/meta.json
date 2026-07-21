@@ -1,0 +1,19 @@
+{
+  "slug": "copa-america-2024",
+  "competition_id": 223,
+  "season_id": 282,
+  "competition_name": "Copa America",
+  "season_name": "2024",
+  "match_count": 32,
+  "team_count": 16,
+  "player_count": 339,
+  "goal_count": 69,
+  "champion": "Argentina",
+  "final_match_id": 3943077,
+  "top_scorer": {
+    "id": 11456,
+    "name": "Lautaro Javier Martínez",
+    "team": "Argentina",
+    "goals": 5
+  }
+}

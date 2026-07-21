@@ -1,0 +1,205 @@
+{
+  "match_id": 3939989,
+  "shots": [
+    {
+      "player": "Jovani Francisco Welch Lopez",
+      "team": "Panama",
+      "minute": 12,
+      "x": 85.1,
+      "y": 26.9,
+      "xg": 0.006,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Ángel Córdoba Chambers",
+      "team": "Panama",
+      "minute": 14,
+      "x": 104.9,
+      "y": 42.6,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Gabriel Alejandro Villamíl Cortéz",
+      "team": "Bolivia",
+      "minute": 18,
+      "x": 103.9,
+      "y": 43.6,
+      "xg": 0.087,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "José Fajardo Nelson",
+      "team": "Panama",
+      "minute": 21,
+      "x": 108.8,
+      "y": 34.4,
+      "xg": 0.106,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Miguel Ángel Terceros",
+      "team": "Bolivia",
+      "minute": 24,
+      "x": 87.7,
+      "y": 40.5,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Miguel Ángel Terceros",
+      "team": "Bolivia",
+      "minute": 29,
+      "x": 105.5,
+      "y": 25.9,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Gabriel Alejandro Villamíl Cortéz",
+      "team": "Bolivia",
+      "minute": 33,
+      "x": 107.8,
+      "y": 32.9,
+      "xg": 0.039,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Edgar Yoel Bárcenas Herrera",
+      "team": "Panama",
+      "minute": 35,
+      "x": 106.5,
+      "y": 36.0,
+      "xg": 0.117,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Fajardo Nelson",
+      "team": "Panama",
+      "minute": 44,
+      "x": 94.8,
+      "y": 29.5,
+      "xg": 0.032,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kahiser Lenis Navarro",
+      "team": "Panama",
+      "minute": 46,
+      "x": 114.6,
+      "y": 58.9,
+      "xg": 0.01,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cristian Jesús Martínez",
+      "team": "Panama",
+      "minute": 49,
+      "x": 102.7,
+      "y": 50.6,
+      "xg": 0.05,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "José Fajardo Nelson",
+      "team": "Panama",
+      "minute": 62,
+      "x": 114.9,
+      "y": 35.1,
+      "xg": 0.204,
+      "outcome": "Off T",
+      "body_part": "Other"
+    },
+    {
+      "player": "Kahiser Lenis Navarro",
+      "team": "Panama",
+      "minute": 66,
+      "x": 108.4,
+      "y": 46.4,
+      "xg": 0.322,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Miranda Villagomez",
+      "team": "Bolivia",
+      "minute": 68,
+      "x": 108.6,
+      "y": 32.2,
+      "xg": 0.425,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kahiser Lenis Navarro",
+      "team": "Panama",
+      "minute": 72,
+      "x": 106.3,
+      "y": 42.3,
+      "xg": 0.11,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Miguel Ángel Terceros",
+      "team": "Bolivia",
+      "minute": 74,
+      "x": 103.2,
+      "y": 37.4,
+      "xg": 0.08,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Miguel Ángel Terceros",
+      "team": "Bolivia",
+      "minute": 77,
+      "x": 91.6,
+      "y": 53.3,
+      "xg": 0.107,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Eduardo Antonio Guerrero Lozcano",
+      "team": "Panama",
+      "minute": 78,
+      "x": 110.9,
+      "y": 36.3,
+      "xg": 0.222,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Edgar Yoel Bárcenas Herrera",
+      "team": "Panama",
+      "minute": 84,
+      "x": 101.7,
+      "y": 53.1,
+      "xg": 0.029,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "César Augusto Yanis Velasco",
+      "team": "Panama",
+      "minute": 90,
+      "x": 103.2,
+      "y": 42.4,
+      "xg": 0.111,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ]
+}

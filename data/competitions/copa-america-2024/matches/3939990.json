@@ -1,0 +1,205 @@
+{
+  "match_id": 3939990,
+  "shots": [
+    {
+      "player": "Antonee Robinson",
+      "team": "United States",
+      "minute": 12,
+      "x": 104.4,
+      "y": 33.1,
+      "xg": 0.028,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Nahitan Michel Nández Acosta",
+      "team": "Uruguay",
+      "minute": 32,
+      "x": 104.1,
+      "y": 52.4,
+      "xg": 0.17,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Darwin Gabriel Núñez Ribeiro",
+      "team": "Uruguay",
+      "minute": 37,
+      "x": 107.5,
+      "y": 33.5,
+      "xg": 0.078,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Facundo Pellistri Rebollo",
+      "team": "Uruguay",
+      "minute": 42,
+      "x": 110.5,
+      "y": 48.9,
+      "xg": 0.17,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Diego Nicolás De La Cruz Arcosa",
+      "team": "Uruguay",
+      "minute": 45,
+      "x": 99.3,
+      "y": 54.6,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Weston McKennie",
+      "team": "United States",
+      "minute": 46,
+      "x": 99.0,
+      "y": 42.3,
+      "xg": 0.096,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Matías Nicolás Viña Susperreguy",
+      "team": "Uruguay",
+      "minute": 49,
+      "x": 108.4,
+      "y": 30.0,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 51,
+      "x": 79.8,
+      "y": 29.1,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ronald Federico Araújo da Silva",
+      "team": "Uruguay",
+      "minute": 65,
+      "x": 109.2,
+      "y": 35.4,
+      "xg": 0.039,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mathías Olivera Miramontes",
+      "team": "Uruguay",
+      "minute": 65,
+      "x": 116.1,
+      "y": 36.2,
+      "xg": 0.538,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Federico Santiago Valverde Dipetta",
+      "team": "Uruguay",
+      "minute": 71,
+      "x": 42.6,
+      "y": 12.1,
+      "xg": 0.004,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 73,
+      "x": 102.1,
+      "y": 41.5,
+      "xg": 0.076,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Diego Nicolás De La Cruz Arcosa",
+      "team": "Uruguay",
+      "minute": 76,
+      "x": 98.4,
+      "y": 48.2,
+      "xg": 0.041,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Joshua Sargent",
+      "team": "United States",
+      "minute": 81,
+      "x": 109.2,
+      "y": 42.3,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Haji Wright",
+      "team": "United States",
+      "minute": 86,
+      "x": 106.4,
+      "y": 34.7,
+      "xg": 0.092,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luis Alberto Suárez Díaz",
+      "team": "Uruguay",
+      "minute": 89,
+      "x": 102.7,
+      "y": 32.8,
+      "xg": 0.061,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Facundo Pellistri Rebollo",
+      "team": "Uruguay",
+      "minute": 89,
+      "x": 107.9,
+      "y": 44.4,
+      "xg": 0.11,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 91,
+      "x": 95.1,
+      "y": 35.1,
+      "xg": 0.032,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Pulisic",
+      "team": "United States",
+      "minute": 91,
+      "x": 108.9,
+      "y": 51.3,
+      "xg": 0.05,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Malik Tillman",
+      "team": "United States",
+      "minute": 94,
+      "x": 102.7,
+      "y": 46.2,
+      "xg": 0.056,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ]
+}

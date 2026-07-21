@@ -1,0 +1,225 @@
+{
+  "match_id": 3939976,
+  "shots": [
+    {
+      "player": "Raphael Dias Belloli",
+      "team": "Brazil",
+      "minute": 6,
+      "x": 118.3,
+      "y": 49.6,
+      "xg": 0.023,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 11,
+      "x": 108.5,
+      "y": 51.5,
+      "xg": 0.132,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 15,
+      "x": 108.0,
+      "y": 56.1,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 21,
+      "x": 99.8,
+      "y": 42.1,
+      "xg": 0.083,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Raphael Dias Belloli",
+      "team": "Brazil",
+      "minute": 24,
+      "x": 106.4,
+      "y": 48.5,
+      "xg": 0.171,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 25,
+      "x": 111.3,
+      "y": 39.2,
+      "xg": 0.137,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 29,
+      "x": 111.9,
+      "y": 36.2,
+      "xg": 0.128,
+      "outcome": "Wayward",
+      "body_part": "Other"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 41,
+      "x": 104.5,
+      "y": 44.8,
+      "xg": 0.055,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 46,
+      "x": 100.5,
+      "y": 49.0,
+      "xg": 0.049,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 46,
+      "x": 112.3,
+      "y": 31.3,
+      "xg": 0.078,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 53,
+      "x": 111.1,
+      "y": 33.7,
+      "xg": 0.062,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Rodrygo Silva de Goes",
+      "team": "Brazil",
+      "minute": 59,
+      "x": 109.8,
+      "y": 36.0,
+      "xg": 0.184,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 62,
+      "x": 93.4,
+      "y": 54.3,
+      "xg": 0.02,
+      "outcome": "Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Álvaro José Zamora Mata",
+      "team": "Costa Rica",
+      "minute": 67,
+      "x": 89.5,
+      "y": 43.3,
+      "xg": 0.02,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Endrick Felipe Moreira de Sousa",
+      "team": "Brazil",
+      "minute": 70,
+      "x": 103.1,
+      "y": 43.7,
+      "xg": 0.076,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alejandro Jesús Bran Flores",
+      "team": "Costa Rica",
+      "minute": 74,
+      "x": 100.4,
+      "y": 56.0,
+      "xg": 0.016,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sávio Moreira de Oliveira",
+      "team": "Brazil",
+      "minute": 76,
+      "x": 112.4,
+      "y": 53.9,
+      "xg": 0.05,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Guilherme Antonio Arana Lopes",
+      "team": "Brazil",
+      "minute": 78,
+      "x": 101.0,
+      "y": 33.7,
+      "xg": 0.053,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 78,
+      "x": 103.0,
+      "y": 39.9,
+      "xg": 0.053,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sávio Moreira de Oliveira",
+      "team": "Brazil",
+      "minute": 84,
+      "x": 101.5,
+      "y": 45.5,
+      "xg": 0.091,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Guimarães Rodriguez Moura",
+      "team": "Brazil",
+      "minute": 90,
+      "x": 103.8,
+      "y": 44.4,
+      "xg": 0.07,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lucas Tolentino Coelho de Lima",
+      "team": "Brazil",
+      "minute": 92,
+      "x": 107.5,
+      "y": 42.3,
+      "xg": 0.081,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    }
+  ]
+}
