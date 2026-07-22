@@ -20,7 +20,7 @@ export function CompetitionNav({ slug, label }: { slug: string; label: string })
   return (
     <div className="border-b border-border/70 sticky top-0 z-10 bg-bg/85 backdrop-blur">
       <div className="mx-auto max-w-[1200px] px-6">
-        <div className="flex items-center gap-1 h-12 overflow-x-auto text-sm">
+        <div className="flex items-center gap-1 h-14 overflow-x-auto text-sm">
           <span className="font-semibold mr-3 shrink-0">{label}</span>
           {items.map((item) => {
             const active =
@@ -29,9 +29,9 @@ export function CompetitionNav({ slug, label }: { slug: string; label: string })
               <Link
                 key={item.href}
                 href={item.href as Route}
-                className={`px-3 py-1.5 rounded-lg whitespace-nowrap transition-colors ${
+                className={`px-3.5 min-h-[40px] inline-flex items-center rounded-lg whitespace-nowrap transition-colors ${
                   active
-                    ? "bg-primary/10 text-primary font-medium"
+                    ? "bg-primary/10 text-link font-medium"
                     : "text-muted hover:text-fg hover:bg-card"
                 }`}
               >

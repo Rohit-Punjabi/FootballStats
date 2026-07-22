@@ -38,7 +38,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
               Data ©{" "}
               <a
                 href="https://github.com/statsbomb/open-data"
-                className="text-primary hover:underline"
+                className="text-link hover:underline"
                 target="_blank"
                 rel="noopener noreferrer"
               >

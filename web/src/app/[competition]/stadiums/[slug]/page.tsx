@@ -25,7 +25,7 @@ export default async function StadiumPage({ params }: PageProps<"/[competition]/
 
   return (
     <div>
-      <Link href={`/${competition}/stadiums`} className="text-sm text-primary hover:underline">
+      <Link href={`/${competition}/stadiums`} className="text-sm text-link hover:underline">
         Back to all stadiums
       </Link>
       <div className="flex items-center gap-4 mt-4">

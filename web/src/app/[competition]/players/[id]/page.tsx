@@ -17,13 +17,13 @@ export default async function PlayerPage({ params }: PageProps<"/[competition]/p
 
   return (
     <div>
-      <Link href={`/${competition}/players`} className="text-sm text-primary hover:underline">
+      <Link href={`/${competition}/players`} className="text-sm text-link hover:underline">
         Back to all players
       </Link>
 
       {/* Hero */}
       <div className="mt-4 flex items-center gap-5">
-        <div className="w-16 h-16 rounded-full bg-primary/10 grid place-items-center text-2xl font-bold text-primary shrink-0">
+        <div className="w-16 h-16 rounded-full bg-primary/10 grid place-items-center text-2xl font-bold text-link shrink-0">
           {player.name.split(" ").map((w) => w[0]).slice(0, 2).join("")}
         </div>
         <div>
@@ -31,7 +31,7 @@ export default async function PlayerPage({ params }: PageProps<"/[competition]/p
           <p className="text-muted flex items-center gap-2 mt-0.5">
             <TeamBadge team={player.team} size="sm" />
             {player.team_id ? (
-              <Link href={`/${competition}/teams/${player.team_id}`} className="hover:text-primary">
+              <Link href={`/${competition}/teams/${player.team_id}`} className="hover:text-link">
                 {player.team}
               </Link>
             ) : (

@@ -56,7 +56,7 @@ export function MetricCard({
   accent?: "primary" | "secondary" | "accent" | "muted";
 }) {
   const color = {
-    primary: "text-primary",
+    primary: "text-link",
     secondary: "text-secondary",
     accent: "text-accent",
     muted: "text-fg",
@@ -85,7 +85,7 @@ export function ButtonLink({ href, children }: { href: Route; children: React.Re
   return (
     <Link
       href={href}
-      className="inline-flex items-center gap-2 px-5 py-2.5 rounded-btn bg-primary text-primary-fg font-medium hover:opacity-90 transition-opacity"
+      className="inline-flex items-center gap-2 px-5 py-3 rounded-btn bg-link text-primary-fg font-medium hover:opacity-90 transition-opacity"
     >
       {children}
     </Link>
@@ -115,7 +115,7 @@ export function Leaderboard({
                 className="flex items-center gap-3 px-5 py-2.5 hover:bg-bg transition-colors"
               >
                 <span className="w-5 text-center text-sm">
-                  {medal ?? <span className="text-faint stat-num">{i + 1}</span>}
+                  {medal ?? <span className="text-muted stat-num">{i + 1}</span>}
                 </span>
                 <span className="flex-1 truncate">
                   {r.name}

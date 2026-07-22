@@ -28,7 +28,7 @@ export default async function TeamPage({ params }: PageProps<"/[competition]/tea
 
   return (
     <div>
-      <Link href={`/${competition}/teams`} className="text-sm text-primary hover:underline">
+      <Link href={`/${competition}/teams`} className="text-sm text-link hover:underline">
         Back to all teams
       </Link>
       <div className="flex items-center gap-4 mt-4">
@@ -89,7 +89,7 @@ export default async function TeamPage({ params }: PageProps<"/[competition]/tea
                   className={`border-b border-border last:border-0 hover:bg-bg ${i % 2 ? "bg-bg/40" : ""}`}
                 >
                   <td className="px-4 py-2.5">
-                    <Link href={`/${competition}/players/${p.id}`} className="hover:text-primary font-medium">
+                    <Link href={`/${competition}/players/${p.id}`} className="hover:text-link font-medium">
                       {p.name}
                     </Link>
                   </td>

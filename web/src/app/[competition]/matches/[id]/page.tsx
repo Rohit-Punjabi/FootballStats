@@ -33,7 +33,7 @@ export default async function MatchPage({ params }: PageProps<"/[competition]/ma
 
   return (
     <div>
-      <Link href={`/${competition}/matches`} className="text-sm text-primary hover:underline">
+      <Link href={`/${competition}/matches`} className="text-sm text-link hover:underline">
         Back to all matches
       </Link>
 
@@ -46,7 +46,7 @@ export default async function MatchPage({ params }: PageProps<"/[competition]/ma
               {stadiumExists ? (
                 <Link
                   href={`/${competition}/stadiums/${stadiumSlug(match.stadium)}`}
-                  className="hover:text-primary"
+                  className="hover:text-link"
                 >
                   {match.stadium}
                 </Link>

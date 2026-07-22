@@ -78,7 +78,7 @@ export function PlayerTable({ players, slug }: { players: Player[]; slug: string
                 <th
                   key={c.key}
                   onClick={() => toggle(c.key)}
-                  className={`px-4 py-3 cursor-pointer select-none hover:text-primary font-medium ${
+                  className={`px-4 py-3 cursor-pointer select-none hover:text-link font-medium ${
                     c.numeric ? "text-right" : "text-left"
                   }`}
                 >
@@ -99,7 +99,7 @@ export function PlayerTable({ players, slug }: { players: Player[]; slug: string
                 <td className="px-4 py-2.5">
                   <Link
                     href={`/${slug}/players/${p.id}` as Route}
-                    className="hover:text-primary font-medium"
+                    className="hover:text-link font-medium"
                   >
                     {p.name}
                   </Link>
@@ -135,7 +135,7 @@ export function PlayerTable({ players, slug }: { players: Player[]; slug: string
           <button
             onClick={() => setPage((p) => Math.max(0, p - 1))}
             disabled={clampedPage === 0}
-            className="px-3 py-1.5 rounded-lg border border-border disabled:opacity-40 hover:border-primary transition-colors"
+            className="px-4 min-h-[40px] rounded-lg border border-border disabled:opacity-40 hover:border-link transition-colors"
           >
             Prev
           </button>
@@ -145,7 +145,7 @@ export function PlayerTable({ players, slug }: { players: Player[]; slug: string
           <button
             onClick={() => setPage((p) => Math.min(pageCount - 1, p + 1))}
             disabled={clampedPage >= pageCount - 1}
-            className="px-3 py-1.5 rounded-lg border border-border disabled:opacity-40 hover:border-primary transition-colors"
+            className="px-4 min-h-[40px] rounded-lg border border-border disabled:opacity-40 hover:border-link transition-colors"
           >
             Next
           </button>

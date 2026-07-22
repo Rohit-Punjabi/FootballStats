@@ -71,7 +71,7 @@ export function CompareTool({ players, slug }: { players: Player[]; slug: string
       {a && b ? (
         <div className="card overflow-hidden">
           <div className="grid grid-cols-3 items-center px-6 py-4 border-b border-border">
-            <Link href={`/${slug}/players/${a.id}` as Route} className="font-semibold hover:text-primary flex items-center gap-2">
+            <Link href={`/${slug}/players/${a.id}` as Route} className="font-semibold hover:text-link flex items-center gap-2">
               <TeamBadge team={a.team} size="sm" />
               <span className="min-w-0">
                 <span className="block truncate">{a.name}</span>
@@ -81,7 +81,7 @@ export function CompareTool({ players, slug }: { players: Player[]; slug: string
             <span className="text-center text-xs uppercase tracking-wide text-muted">vs</span>
             <Link
               href={`/${slug}/players/${b.id}` as Route}
-              className="font-semibold hover:text-primary flex items-center gap-2 justify-end text-right"
+              className="font-semibold hover:text-link flex items-center gap-2 justify-end text-right"
             >
               <span className="min-w-0">
                 <span className="block truncate">{b.name}</span>
@@ -100,11 +100,11 @@ export function CompareTool({ players, slug }: { players: Player[]; slug: string
             return (
               <div key={m.key} className="px-6 py-3.5 border-b border-border last:border-0">
                 <div className="grid grid-cols-3 items-center gap-2 text-sm">
-                  <span className={`stat-num text-right ${av > bv ? "text-primary font-bold" : ""}`}>
+                  <span className={`stat-num text-right ${av > bv ? "text-link font-bold" : ""}`}>
                     {fmt(av)}
                   </span>
                   <span className="text-center text-xs text-muted">{m.label}</span>
-                  <span className={`stat-num ${bv > av ? "text-primary font-bold" : ""}`}>
+                  <span className={`stat-num ${bv > av ? "text-link font-bold" : ""}`}>
                     {fmt(bv)}
                   </span>
                 </div>
