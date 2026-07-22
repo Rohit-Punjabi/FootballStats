@@ -1,40 +1,87 @@
-# FootballStats
+<h1 align="center">⚽ FootballStats</h1>
 
-A calm, visual home for football statistics — shot maps, expected goals (xG), and
-pass-level data for every match, player, team, and stadium. Built as a portfolio
-project on **[StatsBomb Open Data](https://github.com/statsbomb/open-data)** (free,
-non-commercial use).
+<p align="center">
+  <b>A calm, visual home for football statistics.</b><br>
+  Shot maps, expected goals, and the details that explain a match — not just list it.
+</p>
 
-Design principle: **insights first, statistics second.** Pages tell the story
-(champion, golden boot, the final) before offering the deep tables.
+<p align="center">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-000000?logo=next.js">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white">
+  <img alt="Static Site" src="https://img.shields.io/badge/1200+_pages-prerendered-16a34a">
+</p>
 
-Currently loaded: **World Cup 2022** and **Copa America 2024** — and adding another
-tournament is a one-line config change, not a rewrite.
+<p align="center">
+  <img src="docs/screenshots/overview.png" alt="Competition overview page" width="900">
+</p>
 
-## How it works
+---
 
-Two clean halves — a Python pipeline that prepares data, and a Next.js site that reads it:
+## About this project
+
+**FootballStats** is a portfolio project I built to see how close a solo developer can get to a
+"premium" sports-stats experience — the kind of shot maps and expected-goals visuals that usually
+sit behind paywalls — using only free, open data.
+
+The guiding principle throughout is **insights first, statistics second**: every page tells the
+story (who won, who scored, what the game looked like) before offering the deep tables. It currently
+covers two complete tournaments — the **2022 World Cup** and **2024 Copa America** — and adding
+another is a one-line config change.
+
+> It's built on [StatsBomb Open Data](https://github.com/statsbomb/open-data), which publishes
+> full event-level data (every pass, shot, and xG value) for select competitions, free for
+> non-commercial use.
+
+## What it does
+
+- 🗺️ **Shot maps** — every shot from a match plotted on the pitch, sized by xG, colored by team.
+- 📊 **Deep stats** — goals, assists, xG, passing, and finishing (goals vs. expected) for 1,000+ players.
+- ⚖️ **Head-to-head compare** — pick any two players and see them side by side.
+- 🏆 **Story-first overviews** — champion, Golden Boot, and the final, up top.
+- 🔎 **Sortable, searchable, paginated** player tables.
+- 🌓 **Light & dark themes**, responsive down to mobile, and **WCAG AA** color contrast.
+
+## Screenshots
+
+| Match shot map | Head-to-head compare |
+|---|---|
+| <img src="docs/screenshots/match-shotmap.png" alt="Shot map for the 2022 World Cup final"> | <img src="docs/screenshots/compare.png" alt="Player comparison tool"> |
+
+| Leaderboards | Dark mode |
+|---|---|
+| <img src="docs/screenshots/stats.png" alt="Stat leaderboards with medals"> | <img src="docs/screenshots/overview-dark.png" alt="Overview page in dark mode"> |
+
+## How it's built
+
+Two clean halves — a Python data pipeline and a static Next.js site:
 
 ```
 StatsBomb  →  pipeline/ (Python)  →  data/competitions/<slug>/*.json  →  web/ (Next.js SSG)
 ```
 
-The site is **fully static**: every page is pre-rendered at build time, so it's fast
-and can be hosted for free (e.g. Vercel).
+The site is **fully static**: all ~1,200 pages are pre-rendered at build time, so it loads instantly
+and can be hosted for free.
 
-## Multiple competitions
+- **Frontend** — Next.js 16 (App Router), TypeScript, Tailwind CSS v4, a small custom design system.
+- **Data pipeline** — Python (`statsbombpy` + `pandas`) fetches raw event data and aggregates it into
+  clean, per-competition JSON.
+- **Visuals** — hand-built SVG shot maps (no charting library).
 
-Each `(competition, season)` becomes a slug (e.g. `world-cup-2022`) with its own data
-folder and its own URL space (`/world-cup-2022/players/…`). To add one, append to
-`COMPETITIONS` in `pipeline/config.py` and re-run the pipeline:
+## Engineering decisions I'm happy with
 
-```python
-COMPETITIONS = [
-    {"competition_name": "FIFA World Cup", "season_name": "2022"},
-    {"competition_name": "Copa America",   "season_name": "2024"},
-    # add more here — see `sb.competitions()` for what StatsBomb offers free
-]
-```
+- **A data-accuracy catch that matters.** StatsBomb records penalty-shootout kicks as goals — which
+  inflated Messi to 9 World Cup goals. Excluding shootout periods makes the top-scorer list match the
+  official Golden Boots (Mbappé 8, Messi 7). On a stats site, accuracy *is* the product.
+- **Common names from the data, not a hardcoded list.** Player names use StatsBomb's `nickname` field
+  (Lionel Messi, not "Lionel Andrés Messi Cuccittini"), falling back to the full name.
+- **A single data seam.** Every read goes through one module (`web/src/lib/data.ts`), so the flat-JSON
+  backend could be swapped for a database without touching a single page.
+- **Multi-competition by config.** Data and routes are competition-scoped (`/[competition]/…`); a new
+  tournament is a line in `pipeline/config.py`.
+- **Accessibility as a real pass.** After a design critique, I split the green into a decorative shade
+  and an accessible "text green," lifting links/buttons from 3.3:1 to 5.0:1 (WCAG AA).
 
 ## Project layout
 
@@ -42,35 +89,24 @@ COMPETITIONS = [
 pipeline/     Python: fetch + transform StatsBomb data
   fetch.py       download raw data per competition   → data/raw/<slug>/
   transform.py   aggregate into clean JSON           → data/competitions/<slug>/
-  config.py      COMPETITIONS list, slugs, paths, JSON helpers
+  config.py      COMPETITIONS list, slugs, JSON helpers
 data/
-  competitions.json            index of all competitions (+ champion, golden boot)
+  competitions.json            index (+ champion, Golden Boot per competition)
   competitions/<slug>/         meta, matches, players, teams, stadiums, matches/<id>
-  raw/<slug>/                  raw StatsBomb dumps (gitignored, regenerable)
-web/          Next.js 16 app (App Router, TypeScript, Tailwind v4)
-  src/lib/data.ts              THE data seam — every read goes through here
-  src/app/page.tsx             landing: pick a competition
+web/          Next.js app
+  src/lib/data.ts              the data seam — every read goes through here
   src/app/[competition]/       overview + matches/players/teams/stadiums/compare/stats
-  src/components/              ShotMap, PlayerTable, CompareTool, CompetitionNav, ui
+  src/components/              ShotMap, PlayerTable, CompareTool, TeamBadge, ...
 ```
 
-## Scalability notes
-
-- **More competitions:** config-driven; data and routes are competition-scoped.
-- **More data:** per-competition JSON keeps files small; the player table paginates;
-  and because every read goes through `src/lib/data.ts`, the flat-JSON backend can be
-  swapped for a database or API without touching any page.
-- **Design system:** tokens live in `src/app/globals.css` (colors, radii, shadows,
-  spacing), mirroring the project `Design` file.
-
-## Running it
+## Run it locally
 
 **1. Generate the data** (first run downloads the raw dumps; cached after that):
 
 ```bash
 cd pipeline
 pip install -r requirements.txt
-python fetch.py        # → data/raw/<slug>/   (skips already-downloaded competitions)
+python fetch.py        # → data/raw/<slug>/
 python transform.py    # → data/competitions/<slug>/
 ```
 
@@ -83,14 +119,9 @@ npm run dev      # http://localhost:3000
 npm run build    # production build — prerenders every page
 ```
 
-## Data notes
+## Notes & credits
 
-- **Goals/shots/xG exclude penalty-shootout kicks** (StatsBomb period 5) — those decide a
-  tie separately and don't count as tournament goals. This is why top scorers match the
-  official Golden Boots (World Cup: Mbappé 8; Copa America: Lautaro Martínez 5).
-- Own goals are not attributed to any player, so team/player goal sums can sit slightly
-  below the official tournament total.
-
-## Credits
-
-Data © StatsBomb, used under their free Open Data user agreement. Non-commercial.
+- Goals/shots/xG exclude penalty-shootout kicks; own goals aren't attributed to a player (so goal
+  totals sit a touch below the official count).
+- Data © [StatsBomb Open Data](https://github.com/statsbomb/open-data), used under their free user
+  agreement. **Non-commercial.**
