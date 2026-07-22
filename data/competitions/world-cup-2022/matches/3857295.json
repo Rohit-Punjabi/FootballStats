@@ -171,5 +171,595 @@
       "outcome": "Saved",
       "body_part": "Right Foot"
     }
-  ]
+  ],
+  "networks": {
+    "Costa Rica": {
+      "nodes": [
+        {
+          "id": 5600,
+          "name": "Francisco Calvo",
+          "x": 36.5,
+          "y": 12.1,
+          "passes": 67
+        },
+        {
+          "id": 5582,
+          "name": "Celso Borges",
+          "x": 53.8,
+          "y": 55.7,
+          "passes": 47
+        },
+        {
+          "id": 5839,
+          "name": "Yeltsin Tejeda",
+          "x": 52.4,
+          "y": 29.3,
+          "passes": 43
+        },
+        {
+          "id": 5581,
+          "name": "Joel Campbell",
+          "x": 59.9,
+          "y": 19.0,
+          "passes": 38
+        },
+        {
+          "id": 5598,
+          "name": "Óscar Duarte",
+          "x": 30.7,
+          "y": 57.5,
+          "passes": 38
+        },
+        {
+          "id": 6328,
+          "name": "Kendall Waston",
+          "x": 34.6,
+          "y": 31.6,
+          "passes": 38
+        },
+        {
+          "id": 5836,
+          "name": "Bryan Oviedo",
+          "x": 56.2,
+          "y": 6.1,
+          "passes": 31
+        },
+        {
+          "id": 5597,
+          "name": "Keylor Navas",
+          "x": 12.9,
+          "y": 41.2,
+          "passes": 21
+        },
+        {
+          "id": 130185,
+          "name": "Keysher Fuller Spence",
+          "x": 53.5,
+          "y": 68.7,
+          "passes": 18
+        },
+        {
+          "id": 132497,
+          "name": "Gerson Torres Barrantes",
+          "x": 62.1,
+          "y": 55.9,
+          "passes": 17
+        },
+        {
+          "id": 132296,
+          "name": "Anthony Daniel Contreras Enríquez",
+          "x": 70.1,
+          "y": 22.6,
+          "passes": 8
+        },
+        {
+          "id": 108340,
+          "name": "Brandon Aguilera",
+          "x": 50.0,
+          "y": 59.1,
+          "passes": 5
+        },
+        {
+          "id": 132728,
+          "name": "Jewison Bennette",
+          "x": 50.4,
+          "y": 25.3,
+          "passes": 2
+        },
+        {
+          "id": 132772,
+          "name": "Daniel Alonso Chacón Salas",
+          "x": 33.0,
+          "y": 4.5,
+          "passes": 1
+        }
+      ],
+      "edges": [
+        {
+          "from": 5581,
+          "to": 5600,
+          "weight": 29
+        },
+        {
+          "from": 5598,
+          "to": 6328,
+          "weight": 20
+        },
+        {
+          "from": 5600,
+          "to": 6328,
+          "weight": 30
+        },
+        {
+          "from": 5597,
+          "to": 5600,
+          "weight": 21
+        },
+        {
+          "from": 5600,
+          "to": 5836,
+          "weight": 16
+        },
+        {
+          "from": 5582,
+          "to": 5598,
+          "weight": 14
+        },
+        {
+          "from": 5598,
+          "to": 5600,
+          "weight": 8
+        },
+        {
+          "from": 5581,
+          "to": 5839,
+          "weight": 11
+        },
+        {
+          "from": 5600,
+          "to": 5839,
+          "weight": 12
+        },
+        {
+          "from": 5581,
+          "to": 5836,
+          "weight": 15
+        },
+        {
+          "from": 5581,
+          "to": 132296,
+          "weight": 4
+        },
+        {
+          "from": 5836,
+          "to": 132296,
+          "weight": 4
+        },
+        {
+          "from": 5836,
+          "to": 5839,
+          "weight": 18
+        },
+        {
+          "from": 5581,
+          "to": 132497,
+          "weight": 3
+        },
+        {
+          "from": 130185,
+          "to": 132296,
+          "weight": 3
+        },
+        {
+          "from": 5598,
+          "to": 130185,
+          "weight": 7
+        },
+        {
+          "from": 5582,
+          "to": 6328,
+          "weight": 6
+        },
+        {
+          "from": 5582,
+          "to": 5600,
+          "weight": 4
+        },
+        {
+          "from": 5598,
+          "to": 132497,
+          "weight": 4
+        },
+        {
+          "from": 5581,
+          "to": 6328,
+          "weight": 6
+        },
+        {
+          "from": 5598,
+          "to": 5839,
+          "weight": 8
+        },
+        {
+          "from": 5597,
+          "to": 5598,
+          "weight": 9
+        },
+        {
+          "from": 5582,
+          "to": 5839,
+          "weight": 19
+        },
+        {
+          "from": 5597,
+          "to": 5839,
+          "weight": 3
+        },
+        {
+          "from": 5582,
+          "to": 132296,
+          "weight": 4
+        },
+        {
+          "from": 5582,
+          "to": 132497,
+          "weight": 19
+        },
+        {
+          "from": 5839,
+          "to": 6328,
+          "weight": 6
+        },
+        {
+          "from": 130185,
+          "to": 132497,
+          "weight": 5
+        },
+        {
+          "from": 5836,
+          "to": 6328,
+          "weight": 4
+        },
+        {
+          "from": 5582,
+          "to": 130185,
+          "weight": 11
+        },
+        {
+          "from": 5581,
+          "to": 5582,
+          "weight": 9
+        },
+        {
+          "from": 108340,
+          "to": 130185,
+          "weight": 3
+        },
+        {
+          "from": 5582,
+          "to": 108340,
+          "weight": 5
+        },
+        {
+          "from": 5581,
+          "to": 130185,
+          "weight": 3
+        },
+        {
+          "from": 5839,
+          "to": 132728,
+          "weight": 3
+        }
+      ]
+    },
+    "Japan": {
+      "nodes": [
+        {
+          "id": 3300,
+          "name": "Maya Yoshida",
+          "x": 51.3,
+          "y": 32.6,
+          "passes": 112
+        },
+        {
+          "id": 23721,
+          "name": "Wataru Endo",
+          "x": 64.3,
+          "y": 44.7,
+          "passes": 72
+        },
+        {
+          "id": 29595,
+          "name": "Ko Itakura",
+          "x": 59.3,
+          "y": 55.4,
+          "passes": 64
+        },
+        {
+          "id": 37221,
+          "name": "Hidemasa Morita",
+          "x": 69.3,
+          "y": 36.6,
+          "passes": 59
+        },
+        {
+          "id": 95272,
+          "name": "Hiroki Ito",
+          "x": 63.7,
+          "y": 14.3,
+          "passes": 58
+        },
+        {
+          "id": 5690,
+          "name": "Yuto Nagatomo",
+          "x": 68.2,
+          "y": 9.6,
+          "passes": 41
+        },
+        {
+          "id": 9411,
+          "name": "Daichi Kamada",
+          "x": 77.0,
+          "y": 26.9,
+          "passes": 26
+        },
+        {
+          "id": 37209,
+          "name": "Miki Yamane",
+          "x": 68.9,
+          "y": 71.3,
+          "passes": 25
+        },
+        {
+          "id": 25719,
+          "name": "Shūichi Gonda",
+          "x": 15.8,
+          "y": 41.0,
+          "passes": 19
+        },
+        {
+          "id": 37122,
+          "name": "Yuki Soma",
+          "x": 79.8,
+          "y": 34.0,
+          "passes": 13
+        },
+        {
+          "id": 37211,
+          "name": "Kaoru Mitoma",
+          "x": 76.3,
+          "y": 8.8,
+          "passes": 11
+        },
+        {
+          "id": 8361,
+          "name": "Ritsu Doan",
+          "x": 85.2,
+          "y": 61.8,
+          "passes": 10
+        },
+        {
+          "id": 38285,
+          "name": "Ayase Ueda",
+          "x": 82.6,
+          "y": 49.7,
+          "passes": 7
+        },
+        {
+          "id": 8949,
+          "name": "Takuma Asano",
+          "x": 93.5,
+          "y": 38.4,
+          "passes": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 37221,
+          "to": 38285,
+          "weight": 4
+        },
+        {
+          "from": 5690,
+          "to": 37221,
+          "weight": 12
+        },
+        {
+          "from": 5690,
+          "to": 9411,
+          "weight": 5
+        },
+        {
+          "from": 9411,
+          "to": 37122,
+          "weight": 3
+        },
+        {
+          "from": 23721,
+          "to": 38285,
+          "weight": 4
+        },
+        {
+          "from": 3300,
+          "to": 25719,
+          "weight": 13
+        },
+        {
+          "from": 3300,
+          "to": 23721,
+          "weight": 34
+        },
+        {
+          "from": 23721,
+          "to": 37209,
+          "weight": 8
+        },
+        {
+          "from": 29595,
+          "to": 37209,
+          "weight": 9
+        },
+        {
+          "from": 3300,
+          "to": 29595,
+          "weight": 58
+        },
+        {
+          "from": 3300,
+          "to": 5690,
+          "weight": 33
+        },
+        {
+          "from": 9411,
+          "to": 29595,
+          "weight": 4
+        },
+        {
+          "from": 3300,
+          "to": 37221,
+          "weight": 14
+        },
+        {
+          "from": 5690,
+          "to": 37122,
+          "weight": 8
+        },
+        {
+          "from": 5690,
+          "to": 23721,
+          "weight": 10
+        },
+        {
+          "from": 23721,
+          "to": 29595,
+          "weight": 21
+        },
+        {
+          "from": 37209,
+          "to": 38285,
+          "weight": 4
+        },
+        {
+          "from": 5690,
+          "to": 38285,
+          "weight": 6
+        },
+        {
+          "from": 8361,
+          "to": 23721,
+          "weight": 10
+        },
+        {
+          "from": 8361,
+          "to": 29595,
+          "weight": 3
+        },
+        {
+          "from": 25719,
+          "to": 29595,
+          "weight": 4
+        },
+        {
+          "from": 8361,
+          "to": 37209,
+          "weight": 5
+        },
+        {
+          "from": 23721,
+          "to": 37122,
+          "weight": 4
+        },
+        {
+          "from": 37209,
+          "to": 37221,
+          "weight": 5
+        },
+        {
+          "from": 29595,
+          "to": 37221,
+          "weight": 19
+        },
+        {
+          "from": 3300,
+          "to": 9411,
+          "weight": 10
+        },
+        {
+          "from": 9411,
+          "to": 23721,
+          "weight": 7
+        },
+        {
+          "from": 9411,
+          "to": 37209,
+          "weight": 3
+        },
+        {
+          "from": 23721,
+          "to": 37221,
+          "weight": 22
+        },
+        {
+          "from": 9411,
+          "to": 37221,
+          "weight": 17
+        },
+        {
+          "from": 3300,
+          "to": 95272,
+          "weight": 43
+        },
+        {
+          "from": 9411,
+          "to": 95272,
+          "weight": 7
+        },
+        {
+          "from": 8949,
+          "to": 37221,
+          "weight": 3
+        },
+        {
+          "from": 23721,
+          "to": 25719,
+          "weight": 4
+        },
+        {
+          "from": 8949,
+          "to": 37122,
+          "weight": 3
+        },
+        {
+          "from": 37221,
+          "to": 95272,
+          "weight": 17
+        },
+        {
+          "from": 25719,
+          "to": 95272,
+          "weight": 6
+        },
+        {
+          "from": 23721,
+          "to": 95272,
+          "weight": 17
+        },
+        {
+          "from": 37211,
+          "to": 95272,
+          "weight": 12
+        },
+        {
+          "from": 3300,
+          "to": 37211,
+          "weight": 6
+        },
+        {
+          "from": 23721,
+          "to": 37211,
+          "weight": 3
+        }
+      ]
+    }
+  }
 }

@@ -21,6 +21,7 @@ from collections import defaultdict
 import pandas as pd
 
 import config
+import metrics
 
 # Force UTF-8 stdout so accented player names don't crash Windows' cp1252 console.
 sys.stdout.reconfigure(encoding="utf-8")
@@ -150,12 +151,13 @@ def build_stadiums(matches: list[dict]) -> list[dict]:
 
 
 def build_match_details(slug: str, events: pd.DataFrame, nicknames: dict[int, str]) -> None:
-    etype = _col(events, "type")
-    in_play = _col(events, "period") != 5
-    shots = events[(etype == "Shot") & in_play].copy()
-    for match_id, g in shots.groupby("match_id"):
+    """Per-match JSON: shots (for shot map + xG timeline) and pass networks."""
+    for match_id, g in events.groupby("match_id"):
+        etype = _col(g, "type")
+        in_play = _col(g, "period") != 5
+        shots = g[(etype == "Shot") & in_play]
         shot_list = []
-        for _, r in g.iterrows():
+        for _, r in shots.iterrows():
             loc = r.get("location")
             pid = r.get("player_id")
             name = nicknames.get(int(pid), r.get("player")) if pd.notna(pid) else r.get("player")
@@ -169,8 +171,9 @@ def build_match_details(slug: str, events: pd.DataFrame, nicknames: dict[int, st
                 "outcome": r.get("shot_outcome"),
                 "body_part": r.get("shot_body_part"),
             })
+        networks = metrics.match_network(g, nicknames)
         config.write_json(config.clean_dir(slug) / "matches" / f"{int(match_id)}.json",
-                          {"match_id": int(match_id), "shots": shot_list})
+                          {"match_id": int(match_id), "shots": shot_list, "networks": networks})
 
 
 def find_champion(matches: list[dict], events: pd.DataFrame) -> str | None:
@@ -201,7 +204,9 @@ def process_competition(slug: str) -> dict:
 
     matches = build_matches(raw_matches)
     teams = build_teams(events)
-    players = build_players(events, nicknames)
+    minutes_map = metrics.compute_minutes(slug, events)
+    players = metrics.build_players(events, nicknames, minutes_map)
+    teams = metrics.build_team_tactics(events, teams)  # id + name + tactical stats
     stadiums = build_stadiums(matches)
     build_match_details(slug, events, nicknames)
 

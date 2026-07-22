@@ -171,5 +171,590 @@
       "outcome": "Blocked",
       "body_part": "Right Foot"
     }
-  ]
+  ],
+  "networks": {
+    "Canada": {
+      "nodes": [
+        {
+          "id": 11187,
+          "name": "Stephen Antunes Eustáquio",
+          "x": 58.5,
+          "y": 35.3,
+          "passes": 58
+        },
+        {
+          "id": 12770,
+          "name": "Jonathan Osorio",
+          "x": 59.7,
+          "y": 49.2,
+          "passes": 51
+        },
+        {
+          "id": 44703,
+          "name": "Alistair Johnston",
+          "x": 59.4,
+          "y": 69.5,
+          "passes": 47
+        },
+        {
+          "id": 23760,
+          "name": "Derek Cornelius",
+          "x": 48.0,
+          "y": 22.6,
+          "passes": 45
+        },
+        {
+          "id": 383250,
+          "name": "Moise Bombito",
+          "x": 43.9,
+          "y": 51.1,
+          "passes": 45
+        },
+        {
+          "id": 12365,
+          "name": "Alphonso Davies",
+          "x": 64.4,
+          "y": 11.4,
+          "passes": 38
+        },
+        {
+          "id": 23640,
+          "name": "Jonathan David",
+          "x": 71.0,
+          "y": 46.7,
+          "passes": 22
+        },
+        {
+          "id": 23758,
+          "name": "Maxime Crépeau",
+          "x": 13.0,
+          "y": 37.1,
+          "passes": 21
+        },
+        {
+          "id": 16120,
+          "name": "Richie Laryea",
+          "x": 60.9,
+          "y": 69.2,
+          "passes": 13
+        },
+        {
+          "id": 16459,
+          "name": "Cyle Larin",
+          "x": 78.8,
+          "y": 47.9,
+          "passes": 11
+        },
+        {
+          "id": 26152,
+          "name": "Jacob Shaffelburg",
+          "x": 77.0,
+          "y": 18.4,
+          "passes": 11
+        },
+        {
+          "id": 23363,
+          "name": "Liam Millar",
+          "x": 79.0,
+          "y": 12.7,
+          "passes": 7
+        },
+        {
+          "id": 224603,
+          "name": "Tanitoluwa Oluwaseyi",
+          "x": 92.2,
+          "y": 35.9,
+          "passes": 5
+        },
+        {
+          "id": 24024,
+          "name": "Tajon Buchanan",
+          "x": 86.1,
+          "y": 65.5,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 16459,
+          "to": 23640,
+          "weight": 5
+        },
+        {
+          "from": 12365,
+          "to": 23640,
+          "weight": 8
+        },
+        {
+          "from": 12365,
+          "to": 23760,
+          "weight": 22
+        },
+        {
+          "from": 23760,
+          "to": 383250,
+          "weight": 22
+        },
+        {
+          "from": 44703,
+          "to": 383250,
+          "weight": 22
+        },
+        {
+          "from": 16120,
+          "to": 44703,
+          "weight": 9
+        },
+        {
+          "from": 16459,
+          "to": 44703,
+          "weight": 4
+        },
+        {
+          "from": 12770,
+          "to": 23640,
+          "weight": 3
+        },
+        {
+          "from": 12770,
+          "to": 16120,
+          "weight": 9
+        },
+        {
+          "from": 16459,
+          "to": 26152,
+          "weight": 5
+        },
+        {
+          "from": 11187,
+          "to": 26152,
+          "weight": 6
+        },
+        {
+          "from": 16120,
+          "to": 16459,
+          "weight": 5
+        },
+        {
+          "from": 12770,
+          "to": 23760,
+          "weight": 9
+        },
+        {
+          "from": 12770,
+          "to": 44703,
+          "weight": 18
+        },
+        {
+          "from": 16120,
+          "to": 23640,
+          "weight": 8
+        },
+        {
+          "from": 11187,
+          "to": 44703,
+          "weight": 10
+        },
+        {
+          "from": 11187,
+          "to": 383250,
+          "weight": 8
+        },
+        {
+          "from": 11187,
+          "to": 16120,
+          "weight": 3
+        },
+        {
+          "from": 23758,
+          "to": 23760,
+          "weight": 13
+        },
+        {
+          "from": 11187,
+          "to": 23760,
+          "weight": 17
+        },
+        {
+          "from": 11187,
+          "to": 12365,
+          "weight": 18
+        },
+        {
+          "from": 23758,
+          "to": 383250,
+          "weight": 7
+        },
+        {
+          "from": 11187,
+          "to": 12770,
+          "weight": 33
+        },
+        {
+          "from": 12770,
+          "to": 383250,
+          "weight": 13
+        },
+        {
+          "from": 12770,
+          "to": 16459,
+          "weight": 4
+        },
+        {
+          "from": 23640,
+          "to": 44703,
+          "weight": 8
+        },
+        {
+          "from": 12365,
+          "to": 26152,
+          "weight": 9
+        },
+        {
+          "from": 23640,
+          "to": 383250,
+          "weight": 3
+        },
+        {
+          "from": 12365,
+          "to": 383250,
+          "weight": 3
+        },
+        {
+          "from": 12365,
+          "to": 23758,
+          "weight": 3
+        },
+        {
+          "from": 11187,
+          "to": 23640,
+          "weight": 5
+        },
+        {
+          "from": 16120,
+          "to": 383250,
+          "weight": 4
+        },
+        {
+          "from": 23640,
+          "to": 23760,
+          "weight": 3
+        },
+        {
+          "from": 12365,
+          "to": 16459,
+          "weight": 3
+        },
+        {
+          "from": 12365,
+          "to": 12770,
+          "weight": 3
+        },
+        {
+          "from": 11187,
+          "to": 23363,
+          "weight": 5
+        },
+        {
+          "from": 12365,
+          "to": 23363,
+          "weight": 5
+        },
+        {
+          "from": 23363,
+          "to": 23760,
+          "weight": 5
+        },
+        {
+          "from": 11187,
+          "to": 224603,
+          "weight": 3
+        },
+        {
+          "from": 12365,
+          "to": 224603,
+          "weight": 3
+        },
+        {
+          "from": 24024,
+          "to": 44703,
+          "weight": 3
+        },
+        {
+          "from": 12770,
+          "to": 24024,
+          "weight": 3
+        }
+      ]
+    },
+    "Chile": {
+      "nodes": [
+        {
+          "id": 18874,
+          "name": "Mauricio Isla",
+          "x": 62.8,
+          "y": 70.1,
+          "passes": 39
+        },
+        {
+          "id": 6855,
+          "name": "Guillermo Maripán",
+          "x": 35.1,
+          "y": 28.4,
+          "passes": 38
+        },
+        {
+          "id": 26256,
+          "name": "Igor Lichnovsky",
+          "x": 44.7,
+          "y": 60.6,
+          "passes": 38
+        },
+        {
+          "id": 28648,
+          "name": "Gabriel Arias",
+          "x": 13.3,
+          "y": 41.9,
+          "passes": 30
+        },
+        {
+          "id": 3385,
+          "name": "Alexis Sánchez",
+          "x": 73.7,
+          "y": 28.9,
+          "passes": 19
+        },
+        {
+          "id": 35738,
+          "name": "Rodrigo Echeverría",
+          "x": 44.8,
+          "y": 47.4,
+          "passes": 17
+        },
+        {
+          "id": 36212,
+          "name": "Gabriel Suazo",
+          "x": 62.8,
+          "y": 10.1,
+          "passes": 16
+        },
+        {
+          "id": 7175,
+          "name": "Erick Pulgar",
+          "x": 55.0,
+          "y": 42.1,
+          "passes": 13
+        },
+        {
+          "id": 37057,
+          "name": "Thomas Galdames",
+          "x": 69.1,
+          "y": 8.3,
+          "passes": 12
+        },
+        {
+          "id": 30944,
+          "name": "Víctor Dávila",
+          "x": 81.7,
+          "y": 48.7,
+          "passes": 10
+        },
+        {
+          "id": 27317,
+          "name": "Eduardo Vargas",
+          "x": 71.1,
+          "y": 37.4,
+          "passes": 8
+        },
+        {
+          "id": 36532,
+          "name": "Marcelino Núñez",
+          "x": 58.0,
+          "y": 45.3,
+          "passes": 8
+        },
+        {
+          "id": 35939,
+          "name": "Marcos Nikolas Bolados Hidalgo",
+          "x": 73.4,
+          "y": 48.8,
+          "passes": 3
+        },
+        {
+          "id": 204925,
+          "name": "Darío Osorio",
+          "x": 65.7,
+          "y": 69.7,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 26256,
+          "to": 28648,
+          "weight": 14
+        },
+        {
+          "from": 6855,
+          "to": 26256,
+          "weight": 18
+        },
+        {
+          "from": 6855,
+          "to": 36212,
+          "weight": 14
+        },
+        {
+          "from": 18874,
+          "to": 26256,
+          "weight": 21
+        },
+        {
+          "from": 30944,
+          "to": 36212,
+          "weight": 3
+        },
+        {
+          "from": 36212,
+          "to": 36532,
+          "weight": 4
+        },
+        {
+          "from": 6855,
+          "to": 28648,
+          "weight": 17
+        },
+        {
+          "from": 27317,
+          "to": 204925,
+          "weight": 3
+        },
+        {
+          "from": 26256,
+          "to": 35738,
+          "weight": 7
+        },
+        {
+          "from": 6855,
+          "to": 35738,
+          "weight": 10
+        },
+        {
+          "from": 18874,
+          "to": 28648,
+          "weight": 4
+        },
+        {
+          "from": 3385,
+          "to": 36212,
+          "weight": 6
+        },
+        {
+          "from": 18874,
+          "to": 35738,
+          "weight": 5
+        },
+        {
+          "from": 30944,
+          "to": 35738,
+          "weight": 3
+        },
+        {
+          "from": 27317,
+          "to": 30944,
+          "weight": 3
+        },
+        {
+          "from": 28648,
+          "to": 35738,
+          "weight": 4
+        },
+        {
+          "from": 18874,
+          "to": 36532,
+          "weight": 5
+        },
+        {
+          "from": 3385,
+          "to": 26256,
+          "weight": 4
+        },
+        {
+          "from": 3385,
+          "to": 35738,
+          "weight": 4
+        },
+        {
+          "from": 3385,
+          "to": 18874,
+          "weight": 10
+        },
+        {
+          "from": 3385,
+          "to": 28648,
+          "weight": 3
+        },
+        {
+          "from": 6855,
+          "to": 37057,
+          "weight": 3
+        },
+        {
+          "from": 3385,
+          "to": 37057,
+          "weight": 3
+        },
+        {
+          "from": 27317,
+          "to": 36532,
+          "weight": 3
+        },
+        {
+          "from": 3385,
+          "to": 30944,
+          "weight": 3
+        },
+        {
+          "from": 18874,
+          "to": 30944,
+          "weight": 3
+        },
+        {
+          "from": 3385,
+          "to": 7175,
+          "weight": 4
+        },
+        {
+          "from": 7175,
+          "to": 26256,
+          "weight": 3
+        },
+        {
+          "from": 35939,
+          "to": 37057,
+          "weight": 5
+        },
+        {
+          "from": 28648,
+          "to": 35939,
+          "weight": 3
+        },
+        {
+          "from": 7175,
+          "to": 28648,
+          "weight": 4
+        },
+        {
+          "from": 7175,
+          "to": 18874,
+          "weight": 3
+        },
+        {
+          "from": 18874,
+          "to": 35939,
+          "weight": 4
+        }
+      ]
+    }
+  }
 }

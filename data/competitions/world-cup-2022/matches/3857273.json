@@ -311,5 +311,630 @@
       "outcome": "Goal",
       "body_part": "Right Foot"
     }
-  ]
+  ],
+  "networks": {
+    "Iran": {
+      "nodes": [
+        {
+          "id": 5235,
+          "name": "Ramin Rezaeian",
+          "x": 55.3,
+          "y": 71.5,
+          "passes": 32
+        },
+        {
+          "id": 5228,
+          "name": "Majid Hosseini",
+          "x": 30.8,
+          "y": 57.9,
+          "passes": 24
+        },
+        {
+          "id": 5720,
+          "name": "Milad Mohammadi",
+          "x": 56.6,
+          "y": 10.6,
+          "passes": 23
+        },
+        {
+          "id": 5230,
+          "name": "Ehsan Hajsafi",
+          "x": 54.5,
+          "y": 19.1,
+          "passes": 21
+        },
+        {
+          "id": 23874,
+          "name": "Ali Gholizadeh",
+          "x": 72.2,
+          "y": 63.1,
+          "passes": 21
+        },
+        {
+          "id": 5722,
+          "name": "Saeid Ezatolahi",
+          "x": 52.7,
+          "y": 40.6,
+          "passes": 18
+        },
+        {
+          "id": 5226,
+          "name": "Mehdi Taremi",
+          "x": 85.2,
+          "y": 36.7,
+          "passes": 17
+        },
+        {
+          "id": 5220,
+          "name": "Morteza Pouraliganji",
+          "x": 43.7,
+          "y": 25.8,
+          "passes": 15
+        },
+        {
+          "id": 125823,
+          "name": "Seyed Hossein Hosseini",
+          "x": 12.8,
+          "y": 39.5,
+          "passes": 15
+        },
+        {
+          "id": 124167,
+          "name": "Ahmad Nourollahi",
+          "x": 54.6,
+          "y": 49.4,
+          "passes": 13
+        },
+        {
+          "id": 5224,
+          "name": "Sardar Azmoun",
+          "x": 68.7,
+          "y": 33.4,
+          "passes": 8
+        },
+        {
+          "id": 5239,
+          "name": "Alireza Jahanbakhsh",
+          "x": 70.7,
+          "y": 26.2,
+          "passes": 6
+        },
+        {
+          "id": 124161,
+          "name": "Mehdi Torabi",
+          "x": 73.6,
+          "y": 14.2,
+          "passes": 6
+        },
+        {
+          "id": 5231,
+          "name": "Karim Ansarifard",
+          "x": 73.5,
+          "y": 40.2,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 5235,
+          "to": 23874,
+          "weight": 21
+        },
+        {
+          "from": 5226,
+          "to": 5722,
+          "weight": 6
+        },
+        {
+          "from": 5226,
+          "to": 5230,
+          "weight": 7
+        },
+        {
+          "from": 5220,
+          "to": 5230,
+          "weight": 5
+        },
+        {
+          "from": 5220,
+          "to": 5228,
+          "weight": 4
+        },
+        {
+          "from": 23874,
+          "to": 124167,
+          "weight": 3
+        },
+        {
+          "from": 5228,
+          "to": 124167,
+          "weight": 4
+        },
+        {
+          "from": 5235,
+          "to": 124167,
+          "weight": 9
+        },
+        {
+          "from": 5224,
+          "to": 125823,
+          "weight": 4
+        },
+        {
+          "from": 5224,
+          "to": 23874,
+          "weight": 8
+        },
+        {
+          "from": 5722,
+          "to": 124167,
+          "weight": 4
+        },
+        {
+          "from": 5720,
+          "to": 124167,
+          "weight": 3
+        },
+        {
+          "from": 5230,
+          "to": 5720,
+          "weight": 13
+        },
+        {
+          "from": 5228,
+          "to": 5235,
+          "weight": 10
+        },
+        {
+          "from": 5228,
+          "to": 125823,
+          "weight": 4
+        },
+        {
+          "from": 5228,
+          "to": 5722,
+          "weight": 5
+        },
+        {
+          "from": 5224,
+          "to": 5230,
+          "weight": 3
+        },
+        {
+          "from": 5230,
+          "to": 5722,
+          "weight": 4
+        },
+        {
+          "from": 5230,
+          "to": 23874,
+          "weight": 4
+        },
+        {
+          "from": 5224,
+          "to": 5226,
+          "weight": 4
+        },
+        {
+          "from": 5226,
+          "to": 23874,
+          "weight": 5
+        },
+        {
+          "from": 5220,
+          "to": 5720,
+          "weight": 3
+        },
+        {
+          "from": 5220,
+          "to": 125823,
+          "weight": 8
+        },
+        {
+          "from": 5224,
+          "to": 5235,
+          "weight": 3
+        },
+        {
+          "from": 5720,
+          "to": 5722,
+          "weight": 3
+        },
+        {
+          "from": 5722,
+          "to": 23874,
+          "weight": 3
+        },
+        {
+          "from": 5235,
+          "to": 125823,
+          "weight": 3
+        },
+        {
+          "from": 5235,
+          "to": 5722,
+          "weight": 4
+        },
+        {
+          "from": 5226,
+          "to": 5239,
+          "weight": 4
+        },
+        {
+          "from": 5720,
+          "to": 124161,
+          "weight": 5
+        },
+        {
+          "from": 5226,
+          "to": 5235,
+          "weight": 5
+        },
+        {
+          "from": 5239,
+          "to": 124161,
+          "weight": 4
+        },
+        {
+          "from": 5235,
+          "to": 5239,
+          "weight": 3
+        },
+        {
+          "from": 5226,
+          "to": 124161,
+          "weight": 3
+        }
+      ]
+    },
+    "Wales": {
+      "nodes": [
+        {
+          "id": 3086,
+          "name": "Ben Davies",
+          "x": 50.4,
+          "y": 15.9,
+          "passes": 65
+        },
+        {
+          "id": 4934,
+          "name": "Ethan Ampadu",
+          "x": 59.7,
+          "y": 38.2,
+          "passes": 54
+        },
+        {
+          "id": 11250,
+          "name": "Joe Rodon",
+          "x": 36.3,
+          "y": 34.9,
+          "passes": 54
+        },
+        {
+          "id": 4767,
+          "name": "Chris Mepham",
+          "x": 49.4,
+          "y": 61.0,
+          "passes": 49
+        },
+        {
+          "id": 34794,
+          "name": "Neco Williams",
+          "x": 62.4,
+          "y": 34.5,
+          "passes": 42
+        },
+        {
+          "id": 3517,
+          "name": "Aaron Ramsey",
+          "x": 59.3,
+          "y": 44.6,
+          "passes": 38
+        },
+        {
+          "id": 3488,
+          "name": "Wayne Hennessey",
+          "x": 10.9,
+          "y": 40.2,
+          "passes": 30
+        },
+        {
+          "id": 4774,
+          "name": "Connor Roberts",
+          "x": 74.5,
+          "y": 73.7,
+          "passes": 27
+        },
+        {
+          "id": 6399,
+          "name": "Gareth Bale",
+          "x": 76.8,
+          "y": 45.7,
+          "passes": 19
+        },
+        {
+          "id": 9540,
+          "name": "Harry Wilson",
+          "x": 71.6,
+          "y": 36.7,
+          "passes": 19
+        },
+        {
+          "id": 3853,
+          "name": "Kieffer Moore",
+          "x": 83.6,
+          "y": 34.8,
+          "passes": 17
+        },
+        {
+          "id": 10931,
+          "name": "Joe Allen",
+          "x": 66.1,
+          "y": 31.0,
+          "passes": 7
+        },
+        {
+          "id": 29377,
+          "name": "Brennan Johnson",
+          "x": 91.6,
+          "y": 56.7,
+          "passes": 7
+        },
+        {
+          "id": 11252,
+          "name": "Daniel James",
+          "x": 75.0,
+          "y": 12.0,
+          "passes": 6
+        }
+      ],
+      "edges": [
+        {
+          "from": 3517,
+          "to": 4767,
+          "weight": 9
+        },
+        {
+          "from": 3517,
+          "to": 11250,
+          "weight": 12
+        },
+        {
+          "from": 3517,
+          "to": 4774,
+          "weight": 13
+        },
+        {
+          "from": 4767,
+          "to": 4774,
+          "weight": 11
+        },
+        {
+          "from": 3488,
+          "to": 4767,
+          "weight": 7
+        },
+        {
+          "from": 3086,
+          "to": 3488,
+          "weight": 10
+        },
+        {
+          "from": 3086,
+          "to": 34794,
+          "weight": 13
+        },
+        {
+          "from": 4934,
+          "to": 34794,
+          "weight": 10
+        },
+        {
+          "from": 3853,
+          "to": 4934,
+          "weight": 6
+        },
+        {
+          "from": 3086,
+          "to": 3853,
+          "weight": 10
+        },
+        {
+          "from": 9540,
+          "to": 34794,
+          "weight": 11
+        },
+        {
+          "from": 4767,
+          "to": 11250,
+          "weight": 22
+        },
+        {
+          "from": 3086,
+          "to": 4934,
+          "weight": 23
+        },
+        {
+          "from": 3488,
+          "to": 4934,
+          "weight": 7
+        },
+        {
+          "from": 3517,
+          "to": 4934,
+          "weight": 14
+        },
+        {
+          "from": 3853,
+          "to": 4774,
+          "weight": 7
+        },
+        {
+          "from": 3488,
+          "to": 11250,
+          "weight": 10
+        },
+        {
+          "from": 3086,
+          "to": 11250,
+          "weight": 35
+        },
+        {
+          "from": 3086,
+          "to": 4767,
+          "weight": 5
+        },
+        {
+          "from": 3853,
+          "to": 34794,
+          "weight": 3
+        },
+        {
+          "from": 4934,
+          "to": 11250,
+          "weight": 8
+        },
+        {
+          "from": 4767,
+          "to": 4934,
+          "weight": 15
+        },
+        {
+          "from": 3086,
+          "to": 4774,
+          "weight": 3
+        },
+        {
+          "from": 4774,
+          "to": 4934,
+          "weight": 8
+        },
+        {
+          "from": 4774,
+          "to": 6399,
+          "weight": 7
+        },
+        {
+          "from": 4934,
+          "to": 6399,
+          "weight": 5
+        },
+        {
+          "from": 3853,
+          "to": 6399,
+          "weight": 4
+        },
+        {
+          "from": 3086,
+          "to": 9540,
+          "weight": 6
+        },
+        {
+          "from": 4934,
+          "to": 9540,
+          "weight": 9
+        },
+        {
+          "from": 4767,
+          "to": 6399,
+          "weight": 5
+        },
+        {
+          "from": 3517,
+          "to": 6399,
+          "weight": 6
+        },
+        {
+          "from": 3488,
+          "to": 3517,
+          "weight": 4
+        },
+        {
+          "from": 4774,
+          "to": 9540,
+          "weight": 7
+        },
+        {
+          "from": 3086,
+          "to": 3517,
+          "weight": 7
+        },
+        {
+          "from": 4767,
+          "to": 9540,
+          "weight": 4
+        },
+        {
+          "from": 3853,
+          "to": 4767,
+          "weight": 3
+        },
+        {
+          "from": 11250,
+          "to": 34794,
+          "weight": 3
+        },
+        {
+          "from": 6399,
+          "to": 34794,
+          "weight": 8
+        },
+        {
+          "from": 3517,
+          "to": 34794,
+          "weight": 12
+        },
+        {
+          "from": 4767,
+          "to": 34794,
+          "weight": 11
+        },
+        {
+          "from": 3086,
+          "to": 11252,
+          "weight": 3
+        },
+        {
+          "from": 29377,
+          "to": 34794,
+          "weight": 5
+        },
+        {
+          "from": 3853,
+          "to": 11252,
+          "weight": 4
+        },
+        {
+          "from": 4767,
+          "to": 29377,
+          "weight": 3
+        },
+        {
+          "from": 6399,
+          "to": 29377,
+          "weight": 3
+        },
+        {
+          "from": 3086,
+          "to": 6399,
+          "weight": 3
+        },
+        {
+          "from": 3517,
+          "to": 11252,
+          "weight": 5
+        },
+        {
+          "from": 3086,
+          "to": 10931,
+          "weight": 4
+        },
+        {
+          "from": 6399,
+          "to": 11252,
+          "weight": 5
+        }
+      ]
+    }
+  }
 }

@@ -5,7 +5,7 @@ import "./globals.css";
 import { ThemeToggle } from "@/components/ThemeToggle";
 
 // Applies the saved theme before paint so there's no flash of the wrong theme.
-const THEME_INIT = `(function(){try{var t=localStorage.getItem('theme')||'dark';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();`;
+const THEME_INIT = `(function(){try{var t=localStorage.getItem('theme')||'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();`;
 
 const inter = Inter({ variable: "--font-inter", subsets: ["latin"] });
 const space = Space_Grotesk({ variable: "--font-space", subsets: ["latin"], weight: ["500", "600", "700"] });

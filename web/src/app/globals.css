@@ -3,50 +3,51 @@
 /*
  * Design tokens — Bold Edition.
  * "Make checking football statistics feel as exciting as watching football."
- * Dark by default (Champions League night); electric blue + neon green.
+ * Light by default; dark ("Champions League night") via the header toggle.
  */
 :root {
-  color-scheme: dark;
+  color-scheme: light;
 
-  /* surfaces (dark, default) */
-  --bg: #0b1020;           /* app background */
-  --surface: #151b2e;      /* panels */
-  --card: #202843;         /* elevated cards */
-  --border: #2e3655;       /* dividers */
-  --fg: #ffffff;           /* primary text */
-  --muted: #a8b3cf;        /* secondary text */
-  --faint: #7a86a8;        /* tertiary/decorative */
+  /* surfaces (light, default) */
+  --bg: #f4f6fb;           /* app background */
+  --surface: #ffffff;      /* panels */
+  --card: #ffffff;         /* elevated cards */
+  --border: #e3e8f2;       /* dividers */
+  --fg: #0b1020;           /* primary text */
+  --muted: #52607a;        /* secondary text */
+  --faint: #8a94ad;        /* tertiary/decorative */
 
-  /* brand */
-  --primary: #3b82f6;      /* electric blue — accents, glows, active states */
+  /* brand — tuned for AA on white */
+  --primary: #2563eb;      /* electric blue — fills, tints, glows */
   --primary-fg: #ffffff;
-  --link: #7ab4ff;         /* readable electric blue for text on dark */
-  --secondary: #7cff4d;    /* neon green */
-  --accent: #ffd54a;       /* gold */
+  --link: #1d4ed8;         /* accessible blue text (~7:1 on white) */
+  --secondary: #15803d;    /* readable green (neon green vanishes on white) */
+  --accent: #b45309;       /* readable amber for the gold slot */
   --pink: #ff3ea5;         /* hot pink */
-  --success: #36f07d;
-  --error: #ff5757;
+  --success: #16a34a;
+  --error: #dc2626;
 
-  /* signature gradients */
-  --grad-primary: linear-gradient(135deg, #2563eb, #7c3aed);   /* button-safe (AA on white) */
+  /* signature gradients (shared) */
+  --grad-primary: linear-gradient(135deg, #2563eb, #7c3aed);
   --grad-hero: linear-gradient(135deg, #3b82f6 0%, #9333ea 100%);
   --grad-cyan: linear-gradient(135deg, #00d4ff, #0066ff);
 
-  --shadow-card: 0 2px 10px rgba(0, 0, 0, 0.35);
-  --shadow-hover: 0 14px 44px rgba(59, 130, 246, 0.28); /* blue glow */
-}
-
-/* Light adaptation — same bold identity, tuned for AA on white. */
-:root[data-theme="light"] {
-  color-scheme: light;
-  --bg: #f4f6fb; --surface: #ffffff; --card: #ffffff; --border: #e3e8f2;
-  --fg: #0b1020; --muted: #52607a; --faint: #8a94ad;
-  --primary: #2563eb;   /* electric blue (fills/tints) */
-  --link: #1d4ed8;      /* accessible blue text (~7:1 on white) */
-  --secondary: #15803d; /* readable green (neon green is invisible on white) */
-  --accent: #b45309;    /* readable amber for the gold slot */
   --shadow-card: 0 2px 8px rgba(16, 24, 64, 0.06);
   --shadow-hover: 0 14px 40px rgba(37, 99, 235, 0.16);
+}
+
+/* Dark theme ("Champions League night") — opt-in via the toggle. */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0b1020; --surface: #151b2e; --card: #202843; --border: #2e3655;
+  --fg: #ffffff; --muted: #a8b3cf; --faint: #7a86a8;
+  --primary: #3b82f6;   /* electric blue */
+  --link: #7ab4ff;      /* readable blue text on dark */
+  --secondary: #7cff4d; /* neon green */
+  --accent: #ffd54a;    /* gold */
+  --success: #36f07d; --error: #ff5757;
+  --shadow-card: 0 2px 10px rgba(0, 0, 0, 0.35);
+  --shadow-hover: 0 14px 44px rgba(59, 130, 246, 0.28); /* blue glow */
 }
 
 @theme inline {

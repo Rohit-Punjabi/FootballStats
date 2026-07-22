@@ -281,5 +281,605 @@
       "outcome": "Blocked",
       "body_part": "Left Foot"
     }
-  ]
+  ],
+  "networks": {
+    "Ghana": {
+      "nodes": [
+        {
+          "id": 6383,
+          "name": "Thomas Partey",
+          "x": 56.3,
+          "y": 43.0,
+          "passes": 43
+        },
+        {
+          "id": 31029,
+          "name": "Salis Abdul Samed",
+          "x": 53.7,
+          "y": 35.1,
+          "passes": 37
+        },
+        {
+          "id": 3709,
+          "name": "Daniel Amartey",
+          "x": 43.5,
+          "y": 57.0,
+          "passes": 36
+        },
+        {
+          "id": 23615,
+          "name": "Gideon Mensah",
+          "x": 63.1,
+          "y": 7.8,
+          "passes": 35
+        },
+        {
+          "id": 30519,
+          "name": "Mohamed Salisu",
+          "x": 43.2,
+          "y": 21.5,
+          "passes": 32
+        },
+        {
+          "id": 17033,
+          "name": "Mohammed Kudus",
+          "x": 69.5,
+          "y": 57.5,
+          "passes": 17
+        },
+        {
+          "id": 3450,
+          "name": "Jordan Ayew",
+          "x": 78.6,
+          "y": 13.6,
+          "passes": 16
+        },
+        {
+          "id": 3347,
+          "name": "André Ayew",
+          "x": 65.1,
+          "y": 33.5,
+          "passes": 12
+        },
+        {
+          "id": 8108,
+          "name": "Lawrence Ati-Zigi",
+          "x": 9.2,
+          "y": 40.6,
+          "passes": 12
+        },
+        {
+          "id": 33602,
+          "name": "Tariq Lamptey",
+          "x": 70.2,
+          "y": 71.1,
+          "passes": 11
+        },
+        {
+          "id": 6393,
+          "name": "Iñaki Williams",
+          "x": 73.4,
+          "y": 35.6,
+          "passes": 9
+        },
+        {
+          "id": 12259,
+          "name": "Denis Odoi",
+          "x": 72.0,
+          "y": 76.9,
+          "passes": 2
+        },
+        {
+          "id": 28616,
+          "name": "Daniel-Kofi Kyereh",
+          "x": 52.9,
+          "y": 29.8,
+          "passes": 2
+        },
+        {
+          "id": 35658,
+          "name": "Kamaldeen Sulemana",
+          "x": 85.3,
+          "y": 10.5,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 8108,
+          "to": 31029,
+          "weight": 3
+        },
+        {
+          "from": 3709,
+          "to": 31029,
+          "weight": 16
+        },
+        {
+          "from": 3709,
+          "to": 6383,
+          "weight": 21
+        },
+        {
+          "from": 3347,
+          "to": 23615,
+          "weight": 3
+        },
+        {
+          "from": 23615,
+          "to": 30519,
+          "weight": 15
+        },
+        {
+          "from": 23615,
+          "to": 31029,
+          "weight": 15
+        },
+        {
+          "from": 3709,
+          "to": 8108,
+          "weight": 4
+        },
+        {
+          "from": 30519,
+          "to": 31029,
+          "weight": 13
+        },
+        {
+          "from": 3450,
+          "to": 30519,
+          "weight": 7
+        },
+        {
+          "from": 3709,
+          "to": 33602,
+          "weight": 7
+        },
+        {
+          "from": 6383,
+          "to": 17033,
+          "weight": 7
+        },
+        {
+          "from": 17033,
+          "to": 31029,
+          "weight": 3
+        },
+        {
+          "from": 3347,
+          "to": 17033,
+          "weight": 6
+        },
+        {
+          "from": 3709,
+          "to": 30519,
+          "weight": 11
+        },
+        {
+          "from": 6383,
+          "to": 23615,
+          "weight": 4
+        },
+        {
+          "from": 6383,
+          "to": 30519,
+          "weight": 13
+        },
+        {
+          "from": 3347,
+          "to": 30519,
+          "weight": 4
+        },
+        {
+          "from": 6383,
+          "to": 31029,
+          "weight": 17
+        },
+        {
+          "from": 17033,
+          "to": 33602,
+          "weight": 5
+        },
+        {
+          "from": 3450,
+          "to": 31029,
+          "weight": 5
+        },
+        {
+          "from": 3450,
+          "to": 6383,
+          "weight": 6
+        },
+        {
+          "from": 3450,
+          "to": 6393,
+          "weight": 3
+        },
+        {
+          "from": 3450,
+          "to": 23615,
+          "weight": 12
+        },
+        {
+          "from": 3347,
+          "to": 6383,
+          "weight": 9
+        },
+        {
+          "from": 8108,
+          "to": 30519,
+          "weight": 5
+        },
+        {
+          "from": 3709,
+          "to": 23615,
+          "weight": 3
+        },
+        {
+          "from": 6393,
+          "to": 23615,
+          "weight": 4
+        },
+        {
+          "from": 6383,
+          "to": 33602,
+          "weight": 3
+        },
+        {
+          "from": 6393,
+          "to": 33602,
+          "weight": 3
+        },
+        {
+          "from": 6393,
+          "to": 17033,
+          "weight": 3
+        }
+      ]
+    },
+    "South Korea": {
+      "nodes": [
+        {
+          "id": 23763,
+          "name": "Hwang In-Beom",
+          "x": 66.9,
+          "y": 48.6,
+          "passes": 80
+        },
+        {
+          "id": 40672,
+          "name": "Kim Moon-Hwan",
+          "x": 64.8,
+          "y": 72.2,
+          "passes": 75
+        },
+        {
+          "id": 5604,
+          "name": "Kim Young-Gwon",
+          "x": 44.9,
+          "y": 27.0,
+          "passes": 59
+        },
+        {
+          "id": 43565,
+          "name": "Min Jae Kim",
+          "x": 48.4,
+          "y": 60.3,
+          "passes": 59
+        },
+        {
+          "id": 5618,
+          "name": "Jung Woo-Young",
+          "x": 61.6,
+          "y": 36.2,
+          "passes": 53
+        },
+        {
+          "id": 40538,
+          "name": "Kim Jin-Su",
+          "x": 80.1,
+          "y": 9.1,
+          "passes": 36
+        },
+        {
+          "id": 3083,
+          "name": "Son Heung-Min",
+          "x": 89.4,
+          "y": 19.3,
+          "passes": 27
+        },
+        {
+          "id": 22740,
+          "name": "Lee Kang-In",
+          "x": 75.5,
+          "y": 31.7,
+          "passes": 24
+        },
+        {
+          "id": 37641,
+          "name": "Kim Seung-Gyu",
+          "x": 15.2,
+          "y": 40.4,
+          "passes": 22
+        },
+        {
+          "id": 3135,
+          "name": "Kwon Chang-Hoon",
+          "x": 87.3,
+          "y": 51.0,
+          "passes": 19
+        },
+        {
+          "id": 22067,
+          "name": "Jeong Woo-Yeong",
+          "x": 83.2,
+          "y": 41.9,
+          "passes": 13
+        },
+        {
+          "id": 40542,
+          "name": "Cho Kyu-Sung",
+          "x": 78.1,
+          "y": 45.8,
+          "passes": 12
+        },
+        {
+          "id": 41711,
+          "name": "Na Sangho",
+          "x": 96.7,
+          "y": 56.1,
+          "passes": 12
+        },
+        {
+          "id": 40564,
+          "name": "Kwon Kyung-Won",
+          "x": 54.7,
+          "y": 62.0,
+          "passes": 8
+        }
+      ],
+      "edges": [
+        {
+          "from": 5618,
+          "to": 40672,
+          "weight": 20
+        },
+        {
+          "from": 5604,
+          "to": 5618,
+          "weight": 17
+        },
+        {
+          "from": 5604,
+          "to": 40538,
+          "weight": 15
+        },
+        {
+          "from": 37641,
+          "to": 43565,
+          "weight": 13
+        },
+        {
+          "from": 5604,
+          "to": 37641,
+          "weight": 17
+        },
+        {
+          "from": 37641,
+          "to": 40672,
+          "weight": 5
+        },
+        {
+          "from": 3135,
+          "to": 5604,
+          "weight": 5
+        },
+        {
+          "from": 22067,
+          "to": 40538,
+          "weight": 6
+        },
+        {
+          "from": 3135,
+          "to": 40538,
+          "weight": 4
+        },
+        {
+          "from": 3083,
+          "to": 5618,
+          "weight": 10
+        },
+        {
+          "from": 3083,
+          "to": 23763,
+          "weight": 9
+        },
+        {
+          "from": 23763,
+          "to": 40538,
+          "weight": 11
+        },
+        {
+          "from": 3083,
+          "to": 3135,
+          "weight": 6
+        },
+        {
+          "from": 3083,
+          "to": 43565,
+          "weight": 5
+        },
+        {
+          "from": 23763,
+          "to": 43565,
+          "weight": 18
+        },
+        {
+          "from": 3135,
+          "to": 23763,
+          "weight": 7
+        },
+        {
+          "from": 23763,
+          "to": 40672,
+          "weight": 41
+        },
+        {
+          "from": 22067,
+          "to": 23763,
+          "weight": 8
+        },
+        {
+          "from": 5618,
+          "to": 40538,
+          "weight": 16
+        },
+        {
+          "from": 40538,
+          "to": 43565,
+          "weight": 3
+        },
+        {
+          "from": 40672,
+          "to": 43565,
+          "weight": 30
+        },
+        {
+          "from": 3083,
+          "to": 40538,
+          "weight": 7
+        },
+        {
+          "from": 3135,
+          "to": 5618,
+          "weight": 4
+        },
+        {
+          "from": 5618,
+          "to": 43565,
+          "weight": 14
+        },
+        {
+          "from": 5618,
+          "to": 23763,
+          "weight": 19
+        },
+        {
+          "from": 22067,
+          "to": 43565,
+          "weight": 3
+        },
+        {
+          "from": 5604,
+          "to": 43565,
+          "weight": 22
+        },
+        {
+          "from": 40542,
+          "to": 40672,
+          "weight": 9
+        },
+        {
+          "from": 23763,
+          "to": 40542,
+          "weight": 7
+        },
+        {
+          "from": 3083,
+          "to": 40542,
+          "weight": 5
+        },
+        {
+          "from": 5604,
+          "to": 23763,
+          "weight": 15
+        },
+        {
+          "from": 5604,
+          "to": 40672,
+          "weight": 3
+        },
+        {
+          "from": 3083,
+          "to": 5604,
+          "weight": 4
+        },
+        {
+          "from": 3135,
+          "to": 40672,
+          "weight": 6
+        },
+        {
+          "from": 5604,
+          "to": 40542,
+          "weight": 3
+        },
+        {
+          "from": 3083,
+          "to": 22067,
+          "weight": 3
+        },
+        {
+          "from": 40538,
+          "to": 40672,
+          "weight": 4
+        },
+        {
+          "from": 40672,
+          "to": 41711,
+          "weight": 7
+        },
+        {
+          "from": 40538,
+          "to": 40542,
+          "weight": 3
+        },
+        {
+          "from": 5604,
+          "to": 22740,
+          "weight": 11
+        },
+        {
+          "from": 22740,
+          "to": 40672,
+          "weight": 7
+        },
+        {
+          "from": 22740,
+          "to": 40542,
+          "weight": 4
+        },
+        {
+          "from": 22740,
+          "to": 23763,
+          "weight": 11
+        },
+        {
+          "from": 3083,
+          "to": 41711,
+          "weight": 6
+        },
+        {
+          "from": 22740,
+          "to": 41711,
+          "weight": 3
+        },
+        {
+          "from": 22740,
+          "to": 40538,
+          "weight": 3
+        },
+        {
+          "from": 3083,
+          "to": 22740,
+          "weight": 4
+        },
+        {
+          "from": 23763,
+          "to": 40564,
+          "weight": 7
+        }
+      ]
+    }
+  }
 }

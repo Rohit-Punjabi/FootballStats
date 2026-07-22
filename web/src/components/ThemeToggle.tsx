@@ -8,7 +8,7 @@ import { useEffect, useState } from "react";
  * in the root layout, so there's no flash of the wrong theme on load.
  */
 export function ThemeToggle() {
-  const [theme, setTheme] = useState<"dark" | "light">("dark");
+  const [theme, setTheme] = useState<"dark" | "light">("light");
 
   useEffect(() => {
     const current =

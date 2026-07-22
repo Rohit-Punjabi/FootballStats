@@ -221,5 +221,605 @@
       "outcome": "Off T",
       "body_part": "Head"
     }
-  ]
+  ],
+  "networks": {
+    "Australia": {
+      "nodes": [
+        {
+          "id": 5479,
+          "name": "Aziz Behich",
+          "x": 68.5,
+          "y": 6.3,
+          "passes": 29
+        },
+        {
+          "id": 3240,
+          "name": "Mat Ryan",
+          "x": 14.7,
+          "y": 38.5,
+          "passes": 24
+        },
+        {
+          "id": 3281,
+          "name": "Aaron Mooy",
+          "x": 59.0,
+          "y": 49.7,
+          "passes": 23
+        },
+        {
+          "id": 15957,
+          "name": "Miloš Degenek",
+          "x": 47.7,
+          "y": 69.4,
+          "passes": 22
+        },
+        {
+          "id": 5490,
+          "name": "Jackson Irvine",
+          "x": 62.6,
+          "y": 23.2,
+          "passes": 21
+        },
+        {
+          "id": 33495,
+          "name": "Kye Rowles",
+          "x": 41.4,
+          "y": 23.9,
+          "passes": 21
+        },
+        {
+          "id": 5481,
+          "name": "Mathew Leckie",
+          "x": 73.2,
+          "y": 53.8,
+          "passes": 18
+        },
+        {
+          "id": 22293,
+          "name": "Harry Souttar",
+          "x": 47.1,
+          "y": 49.7,
+          "passes": 14
+        },
+        {
+          "id": 33492,
+          "name": "Mitchell Duke",
+          "x": 73.3,
+          "y": 35.0,
+          "passes": 13
+        },
+        {
+          "id": 8346,
+          "name": "Craig Goodwin",
+          "x": 72.1,
+          "y": 11.8,
+          "passes": 12
+        },
+        {
+          "id": 33477,
+          "name": "Riley McGree",
+          "x": 67.2,
+          "y": 40.6,
+          "passes": 11
+        },
+        {
+          "id": 33488,
+          "name": "Keanu Baccus",
+          "x": 69.5,
+          "y": 58.0,
+          "passes": 7
+        },
+        {
+          "id": 9980,
+          "name": "Jamie Maclaren",
+          "x": 83.9,
+          "y": 33.4,
+          "passes": 2
+        },
+        {
+          "id": 8859,
+          "name": "Ajdin Hrustic",
+          "x": 28.6,
+          "y": 14.5,
+          "passes": 1
+        }
+      ],
+      "edges": [
+        {
+          "from": 15957,
+          "to": 33492,
+          "weight": 6
+        },
+        {
+          "from": 3240,
+          "to": 33495,
+          "weight": 11
+        },
+        {
+          "from": 3240,
+          "to": 22293,
+          "weight": 3
+        },
+        {
+          "from": 15957,
+          "to": 22293,
+          "weight": 5
+        },
+        {
+          "from": 5481,
+          "to": 33477,
+          "weight": 7
+        },
+        {
+          "from": 5479,
+          "to": 5490,
+          "weight": 12
+        },
+        {
+          "from": 5479,
+          "to": 8346,
+          "weight": 14
+        },
+        {
+          "from": 5479,
+          "to": 33495,
+          "weight": 8
+        },
+        {
+          "from": 3240,
+          "to": 5481,
+          "weight": 8
+        },
+        {
+          "from": 3281,
+          "to": 5481,
+          "weight": 5
+        },
+        {
+          "from": 5481,
+          "to": 15957,
+          "weight": 9
+        },
+        {
+          "from": 3281,
+          "to": 33477,
+          "weight": 5
+        },
+        {
+          "from": 3281,
+          "to": 33495,
+          "weight": 6
+        },
+        {
+          "from": 5481,
+          "to": 5490,
+          "weight": 7
+        },
+        {
+          "from": 8346,
+          "to": 33492,
+          "weight": 4
+        },
+        {
+          "from": 3240,
+          "to": 15957,
+          "weight": 6
+        },
+        {
+          "from": 3281,
+          "to": 5479,
+          "weight": 5
+        },
+        {
+          "from": 5481,
+          "to": 33492,
+          "weight": 6
+        },
+        {
+          "from": 33477,
+          "to": 33492,
+          "weight": 3
+        },
+        {
+          "from": 3281,
+          "to": 33492,
+          "weight": 3
+        },
+        {
+          "from": 3281,
+          "to": 22293,
+          "weight": 3
+        },
+        {
+          "from": 5490,
+          "to": 33495,
+          "weight": 3
+        },
+        {
+          "from": 5479,
+          "to": 33492,
+          "weight": 4
+        },
+        {
+          "from": 3281,
+          "to": 15957,
+          "weight": 5
+        },
+        {
+          "from": 5490,
+          "to": 33477,
+          "weight": 4
+        },
+        {
+          "from": 5490,
+          "to": 33492,
+          "weight": 5
+        },
+        {
+          "from": 3281,
+          "to": 5490,
+          "weight": 4
+        },
+        {
+          "from": 15957,
+          "to": 33477,
+          "weight": 3
+        },
+        {
+          "from": 3281,
+          "to": 33488,
+          "weight": 5
+        },
+        {
+          "from": 9980,
+          "to": 33488,
+          "weight": 3
+        }
+      ]
+    },
+    "Denmark": {
+      "nodes": [
+        {
+          "id": 8247,
+          "name": "Joachim Andersen",
+          "x": 46.6,
+          "y": 55.7,
+          "passes": 95
+        },
+        {
+          "id": 3959,
+          "name": "Andreas Christensen",
+          "x": 47.2,
+          "y": 25.7,
+          "passes": 89
+        },
+        {
+          "id": 3570,
+          "name": "Pierre-Emile Højbjerg",
+          "x": 56.3,
+          "y": 43.6,
+          "passes": 71
+        },
+        {
+          "id": 3043,
+          "name": "Christian Eriksen",
+          "x": 62.1,
+          "y": 26.3,
+          "passes": 69
+        },
+        {
+          "id": 16554,
+          "name": "Joakim Maehle",
+          "x": 62.0,
+          "y": 13.4,
+          "passes": 40
+        },
+        {
+          "id": 16190,
+          "name": "Rasmus Kristensen",
+          "x": 57.9,
+          "y": 71.2,
+          "passes": 39
+        },
+        {
+          "id": 3815,
+          "name": "Kasper Schmeichel",
+          "x": 14.8,
+          "y": 41.4,
+          "passes": 34
+        },
+        {
+          "id": 24547,
+          "name": "Alexander Bah",
+          "x": 67.6,
+          "y": 72.5,
+          "passes": 33
+        },
+        {
+          "id": 17042,
+          "name": "Andreas Skov Olsen",
+          "x": 79.1,
+          "y": 68.4,
+          "passes": 25
+        },
+        {
+          "id": 18722,
+          "name": "Mathias Jensen",
+          "x": 67.3,
+          "y": 55.9,
+          "passes": 25
+        },
+        {
+          "id": 27569,
+          "name": "Jesper Lindstrøm",
+          "x": 79.7,
+          "y": 16.2,
+          "passes": 20
+        },
+        {
+          "id": 16294,
+          "name": "Robert Skov",
+          "x": 77.8,
+          "y": 8.1,
+          "passes": 16
+        },
+        {
+          "id": 24443,
+          "name": "Mikkel Damsgaard",
+          "x": 74.9,
+          "y": 34.5,
+          "passes": 12
+        },
+        {
+          "id": 4447,
+          "name": "Martin Braithwaite",
+          "x": 68.4,
+          "y": 35.4,
+          "passes": 10
+        }
+      ],
+      "edges": [
+        {
+          "from": 3043,
+          "to": 4447,
+          "weight": 5
+        },
+        {
+          "from": 3043,
+          "to": 16554,
+          "weight": 20
+        },
+        {
+          "from": 3959,
+          "to": 16554,
+          "weight": 23
+        },
+        {
+          "from": 3959,
+          "to": 8247,
+          "weight": 52
+        },
+        {
+          "from": 3043,
+          "to": 3959,
+          "weight": 22
+        },
+        {
+          "from": 3043,
+          "to": 3570,
+          "weight": 18
+        },
+        {
+          "from": 8247,
+          "to": 16190,
+          "weight": 24
+        },
+        {
+          "from": 4447,
+          "to": 18722,
+          "weight": 3
+        },
+        {
+          "from": 3815,
+          "to": 8247,
+          "weight": 23
+        },
+        {
+          "from": 3815,
+          "to": 3959,
+          "weight": 17
+        },
+        {
+          "from": 17042,
+          "to": 18722,
+          "weight": 11
+        },
+        {
+          "from": 3043,
+          "to": 18722,
+          "weight": 4
+        },
+        {
+          "from": 3043,
+          "to": 3815,
+          "weight": 4
+        },
+        {
+          "from": 4447,
+          "to": 17042,
+          "weight": 5
+        },
+        {
+          "from": 16190,
+          "to": 17042,
+          "weight": 20
+        },
+        {
+          "from": 16190,
+          "to": 18722,
+          "weight": 13
+        },
+        {
+          "from": 8247,
+          "to": 18722,
+          "weight": 8
+        },
+        {
+          "from": 3570,
+          "to": 18722,
+          "weight": 7
+        },
+        {
+          "from": 3043,
+          "to": 27569,
+          "weight": 13
+        },
+        {
+          "from": 16554,
+          "to": 27569,
+          "weight": 18
+        },
+        {
+          "from": 3570,
+          "to": 17042,
+          "weight": 3
+        },
+        {
+          "from": 3570,
+          "to": 3959,
+          "weight": 26
+        },
+        {
+          "from": 3570,
+          "to": 8247,
+          "weight": 25
+        },
+        {
+          "from": 3570,
+          "to": 16190,
+          "weight": 8
+        },
+        {
+          "from": 8247,
+          "to": 16554,
+          "weight": 3
+        },
+        {
+          "from": 3570,
+          "to": 16554,
+          "weight": 9
+        },
+        {
+          "from": 4447,
+          "to": 16554,
+          "weight": 3
+        },
+        {
+          "from": 3570,
+          "to": 27569,
+          "weight": 4
+        },
+        {
+          "from": 3043,
+          "to": 8247,
+          "weight": 12
+        },
+        {
+          "from": 3043,
+          "to": 17042,
+          "weight": 3
+        },
+        {
+          "from": 3959,
+          "to": 18722,
+          "weight": 4
+        },
+        {
+          "from": 3570,
+          "to": 3815,
+          "weight": 3
+        },
+        {
+          "from": 8247,
+          "to": 17042,
+          "weight": 7
+        },
+        {
+          "from": 8247,
+          "to": 27569,
+          "weight": 4
+        },
+        {
+          "from": 8247,
+          "to": 24547,
+          "weight": 30
+        },
+        {
+          "from": 18722,
+          "to": 24547,
+          "weight": 4
+        },
+        {
+          "from": 3959,
+          "to": 27569,
+          "weight": 3
+        },
+        {
+          "from": 3570,
+          "to": 24547,
+          "weight": 8
+        },
+        {
+          "from": 17042,
+          "to": 24443,
+          "weight": 3
+        },
+        {
+          "from": 3570,
+          "to": 24443,
+          "weight": 3
+        },
+        {
+          "from": 24443,
+          "to": 24547,
+          "weight": 4
+        },
+        {
+          "from": 3815,
+          "to": 24547,
+          "weight": 3
+        },
+        {
+          "from": 3959,
+          "to": 16294,
+          "weight": 10
+        },
+        {
+          "from": 3043,
+          "to": 16294,
+          "weight": 9
+        },
+        {
+          "from": 3043,
+          "to": 24547,
+          "weight": 8
+        },
+        {
+          "from": 3570,
+          "to": 16294,
+          "weight": 4
+        },
+        {
+          "from": 3959,
+          "to": 24443,
+          "weight": 3
+        },
+        {
+          "from": 16294,
+          "to": 24443,
+          "weight": 5
+        }
+      ]
+    }
+  }
 }

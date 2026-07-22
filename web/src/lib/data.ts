@@ -40,12 +40,40 @@ export type Match = {
   stadium: string | null; referee: string | null; attendance: number | null;
 };
 
-export type Team = { id: number; name: string };
+export type Team = {
+  id: number; name: string;
+  possession: number; passes: number; passes_completed: number; pass_pct: number | null;
+  shots: number; xg: number; goals: number;
+  tackles: number; interceptions: number; pressures: number; ppda: number | null;
+  setpiece_shots: number; setpiece_goals: number; aerials_won: number;
+};
 
 export type Player = {
   id: number; name: string; team: string; team_id: number | null;
-  matches: number; goals: number; assists: number; shots: number; xg: number;
+  matches: number; minutes: number; position: string | null; group: string;
+  // attacking
+  goals: number; np_goals: number; assists: number; shots: number; sot: number;
+  xg: number; npxg: number;
+  // passing
   passes: number; passes_completed: number; pass_pct: number | null;
+  key_passes: number; prog_passes: number; passes_final_third: number;
+  passes_into_box: number; crosses: number; through_balls: number; long_balls: number;
+  // carrying / dribbling
+  carries: number; prog_carries: number; carry_distance: number;
+  dribbles: number; dribbles_completed: number;
+  // defending
+  tackles: number; tackles_won: number; interceptions: number; blocks: number;
+  clearances: number; ball_recoveries: number; pressures: number;
+  aerials_won: number; aerials_lost: number;
+  // discipline / misc
+  fouls: number; fouls_won: number; dispossessed: number;
+  yellow_cards: number; red_cards: number;
+  // goalkeeping
+  gk_saves: number; gk_conceded: number;
+  // derived
+  per90: Record<string, number>;
+  percentiles?: Record<string, number>;
+  qualified: boolean;
 };
 
 export type Stadium = { name: string; match_count: number; match_ids: number[] };
@@ -56,7 +84,14 @@ export type Shot = {
   outcome: string | null; body_part: string | null;
 };
 
-export type MatchDetail = { match_id: number; shots: Shot[] };
+export type NetNode = { id: number; name: string; x: number; y: number; passes: number };
+export type NetEdge = { from: number; to: number; weight: number };
+export type PassNetwork = { nodes: NetNode[]; edges: NetEdge[] };
+export type MatchDetail = {
+  match_id: number;
+  shots: Shot[];
+  networks: Record<string, PassNetwork>;
+};
 
 // --- Competition index ------------------------------------------------------
 

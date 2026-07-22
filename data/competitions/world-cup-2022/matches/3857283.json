@@ -201,5 +201,645 @@
       "outcome": "Goal",
       "body_part": "Right Foot"
     }
-  ]
+  ],
+  "networks": {
+    "Belgium": {
+      "nodes": [
+        {
+          "id": 3077,
+          "name": "Jan Vertonghen",
+          "x": 41.2,
+          "y": 27.9,
+          "passes": 97
+        },
+        {
+          "id": 20005,
+          "name": "Toby Alderweireld",
+          "x": 46.0,
+          "y": 56.6,
+          "passes": 94
+        },
+        {
+          "id": 5642,
+          "name": "Axel Witsel",
+          "x": 54.6,
+          "y": 31.0,
+          "passes": 77
+        },
+        {
+          "id": 6989,
+          "name": "Timothy Castagne",
+          "x": 50.1,
+          "y": 15.1,
+          "passes": 65
+        },
+        {
+          "id": 3089,
+          "name": "Kevin De Bruyne",
+          "x": 71.3,
+          "y": 43.3,
+          "passes": 45
+        },
+        {
+          "id": 3176,
+          "name": "Thomas Meunier",
+          "x": 56.5,
+          "y": 71.2,
+          "passes": 39
+        },
+        {
+          "id": 48347,
+          "name": "Amadou Onana",
+          "x": 58.3,
+          "y": 39.0,
+          "passes": 39
+        },
+        {
+          "id": 3509,
+          "name": "Thibaut Courtois",
+          "x": 9.8,
+          "y": 41.7,
+          "passes": 34
+        },
+        {
+          "id": 5632,
+          "name": "Thorgan Hazard",
+          "x": 68.2,
+          "y": 8.5,
+          "passes": 30
+        },
+        {
+          "id": 2954,
+          "name": "Youri Tielemans",
+          "x": 57.5,
+          "y": 38.4,
+          "passes": 27
+        },
+        {
+          "id": 3621,
+          "name": "Eden Hazard",
+          "x": 72.5,
+          "y": 28.0,
+          "passes": 25
+        },
+        {
+          "id": 5630,
+          "name": "Dries Mertens",
+          "x": 77.3,
+          "y": 32.5,
+          "passes": 11
+        },
+        {
+          "id": 16559,
+          "name": "Leandro Trossard",
+          "x": 62.2,
+          "y": 14.8,
+          "passes": 10
+        },
+        {
+          "id": 3457,
+          "name": "Michy Batshuayi",
+          "x": 61.4,
+          "y": 44.1,
+          "passes": 7
+        }
+      ],
+      "edges": [
+        {
+          "from": 5642,
+          "to": 20005,
+          "weight": 24
+        },
+        {
+          "from": 20005,
+          "to": 48347,
+          "weight": 13
+        },
+        {
+          "from": 3077,
+          "to": 20005,
+          "weight": 67
+        },
+        {
+          "from": 3176,
+          "to": 20005,
+          "weight": 35
+        },
+        {
+          "from": 3089,
+          "to": 3176,
+          "weight": 12
+        },
+        {
+          "from": 3457,
+          "to": 3621,
+          "weight": 6
+        },
+        {
+          "from": 3509,
+          "to": 5642,
+          "weight": 5
+        },
+        {
+          "from": 3621,
+          "to": 48347,
+          "weight": 6
+        },
+        {
+          "from": 5642,
+          "to": 48347,
+          "weight": 14
+        },
+        {
+          "from": 3077,
+          "to": 48347,
+          "weight": 10
+        },
+        {
+          "from": 3077,
+          "to": 3509,
+          "weight": 22
+        },
+        {
+          "from": 3509,
+          "to": 20005,
+          "weight": 14
+        },
+        {
+          "from": 3077,
+          "to": 6989,
+          "weight": 36
+        },
+        {
+          "from": 3176,
+          "to": 5642,
+          "weight": 6
+        },
+        {
+          "from": 5642,
+          "to": 6989,
+          "weight": 22
+        },
+        {
+          "from": 5632,
+          "to": 6989,
+          "weight": 19
+        },
+        {
+          "from": 3089,
+          "to": 3457,
+          "weight": 4
+        },
+        {
+          "from": 3621,
+          "to": 5632,
+          "weight": 13
+        },
+        {
+          "from": 3457,
+          "to": 5632,
+          "weight": 4
+        },
+        {
+          "from": 3621,
+          "to": 6989,
+          "weight": 5
+        },
+        {
+          "from": 3089,
+          "to": 5632,
+          "weight": 8
+        },
+        {
+          "from": 3621,
+          "to": 5642,
+          "weight": 7
+        },
+        {
+          "from": 5632,
+          "to": 5642,
+          "weight": 4
+        },
+        {
+          "from": 3077,
+          "to": 5632,
+          "weight": 5
+        },
+        {
+          "from": 6989,
+          "to": 20005,
+          "weight": 10
+        },
+        {
+          "from": 3077,
+          "to": 5642,
+          "weight": 24
+        },
+        {
+          "from": 3089,
+          "to": 20005,
+          "weight": 10
+        },
+        {
+          "from": 3089,
+          "to": 48347,
+          "weight": 10
+        },
+        {
+          "from": 3509,
+          "to": 6989,
+          "weight": 6
+        },
+        {
+          "from": 3089,
+          "to": 3621,
+          "weight": 12
+        },
+        {
+          "from": 5632,
+          "to": 48347,
+          "weight": 7
+        },
+        {
+          "from": 3176,
+          "to": 3621,
+          "weight": 6
+        },
+        {
+          "from": 3176,
+          "to": 48347,
+          "weight": 9
+        },
+        {
+          "from": 6989,
+          "to": 48347,
+          "weight": 13
+        },
+        {
+          "from": 3089,
+          "to": 5642,
+          "weight": 12
+        },
+        {
+          "from": 3176,
+          "to": 3509,
+          "weight": 3
+        },
+        {
+          "from": 3621,
+          "to": 20005,
+          "weight": 3
+        },
+        {
+          "from": 3077,
+          "to": 3089,
+          "weight": 4
+        },
+        {
+          "from": 3089,
+          "to": 6989,
+          "weight": 4
+        },
+        {
+          "from": 2954,
+          "to": 5642,
+          "weight": 12
+        },
+        {
+          "from": 2954,
+          "to": 6989,
+          "weight": 5
+        },
+        {
+          "from": 2954,
+          "to": 20005,
+          "weight": 10
+        },
+        {
+          "from": 5630,
+          "to": 5642,
+          "weight": 3
+        },
+        {
+          "from": 2954,
+          "to": 5630,
+          "weight": 5
+        },
+        {
+          "from": 3089,
+          "to": 5630,
+          "weight": 8
+        },
+        {
+          "from": 2954,
+          "to": 3077,
+          "weight": 9
+        },
+        {
+          "from": 2954,
+          "to": 3089,
+          "weight": 4
+        },
+        {
+          "from": 5642,
+          "to": 16559,
+          "weight": 6
+        },
+        {
+          "from": 3089,
+          "to": 16559,
+          "weight": 3
+        },
+        {
+          "from": 2954,
+          "to": 16559,
+          "weight": 3
+        },
+        {
+          "from": 5630,
+          "to": 16559,
+          "weight": 3
+        },
+        {
+          "from": 3077,
+          "to": 16559,
+          "weight": 4
+        },
+        {
+          "from": 6989,
+          "to": 16559,
+          "weight": 3
+        },
+        {
+          "from": 3077,
+          "to": 5630,
+          "weight": 3
+        }
+      ]
+    },
+    "Morocco": {
+      "nodes": [
+        {
+          "id": 12149,
+          "name": "Nayef Aguerd",
+          "x": 31.9,
+          "y": 53.6,
+          "passes": 38
+        },
+        {
+          "id": 5234,
+          "name": "Sofyan Amrabat",
+          "x": 48.4,
+          "y": 41.5,
+          "passes": 35
+        },
+        {
+          "id": 5219,
+          "name": "Romain Saïss",
+          "x": 31.8,
+          "y": 24.8,
+          "passes": 32
+        },
+        {
+          "id": 5245,
+          "name": "Achraf Hakimi",
+          "x": 55.8,
+          "y": 72.0,
+          "passes": 30
+        },
+        {
+          "id": 15890,
+          "name": "Noussair Mazraoui",
+          "x": 51.6,
+          "y": 15.0,
+          "passes": 28
+        },
+        {
+          "id": 46258,
+          "name": "Azzedine Ounahi",
+          "x": 51.1,
+          "y": 26.7,
+          "passes": 26
+        },
+        {
+          "id": 3625,
+          "name": "Sofiane Boufal",
+          "x": 74.5,
+          "y": 23.2,
+          "passes": 21
+        },
+        {
+          "id": 5237,
+          "name": "Hakim Ziyech",
+          "x": 68.8,
+          "y": 63.0,
+          "passes": 21
+        },
+        {
+          "id": 5233,
+          "name": "Munir",
+          "x": 8.6,
+          "y": 40.2,
+          "passes": 18
+        },
+        {
+          "id": 23774,
+          "name": "Selim Amallah",
+          "x": 61.0,
+          "y": 57.4,
+          "passes": 17
+        },
+        {
+          "id": 3634,
+          "name": "Abdelhamid Sabiri",
+          "x": 65.9,
+          "y": 15.9,
+          "passes": 5
+        },
+        {
+          "id": 6301,
+          "name": "Youssef En-Nesyri",
+          "x": 87.1,
+          "y": 38.8,
+          "passes": 4
+        },
+        {
+          "id": 31295,
+          "name": "Yahia Attiyat allah",
+          "x": 55.9,
+          "y": 13.0,
+          "passes": 4
+        },
+        {
+          "id": 21736,
+          "name": "Zakaria Aboukhlal",
+          "x": 54.5,
+          "y": 20.4,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 5219,
+          "to": 23774,
+          "weight": 4
+        },
+        {
+          "from": 5219,
+          "to": 12149,
+          "weight": 17
+        },
+        {
+          "from": 5245,
+          "to": 12149,
+          "weight": 14
+        },
+        {
+          "from": 3625,
+          "to": 5237,
+          "weight": 8
+        },
+        {
+          "from": 5234,
+          "to": 5237,
+          "weight": 6
+        },
+        {
+          "from": 5219,
+          "to": 5234,
+          "weight": 6
+        },
+        {
+          "from": 5237,
+          "to": 23774,
+          "weight": 3
+        },
+        {
+          "from": 3625,
+          "to": 46258,
+          "weight": 10
+        },
+        {
+          "from": 5245,
+          "to": 23774,
+          "weight": 16
+        },
+        {
+          "from": 5237,
+          "to": 5245,
+          "weight": 12
+        },
+        {
+          "from": 5233,
+          "to": 12149,
+          "weight": 7
+        },
+        {
+          "from": 5219,
+          "to": 15890,
+          "weight": 11
+        },
+        {
+          "from": 3625,
+          "to": 15890,
+          "weight": 12
+        },
+        {
+          "from": 5219,
+          "to": 5237,
+          "weight": 3
+        },
+        {
+          "from": 15890,
+          "to": 46258,
+          "weight": 12
+        },
+        {
+          "from": 5245,
+          "to": 46258,
+          "weight": 5
+        },
+        {
+          "from": 5234,
+          "to": 5245,
+          "weight": 5
+        },
+        {
+          "from": 5233,
+          "to": 5234,
+          "weight": 4
+        },
+        {
+          "from": 5219,
+          "to": 5233,
+          "weight": 7
+        },
+        {
+          "from": 5234,
+          "to": 46258,
+          "weight": 8
+        },
+        {
+          "from": 5234,
+          "to": 23774,
+          "weight": 5
+        },
+        {
+          "from": 12149,
+          "to": 23774,
+          "weight": 3
+        },
+        {
+          "from": 5237,
+          "to": 12149,
+          "weight": 6
+        },
+        {
+          "from": 5234,
+          "to": 12149,
+          "weight": 14
+        },
+        {
+          "from": 5234,
+          "to": 15890,
+          "weight": 8
+        },
+        {
+          "from": 5219,
+          "to": 46258,
+          "weight": 3
+        },
+        {
+          "from": 12149,
+          "to": 46258,
+          "weight": 5
+        },
+        {
+          "from": 3625,
+          "to": 5245,
+          "weight": 4
+        },
+        {
+          "from": 3625,
+          "to": 5219,
+          "weight": 4
+        },
+        {
+          "from": 3625,
+          "to": 5234,
+          "weight": 3
+        },
+        {
+          "from": 5237,
+          "to": 46258,
+          "weight": 6
+        },
+        {
+          "from": 5237,
+          "to": 21736,
+          "weight": 3
+        }
+      ]
+    }
+  }
 }

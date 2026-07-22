@@ -9,6 +9,8 @@ import {
   stadiumSlug,
 } from "@/lib/data";
 import { ShotMap } from "@/components/ShotMap";
+import { XGTimeline } from "@/components/XGTimeline";
+import { PassNetwork } from "@/components/PassNetwork";
 import { Section } from "@/components/ui";
 import { TeamBadge } from "@/components/TeamBadge";
 
@@ -23,7 +25,9 @@ export default async function MatchPage({ params }: PageProps<"/[competition]/ma
   const match = getMatch(competition, Number(id));
   if (!match) notFound();
 
-  const shots = getMatchDetail(competition, match.id)?.shots ?? [];
+  const detail = getMatchDetail(competition, match.id);
+  const shots = detail?.shots ?? [];
+  const networks = detail?.networks ?? {};
   const homeShots = shots.filter((s) => s.team === match.home_team);
   const awayShots = shots.filter((s) => s.team === match.away_team);
   const sumXg = (arr: typeof shots) => arr.reduce((s, x) => s + (x.xg ?? 0), 0).toFixed(2);
@@ -77,11 +81,29 @@ export default async function MatchPage({ params }: PageProps<"/[competition]/ma
       </div>
 
       {shots.length > 0 ? (
-        <Section title="Shot map">
-          <ShotMap shots={shots} homeTeam={match.home_team} awayTeam={match.away_team} />
-        </Section>
+        <>
+          <Section title="Shot map">
+            <ShotMap shots={shots} homeTeam={match.home_team} awayTeam={match.away_team} />
+          </Section>
+          <Section title="xG momentum">
+            <XGTimeline shots={shots} homeTeam={match.home_team} awayTeam={match.away_team} />
+          </Section>
+        </>
       ) : (
         <p className="text-muted text-sm mt-8">No shot data available for this match.</p>
+      )}
+
+      {(networks[match.home_team] || networks[match.away_team]) && (
+        <Section title="Passing networks">
+          <div className="grid md:grid-cols-2 gap-5">
+            {networks[match.home_team] && (
+              <PassNetwork team={match.home_team} network={networks[match.home_team]} />
+            )}
+            {networks[match.away_team] && (
+              <PassNetwork team={match.away_team} network={networks[match.away_team]} />
+            )}
+          </div>
+        </Section>
       )}
     </div>
   );

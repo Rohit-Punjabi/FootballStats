@@ -191,5 +191,505 @@
       "outcome": "Off T",
       "body_part": "Head"
     }
-  ]
+  ],
+  "networks": {
+    "Panama": {
+      "nodes": [
+        {
+          "id": 22256,
+          "name": "Roderick Miller",
+          "x": 56.7,
+          "y": 18.9,
+          "passes": 69
+        },
+        {
+          "id": 47345,
+          "name": "Adalberto Carrasquilla",
+          "x": 68.3,
+          "y": 34.3,
+          "passes": 62
+        },
+        {
+          "id": 223971,
+          "name": "José Ángel Córdoba Chambers",
+          "x": 48.2,
+          "y": 34.1,
+          "passes": 62
+        },
+        {
+          "id": 260212,
+          "name": "Edgardo Isaac Fariña Wynter",
+          "x": 57.1,
+          "y": 59.3,
+          "passes": 62
+        },
+        {
+          "id": 5641,
+          "name": "Michael Murillo",
+          "x": 71.6,
+          "y": 69.2,
+          "passes": 49
+        },
+        {
+          "id": 16637,
+          "name": "Christian Martínez",
+          "x": 70.8,
+          "y": 52.6,
+          "passes": 48
+        },
+        {
+          "id": 5634,
+          "name": "Erick Davis",
+          "x": 70.4,
+          "y": 11.1,
+          "passes": 45
+        },
+        {
+          "id": 5637,
+          "name": "Édgar Yoel Bárcenas",
+          "x": 81.4,
+          "y": 38.2,
+          "passes": 39
+        },
+        {
+          "id": 104179,
+          "name": "Orlando Mosquera",
+          "x": 14.2,
+          "y": 40.5,
+          "passes": 22
+        },
+        {
+          "id": 113279,
+          "name": "Freddy Elías Góndola Smith",
+          "x": 82.3,
+          "y": 22.6,
+          "passes": 14
+        },
+        {
+          "id": 44305,
+          "name": "César Blackman",
+          "x": 85.0,
+          "y": 72.2,
+          "passes": 13
+        },
+        {
+          "id": 91089,
+          "name": "José Fajardo Nelson",
+          "x": 77.9,
+          "y": 52.7,
+          "passes": 7
+        },
+        {
+          "id": 50971,
+          "name": "Eduardo Antonio Guerrero Lozcano",
+          "x": 77.8,
+          "y": 37.3,
+          "passes": 4
+        },
+        {
+          "id": 35432,
+          "name": "Abdiel Ayarza",
+          "x": 88.7,
+          "y": 40.4,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 47345,
+          "to": 104179,
+          "weight": 4
+        },
+        {
+          "from": 47345,
+          "to": 223971,
+          "weight": 22
+        },
+        {
+          "from": 22256,
+          "to": 47345,
+          "weight": 20
+        },
+        {
+          "from": 104179,
+          "to": 223971,
+          "weight": 10
+        },
+        {
+          "from": 5637,
+          "to": 16637,
+          "weight": 6
+        },
+        {
+          "from": 5634,
+          "to": 5637,
+          "weight": 16
+        },
+        {
+          "from": 5634,
+          "to": 16637,
+          "weight": 7
+        },
+        {
+          "from": 5634,
+          "to": 22256,
+          "weight": 33
+        },
+        {
+          "from": 223971,
+          "to": 260212,
+          "weight": 22
+        },
+        {
+          "from": 5641,
+          "to": 260212,
+          "weight": 31
+        },
+        {
+          "from": 5634,
+          "to": 223971,
+          "weight": 5
+        },
+        {
+          "from": 5641,
+          "to": 16637,
+          "weight": 18
+        },
+        {
+          "from": 5641,
+          "to": 44305,
+          "weight": 8
+        },
+        {
+          "from": 5641,
+          "to": 223971,
+          "weight": 10
+        },
+        {
+          "from": 44305,
+          "to": 47345,
+          "weight": 3
+        },
+        {
+          "from": 22256,
+          "to": 223971,
+          "weight": 26
+        },
+        {
+          "from": 16637,
+          "to": 223971,
+          "weight": 15
+        },
+        {
+          "from": 16637,
+          "to": 260212,
+          "weight": 12
+        },
+        {
+          "from": 5637,
+          "to": 22256,
+          "weight": 13
+        },
+        {
+          "from": 47345,
+          "to": 260212,
+          "weight": 18
+        },
+        {
+          "from": 5634,
+          "to": 47345,
+          "weight": 11
+        },
+        {
+          "from": 16637,
+          "to": 22256,
+          "weight": 8
+        },
+        {
+          "from": 16637,
+          "to": 44305,
+          "weight": 15
+        },
+        {
+          "from": 22256,
+          "to": 260212,
+          "weight": 20
+        },
+        {
+          "from": 47345,
+          "to": 50971,
+          "weight": 3
+        },
+        {
+          "from": 16637,
+          "to": 47345,
+          "weight": 13
+        },
+        {
+          "from": 104179,
+          "to": 260212,
+          "weight": 6
+        },
+        {
+          "from": 22256,
+          "to": 104179,
+          "weight": 3
+        },
+        {
+          "from": 5637,
+          "to": 260212,
+          "weight": 7
+        },
+        {
+          "from": 5637,
+          "to": 47345,
+          "weight": 13
+        },
+        {
+          "from": 5637,
+          "to": 5641,
+          "weight": 12
+        },
+        {
+          "from": 44305,
+          "to": 260212,
+          "weight": 4
+        },
+        {
+          "from": 5641,
+          "to": 104179,
+          "weight": 3
+        },
+        {
+          "from": 5637,
+          "to": 223971,
+          "weight": 3
+        },
+        {
+          "from": 47345,
+          "to": 91089,
+          "weight": 5
+        },
+        {
+          "from": 5641,
+          "to": 91089,
+          "weight": 4
+        },
+        {
+          "from": 16637,
+          "to": 91089,
+          "weight": 3
+        },
+        {
+          "from": 5637,
+          "to": 91089,
+          "weight": 6
+        },
+        {
+          "from": 5641,
+          "to": 47345,
+          "weight": 6
+        },
+        {
+          "from": 47345,
+          "to": 113279,
+          "weight": 7
+        },
+        {
+          "from": 5634,
+          "to": 113279,
+          "weight": 8
+        },
+        {
+          "from": 22256,
+          "to": 113279,
+          "weight": 6
+        },
+        {
+          "from": 5637,
+          "to": 113279,
+          "weight": 3
+        }
+      ]
+    },
+    "United States": {
+      "nodes": [
+        {
+          "id": 4614,
+          "name": "Antonee Robinson",
+          "x": 58.2,
+          "y": 9.5,
+          "passes": 21
+        },
+        {
+          "id": 41266,
+          "name": "Chris Richards",
+          "x": 42.3,
+          "y": 53.0,
+          "passes": 20
+        },
+        {
+          "id": 8526,
+          "name": "Weston McKennie",
+          "x": 63.9,
+          "y": 54.8,
+          "passes": 13
+        },
+        {
+          "id": 36830,
+          "name": "Joe Scally",
+          "x": 62.4,
+          "y": 71.8,
+          "passes": 13
+        },
+        {
+          "id": 8246,
+          "name": "Christian Pulisic",
+          "x": 78.5,
+          "y": 33.5,
+          "passes": 12
+        },
+        {
+          "id": 12751,
+          "name": "Tyler Adams",
+          "x": 55.5,
+          "y": 30.7,
+          "passes": 10
+        },
+        {
+          "id": 18242,
+          "name": "Tim Ream",
+          "x": 35.1,
+          "y": 24.0,
+          "passes": 10
+        },
+        {
+          "id": 34339,
+          "name": "Giovanni Reyna",
+          "x": 55.4,
+          "y": 38.4,
+          "passes": 8
+        },
+        {
+          "id": 12352,
+          "name": "Matt Turner",
+          "x": 14.9,
+          "y": 37.6,
+          "passes": 6
+        },
+        {
+          "id": 32122,
+          "name": "Johnny",
+          "x": 63.5,
+          "y": 27.6,
+          "passes": 6
+        },
+        {
+          "id": 51733,
+          "name": "Folarin Balogun",
+          "x": 82.6,
+          "y": 47.2,
+          "passes": 5
+        },
+        {
+          "id": 15971,
+          "name": "Cameron Carter-Vickers",
+          "x": 29.9,
+          "y": 36.4,
+          "passes": 3
+        },
+        {
+          "id": 26151,
+          "name": "Ricardo Daniel Pepi",
+          "x": 46.9,
+          "y": 25.9,
+          "passes": 3
+        },
+        {
+          "id": 21201,
+          "name": "Ethan Horvath",
+          "x": 35.9,
+          "y": 36.3,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 8526,
+          "to": 36830,
+          "weight": 10
+        },
+        {
+          "from": 12751,
+          "to": 41266,
+          "weight": 3
+        },
+        {
+          "from": 12352,
+          "to": 41266,
+          "weight": 8
+        },
+        {
+          "from": 18242,
+          "to": 41266,
+          "weight": 8
+        },
+        {
+          "from": 4614,
+          "to": 12751,
+          "weight": 4
+        },
+        {
+          "from": 36830,
+          "to": 41266,
+          "weight": 5
+        },
+        {
+          "from": 8246,
+          "to": 41266,
+          "weight": 3
+        },
+        {
+          "from": 8526,
+          "to": 41266,
+          "weight": 4
+        },
+        {
+          "from": 12751,
+          "to": 51733,
+          "weight": 5
+        },
+        {
+          "from": 4614,
+          "to": 8526,
+          "weight": 5
+        },
+        {
+          "from": 4614,
+          "to": 51733,
+          "weight": 4
+        },
+        {
+          "from": 8246,
+          "to": 34339,
+          "weight": 3
+        },
+        {
+          "from": 4614,
+          "to": 8246,
+          "weight": 9
+        },
+        {
+          "from": 4614,
+          "to": 32122,
+          "weight": 3
+        },
+        {
+          "from": 8246,
+          "to": 32122,
+          "weight": 4
+        }
+      ]
+    }
+  }
 }

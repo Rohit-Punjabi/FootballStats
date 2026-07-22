@@ -171,5 +171,545 @@
       "outcome": "Off T",
       "body_part": "Head"
     }
-  ]
+  ],
+  "networks": {
+    "Argentina": {
+      "nodes": [
+        {
+          "id": 20572,
+          "name": "Cristian Romero",
+          "x": 44.0,
+          "y": 59.0,
+          "passes": 58
+        },
+        {
+          "id": 27768,
+          "name": "Lisandro Martínez",
+          "x": 41.9,
+          "y": 28.4,
+          "passes": 42
+        },
+        {
+          "id": 27886,
+          "name": "Alexis MacAllister",
+          "x": 64.2,
+          "y": 41.5,
+          "passes": 39
+        },
+        {
+          "id": 5507,
+          "name": "Nicolás Tagliafico",
+          "x": 60.1,
+          "y": 10.9,
+          "passes": 33
+        },
+        {
+          "id": 29201,
+          "name": "Nahuel Molina",
+          "x": 68.0,
+          "y": 75.8,
+          "passes": 31
+        },
+        {
+          "id": 7797,
+          "name": "Rodrigo De Paul",
+          "x": 66.8,
+          "y": 60.5,
+          "passes": 29
+        },
+        {
+          "id": 5503,
+          "name": "Lionel Messi",
+          "x": 76.9,
+          "y": 60.6,
+          "passes": 20
+        },
+        {
+          "id": 6909,
+          "name": "Emiliano Martínez",
+          "x": 13.0,
+          "y": 42.4,
+          "passes": 19
+        },
+        {
+          "id": 38718,
+          "name": "Enzo Fernandez",
+          "x": 66.4,
+          "y": 31.6,
+          "passes": 16
+        },
+        {
+          "id": 20687,
+          "name": "Nicolás González",
+          "x": 81.3,
+          "y": 14.1,
+          "passes": 14
+        },
+        {
+          "id": 11456,
+          "name": "Lautaro Martínez",
+          "x": 75.6,
+          "y": 55.0,
+          "passes": 10
+        },
+        {
+          "id": 3090,
+          "name": "Nicolás Otamendi",
+          "x": 35.0,
+          "y": 31.7,
+          "passes": 4
+        },
+        {
+          "id": 3313,
+          "name": "Giovani Lo Celso",
+          "x": 74.9,
+          "y": 56.1,
+          "passes": 4
+        },
+        {
+          "id": 29560,
+          "name": "Julián Álvarez",
+          "x": 84.2,
+          "y": 34.4,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 11456,
+          "to": 27886,
+          "weight": 3
+        },
+        {
+          "from": 7797,
+          "to": 27886,
+          "weight": 9
+        },
+        {
+          "from": 7797,
+          "to": 20572,
+          "weight": 14
+        },
+        {
+          "from": 20572,
+          "to": 27768,
+          "weight": 36
+        },
+        {
+          "from": 5507,
+          "to": 27768,
+          "weight": 17
+        },
+        {
+          "from": 20572,
+          "to": 29201,
+          "weight": 17
+        },
+        {
+          "from": 6909,
+          "to": 20572,
+          "weight": 13
+        },
+        {
+          "from": 7797,
+          "to": 27768,
+          "weight": 5
+        },
+        {
+          "from": 5503,
+          "to": 7797,
+          "weight": 5
+        },
+        {
+          "from": 5503,
+          "to": 38718,
+          "weight": 6
+        },
+        {
+          "from": 27886,
+          "to": 38718,
+          "weight": 7
+        },
+        {
+          "from": 5507,
+          "to": 27886,
+          "weight": 12
+        },
+        {
+          "from": 5507,
+          "to": 20687,
+          "weight": 13
+        },
+        {
+          "from": 20687,
+          "to": 27886,
+          "weight": 4
+        },
+        {
+          "from": 20687,
+          "to": 38718,
+          "weight": 6
+        },
+        {
+          "from": 7797,
+          "to": 29201,
+          "weight": 15
+        },
+        {
+          "from": 5503,
+          "to": 29201,
+          "weight": 8
+        },
+        {
+          "from": 27886,
+          "to": 29201,
+          "weight": 7
+        },
+        {
+          "from": 6909,
+          "to": 27768,
+          "weight": 9
+        },
+        {
+          "from": 5503,
+          "to": 20572,
+          "weight": 6
+        },
+        {
+          "from": 5503,
+          "to": 27886,
+          "weight": 7
+        },
+        {
+          "from": 27768,
+          "to": 27886,
+          "weight": 8
+        },
+        {
+          "from": 7797,
+          "to": 38718,
+          "weight": 6
+        },
+        {
+          "from": 7797,
+          "to": 11456,
+          "weight": 3
+        },
+        {
+          "from": 20572,
+          "to": 38718,
+          "weight": 5
+        },
+        {
+          "from": 5507,
+          "to": 7797,
+          "weight": 3
+        },
+        {
+          "from": 20572,
+          "to": 27886,
+          "weight": 11
+        },
+        {
+          "from": 5507,
+          "to": 38718,
+          "weight": 5
+        },
+        {
+          "from": 5507,
+          "to": 11456,
+          "weight": 3
+        },
+        {
+          "from": 5503,
+          "to": 20687,
+          "weight": 3
+        },
+        {
+          "from": 27768,
+          "to": 38718,
+          "weight": 4
+        },
+        {
+          "from": 11456,
+          "to": 29201,
+          "weight": 5
+        },
+        {
+          "from": 3313,
+          "to": 5503,
+          "weight": 3
+        }
+      ]
+    },
+    "Ecuador": {
+      "nodes": [
+        {
+          "id": 41593,
+          "name": "Willian Pacho",
+          "x": 32.1,
+          "y": 26.1,
+          "passes": 49
+        },
+        {
+          "id": 30111,
+          "name": "Félix Torres",
+          "x": 38.5,
+          "y": 57.6,
+          "passes": 46
+        },
+        {
+          "id": 38004,
+          "name": "Piero Hincapié",
+          "x": 54.2,
+          "y": 8.5,
+          "passes": 41
+        },
+        {
+          "id": 37726,
+          "name": "Moisés Caicedo",
+          "x": 70.9,
+          "y": 32.9,
+          "passes": 36
+        },
+        {
+          "id": 37945,
+          "name": "Alan Franco",
+          "x": 46.9,
+          "y": 24.9,
+          "passes": 29
+        },
+        {
+          "id": 37737,
+          "name": "Angelo Preciado",
+          "x": 61.1,
+          "y": 74.2,
+          "passes": 23
+        },
+        {
+          "id": 32677,
+          "name": "Alexander Domínguez",
+          "x": 11.0,
+          "y": 40.9,
+          "passes": 22
+        },
+        {
+          "id": 384888,
+          "name": "Kendry Páez",
+          "x": 66.4,
+          "y": 49.6,
+          "passes": 20
+        },
+        {
+          "id": 12583,
+          "name": "Carlos Gruezo",
+          "x": 48.8,
+          "y": 48.2,
+          "passes": 18
+        },
+        {
+          "id": 40211,
+          "name": "Jeremy Sarmiento",
+          "x": 73.4,
+          "y": 15.9,
+          "passes": 13
+        },
+        {
+          "id": 28511,
+          "name": "Ángel Mena",
+          "x": 56.6,
+          "y": 48.9,
+          "passes": 6
+        },
+        {
+          "id": 28559,
+          "name": "Enner Valencia",
+          "x": 77.5,
+          "y": 35.2,
+          "passes": 6
+        },
+        {
+          "id": 123625,
+          "name": "Alan Steve Minda García",
+          "x": 55.2,
+          "y": 23.3,
+          "passes": 3
+        },
+        {
+          "id": 21131,
+          "name": "John Yeboah",
+          "x": 96.4,
+          "y": 75.6,
+          "passes": 1
+        }
+      ],
+      "edges": [
+        {
+          "from": 37945,
+          "to": 38004,
+          "weight": 17
+        },
+        {
+          "from": 38004,
+          "to": 40211,
+          "weight": 5
+        },
+        {
+          "from": 37726,
+          "to": 38004,
+          "weight": 12
+        },
+        {
+          "from": 37726,
+          "to": 37945,
+          "weight": 9
+        },
+        {
+          "from": 28559,
+          "to": 37726,
+          "weight": 4
+        },
+        {
+          "from": 37737,
+          "to": 37945,
+          "weight": 3
+        },
+        {
+          "from": 37737,
+          "to": 384888,
+          "weight": 8
+        },
+        {
+          "from": 30111,
+          "to": 41593,
+          "weight": 20
+        },
+        {
+          "from": 38004,
+          "to": 41593,
+          "weight": 24
+        },
+        {
+          "from": 37945,
+          "to": 41593,
+          "weight": 14
+        },
+        {
+          "from": 40211,
+          "to": 41593,
+          "weight": 3
+        },
+        {
+          "from": 28559,
+          "to": 40211,
+          "weight": 4
+        },
+        {
+          "from": 12583,
+          "to": 37726,
+          "weight": 5
+        },
+        {
+          "from": 37726,
+          "to": 384888,
+          "weight": 9
+        },
+        {
+          "from": 32677,
+          "to": 41593,
+          "weight": 18
+        },
+        {
+          "from": 30111,
+          "to": 32677,
+          "weight": 15
+        },
+        {
+          "from": 12583,
+          "to": 30111,
+          "weight": 12
+        },
+        {
+          "from": 12583,
+          "to": 40211,
+          "weight": 4
+        },
+        {
+          "from": 37726,
+          "to": 40211,
+          "weight": 11
+        },
+        {
+          "from": 30111,
+          "to": 37737,
+          "weight": 12
+        },
+        {
+          "from": 41593,
+          "to": 384888,
+          "weight": 4
+        },
+        {
+          "from": 30111,
+          "to": 37945,
+          "weight": 8
+        },
+        {
+          "from": 12583,
+          "to": 37737,
+          "weight": 3
+        },
+        {
+          "from": 30111,
+          "to": 384888,
+          "weight": 8
+        },
+        {
+          "from": 37945,
+          "to": 384888,
+          "weight": 3
+        },
+        {
+          "from": 32677,
+          "to": 38004,
+          "weight": 4
+        },
+        {
+          "from": 37726,
+          "to": 41593,
+          "weight": 6
+        },
+        {
+          "from": 37726,
+          "to": 37737,
+          "weight": 6
+        },
+        {
+          "from": 32677,
+          "to": 37737,
+          "weight": 3
+        },
+        {
+          "from": 12583,
+          "to": 41593,
+          "weight": 4
+        },
+        {
+          "from": 30111,
+          "to": 37726,
+          "weight": 7
+        },
+        {
+          "from": 30111,
+          "to": 38004,
+          "weight": 3
+        },
+        {
+          "from": 28511,
+          "to": 37726,
+          "weight": 4
+        }
+      ]
+    }
+  }
 }

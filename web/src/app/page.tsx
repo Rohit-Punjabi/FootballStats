@@ -27,8 +27,8 @@ export default function Home() {
             The story behind <span className="text-gradient">the numbers</span>.
           </h1>
           <p className="text-muted text-lg mt-6 max-w-xl">
-            A bold, visual home for football stats — shot maps, expected goals, and the details
-            that make a match make sense. Pick a tournament and dive in.
+            A bold, visual home for football stats. You&apos;ll find shot maps, expected goals,
+            and the details that make a match make sense. Pick a tournament and dive in.
           </p>
         </div>
       </section>

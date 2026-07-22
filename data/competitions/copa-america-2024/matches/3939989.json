@@ -201,5 +201,665 @@
       "outcome": "Goal",
       "body_part": "Right Foot"
     }
-  ]
+  ],
+  "networks": {
+    "Bolivia": {
+      "nodes": [
+        {
+          "id": 398489,
+          "name": "Héctor Cuellar",
+          "x": 46.7,
+          "y": 65.2,
+          "passes": 48
+        },
+        {
+          "id": 223769,
+          "name": "Marcelo Suárez",
+          "x": 37.9,
+          "y": 19.0,
+          "passes": 40
+        },
+        {
+          "id": 37070,
+          "name": "Luis Haquín",
+          "x": 33.4,
+          "y": 43.7,
+          "passes": 39
+        },
+        {
+          "id": 28949,
+          "name": "Boris Cespedes",
+          "x": 44.4,
+          "y": 42.4,
+          "passes": 38
+        },
+        {
+          "id": 336796,
+          "name": "Miguel Ángel Terceros",
+          "x": 52.3,
+          "y": 48.9,
+          "passes": 31
+        },
+        {
+          "id": 114003,
+          "name": "José Sagredo",
+          "x": 58.4,
+          "y": 9.1,
+          "passes": 30
+        },
+        {
+          "id": 113995,
+          "name": "Ramiro Vaca Ponce",
+          "x": 62.3,
+          "y": 29.3,
+          "passes": 29
+        },
+        {
+          "id": 398462,
+          "name": "Adalid Terrazas Abasto",
+          "x": 53.9,
+          "y": 31.6,
+          "passes": 28
+        },
+        {
+          "id": 113732,
+          "name": "Gabriel Alejandro Villamíl Cortéz",
+          "x": 41.6,
+          "y": 34.1,
+          "passes": 25
+        },
+        {
+          "id": 47131,
+          "name": "Leonel Justiniano",
+          "x": 44.1,
+          "y": 34.4,
+          "passes": 22
+        },
+        {
+          "id": 367353,
+          "name": "Yomar Rene Rocha Rodriguez",
+          "x": 57.5,
+          "y": 74.3,
+          "passes": 20
+        },
+        {
+          "id": 47057,
+          "name": "Guillermo Viscarra",
+          "x": 7.2,
+          "y": 40.6,
+          "passes": 17
+        },
+        {
+          "id": 113715,
+          "name": "Fernando Javier Saucedo Pereyra",
+          "x": 63.3,
+          "y": 44.6,
+          "passes": 9
+        },
+        {
+          "id": 21315,
+          "name": "Bruno Miranda",
+          "x": 77.1,
+          "y": 44.4,
+          "passes": 7
+        }
+      ],
+      "edges": [
+        {
+          "from": 113995,
+          "to": 114003,
+          "weight": 12
+        },
+        {
+          "from": 114003,
+          "to": 223769,
+          "weight": 11
+        },
+        {
+          "from": 28949,
+          "to": 223769,
+          "weight": 16
+        },
+        {
+          "from": 28949,
+          "to": 398489,
+          "weight": 18
+        },
+        {
+          "from": 37070,
+          "to": 398489,
+          "weight": 14
+        },
+        {
+          "from": 37070,
+          "to": 47057,
+          "weight": 7
+        },
+        {
+          "from": 47057,
+          "to": 398489,
+          "weight": 8
+        },
+        {
+          "from": 336796,
+          "to": 398489,
+          "weight": 7
+        },
+        {
+          "from": 336796,
+          "to": 367353,
+          "weight": 12
+        },
+        {
+          "from": 28949,
+          "to": 113995,
+          "weight": 6
+        },
+        {
+          "from": 113732,
+          "to": 113995,
+          "weight": 4
+        },
+        {
+          "from": 113732,
+          "to": 114003,
+          "weight": 9
+        },
+        {
+          "from": 28949,
+          "to": 113732,
+          "weight": 11
+        },
+        {
+          "from": 37070,
+          "to": 113732,
+          "weight": 5
+        },
+        {
+          "from": 37070,
+          "to": 223769,
+          "weight": 14
+        },
+        {
+          "from": 113732,
+          "to": 398489,
+          "weight": 8
+        },
+        {
+          "from": 367353,
+          "to": 398489,
+          "weight": 11
+        },
+        {
+          "from": 37070,
+          "to": 114003,
+          "weight": 4
+        },
+        {
+          "from": 28949,
+          "to": 114003,
+          "weight": 4
+        },
+        {
+          "from": 47057,
+          "to": 223769,
+          "weight": 3
+        },
+        {
+          "from": 28949,
+          "to": 367353,
+          "weight": 7
+        },
+        {
+          "from": 113995,
+          "to": 367353,
+          "weight": 4
+        },
+        {
+          "from": 37070,
+          "to": 113995,
+          "weight": 5
+        },
+        {
+          "from": 113995,
+          "to": 336796,
+          "weight": 13
+        },
+        {
+          "from": 28949,
+          "to": 336796,
+          "weight": 6
+        },
+        {
+          "from": 28949,
+          "to": 37070,
+          "weight": 7
+        },
+        {
+          "from": 114003,
+          "to": 336796,
+          "weight": 8
+        },
+        {
+          "from": 113732,
+          "to": 336796,
+          "weight": 3
+        },
+        {
+          "from": 113732,
+          "to": 223769,
+          "weight": 7
+        },
+        {
+          "from": 113995,
+          "to": 398489,
+          "weight": 4
+        },
+        {
+          "from": 114003,
+          "to": 398462,
+          "weight": 3
+        },
+        {
+          "from": 113995,
+          "to": 398462,
+          "weight": 9
+        },
+        {
+          "from": 47131,
+          "to": 398462,
+          "weight": 11
+        },
+        {
+          "from": 47131,
+          "to": 398489,
+          "weight": 4
+        },
+        {
+          "from": 398462,
+          "to": 398489,
+          "weight": 8
+        },
+        {
+          "from": 47131,
+          "to": 223769,
+          "weight": 10
+        },
+        {
+          "from": 47131,
+          "to": 113995,
+          "weight": 4
+        },
+        {
+          "from": 37070,
+          "to": 398462,
+          "weight": 6
+        },
+        {
+          "from": 21315,
+          "to": 114003,
+          "weight": 3
+        },
+        {
+          "from": 37070,
+          "to": 47131,
+          "weight": 3
+        },
+        {
+          "from": 336796,
+          "to": 398462,
+          "weight": 4
+        },
+        {
+          "from": 21315,
+          "to": 113995,
+          "weight": 3
+        },
+        {
+          "from": 21315,
+          "to": 398489,
+          "weight": 3
+        },
+        {
+          "from": 223769,
+          "to": 398462,
+          "weight": 4
+        },
+        {
+          "from": 113715,
+          "to": 223769,
+          "weight": 10
+        },
+        {
+          "from": 113715,
+          "to": 398489,
+          "weight": 4
+        }
+      ]
+    },
+    "Panama": {
+      "nodes": [
+        {
+          "id": 223971,
+          "name": "José Ángel Córdoba Chambers",
+          "x": 36.5,
+          "y": 31.6,
+          "passes": 54
+        },
+        {
+          "id": 5634,
+          "name": "Erick Davis",
+          "x": 63.0,
+          "y": 7.2,
+          "passes": 50
+        },
+        {
+          "id": 34148,
+          "name": "Carlos Harvey",
+          "x": 44.3,
+          "y": 15.4,
+          "passes": 43
+        },
+        {
+          "id": 260212,
+          "name": "Edgardo Isaac Fariña Wynter",
+          "x": 43.2,
+          "y": 57.1,
+          "passes": 39
+        },
+        {
+          "id": 363986,
+          "name": "Jovani Welch",
+          "x": 59.1,
+          "y": 34.9,
+          "passes": 32
+        },
+        {
+          "id": 5637,
+          "name": "Édgar Yoel Bárcenas",
+          "x": 77.2,
+          "y": 27.6,
+          "passes": 30
+        },
+        {
+          "id": 44305,
+          "name": "César Blackman",
+          "x": 64.0,
+          "y": 60.1,
+          "passes": 28
+        },
+        {
+          "id": 104179,
+          "name": "Orlando Mosquera",
+          "x": 14.4,
+          "y": 42.3,
+          "passes": 25
+        },
+        {
+          "id": 5641,
+          "name": "Michael Murillo",
+          "x": 62.7,
+          "y": 68.9,
+          "passes": 16
+        },
+        {
+          "id": 16637,
+          "name": "Christian Martínez",
+          "x": 73.1,
+          "y": 42.8,
+          "passes": 16
+        },
+        {
+          "id": 91089,
+          "name": "José Fajardo Nelson",
+          "x": 84.1,
+          "y": 34.2,
+          "passes": 14
+        },
+        {
+          "id": 383095,
+          "name": "Kahiser Lenis",
+          "x": 75.0,
+          "y": 68.6,
+          "passes": 7
+        },
+        {
+          "id": 50971,
+          "name": "Eduardo Antonio Guerrero Lozcano",
+          "x": 86.6,
+          "y": 33.0,
+          "passes": 5
+        },
+        {
+          "id": 104181,
+          "name": "César Augusto Yanis Velasco",
+          "x": 70.0,
+          "y": 40.9,
+          "passes": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 16637,
+          "to": 363986,
+          "weight": 6
+        },
+        {
+          "from": 5637,
+          "to": 16637,
+          "weight": 4
+        },
+        {
+          "from": 5641,
+          "to": 260212,
+          "weight": 7
+        },
+        {
+          "from": 223971,
+          "to": 260212,
+          "weight": 21
+        },
+        {
+          "from": 5634,
+          "to": 223971,
+          "weight": 13
+        },
+        {
+          "from": 5634,
+          "to": 34148,
+          "weight": 26
+        },
+        {
+          "from": 34148,
+          "to": 223971,
+          "weight": 25
+        },
+        {
+          "from": 104179,
+          "to": 223971,
+          "weight": 13
+        },
+        {
+          "from": 5634,
+          "to": 5637,
+          "weight": 20
+        },
+        {
+          "from": 104179,
+          "to": 260212,
+          "weight": 10
+        },
+        {
+          "from": 5637,
+          "to": 44305,
+          "weight": 6
+        },
+        {
+          "from": 5634,
+          "to": 44305,
+          "weight": 3
+        },
+        {
+          "from": 5641,
+          "to": 91089,
+          "weight": 3
+        },
+        {
+          "from": 5634,
+          "to": 363986,
+          "weight": 11
+        },
+        {
+          "from": 44305,
+          "to": 104179,
+          "weight": 6
+        },
+        {
+          "from": 223971,
+          "to": 363986,
+          "weight": 12
+        },
+        {
+          "from": 91089,
+          "to": 363986,
+          "weight": 5
+        },
+        {
+          "from": 16637,
+          "to": 223971,
+          "weight": 4
+        },
+        {
+          "from": 5641,
+          "to": 16637,
+          "weight": 3
+        },
+        {
+          "from": 5634,
+          "to": 91089,
+          "weight": 6
+        },
+        {
+          "from": 16637,
+          "to": 91089,
+          "weight": 7
+        },
+        {
+          "from": 260212,
+          "to": 363986,
+          "weight": 7
+        },
+        {
+          "from": 34148,
+          "to": 104179,
+          "weight": 12
+        },
+        {
+          "from": 34148,
+          "to": 363986,
+          "weight": 5
+        },
+        {
+          "from": 16637,
+          "to": 260212,
+          "weight": 3
+        },
+        {
+          "from": 5634,
+          "to": 260212,
+          "weight": 3
+        },
+        {
+          "from": 44305,
+          "to": 363986,
+          "weight": 3
+        },
+        {
+          "from": 5637,
+          "to": 91089,
+          "weight": 4
+        },
+        {
+          "from": 44305,
+          "to": 260212,
+          "weight": 7
+        },
+        {
+          "from": 16637,
+          "to": 44305,
+          "weight": 6
+        },
+        {
+          "from": 5641,
+          "to": 44305,
+          "weight": 10
+        },
+        {
+          "from": 5641,
+          "to": 34148,
+          "weight": 3
+        },
+        {
+          "from": 5637,
+          "to": 223971,
+          "weight": 7
+        },
+        {
+          "from": 5634,
+          "to": 104179,
+          "weight": 4
+        },
+        {
+          "from": 44305,
+          "to": 91089,
+          "weight": 4
+        },
+        {
+          "from": 5637,
+          "to": 34148,
+          "weight": 3
+        },
+        {
+          "from": 5634,
+          "to": 16637,
+          "weight": 4
+        },
+        {
+          "from": 5637,
+          "to": 363986,
+          "weight": 4
+        },
+        {
+          "from": 44305,
+          "to": 383095,
+          "weight": 6
+        },
+        {
+          "from": 34148,
+          "to": 260212,
+          "weight": 4
+        },
+        {
+          "from": 260212,
+          "to": 383095,
+          "weight": 6
+        },
+        {
+          "from": 363986,
+          "to": 383095,
+          "weight": 3
+        },
+        {
+          "from": 5634,
+          "to": 50971,
+          "weight": 3
+        },
+        {
+          "from": 50971,
+          "to": 104181,
+          "weight": 4
+        }
+      ]
+    }
+  }
 }

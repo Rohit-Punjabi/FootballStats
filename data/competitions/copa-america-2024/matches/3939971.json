@@ -331,5 +331,610 @@
       "outcome": "Saved",
       "body_part": "Right Foot"
     }
-  ]
+  ],
+  "networks": {
+    "Jamaica": {
+      "nodes": [
+        {
+          "id": 4610,
+          "name": "Ethan Pinnock",
+          "x": 40.9,
+          "y": 20.9,
+          "passes": 33
+        },
+        {
+          "id": 3159,
+          "name": "Greg Leigh",
+          "x": 64.2,
+          "y": 6.9,
+          "passes": 28
+        },
+        {
+          "id": 9923,
+          "name": "Bobby De Cordova-Reid",
+          "x": 54.9,
+          "y": 46.6,
+          "passes": 28
+        },
+        {
+          "id": 32685,
+          "name": "Joel Latibeaudiere",
+          "x": 38.5,
+          "y": 43.8,
+          "passes": 28
+        },
+        {
+          "id": 3317,
+          "name": "Kasey Palmer",
+          "x": 53.3,
+          "y": 28.0,
+          "passes": 27
+        },
+        {
+          "id": 226523,
+          "name": "Jahmali Waite",
+          "x": 9.6,
+          "y": 39.7,
+          "passes": 22
+        },
+        {
+          "id": 61204,
+          "name": "Dexter Lembikisa",
+          "x": 61.1,
+          "y": 59.0,
+          "passes": 20
+        },
+        {
+          "id": 33145,
+          "name": "Di'Shon Bernard",
+          "x": 38.7,
+          "y": 64.9,
+          "passes": 17
+        },
+        {
+          "id": 3312,
+          "name": "Demarai Gray",
+          "x": 66.1,
+          "y": 11.5,
+          "passes": 13
+        },
+        {
+          "id": 31455,
+          "name": "Shamar Nicholson",
+          "x": 74.3,
+          "y": 37.0,
+          "passes": 13
+        },
+        {
+          "id": 16768,
+          "name": "Michael Hector",
+          "x": 46.3,
+          "y": 40.5,
+          "passes": 11
+        },
+        {
+          "id": 3349,
+          "name": "Michail Antonio",
+          "x": 65.4,
+          "y": 30.4,
+          "passes": 10
+        },
+        {
+          "id": 49120,
+          "name": "Damion Lowe",
+          "x": 68.7,
+          "y": 45.5,
+          "passes": 10
+        },
+        {
+          "id": 405926,
+          "name": "Renaldo Cephas",
+          "x": 100.1,
+          "y": 37.2,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 4610,
+          "to": 32685,
+          "weight": 11
+        },
+        {
+          "from": 3159,
+          "to": 32685,
+          "weight": 5
+        },
+        {
+          "from": 31455,
+          "to": 33145,
+          "weight": 4
+        },
+        {
+          "from": 3159,
+          "to": 4610,
+          "weight": 10
+        },
+        {
+          "from": 9923,
+          "to": 61204,
+          "weight": 5
+        },
+        {
+          "from": 31455,
+          "to": 61204,
+          "weight": 8
+        },
+        {
+          "from": 4610,
+          "to": 226523,
+          "weight": 14
+        },
+        {
+          "from": 3349,
+          "to": 33145,
+          "weight": 3
+        },
+        {
+          "from": 9923,
+          "to": 31455,
+          "weight": 4
+        },
+        {
+          "from": 3349,
+          "to": 9923,
+          "weight": 6
+        },
+        {
+          "from": 33145,
+          "to": 61204,
+          "weight": 6
+        },
+        {
+          "from": 3317,
+          "to": 9923,
+          "weight": 9
+        },
+        {
+          "from": 3317,
+          "to": 33145,
+          "weight": 4
+        },
+        {
+          "from": 32685,
+          "to": 33145,
+          "weight": 6
+        },
+        {
+          "from": 9923,
+          "to": 32685,
+          "weight": 8
+        },
+        {
+          "from": 32685,
+          "to": 61204,
+          "weight": 3
+        },
+        {
+          "from": 3159,
+          "to": 3312,
+          "weight": 5
+        },
+        {
+          "from": 3159,
+          "to": 31455,
+          "weight": 3
+        },
+        {
+          "from": 3159,
+          "to": 9923,
+          "weight": 7
+        },
+        {
+          "from": 33145,
+          "to": 226523,
+          "weight": 3
+        },
+        {
+          "from": 3312,
+          "to": 4610,
+          "weight": 3
+        },
+        {
+          "from": 3312,
+          "to": 3317,
+          "weight": 10
+        },
+        {
+          "from": 3159,
+          "to": 3317,
+          "weight": 9
+        },
+        {
+          "from": 3317,
+          "to": 31455,
+          "weight": 3
+        },
+        {
+          "from": 3312,
+          "to": 9923,
+          "weight": 6
+        },
+        {
+          "from": 3159,
+          "to": 61204,
+          "weight": 3
+        },
+        {
+          "from": 4610,
+          "to": 9923,
+          "weight": 5
+        },
+        {
+          "from": 3312,
+          "to": 3349,
+          "weight": 3
+        },
+        {
+          "from": 32685,
+          "to": 226523,
+          "weight": 5
+        },
+        {
+          "from": 3317,
+          "to": 4610,
+          "weight": 5
+        },
+        {
+          "from": 3349,
+          "to": 31455,
+          "weight": 5
+        },
+        {
+          "from": 3159,
+          "to": 3349,
+          "weight": 4
+        },
+        {
+          "from": 4610,
+          "to": 61204,
+          "weight": 6
+        },
+        {
+          "from": 3349,
+          "to": 226523,
+          "weight": 3
+        },
+        {
+          "from": 4610,
+          "to": 16768,
+          "weight": 4
+        },
+        {
+          "from": 16768,
+          "to": 61204,
+          "weight": 4
+        },
+        {
+          "from": 16768,
+          "to": 32685,
+          "weight": 4
+        },
+        {
+          "from": 32685,
+          "to": 49120,
+          "weight": 3
+        },
+        {
+          "from": 31455,
+          "to": 49120,
+          "weight": 3
+        }
+      ]
+    },
+    "Mexico": {
+      "nodes": [
+        {
+          "id": 26386,
+          "name": "Luis Romo",
+          "x": 64.5,
+          "y": 41.3,
+          "passes": 57
+        },
+        {
+          "id": 26368,
+          "name": "César Montes",
+          "x": 52.9,
+          "y": 56.4,
+          "passes": 53
+        },
+        {
+          "id": 26336,
+          "name": "Johan Vásquez",
+          "x": 45.2,
+          "y": 28.0,
+          "passes": 52
+        },
+        {
+          "id": 26406,
+          "name": "Jorge Sánchez",
+          "x": 65.2,
+          "y": 71.0,
+          "passes": 50
+        },
+        {
+          "id": 27896,
+          "name": "Gerardo Arteaga",
+          "x": 61.0,
+          "y": 8.9,
+          "passes": 42
+        },
+        {
+          "id": 26280,
+          "name": "Orbelín Pineda",
+          "x": 81.8,
+          "y": 56.7,
+          "passes": 36
+        },
+        {
+          "id": 35375,
+          "name": "Julián Quiñones",
+          "x": 74.0,
+          "y": 11.4,
+          "passes": 34
+        },
+        {
+          "id": 28825,
+          "name": "Luis Chávez",
+          "x": 69.0,
+          "y": 26.6,
+          "passes": 33
+        },
+        {
+          "id": 15452,
+          "name": "Uriel Antuna",
+          "x": 82.1,
+          "y": 68.9,
+          "passes": 31
+        },
+        {
+          "id": 36949,
+          "name": "Julio José González Vela-Alvizu",
+          "x": 15.4,
+          "y": 39.8,
+          "passes": 26
+        },
+        {
+          "id": 5567,
+          "name": "Edson Álvarez",
+          "x": 60.5,
+          "y": 41.8,
+          "passes": 19
+        },
+        {
+          "id": 26297,
+          "name": "Carlos Alberto Rodríguez",
+          "x": 69.1,
+          "y": 49.0,
+          "passes": 8
+        },
+        {
+          "id": 31053,
+          "name": "Santiago Giménez",
+          "x": 81.1,
+          "y": 51.1,
+          "passes": 6
+        },
+        {
+          "id": 43555,
+          "name": "Erick Sánchez",
+          "x": 56.2,
+          "y": 38.4,
+          "passes": 4
+        }
+      ],
+      "edges": [
+        {
+          "from": 5567,
+          "to": 26280,
+          "weight": 4
+        },
+        {
+          "from": 5567,
+          "to": 26368,
+          "weight": 8
+        },
+        {
+          "from": 26368,
+          "to": 26406,
+          "weight": 15
+        },
+        {
+          "from": 15452,
+          "to": 26368,
+          "weight": 6
+        },
+        {
+          "from": 26336,
+          "to": 26368,
+          "weight": 26
+        },
+        {
+          "from": 26336,
+          "to": 27896,
+          "weight": 19
+        },
+        {
+          "from": 27896,
+          "to": 35375,
+          "weight": 25
+        },
+        {
+          "from": 27896,
+          "to": 36949,
+          "weight": 4
+        },
+        {
+          "from": 26368,
+          "to": 36949,
+          "weight": 9
+        },
+        {
+          "from": 26280,
+          "to": 26368,
+          "weight": 7
+        },
+        {
+          "from": 26280,
+          "to": 26406,
+          "weight": 15
+        },
+        {
+          "from": 15452,
+          "to": 26280,
+          "weight": 17
+        },
+        {
+          "from": 15452,
+          "to": 26406,
+          "weight": 17
+        },
+        {
+          "from": 5567,
+          "to": 26406,
+          "weight": 5
+        },
+        {
+          "from": 15452,
+          "to": 31053,
+          "weight": 4
+        },
+        {
+          "from": 5567,
+          "to": 26336,
+          "weight": 5
+        },
+        {
+          "from": 26336,
+          "to": 36949,
+          "weight": 17
+        },
+        {
+          "from": 26280,
+          "to": 31053,
+          "weight": 6
+        },
+        {
+          "from": 5567,
+          "to": 27896,
+          "weight": 3
+        },
+        {
+          "from": 5567,
+          "to": 35375,
+          "weight": 4
+        },
+        {
+          "from": 28825,
+          "to": 35375,
+          "weight": 17
+        },
+        {
+          "from": 26368,
+          "to": 28825,
+          "weight": 7
+        },
+        {
+          "from": 26280,
+          "to": 28825,
+          "weight": 10
+        },
+        {
+          "from": 5567,
+          "to": 28825,
+          "weight": 4
+        },
+        {
+          "from": 26336,
+          "to": 35375,
+          "weight": 6
+        },
+        {
+          "from": 26368,
+          "to": 35375,
+          "weight": 6
+        },
+        {
+          "from": 27896,
+          "to": 28825,
+          "weight": 6
+        },
+        {
+          "from": 26336,
+          "to": 28825,
+          "weight": 10
+        },
+        {
+          "from": 26368,
+          "to": 26386,
+          "weight": 19
+        },
+        {
+          "from": 26386,
+          "to": 26406,
+          "weight": 20
+        },
+        {
+          "from": 26386,
+          "to": 27896,
+          "weight": 13
+        },
+        {
+          "from": 26336,
+          "to": 26386,
+          "weight": 12
+        },
+        {
+          "from": 26280,
+          "to": 26386,
+          "weight": 10
+        },
+        {
+          "from": 15452,
+          "to": 26386,
+          "weight": 10
+        },
+        {
+          "from": 26386,
+          "to": 28825,
+          "weight": 9
+        },
+        {
+          "from": 26386,
+          "to": 35375,
+          "weight": 10
+        },
+        {
+          "from": 26406,
+          "to": 36949,
+          "weight": 7
+        },
+        {
+          "from": 26297,
+          "to": 26406,
+          "weight": 5
+        },
+        {
+          "from": 26297,
+          "to": 35375,
+          "weight": 4
+        },
+        {
+          "from": 26386,
+          "to": 43555,
+          "weight": 4
+        }
+      ]
+    }
+  }
 }

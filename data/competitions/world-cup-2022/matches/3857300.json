@@ -181,5 +181,610 @@
       "outcome": "Saved",
       "body_part": "Head"
     }
-  ]
+  ],
+  "networks": {
+    "Argentina": {
+      "nodes": [
+        {
+          "id": 3090,
+          "name": "Nicolás Otamendi",
+          "x": 40.3,
+          "y": 32.9,
+          "passes": 84
+        },
+        {
+          "id": 7797,
+          "name": "Rodrigo De Paul",
+          "x": 58.8,
+          "y": 52.2,
+          "passes": 66
+        },
+        {
+          "id": 29201,
+          "name": "Nahuel Molina",
+          "x": 55.7,
+          "y": 69.6,
+          "passes": 57
+        },
+        {
+          "id": 16308,
+          "name": "Leandro Paredes",
+          "x": 49.3,
+          "y": 33.4,
+          "passes": 55
+        },
+        {
+          "id": 20572,
+          "name": "Cristian Romero",
+          "x": 39.8,
+          "y": 53.9,
+          "passes": 55
+        },
+        {
+          "id": 5503,
+          "name": "Lionel Messi",
+          "x": 70.7,
+          "y": 45.4,
+          "passes": 33
+        },
+        {
+          "id": 38718,
+          "name": "Enzo Fernandez",
+          "x": 59.6,
+          "y": 32.7,
+          "passes": 33
+        },
+        {
+          "id": 2995,
+          "name": "Ángel Di María",
+          "x": 77.8,
+          "y": 68.9,
+          "passes": 31
+        },
+        {
+          "id": 27768,
+          "name": "Lisandro Martínez",
+          "x": 48.4,
+          "y": 22.1,
+          "passes": 29
+        },
+        {
+          "id": 5507,
+          "name": "Nicolás Tagliafico",
+          "x": 56.9,
+          "y": 6.3,
+          "passes": 27
+        },
+        {
+          "id": 6909,
+          "name": "Emiliano Martínez",
+          "x": 12.4,
+          "y": 42.9,
+          "passes": 21
+        },
+        {
+          "id": 7006,
+          "name": "Papu Gómez",
+          "x": 66.7,
+          "y": 19.5,
+          "passes": 20
+        },
+        {
+          "id": 19597,
+          "name": "Marcos Acuña",
+          "x": 80.9,
+          "y": 5.6,
+          "passes": 18
+        },
+        {
+          "id": 11456,
+          "name": "Lautaro Martínez",
+          "x": 65.5,
+          "y": 40.0,
+          "passes": 13
+        }
+      ],
+      "edges": [
+        {
+          "from": 5507,
+          "to": 11456,
+          "weight": 3
+        },
+        {
+          "from": 11456,
+          "to": 16308,
+          "weight": 4
+        },
+        {
+          "from": 3090,
+          "to": 16308,
+          "weight": 24
+        },
+        {
+          "from": 3090,
+          "to": 20572,
+          "weight": 33
+        },
+        {
+          "from": 7797,
+          "to": 20572,
+          "weight": 16
+        },
+        {
+          "from": 7797,
+          "to": 16308,
+          "weight": 22
+        },
+        {
+          "from": 16308,
+          "to": 20572,
+          "weight": 23
+        },
+        {
+          "from": 20572,
+          "to": 29201,
+          "weight": 15
+        },
+        {
+          "from": 6909,
+          "to": 29201,
+          "weight": 8
+        },
+        {
+          "from": 3090,
+          "to": 6909,
+          "weight": 9
+        },
+        {
+          "from": 3090,
+          "to": 5507,
+          "weight": 23
+        },
+        {
+          "from": 7797,
+          "to": 29201,
+          "weight": 19
+        },
+        {
+          "from": 2995,
+          "to": 20572,
+          "weight": 6
+        },
+        {
+          "from": 2995,
+          "to": 11456,
+          "weight": 3
+        },
+        {
+          "from": 3090,
+          "to": 29201,
+          "weight": 15
+        },
+        {
+          "from": 3090,
+          "to": 7797,
+          "weight": 17
+        },
+        {
+          "from": 7006,
+          "to": 16308,
+          "weight": 14
+        },
+        {
+          "from": 2995,
+          "to": 29201,
+          "weight": 20
+        },
+        {
+          "from": 6909,
+          "to": 20572,
+          "weight": 4
+        },
+        {
+          "from": 5507,
+          "to": 16308,
+          "weight": 7
+        },
+        {
+          "from": 3090,
+          "to": 7006,
+          "weight": 7
+        },
+        {
+          "from": 5507,
+          "to": 7006,
+          "weight": 7
+        },
+        {
+          "from": 5503,
+          "to": 7006,
+          "weight": 8
+        },
+        {
+          "from": 11456,
+          "to": 29201,
+          "weight": 4
+        },
+        {
+          "from": 2995,
+          "to": 5503,
+          "weight": 14
+        },
+        {
+          "from": 5503,
+          "to": 7797,
+          "weight": 13
+        },
+        {
+          "from": 5503,
+          "to": 29201,
+          "weight": 8
+        },
+        {
+          "from": 5503,
+          "to": 20572,
+          "weight": 7
+        },
+        {
+          "from": 3090,
+          "to": 5503,
+          "weight": 6
+        },
+        {
+          "from": 5503,
+          "to": 16308,
+          "weight": 8
+        },
+        {
+          "from": 7006,
+          "to": 29201,
+          "weight": 3
+        },
+        {
+          "from": 2995,
+          "to": 7797,
+          "weight": 17
+        },
+        {
+          "from": 7797,
+          "to": 11456,
+          "weight": 4
+        },
+        {
+          "from": 5503,
+          "to": 11456,
+          "weight": 5
+        },
+        {
+          "from": 16308,
+          "to": 29201,
+          "weight": 3
+        },
+        {
+          "from": 3090,
+          "to": 27768,
+          "weight": 17
+        },
+        {
+          "from": 2995,
+          "to": 3090,
+          "weight": 4
+        },
+        {
+          "from": 6909,
+          "to": 27768,
+          "weight": 5
+        },
+        {
+          "from": 27768,
+          "to": 38718,
+          "weight": 13
+        },
+        {
+          "from": 7797,
+          "to": 38718,
+          "weight": 12
+        },
+        {
+          "from": 5503,
+          "to": 38718,
+          "weight": 5
+        },
+        {
+          "from": 5507,
+          "to": 27768,
+          "weight": 3
+        },
+        {
+          "from": 7797,
+          "to": 27768,
+          "weight": 10
+        },
+        {
+          "from": 3090,
+          "to": 38718,
+          "weight": 7
+        },
+        {
+          "from": 29201,
+          "to": 38718,
+          "weight": 4
+        },
+        {
+          "from": 2995,
+          "to": 38718,
+          "weight": 7
+        },
+        {
+          "from": 11456,
+          "to": 19597,
+          "weight": 3
+        },
+        {
+          "from": 19597,
+          "to": 38718,
+          "weight": 11
+        },
+        {
+          "from": 19597,
+          "to": 27768,
+          "weight": 4
+        }
+      ]
+    },
+    "Saudi Arabia": {
+      "nodes": [
+        {
+          "id": 5713,
+          "name": "Mohammed Kanoo",
+          "x": 64.6,
+          "y": 48.5,
+          "passes": 29
+        },
+        {
+          "id": 56755,
+          "name": "Abdulelah Al Malki",
+          "x": 49.8,
+          "y": 40.8,
+          "passes": 29
+        },
+        {
+          "id": 51546,
+          "name": "Hassan Mohammed Al Tambakti",
+          "x": 47.7,
+          "y": 60.6,
+          "passes": 22
+        },
+        {
+          "id": 51710,
+          "name": "Saud Abdul Hamid",
+          "x": 72.5,
+          "y": 70.5,
+          "passes": 21
+        },
+        {
+          "id": 5187,
+          "name": "Salem Al Dawsari",
+          "x": 74.5,
+          "y": 29.0,
+          "passes": 17
+        },
+        {
+          "id": 5714,
+          "name": "Mohammed Al Owais",
+          "x": 12.9,
+          "y": 40.7,
+          "passes": 17
+        },
+        {
+          "id": 5183,
+          "name": "Yasir Al Shahrani",
+          "x": 62.9,
+          "y": 8.9,
+          "passes": 12
+        },
+        {
+          "id": 51099,
+          "name": "Firas Albirakan",
+          "x": 88.0,
+          "y": 55.7,
+          "passes": 11
+        },
+        {
+          "id": 5178,
+          "name": "Salman Al Faraj",
+          "x": 76.5,
+          "y": 63.7,
+          "passes": 10
+        },
+        {
+          "id": 5715,
+          "name": "Ali Albulayhi",
+          "x": 43.5,
+          "y": 22.5,
+          "passes": 10
+        },
+        {
+          "id": 51469,
+          "name": "Saleh Al Shehri",
+          "x": 71.1,
+          "y": 40.4,
+          "passes": 10
+        },
+        {
+          "id": 54144,
+          "name": "Nawaf Al Abid",
+          "x": 77.0,
+          "y": 46.1,
+          "passes": 6
+        },
+        {
+          "id": 5191,
+          "name": "Mohammed Al Burayk",
+          "x": 85.2,
+          "y": 3.6,
+          "passes": 1
+        },
+        {
+          "id": 57620,
+          "name": "Sultan Al Ghanam",
+          "x": 109.6,
+          "y": 75.7,
+          "passes": 1
+        }
+      ],
+      "edges": [
+        {
+          "from": 5713,
+          "to": 51469,
+          "weight": 8
+        },
+        {
+          "from": 5713,
+          "to": 51546,
+          "weight": 9
+        },
+        {
+          "from": 5178,
+          "to": 5713,
+          "weight": 5
+        },
+        {
+          "from": 5178,
+          "to": 56755,
+          "weight": 7
+        },
+        {
+          "from": 51546,
+          "to": 56755,
+          "weight": 9
+        },
+        {
+          "from": 5715,
+          "to": 51546,
+          "weight": 3
+        },
+        {
+          "from": 5187,
+          "to": 5715,
+          "weight": 3
+        },
+        {
+          "from": 5183,
+          "to": 56755,
+          "weight": 5
+        },
+        {
+          "from": 5187,
+          "to": 51469,
+          "weight": 3
+        },
+        {
+          "from": 51710,
+          "to": 56755,
+          "weight": 7
+        },
+        {
+          "from": 5178,
+          "to": 51546,
+          "weight": 5
+        },
+        {
+          "from": 5714,
+          "to": 51546,
+          "weight": 6
+        },
+        {
+          "from": 5183,
+          "to": 51469,
+          "weight": 4
+        },
+        {
+          "from": 5713,
+          "to": 51710,
+          "weight": 9
+        },
+        {
+          "from": 51546,
+          "to": 51710,
+          "weight": 3
+        },
+        {
+          "from": 5187,
+          "to": 51710,
+          "weight": 4
+        },
+        {
+          "from": 5187,
+          "to": 5713,
+          "weight": 7
+        },
+        {
+          "from": 51099,
+          "to": 51710,
+          "weight": 5
+        },
+        {
+          "from": 5715,
+          "to": 56755,
+          "weight": 7
+        },
+        {
+          "from": 51099,
+          "to": 51469,
+          "weight": 4
+        },
+        {
+          "from": 5714,
+          "to": 5715,
+          "weight": 6
+        },
+        {
+          "from": 5714,
+          "to": 51710,
+          "weight": 4
+        },
+        {
+          "from": 5713,
+          "to": 56755,
+          "weight": 6
+        },
+        {
+          "from": 5187,
+          "to": 56755,
+          "weight": 6
+        },
+        {
+          "from": 5183,
+          "to": 5713,
+          "weight": 5
+        },
+        {
+          "from": 5178,
+          "to": 51710,
+          "weight": 3
+        },
+        {
+          "from": 5183,
+          "to": 5187,
+          "weight": 6
+        },
+        {
+          "from": 5713,
+          "to": 54144,
+          "weight": 3
+        },
+        {
+          "from": 5187,
+          "to": 54144,
+          "weight": 3
+        },
+        {
+          "from": 51710,
+          "to": 54144,
+          "weight": 3
+        }
+      ]
+    }
+  }
 }

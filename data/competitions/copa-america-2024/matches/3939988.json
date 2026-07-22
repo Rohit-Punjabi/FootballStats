@@ -291,5 +291,530 @@
       "outcome": "Blocked",
       "body_part": "Left Foot"
     }
-  ]
+  ],
+  "networks": {
+    "Ecuador": {
+      "nodes": [
+        {
+          "id": 37726,
+          "name": "Moisés Caicedo",
+          "x": 62.1,
+          "y": 29.9,
+          "passes": 43
+        },
+        {
+          "id": 38004,
+          "name": "Piero Hincapié",
+          "x": 57.8,
+          "y": 6.4,
+          "passes": 27
+        },
+        {
+          "id": 41593,
+          "name": "Willian Pacho",
+          "x": 37.4,
+          "y": 26.4,
+          "passes": 25
+        },
+        {
+          "id": 30111,
+          "name": "Félix Torres",
+          "x": 45.4,
+          "y": 55.3,
+          "passes": 24
+        },
+        {
+          "id": 37737,
+          "name": "Angelo Preciado",
+          "x": 64.6,
+          "y": 72.4,
+          "passes": 23
+        },
+        {
+          "id": 37945,
+          "name": "Alan Franco",
+          "x": 55.8,
+          "y": 38.1,
+          "passes": 21
+        },
+        {
+          "id": 32677,
+          "name": "Alexander Domínguez",
+          "x": 10.8,
+          "y": 42.4,
+          "passes": 14
+        },
+        {
+          "id": 384888,
+          "name": "Kendry Páez",
+          "x": 74.2,
+          "y": 61.8,
+          "passes": 10
+        },
+        {
+          "id": 40211,
+          "name": "Jeremy Sarmiento",
+          "x": 68.3,
+          "y": 13.6,
+          "passes": 8
+        },
+        {
+          "id": 28559,
+          "name": "Enner Valencia",
+          "x": 85.5,
+          "y": 36.6,
+          "passes": 7
+        },
+        {
+          "id": 28511,
+          "name": "Ángel Mena",
+          "x": 61.0,
+          "y": 60.4,
+          "passes": 6
+        },
+        {
+          "id": 348757,
+          "name": "Kevin Rodríguez",
+          "x": 95.6,
+          "y": 51.7,
+          "passes": 4
+        },
+        {
+          "id": 12583,
+          "name": "Carlos Gruezo",
+          "x": 51.4,
+          "y": 29.0,
+          "passes": 3
+        },
+        {
+          "id": 123625,
+          "name": "Alan Steve Minda García",
+          "x": 68.4,
+          "y": 20.9,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 37726,
+          "to": 41593,
+          "weight": 10
+        },
+        {
+          "from": 32677,
+          "to": 41593,
+          "weight": 10
+        },
+        {
+          "from": 37737,
+          "to": 384888,
+          "weight": 7
+        },
+        {
+          "from": 38004,
+          "to": 40211,
+          "weight": 10
+        },
+        {
+          "from": 28559,
+          "to": 40211,
+          "weight": 3
+        },
+        {
+          "from": 38004,
+          "to": 41593,
+          "weight": 11
+        },
+        {
+          "from": 30111,
+          "to": 32677,
+          "weight": 6
+        },
+        {
+          "from": 30111,
+          "to": 37726,
+          "weight": 10
+        },
+        {
+          "from": 37726,
+          "to": 37737,
+          "weight": 8
+        },
+        {
+          "from": 30111,
+          "to": 37737,
+          "weight": 12
+        },
+        {
+          "from": 30111,
+          "to": 41593,
+          "weight": 9
+        },
+        {
+          "from": 28559,
+          "to": 348757,
+          "weight": 3
+        },
+        {
+          "from": 37726,
+          "to": 38004,
+          "weight": 11
+        },
+        {
+          "from": 37945,
+          "to": 41593,
+          "weight": 7
+        },
+        {
+          "from": 30111,
+          "to": 37945,
+          "weight": 7
+        },
+        {
+          "from": 37726,
+          "to": 37945,
+          "weight": 10
+        },
+        {
+          "from": 37726,
+          "to": 384888,
+          "weight": 7
+        },
+        {
+          "from": 28559,
+          "to": 37737,
+          "weight": 3
+        },
+        {
+          "from": 32677,
+          "to": 38004,
+          "weight": 4
+        },
+        {
+          "from": 37726,
+          "to": 40211,
+          "weight": 4
+        },
+        {
+          "from": 32677,
+          "to": 37726,
+          "weight": 3
+        },
+        {
+          "from": 37945,
+          "to": 38004,
+          "weight": 3
+        },
+        {
+          "from": 28559,
+          "to": 38004,
+          "weight": 3
+        },
+        {
+          "from": 37737,
+          "to": 37945,
+          "weight": 3
+        },
+        {
+          "from": 37945,
+          "to": 40211,
+          "weight": 3
+        },
+        {
+          "from": 37726,
+          "to": 123625,
+          "weight": 3
+        },
+        {
+          "from": 28511,
+          "to": 37726,
+          "weight": 3
+        },
+        {
+          "from": 12583,
+          "to": 37726,
+          "weight": 3
+        },
+        {
+          "from": 38004,
+          "to": 123625,
+          "weight": 4
+        }
+      ]
+    },
+    "Mexico": {
+      "nodes": [
+        {
+          "id": 26336,
+          "name": "Johan Vásquez",
+          "x": 38.2,
+          "y": 28.9,
+          "passes": 51
+        },
+        {
+          "id": 26368,
+          "name": "César Montes",
+          "x": 48.2,
+          "y": 57.9,
+          "passes": 46
+        },
+        {
+          "id": 26386,
+          "name": "Luis Romo",
+          "x": 60.5,
+          "y": 46.4,
+          "passes": 45
+        },
+        {
+          "id": 28825,
+          "name": "Luis Chávez",
+          "x": 65.8,
+          "y": 26.7,
+          "passes": 40
+        },
+        {
+          "id": 27896,
+          "name": "Gerardo Arteaga",
+          "x": 55.2,
+          "y": 10.9,
+          "passes": 33
+        },
+        {
+          "id": 26406,
+          "name": "Jorge Sánchez",
+          "x": 68.7,
+          "y": 72.1,
+          "passes": 32
+        },
+        {
+          "id": 36949,
+          "name": "Julio José González Vela-Alvizu",
+          "x": 18.1,
+          "y": 41.0,
+          "passes": 29
+        },
+        {
+          "id": 35375,
+          "name": "Julián Quiñones",
+          "x": 73.4,
+          "y": 13.7,
+          "passes": 21
+        },
+        {
+          "id": 26280,
+          "name": "Orbelín Pineda",
+          "x": 84.7,
+          "y": 51.7,
+          "passes": 14
+        },
+        {
+          "id": 15452,
+          "name": "Uriel Antuna",
+          "x": 74.1,
+          "y": 59.9,
+          "passes": 11
+        },
+        {
+          "id": 27889,
+          "name": "César Huerta",
+          "x": 63.4,
+          "y": 59.1,
+          "passes": 10
+        },
+        {
+          "id": 43555,
+          "name": "Erick Sánchez",
+          "x": 38.5,
+          "y": 53.5,
+          "passes": 8
+        },
+        {
+          "id": 31053,
+          "name": "Santiago Giménez",
+          "x": 60.0,
+          "y": 40.0,
+          "passes": 7
+        },
+        {
+          "id": 75305,
+          "name": "Guillermo Martínez Ayala",
+          "x": 74.4,
+          "y": 20.4,
+          "passes": 4
+        }
+      ],
+      "edges": [
+        {
+          "from": 26386,
+          "to": 31053,
+          "weight": 3
+        },
+        {
+          "from": 26368,
+          "to": 26386,
+          "weight": 18
+        },
+        {
+          "from": 26336,
+          "to": 26368,
+          "weight": 17
+        },
+        {
+          "from": 26336,
+          "to": 36949,
+          "weight": 22
+        },
+        {
+          "from": 26336,
+          "to": 27896,
+          "weight": 20
+        },
+        {
+          "from": 27896,
+          "to": 35375,
+          "weight": 18
+        },
+        {
+          "from": 26368,
+          "to": 26406,
+          "weight": 14
+        },
+        {
+          "from": 26386,
+          "to": 26406,
+          "weight": 10
+        },
+        {
+          "from": 26280,
+          "to": 26386,
+          "weight": 9
+        },
+        {
+          "from": 26406,
+          "to": 27889,
+          "weight": 4
+        },
+        {
+          "from": 26386,
+          "to": 27889,
+          "weight": 8
+        },
+        {
+          "from": 26406,
+          "to": 28825,
+          "weight": 4
+        },
+        {
+          "from": 26280,
+          "to": 28825,
+          "weight": 3
+        },
+        {
+          "from": 26280,
+          "to": 31053,
+          "weight": 4
+        },
+        {
+          "from": 28825,
+          "to": 31053,
+          "weight": 3
+        },
+        {
+          "from": 26368,
+          "to": 36949,
+          "weight": 20
+        },
+        {
+          "from": 26280,
+          "to": 27889,
+          "weight": 3
+        },
+        {
+          "from": 26280,
+          "to": 26406,
+          "weight": 7
+        },
+        {
+          "from": 26368,
+          "to": 28825,
+          "weight": 5
+        },
+        {
+          "from": 27896,
+          "to": 28825,
+          "weight": 13
+        },
+        {
+          "from": 28825,
+          "to": 35375,
+          "weight": 13
+        },
+        {
+          "from": 26386,
+          "to": 35375,
+          "weight": 7
+        },
+        {
+          "from": 26386,
+          "to": 27896,
+          "weight": 7
+        },
+        {
+          "from": 26336,
+          "to": 26386,
+          "weight": 5
+        },
+        {
+          "from": 26386,
+          "to": 28825,
+          "weight": 14
+        },
+        {
+          "from": 26336,
+          "to": 28825,
+          "weight": 14
+        },
+        {
+          "from": 26280,
+          "to": 26368,
+          "weight": 4
+        },
+        {
+          "from": 27889,
+          "to": 31053,
+          "weight": 3
+        },
+        {
+          "from": 15452,
+          "to": 26406,
+          "weight": 8
+        },
+        {
+          "from": 35375,
+          "to": 75305,
+          "weight": 3
+        },
+        {
+          "from": 15452,
+          "to": 26386,
+          "weight": 4
+        },
+        {
+          "from": 28825,
+          "to": 43555,
+          "weight": 4
+        },
+        {
+          "from": 26336,
+          "to": 43555,
+          "weight": 5
+        },
+        {
+          "from": 26336,
+          "to": 26406,
+          "weight": 4
+        }
+      ]
+    }
+  }
 }

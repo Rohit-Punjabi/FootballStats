@@ -241,5 +241,564 @@
       "outcome": "Off T",
       "body_part": "Right Foot"
     }
-  ]
+  ],
+  "networks": {
+    "England": {
+      "nodes": [
+        {
+          "id": 3336,
+          "name": "Harry Maguire",
+          "x": 47.4,
+          "y": 21.1,
+          "passes": 79
+        },
+        {
+          "id": 3244,
+          "name": "John Stones",
+          "x": 43.6,
+          "y": 47.4,
+          "passes": 70
+        },
+        {
+          "id": 3943,
+          "name": "Declan Rice",
+          "x": 55.8,
+          "y": 35.0,
+          "passes": 60
+        },
+        {
+          "id": 3382,
+          "name": "Luke Shaw",
+          "x": 61.1,
+          "y": 8.6,
+          "passes": 55
+        },
+        {
+          "id": 3205,
+          "name": "Kyle Walker",
+          "x": 55.8,
+          "y": 67.2,
+          "passes": 41
+        },
+        {
+          "id": 3532,
+          "name": "Jordan Henderson",
+          "x": 73.1,
+          "y": 60.1,
+          "passes": 41
+        },
+        {
+          "id": 30714,
+          "name": "Jude Bellingham",
+          "x": 71.3,
+          "y": 31.0,
+          "passes": 36
+        },
+        {
+          "id": 4354,
+          "name": "Philip Foden",
+          "x": 85.4,
+          "y": 28.7,
+          "passes": 22
+        },
+        {
+          "id": 3468,
+          "name": "Jordan Pickford",
+          "x": 10.2,
+          "y": 41.7,
+          "passes": 20
+        },
+        {
+          "id": 22084,
+          "name": "Bukayo Saka",
+          "x": 86.3,
+          "y": 65.7,
+          "passes": 18
+        },
+        {
+          "id": 10955,
+          "name": "Harry Kane",
+          "x": 73.9,
+          "y": 44.4,
+          "passes": 14
+        },
+        {
+          "id": 3233,
+          "name": "Raheem Sterling",
+          "x": 63.8,
+          "y": 64.1,
+          "passes": 4
+        },
+        {
+          "id": 3318,
+          "name": "Marcus Rashford",
+          "x": 73.4,
+          "y": 26.0,
+          "passes": 3
+        },
+        {
+          "id": 7843,
+          "name": "Mason Mount",
+          "x": 78.2,
+          "y": 59.4,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 3336,
+          "to": 30714,
+          "weight": 9
+        },
+        {
+          "from": 3244,
+          "to": 3468,
+          "weight": 8
+        },
+        {
+          "from": 3244,
+          "to": 3943,
+          "weight": 24
+        },
+        {
+          "from": 3382,
+          "to": 3943,
+          "weight": 18
+        },
+        {
+          "from": 3336,
+          "to": 3382,
+          "weight": 47
+        },
+        {
+          "from": 3244,
+          "to": 3336,
+          "weight": 49
+        },
+        {
+          "from": 10955,
+          "to": 22084,
+          "weight": 8
+        },
+        {
+          "from": 3943,
+          "to": 10955,
+          "weight": 9
+        },
+        {
+          "from": 3532,
+          "to": 4354,
+          "weight": 7
+        },
+        {
+          "from": 3943,
+          "to": 4354,
+          "weight": 10
+        },
+        {
+          "from": 3382,
+          "to": 4354,
+          "weight": 10
+        },
+        {
+          "from": 3382,
+          "to": 30714,
+          "weight": 21
+        },
+        {
+          "from": 3336,
+          "to": 4354,
+          "weight": 6
+        },
+        {
+          "from": 4354,
+          "to": 30714,
+          "weight": 10
+        },
+        {
+          "from": 3244,
+          "to": 3532,
+          "weight": 20
+        },
+        {
+          "from": 3336,
+          "to": 3532,
+          "weight": 12
+        },
+        {
+          "from": 3336,
+          "to": 3468,
+          "weight": 10
+        },
+        {
+          "from": 3336,
+          "to": 3943,
+          "weight": 21
+        },
+        {
+          "from": 3205,
+          "to": 3468,
+          "weight": 3
+        },
+        {
+          "from": 3205,
+          "to": 30714,
+          "weight": 4
+        },
+        {
+          "from": 3943,
+          "to": 30714,
+          "weight": 7
+        },
+        {
+          "from": 3532,
+          "to": 3943,
+          "weight": 7
+        },
+        {
+          "from": 3205,
+          "to": 3532,
+          "weight": 10
+        },
+        {
+          "from": 3205,
+          "to": 3336,
+          "weight": 5
+        },
+        {
+          "from": 3205,
+          "to": 3943,
+          "weight": 14
+        },
+        {
+          "from": 3205,
+          "to": 3244,
+          "weight": 20
+        },
+        {
+          "from": 3382,
+          "to": 3468,
+          "weight": 3
+        },
+        {
+          "from": 3532,
+          "to": 30714,
+          "weight": 8
+        },
+        {
+          "from": 3205,
+          "to": 22084,
+          "weight": 8
+        },
+        {
+          "from": 3532,
+          "to": 22084,
+          "weight": 15
+        },
+        {
+          "from": 3244,
+          "to": 30714,
+          "weight": 5
+        },
+        {
+          "from": 3943,
+          "to": 22084,
+          "weight": 3
+        },
+        {
+          "from": 22084,
+          "to": 30714,
+          "weight": 4
+        },
+        {
+          "from": 3205,
+          "to": 10955,
+          "weight": 3
+        },
+        {
+          "from": 3244,
+          "to": 22084,
+          "weight": 5
+        },
+        {
+          "from": 3382,
+          "to": 10955,
+          "weight": 4
+        },
+        {
+          "from": 3468,
+          "to": 10955,
+          "weight": 3
+        },
+        {
+          "from": 3318,
+          "to": 10955,
+          "weight": 3
+        },
+        {
+          "from": 3205,
+          "to": 3233,
+          "weight": 3
+        },
+        {
+          "from": 3233,
+          "to": 3943,
+          "weight": 3
+        }
+      ]
+    },
+    "France": {
+      "nodes": [
+        {
+          "id": 4445,
+          "name": "Jules Koundé",
+          "x": 59.8,
+          "y": 71.2,
+          "passes": 39
+        },
+        {
+          "id": 5487,
+          "name": "Antoine Griezmann",
+          "x": 65.2,
+          "y": 48.4,
+          "passes": 39
+        },
+        {
+          "id": 10481,
+          "name": "Aurélien Tchouaméni",
+          "x": 57.3,
+          "y": 46.6,
+          "passes": 39
+        },
+        {
+          "id": 8519,
+          "name": "Dayotchanculle Upamecano",
+          "x": 47.3,
+          "y": 26.6,
+          "passes": 36
+        },
+        {
+          "id": 3026,
+          "name": "Adrien Rabiot",
+          "x": 72.0,
+          "y": 23.9,
+          "passes": 35
+        },
+        {
+          "id": 6704,
+          "name": "Theo Hernández",
+          "x": 64.0,
+          "y": 10.8,
+          "passes": 34
+        },
+        {
+          "id": 5485,
+          "name": "Raphaël Varane",
+          "x": 52.5,
+          "y": 58.1,
+          "passes": 31
+        },
+        {
+          "id": 5477,
+          "name": "Ousmane Dembélé",
+          "x": 80.1,
+          "y": 69.3,
+          "passes": 30
+        },
+        {
+          "id": 3009,
+          "name": "Kylian Mbappé",
+          "x": 78.1,
+          "y": 15.6,
+          "passes": 26
+        },
+        {
+          "id": 3099,
+          "name": "Hugo Lloris",
+          "x": 12.7,
+          "y": 37.8,
+          "passes": 13
+        },
+        {
+          "id": 3604,
+          "name": "Olivier Giroud",
+          "x": 80.6,
+          "y": 44.4,
+          "passes": 6
+        }
+      ],
+      "edges": [
+        {
+          "from": 5487,
+          "to": 10481,
+          "weight": 16
+        },
+        {
+          "from": 4445,
+          "to": 5477,
+          "weight": 20
+        },
+        {
+          "from": 4445,
+          "to": 10481,
+          "weight": 13
+        },
+        {
+          "from": 8519,
+          "to": 10481,
+          "weight": 9
+        },
+        {
+          "from": 6704,
+          "to": 8519,
+          "weight": 16
+        },
+        {
+          "from": 3009,
+          "to": 6704,
+          "weight": 17
+        },
+        {
+          "from": 3009,
+          "to": 3026,
+          "weight": 16
+        },
+        {
+          "from": 3026,
+          "to": 6704,
+          "weight": 14
+        },
+        {
+          "from": 3026,
+          "to": 5485,
+          "weight": 5
+        },
+        {
+          "from": 4445,
+          "to": 5485,
+          "weight": 11
+        },
+        {
+          "from": 5477,
+          "to": 5487,
+          "weight": 17
+        },
+        {
+          "from": 6704,
+          "to": 10481,
+          "weight": 6
+        },
+        {
+          "from": 4445,
+          "to": 5487,
+          "weight": 10
+        },
+        {
+          "from": 5485,
+          "to": 8519,
+          "weight": 16
+        },
+        {
+          "from": 5485,
+          "to": 5487,
+          "weight": 5
+        },
+        {
+          "from": 3099,
+          "to": 5485,
+          "weight": 5
+        },
+        {
+          "from": 3009,
+          "to": 3604,
+          "weight": 4
+        },
+        {
+          "from": 3026,
+          "to": 5487,
+          "weight": 5
+        },
+        {
+          "from": 5477,
+          "to": 5485,
+          "weight": 8
+        },
+        {
+          "from": 3026,
+          "to": 8519,
+          "weight": 7
+        },
+        {
+          "from": 3026,
+          "to": 5477,
+          "weight": 3
+        },
+        {
+          "from": 3604,
+          "to": 5477,
+          "weight": 4
+        },
+        {
+          "from": 5487,
+          "to": 8519,
+          "weight": 10
+        },
+        {
+          "from": 5487,
+          "to": 6704,
+          "weight": 6
+        },
+        {
+          "from": 3009,
+          "to": 5477,
+          "weight": 6
+        },
+        {
+          "from": 3009,
+          "to": 8519,
+          "weight": 5
+        },
+        {
+          "from": 3099,
+          "to": 8519,
+          "weight": 5
+        },
+        {
+          "from": 5485,
+          "to": 10481,
+          "weight": 6
+        },
+        {
+          "from": 3026,
+          "to": 10481,
+          "weight": 13
+        },
+        {
+          "from": 5477,
+          "to": 10481,
+          "weight": 7
+        },
+        {
+          "from": 3099,
+          "to": 3604,
+          "weight": 4
+        },
+        {
+          "from": 3026,
+          "to": 4445,
+          "weight": 4
+        },
+        {
+          "from": 3009,
+          "to": 10481,
+          "weight": 4
+        },
+        {
+          "from": 3009,
+          "to": 5487,
+          "weight": 3
+        }
+      ]
+    }
+  }
 }
