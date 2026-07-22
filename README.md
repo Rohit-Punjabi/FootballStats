@@ -1,7 +1,7 @@
 <h1 align="center">⚽ FootballStats</h1>
 
 <p align="center">
-  <b>A calm, visual home for football statistics.</b><br>
+  <b>A bold, visual home for football statistics.</b><br>
   Shot maps, expected goals, and the details that explain a match — not just list it.
 </p>
 
@@ -41,7 +41,7 @@ another is a one-line config change.
 - ⚖️ **Head-to-head compare** — pick any two players and see them side by side.
 - 🏆 **Story-first overviews** — champion, Golden Boot, and the final, up top.
 - 🔎 **Sortable, searchable, paginated** player tables.
-- 🌓 **Light & dark themes**, responsive down to mobile, and **WCAG AA** color contrast.
+- 🌗 **Bold dark theme** with Space Grotesk display type, responsive to mobile, **WCAG AA** contrast.
 
 ## Screenshots
 
@@ -49,9 +49,9 @@ another is a one-line config change.
 |---|---|
 | <img src="docs/screenshots/match-shotmap.png" alt="Shot map for the 2022 World Cup final"> | <img src="docs/screenshots/compare.png" alt="Player comparison tool"> |
 
-| Leaderboards | Dark mode |
+| Leaderboards | Player table |
 |---|---|
-| <img src="docs/screenshots/stats.png" alt="Stat leaderboards with medals"> | <img src="docs/screenshots/overview-dark.png" alt="Overview page in dark mode"> |
+| <img src="docs/screenshots/stats.png" alt="Stat leaderboards with medals"> | <img src="docs/screenshots/players.png" alt="Sortable, paginated player table"> |
 
 ## How it's built
 

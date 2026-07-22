@@ -8,6 +8,7 @@ import {
 } from "@/lib/data";
 import { MetricCard, Section } from "@/components/ui";
 import { TeamBadge } from "@/components/TeamBadge";
+import { CountUp } from "@/components/CountUp";
 
 export function generateStaticParams() {
   return competitionSlugs().map((competition) => ({ competition }));
@@ -30,36 +31,41 @@ export default async function CompetitionOverview({ params }: PageProps<"/[compe
 
   return (
     <div>
-      {/* Hero — the story, not a spreadsheet */}
-      <section className="relative overflow-hidden rounded-card p-8 sm:p-10"
+      {/* Hero — Champions League night, not a spreadsheet */}
+      <section
+        className="relative overflow-hidden rounded-card p-8 sm:p-12 border border-border"
         style={{
           background:
-            "radial-gradient(120% 120% at 0% 0%, color-mix(in srgb, var(--primary) 16%, transparent), transparent 60%)," +
-            "linear-gradient(180deg, color-mix(in srgb, var(--primary) 6%, transparent), transparent)",
+            "radial-gradient(90% 140% at 100% 0%, color-mix(in srgb, #9333ea 32%, transparent), transparent 55%)," +
+            "radial-gradient(90% 140% at 0% 100%, color-mix(in srgb, #3b82f6 30%, transparent), transparent 55%)," +
+            "linear-gradient(135deg, var(--surface), var(--card))",
         }}
       >
         {c.champion && <span className="chip">🏆 Champions</span>}
-        <div className="flex items-center gap-4 mt-4">
+        <div className="flex items-center gap-4 mt-5">
           {c.champion && <TeamBadge team={c.champion} size="lg" />}
-          <h1 className="text-[32px] sm:text-[40px] leading-tight font-bold tracking-tight max-w-2xl">
+          <h1
+            className="text-[40px] sm:text-[64px] leading-[1.02] font-bold tracking-tight max-w-3xl"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
             {c.champion ? `${c.champion} won the ${label}.` : label}
           </h1>
         </div>
         {c.top_scorer && (
-          <p className="text-muted text-lg mt-4 max-w-2xl">
+          <p className="text-muted text-lg mt-5 max-w-2xl">
             ⚽ {c.top_scorer.name} took the Golden Boot with{" "}
-            <span className="text-fg font-semibold">{c.top_scorer.goals} goals</span> for{" "}
+            <span className="text-secondary font-bold stat-num">{c.top_scorer.goals} goals</span> for{" "}
             {c.top_scorer.team}.
           </p>
         )}
       </section>
 
-      {/* Key metrics — number-first */}
+      {/* Key metrics — big numbers that count up */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
-        <MetricCard value={c.match_count} label="Matches" icon="📅" />
-        <MetricCard value={c.goal_count} label="Goals" accent="secondary" icon="⚽" />
-        <MetricCard value={c.team_count} label="Teams" accent="muted" icon="🌍" />
-        <MetricCard value={c.player_count} label="Players" accent="muted" icon="👥" />
+        <MetricCard value={<CountUp to={c.match_count} />} label="Matches" icon="📅" />
+        <MetricCard value={<CountUp to={c.goal_count} />} label="Goals" accent="secondary" icon="⚽" />
+        <MetricCard value={<CountUp to={c.team_count} />} label="Teams" accent="accent" icon="🌍" />
+        <MetricCard value={<CountUp to={c.player_count} />} label="Players" accent="muted" icon="👥" />
       </div>
 
       {/* Featured: the final */}
@@ -73,7 +79,7 @@ export default async function CompetitionOverview({ params }: PageProps<"/[compe
               <span className="truncate">{final.home_team}</span>
               <TeamBadge team={final.home_team} size="lg" />
             </span>
-            <span className="stat-num text-4xl font-bold">
+            <span className="stat-num text-[56px] leading-none font-bold">
               {final.home_score} <span className="text-faint">·</span> {final.away_score}
             </span>
             <span className="flex-1 flex items-center gap-3 text-xl font-semibold">

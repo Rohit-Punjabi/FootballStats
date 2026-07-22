@@ -29,9 +29,9 @@ export function CompetitionNav({ slug, label }: { slug: string; label: string })
               <Link
                 key={item.href}
                 href={item.href as Route}
-                className={`px-3.5 min-h-[40px] inline-flex items-center rounded-lg whitespace-nowrap transition-colors ${
+                className={`px-4 min-h-[44px] inline-flex items-center rounded-lg whitespace-nowrap font-medium transition-colors ${
                   active
-                    ? "bg-primary/10 text-link font-medium"
+                    ? "bg-primary/15 text-link"
                     : "text-muted hover:text-fg hover:bg-card"
                 }`}
               >

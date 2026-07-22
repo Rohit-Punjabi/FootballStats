@@ -1,31 +1,43 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Space_Grotesk } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
+import { ThemeToggle } from "@/components/ThemeToggle";
+
+// Applies the saved theme before paint so there's no flash of the wrong theme.
+const THEME_INIT = `(function(){try{var t=localStorage.getItem('theme')||'dark';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();`;
 
 const inter = Inter({ variable: "--font-inter", subsets: ["latin"] });
+const space = Space_Grotesk({ variable: "--font-space", subsets: ["latin"], weight: ["500", "600", "700"] });
 
 export const metadata: Metadata = {
   title: "FootballStats: the story behind the numbers",
   description:
-    "A calm, welcoming home for football stats. Shot maps, xG, and deep numbers for every match, player, team and stadium. Built on StatsBomb open data.",
+    "A bold, visual home for football stats. Shot maps, xG, and deep numbers for every match, player, team and stadium. Built on StatsBomb open data.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" className={`${inter.variable} h-full`}>
+    <html lang="en" className={`${inter.variable} ${space.variable} h-full`}>
       <body className="min-h-full flex flex-col">
-        <header className="border-b border-border/70">
-          <div className="mx-auto max-w-[1200px] px-6 h-16 flex items-center">
-            <Link href="/" className="font-bold text-lg tracking-tight flex items-center gap-2">
+        <script dangerouslySetInnerHTML={{ __html: THEME_INIT }} />
+        <header className="border-b border-border/70 bg-surface/40 backdrop-blur">
+          <div className="mx-auto max-w-[1200px] px-6 h-16 flex items-center gap-3">
+            <Link
+              href="/"
+              className="font-bold text-lg tracking-tight flex items-center gap-2.5"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
               <span
                 aria-hidden
-                className="inline-grid place-items-center w-7 h-7 rounded-xl bg-primary text-primary-fg text-sm"
+                className="inline-grid place-items-center w-8 h-8 rounded-xl text-base"
+                style={{ background: "var(--grad-primary)", boxShadow: "0 4px 14px rgba(59,130,246,0.4)" }}
               >
                 ⚽
               </span>
               FootballStats
             </Link>
+            <ThemeToggle />
           </div>
         </header>
 

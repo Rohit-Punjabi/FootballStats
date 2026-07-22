@@ -135,7 +135,7 @@ export function PlayerTable({ players, slug }: { players: Player[]; slug: string
           <button
             onClick={() => setPage((p) => Math.max(0, p - 1))}
             disabled={clampedPage === 0}
-            className="px-4 min-h-[40px] rounded-lg border border-border disabled:opacity-40 hover:border-link transition-colors"
+            className="px-4 min-h-[44px] rounded-lg border border-border disabled:opacity-40 hover:border-primary transition-colors"
           >
             Prev
           </button>
@@ -145,7 +145,7 @@ export function PlayerTable({ players, slug }: { players: Player[]; slug: string
           <button
             onClick={() => setPage((p) => Math.min(pageCount - 1, p + 1))}
             disabled={clampedPage >= pageCount - 1}
-            className="px-4 min-h-[40px] rounded-lg border border-border disabled:opacity-40 hover:border-link transition-colors"
+            className="px-4 min-h-[44px] rounded-lg border border-border disabled:opacity-40 hover:border-primary transition-colors"
           >
             Next
           </button>

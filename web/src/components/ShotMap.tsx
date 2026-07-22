@@ -36,8 +36,8 @@ export function ShotMap({
       };
     });
 
-  const homeColor = "var(--color-accent)";
-  const awayColor = "#e0762f";
+  const homeColor = "#38bdf8"; // electric cyan-blue
+  const awayColor = "#ff3ea5"; // hot pink
 
   return (
     <div className="card p-3">

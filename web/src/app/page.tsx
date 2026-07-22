@@ -8,17 +8,29 @@ export default function Home() {
 
   return (
     <Container className="py-16">
-      {/* Hero — calm, one idea */}
-      <section className="max-w-3xl">
-        <span className="chip">Insights first. Statistics second.</span>
-        <h1 className="text-[40px] sm:text-5xl leading-[1.1] font-bold tracking-tight mt-5">
-          The story behind the numbers.
-        </h1>
-        <p className="text-muted text-lg mt-4">
-          Welcome! This is a calm, visual home for football stats. You&apos;ll find shot maps,
-          expected goals, and the little details that help a match make sense, not just a wall
-          of numbers. Pick a tournament below and dive in.
-        </p>
+      {/* Hero — big, electric, one idea */}
+      <section
+        className="relative overflow-hidden rounded-card border border-border px-8 py-16 sm:px-12 sm:py-20"
+        style={{
+          background:
+            "radial-gradient(80% 130% at 100% 0%, color-mix(in srgb, #9333ea 34%, transparent), transparent 55%)," +
+            "radial-gradient(90% 130% at 0% 100%, color-mix(in srgb, #3b82f6 32%, transparent), transparent 55%)," +
+            "linear-gradient(135deg, var(--surface), var(--card))",
+        }}
+      >
+        <div className="max-w-3xl">
+          <span className="chip">⚡ Every pass. Every shot. Every story.</span>
+          <h1
+            className="text-[48px] sm:text-[72px] leading-[0.98] font-bold tracking-tight mt-6"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            The story behind <span className="text-gradient">the numbers</span>.
+          </h1>
+          <p className="text-muted text-lg mt-6 max-w-xl">
+            A bold, visual home for football stats — shot maps, expected goals, and the details
+            that make a match make sense. Pick a tournament and dive in.
+          </p>
+        </div>
       </section>
 
       {/* Competition picker */}

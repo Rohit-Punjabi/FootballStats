@@ -62,14 +62,14 @@ export function MetricCard({
     muted: "text-fg",
   }[accent];
   return (
-    <div className="card p-6 relative overflow-hidden">
+    <div className="card card-hover p-6 relative overflow-hidden">
       {icon && (
         <span aria-hidden className="absolute top-4 right-4 text-2xl opacity-90">
           {icon}
         </span>
       )}
-      <div className={`text-[34px] leading-none font-bold stat-num ${color}`}>{value}</div>
-      <div className="text-[13px] font-medium uppercase tracking-wide text-muted mt-2">{label}</div>
+      <div className={`text-[42px] leading-none font-bold stat-num ${color}`}>{value}</div>
+      <div className="text-[13px] font-semibold uppercase tracking-wider text-muted mt-2.5">{label}</div>
       {sub && <div className="text-sm text-muted mt-1">{sub}</div>}
     </div>
   );
@@ -85,7 +85,7 @@ export function ButtonLink({ href, children }: { href: Route; children: React.Re
   return (
     <Link
       href={href}
-      className="inline-flex items-center gap-2 px-5 py-3 rounded-btn bg-link text-primary-fg font-medium hover:opacity-90 transition-opacity"
+      className="btn-primary inline-flex items-center gap-2 px-6 py-3 font-semibold"
     >
       {children}
     </Link>
