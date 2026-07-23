@@ -1,0 +1,920 @@
+{
+  "match_id": 3938645,
+  "shots": [
+    {
+      "player": "Romelu Lukaku",
+      "team": "Belgium",
+      "minute": 6,
+      "x": 110.8,
+      "y": 30.7,
+      "xg": 0.275,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Roman Yaremchuk",
+      "team": "Ukraine",
+      "minute": 19,
+      "x": 91.1,
+      "y": 43.1,
+      "xg": 0.031,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Artem Dovbyk",
+      "team": "Ukraine",
+      "minute": 20,
+      "x": 94.9,
+      "y": 34.0,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Arthur Theate",
+      "team": "Belgium",
+      "minute": 22,
+      "x": 94.4,
+      "y": 19.7,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Volodymyr Brazhko",
+      "team": "Ukraine",
+      "minute": 25,
+      "x": 91.9,
+      "y": 51.3,
+      "xg": 0.018,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georgiy Sudakov",
+      "team": "Ukraine",
+      "minute": 26,
+      "x": 95.9,
+      "y": 37.0,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Roman Yaremchuk",
+      "team": "Ukraine",
+      "minute": 28,
+      "x": 111.3,
+      "y": 37.0,
+      "xg": 0.102,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 32,
+      "x": 88.1,
+      "y": 69.5,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georgiy Sudakov",
+      "team": "Ukraine",
+      "minute": 33,
+      "x": 104.2,
+      "y": 29.9,
+      "xg": 0.05,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georgiy Sudakov",
+      "team": "Ukraine",
+      "minute": 43,
+      "x": 89.8,
+      "y": 17.6,
+      "xg": 0.007,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 45,
+      "x": 100.3,
+      "y": 24.5,
+      "xg": 0.027,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Youri Tielemans",
+      "team": "Belgium",
+      "minute": 51,
+      "x": 96.3,
+      "y": 25.6,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Youri Tielemans",
+      "team": "Belgium",
+      "minute": 51,
+      "x": 98.2,
+      "y": 46.6,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jérémy Doku",
+      "team": "Belgium",
+      "minute": 54,
+      "x": 100.3,
+      "y": 45.7,
+      "xg": 0.046,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Romelu Lukaku",
+      "team": "Belgium",
+      "minute": 64,
+      "x": 105.3,
+      "y": 54.2,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Yannick Carrasco",
+      "team": "Belgium",
+      "minute": 72,
+      "x": 102.0,
+      "y": 34.5,
+      "xg": 0.065,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jérémy Doku",
+      "team": "Belgium",
+      "minute": 72,
+      "x": 101.9,
+      "y": 39.2,
+      "xg": 0.05,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Artem Dovbyk",
+      "team": "Ukraine",
+      "minute": 74,
+      "x": 116.1,
+      "y": 30.6,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Artem Dovbyk",
+      "team": "Ukraine",
+      "minute": 78,
+      "x": 108.5,
+      "y": 53.2,
+      "xg": 0.034,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ruslan Malinovskiy",
+      "team": "Ukraine",
+      "minute": 82,
+      "x": 119.0,
+      "y": 79.3,
+      "xg": 0.0,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Taras Stepanenko",
+      "team": "Ukraine",
+      "minute": 82,
+      "x": 112.4,
+      "y": 45.3,
+      "xg": 0.067,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Andriy Yarmolenko",
+      "team": "Ukraine",
+      "minute": 84,
+      "x": 94.1,
+      "y": 50.8,
+      "xg": 0.015,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Johan Bakayoko",
+      "team": "Belgium",
+      "minute": 86,
+      "x": 103.2,
+      "y": 48.4,
+      "xg": 0.063,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ruslan Malinovskiy",
+      "team": "Ukraine",
+      "minute": 87,
+      "x": 97.8,
+      "y": 42.7,
+      "xg": 0.063,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Georgiy Sudakov",
+      "team": "Ukraine",
+      "minute": 90,
+      "x": 104.4,
+      "y": 44.6,
+      "xg": 0.181,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yannick Carrasco",
+      "team": "Belgium",
+      "minute": 92,
+      "x": 108.7,
+      "y": 18.4,
+      "xg": 0.007,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Belgium": {
+      "nodes": [
+        {
+          "id": 43913,
+          "name": "Arthur Theate",
+          "x": 58.2,
+          "y": 9.1,
+          "passes": 72
+        },
+        {
+          "id": 48347,
+          "name": "Amadou Onana",
+          "x": 64.7,
+          "y": 51.9,
+          "passes": 59
+        },
+        {
+          "id": 3077,
+          "name": "Jan Vertonghen",
+          "x": 36.4,
+          "y": 27.5,
+          "passes": 56
+        },
+        {
+          "id": 3089,
+          "name": "Kevin De Bruyne",
+          "x": 77.0,
+          "y": 30.4,
+          "passes": 52
+        },
+        {
+          "id": 6989,
+          "name": "Timothy Castagne",
+          "x": 66.1,
+          "y": 69.2,
+          "passes": 52
+        },
+        {
+          "id": 8854,
+          "name": "Wout Faes",
+          "x": 38.3,
+          "y": 55.1,
+          "passes": 51
+        },
+        {
+          "id": 2954,
+          "name": "Youri Tielemans",
+          "x": 66.1,
+          "y": 29.3,
+          "passes": 41
+        },
+        {
+          "id": 23650,
+          "name": "Jérémy Doku",
+          "x": 84.4,
+          "y": 13.4,
+          "passes": 36
+        },
+        {
+          "id": 16559,
+          "name": "Leandro Trossard",
+          "x": 73.3,
+          "y": 61.6,
+          "passes": 34
+        },
+        {
+          "id": 8240,
+          "name": "Koen Casteels",
+          "x": 10.3,
+          "y": 40.5,
+          "passes": 25
+        },
+        {
+          "id": 8950,
+          "name": "Orel Mangala",
+          "x": 64.1,
+          "y": 29.4,
+          "passes": 17
+        },
+        {
+          "id": 3289,
+          "name": "Romelu Lukaku",
+          "x": 70.4,
+          "y": 36.3,
+          "passes": 9
+        },
+        {
+          "id": 5633,
+          "name": "Yannick Carrasco",
+          "x": 86.6,
+          "y": 35.2,
+          "passes": 7
+        },
+        {
+          "id": 52218,
+          "name": "Johan Bakayoko",
+          "x": 65.9,
+          "y": 57.0,
+          "passes": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 2954,
+          "to": 3089,
+          "weight": 14
+        },
+        {
+          "from": 2954,
+          "to": 3077,
+          "weight": 5
+        },
+        {
+          "from": 3077,
+          "to": 8240,
+          "weight": 10
+        },
+        {
+          "from": 8240,
+          "to": 8854,
+          "weight": 16
+        },
+        {
+          "from": 2954,
+          "to": 8854,
+          "weight": 9
+        },
+        {
+          "from": 2954,
+          "to": 48347,
+          "weight": 20
+        },
+        {
+          "from": 16559,
+          "to": 48347,
+          "weight": 12
+        },
+        {
+          "from": 6989,
+          "to": 16559,
+          "weight": 24
+        },
+        {
+          "from": 6989,
+          "to": 8854,
+          "weight": 24
+        },
+        {
+          "from": 3077,
+          "to": 8854,
+          "weight": 27
+        },
+        {
+          "from": 3077,
+          "to": 43913,
+          "weight": 35
+        },
+        {
+          "from": 3089,
+          "to": 23650,
+          "weight": 19
+        },
+        {
+          "from": 3089,
+          "to": 43913,
+          "weight": 15
+        },
+        {
+          "from": 8854,
+          "to": 48347,
+          "weight": 10
+        },
+        {
+          "from": 6989,
+          "to": 48347,
+          "weight": 28
+        },
+        {
+          "from": 8240,
+          "to": 43913,
+          "weight": 8
+        },
+        {
+          "from": 23650,
+          "to": 43913,
+          "weight": 34
+        },
+        {
+          "from": 3089,
+          "to": 6989,
+          "weight": 7
+        },
+        {
+          "from": 3289,
+          "to": 16559,
+          "weight": 3
+        },
+        {
+          "from": 3089,
+          "to": 16559,
+          "weight": 13
+        },
+        {
+          "from": 2954,
+          "to": 16559,
+          "weight": 6
+        },
+        {
+          "from": 16559,
+          "to": 43913,
+          "weight": 3
+        },
+        {
+          "from": 2954,
+          "to": 43913,
+          "weight": 18
+        },
+        {
+          "from": 3089,
+          "to": 3289,
+          "weight": 6
+        },
+        {
+          "from": 8854,
+          "to": 16559,
+          "weight": 3
+        },
+        {
+          "from": 6989,
+          "to": 8240,
+          "weight": 5
+        },
+        {
+          "from": 3077,
+          "to": 6989,
+          "weight": 5
+        },
+        {
+          "from": 2954,
+          "to": 6989,
+          "weight": 3
+        },
+        {
+          "from": 3077,
+          "to": 3089,
+          "weight": 5
+        },
+        {
+          "from": 2954,
+          "to": 23650,
+          "weight": 10
+        },
+        {
+          "from": 3077,
+          "to": 23650,
+          "weight": 5
+        },
+        {
+          "from": 3089,
+          "to": 48347,
+          "weight": 11
+        },
+        {
+          "from": 16559,
+          "to": 23650,
+          "weight": 4
+        },
+        {
+          "from": 6989,
+          "to": 23650,
+          "weight": 3
+        },
+        {
+          "from": 8854,
+          "to": 43913,
+          "weight": 3
+        },
+        {
+          "from": 3289,
+          "to": 43913,
+          "weight": 3
+        },
+        {
+          "from": 43913,
+          "to": 48347,
+          "weight": 8
+        },
+        {
+          "from": 23650,
+          "to": 48347,
+          "weight": 5
+        },
+        {
+          "from": 3089,
+          "to": 8854,
+          "weight": 6
+        },
+        {
+          "from": 3077,
+          "to": 16559,
+          "weight": 3
+        },
+        {
+          "from": 3077,
+          "to": 48347,
+          "weight": 6
+        },
+        {
+          "from": 8950,
+          "to": 23650,
+          "weight": 7
+        },
+        {
+          "from": 8950,
+          "to": 43913,
+          "weight": 7
+        },
+        {
+          "from": 5633,
+          "to": 8950,
+          "weight": 3
+        },
+        {
+          "from": 3289,
+          "to": 5633,
+          "weight": 4
+        },
+        {
+          "from": 8950,
+          "to": 48347,
+          "weight": 4
+        },
+        {
+          "from": 3089,
+          "to": 8950,
+          "weight": 3
+        },
+        {
+          "from": 5633,
+          "to": 48347,
+          "weight": 3
+        },
+        {
+          "from": 3089,
+          "to": 5633,
+          "weight": 4
+        },
+        {
+          "from": 3089,
+          "to": 52218,
+          "weight": 5
+        },
+        {
+          "from": 8950,
+          "to": 52218,
+          "weight": 3
+        }
+      ]
+    },
+    "Ukraine": {
+      "nodes": [
+        {
+          "id": 18617,
+          "name": "Mykola Matvienko",
+          "x": 51.4,
+          "y": 21.1,
+          "passes": 64
+        },
+        {
+          "id": 39136,
+          "name": "Ilya Zabarnyi",
+          "x": 45.0,
+          "y": 54.1,
+          "passes": 46
+        },
+        {
+          "id": 38975,
+          "name": "Georgiy Sudakov",
+          "x": 63.3,
+          "y": 30.4,
+          "passes": 32
+        },
+        {
+          "id": 45863,
+          "name": "Oleksandr Tymchyk",
+          "x": 54.1,
+          "y": 72.8,
+          "passes": 31
+        },
+        {
+          "id": 21294,
+          "name": "Mykola Shaparenko",
+          "x": 59.7,
+          "y": 42.2,
+          "passes": 28
+        },
+        {
+          "id": 30059,
+          "name": "Oleksandr Svatok",
+          "x": 32.8,
+          "y": 34.3,
+          "passes": 23
+        },
+        {
+          "id": 37330,
+          "name": "Anatoliy Trubin",
+          "x": 8.6,
+          "y": 42.3,
+          "passes": 20
+        },
+        {
+          "id": 144127,
+          "name": "Volodymyr Brazhko",
+          "x": 46.3,
+          "y": 43.1,
+          "passes": 20
+        },
+        {
+          "id": 3575,
+          "name": "Oleksandr Zinchenko",
+          "x": 46.5,
+          "y": 10.1,
+          "passes": 14
+        },
+        {
+          "id": 20827,
+          "name": "Vitalii Mykolenko",
+          "x": 79.5,
+          "y": 7.7,
+          "passes": 14
+        },
+        {
+          "id": 11000,
+          "name": "Taras Stepanenko",
+          "x": 47.1,
+          "y": 35.7,
+          "passes": 13
+        },
+        {
+          "id": 23649,
+          "name": "Roman Yaremchuk",
+          "x": 67.3,
+          "y": 36.8,
+          "passes": 12
+        },
+        {
+          "id": 16557,
+          "name": "Ruslan Malinovskiy",
+          "x": 70.4,
+          "y": 37.1,
+          "passes": 9
+        },
+        {
+          "id": 25079,
+          "name": "Artem Dovbyk",
+          "x": 87.6,
+          "y": 53.9,
+          "passes": 8
+        }
+      ],
+      "edges": [
+        {
+          "from": 23649,
+          "to": 25079,
+          "weight": 4
+        },
+        {
+          "from": 21294,
+          "to": 38975,
+          "weight": 6
+        },
+        {
+          "from": 39136,
+          "to": 45863,
+          "weight": 13
+        },
+        {
+          "from": 37330,
+          "to": 39136,
+          "weight": 6
+        },
+        {
+          "from": 20827,
+          "to": 38975,
+          "weight": 6
+        },
+        {
+          "from": 18617,
+          "to": 38975,
+          "weight": 20
+        },
+        {
+          "from": 18617,
+          "to": 23649,
+          "weight": 5
+        },
+        {
+          "from": 18617,
+          "to": 39136,
+          "weight": 29
+        },
+        {
+          "from": 25079,
+          "to": 37330,
+          "weight": 5
+        },
+        {
+          "from": 23649,
+          "to": 45863,
+          "weight": 3
+        },
+        {
+          "from": 18617,
+          "to": 144127,
+          "weight": 8
+        },
+        {
+          "from": 18617,
+          "to": 20827,
+          "weight": 10
+        },
+        {
+          "from": 30059,
+          "to": 37330,
+          "weight": 7
+        },
+        {
+          "from": 21294,
+          "to": 45863,
+          "weight": 4
+        },
+        {
+          "from": 21294,
+          "to": 37330,
+          "weight": 3
+        },
+        {
+          "from": 38975,
+          "to": 45863,
+          "weight": 3
+        },
+        {
+          "from": 25079,
+          "to": 45863,
+          "weight": 6
+        },
+        {
+          "from": 25079,
+          "to": 38975,
+          "weight": 4
+        },
+        {
+          "from": 20827,
+          "to": 21294,
+          "weight": 7
+        },
+        {
+          "from": 18617,
+          "to": 21294,
+          "weight": 14
+        },
+        {
+          "from": 39136,
+          "to": 144127,
+          "weight": 8
+        },
+        {
+          "from": 38975,
+          "to": 39136,
+          "weight": 6
+        },
+        {
+          "from": 21294,
+          "to": 144127,
+          "weight": 5
+        },
+        {
+          "from": 30059,
+          "to": 39136,
+          "weight": 13
+        },
+        {
+          "from": 18617,
+          "to": 30059,
+          "weight": 11
+        },
+        {
+          "from": 21294,
+          "to": 39136,
+          "weight": 10
+        },
+        {
+          "from": 18617,
+          "to": 37330,
+          "weight": 8
+        },
+        {
+          "from": 25079,
+          "to": 144127,
+          "weight": 3
+        },
+        {
+          "from": 45863,
+          "to": 144127,
+          "weight": 8
+        },
+        {
+          "from": 21294,
+          "to": 23649,
+          "weight": 5
+        },
+        {
+          "from": 38975,
+          "to": 144127,
+          "weight": 3
+        },
+        {
+          "from": 20827,
+          "to": 23649,
+          "weight": 4
+        },
+        {
+          "from": 3575,
+          "to": 38975,
+          "weight": 5
+        },
+        {
+          "from": 3575,
+          "to": 18617,
+          "weight": 9
+        },
+        {
+          "from": 11000,
+          "to": 38975,
+          "weight": 5
+        },
+        {
+          "from": 16557,
+          "to": 38975,
+          "weight": 7
+        },
+        {
+          "from": 3575,
+          "to": 11000,
+          "weight": 6
+        },
+        {
+          "from": 11000,
+          "to": 39136,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

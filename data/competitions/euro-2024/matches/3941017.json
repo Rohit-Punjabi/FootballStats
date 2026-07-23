@@ -1,0 +1,965 @@
+{
+  "match_id": 3941017,
+  "shots": [
+    {
+      "player": "David Strelec",
+      "team": "Slovakia",
+      "minute": 3,
+      "x": 107.3,
+      "y": 35.8,
+      "xg": 0.092,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lukáš Haraslín",
+      "team": "Slovakia",
+      "minute": 7,
+      "x": 101.0,
+      "y": 34.2,
+      "xg": 0.053,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kieran Trippier",
+      "team": "England",
+      "minute": 8,
+      "x": 102.8,
+      "y": 29.9,
+      "xg": 0.089,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lukáš Haraslín",
+      "team": "Slovakia",
+      "minute": 11,
+      "x": 107.1,
+      "y": 32.1,
+      "xg": 0.079,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 22,
+      "x": 111.7,
+      "y": 46.4,
+      "xg": 0.052,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kobbie Mainoo",
+      "team": "England",
+      "minute": 23,
+      "x": 97.3,
+      "y": 46.8,
+      "xg": 0.03,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ivan Schranz",
+      "team": "Slovakia",
+      "minute": 24,
+      "x": 113.3,
+      "y": 44.7,
+      "xg": 0.528,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Declan Rice",
+      "team": "England",
+      "minute": 38,
+      "x": 111.3,
+      "y": 46.9,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kobbie Mainoo",
+      "team": "England",
+      "minute": 47,
+      "x": 97.4,
+      "y": 34.3,
+      "xg": 0.043,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bukayo Saka",
+      "team": "England",
+      "minute": 47,
+      "x": 92.1,
+      "y": 46.0,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 51,
+      "x": 104.9,
+      "y": 32.5,
+      "xg": 0.109,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "David Strelec",
+      "team": "Slovakia",
+      "minute": 53,
+      "x": 62.7,
+      "y": 30.6,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jude Bellingham",
+      "team": "England",
+      "minute": 58,
+      "x": 111.7,
+      "y": 40.2,
+      "xg": 0.081,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Phil Foden",
+      "team": "England",
+      "minute": 60,
+      "x": 99.1,
+      "y": 25.5,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 77,
+      "x": 111.7,
+      "y": 39.5,
+      "xg": 0.161,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Declan Rice",
+      "team": "England",
+      "minute": 80,
+      "x": 93.5,
+      "y": 36.7,
+      "xg": 0.026,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 80,
+      "x": 107.4,
+      "y": 40.0,
+      "xg": 0.122,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Stanislav Lobotka",
+      "team": "Slovakia",
+      "minute": 86,
+      "x": 89.4,
+      "y": 45.1,
+      "xg": 0.022,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jude Bellingham",
+      "team": "England",
+      "minute": 94,
+      "x": 110.1,
+      "y": 40.9,
+      "xg": 0.103,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Eberechi Eze",
+      "team": "England",
+      "minute": 90,
+      "x": 96.5,
+      "y": 37.6,
+      "xg": 0.028,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 90,
+      "x": 116.2,
+      "y": 42.1,
+      "xg": 0.497,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Peter Pekarík",
+      "team": "Slovakia",
+      "minute": 104,
+      "x": 114.9,
+      "y": 42.3,
+      "xg": 0.506,
+      "outcome": "Off T",
+      "body_part": "Other"
+    },
+    {
+      "player": "Matúš Bero",
+      "team": "Slovakia",
+      "minute": 106,
+      "x": 94.0,
+      "y": 56.4,
+      "xg": 0.014,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ľubomír Tupta",
+      "team": "Slovakia",
+      "minute": 110,
+      "x": 88.8,
+      "y": 47.2,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Róbert Boženík",
+      "team": "Slovakia",
+      "minute": 116,
+      "x": 115.1,
+      "y": 57.3,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dávid Hancko",
+      "team": "Slovakia",
+      "minute": 118,
+      "x": 112.1,
+      "y": 35.7,
+      "xg": 0.068,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Milan Škriniar",
+      "team": "Slovakia",
+      "minute": 119,
+      "x": 111.9,
+      "y": 36.3,
+      "xg": 0.073,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Ivan Toney",
+      "team": "England",
+      "minute": 120,
+      "x": 99.9,
+      "y": 42.1,
+      "xg": 0.123,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dávid Hancko",
+      "team": "Slovakia",
+      "minute": 120,
+      "x": 107.2,
+      "y": 40.3,
+      "xg": 0.046,
+      "outcome": "Saved",
+      "body_part": "Head"
+    }
+  ],
+  "networks": {
+    "England": {
+      "nodes": [
+        {
+          "id": 3244,
+          "name": "John Stones",
+          "x": 39.9,
+          "y": 48.9,
+          "passes": 120
+        },
+        {
+          "id": 34526,
+          "name": "Marc Guehi",
+          "x": 41.7,
+          "y": 23.1,
+          "passes": 112
+        },
+        {
+          "id": 3943,
+          "name": "Declan Rice",
+          "x": 58.5,
+          "y": 29.7,
+          "passes": 81
+        },
+        {
+          "id": 3205,
+          "name": "Kyle Walker",
+          "x": 54.2,
+          "y": 66.4,
+          "passes": 78
+        },
+        {
+          "id": 3308,
+          "name": "Kieran Trippier",
+          "x": 66.4,
+          "y": 8.9,
+          "passes": 68
+        },
+        {
+          "id": 99174,
+          "name": "Kobbie Mainoo",
+          "x": 65.8,
+          "y": 47.4,
+          "passes": 65
+        },
+        {
+          "id": 3468,
+          "name": "Jordan Pickford",
+          "x": 17.8,
+          "y": 37.7,
+          "passes": 54
+        },
+        {
+          "id": 22084,
+          "name": "Bukayo Saka",
+          "x": 72.7,
+          "y": 43.3,
+          "passes": 47
+        },
+        {
+          "id": 4354,
+          "name": "Phil Foden",
+          "x": 78.9,
+          "y": 19.9,
+          "passes": 39
+        },
+        {
+          "id": 30714,
+          "name": "Jude Bellingham",
+          "x": 75.8,
+          "y": 44.2,
+          "passes": 27
+        },
+        {
+          "id": 39461,
+          "name": "Cole Palmer",
+          "x": 79.5,
+          "y": 69.1,
+          "passes": 19
+        },
+        {
+          "id": 3834,
+          "name": "Ivan Toney",
+          "x": 74.4,
+          "y": 38.7,
+          "passes": 9
+        },
+        {
+          "id": 10955,
+          "name": "Harry Kane",
+          "x": 77.4,
+          "y": 46.7,
+          "passes": 8
+        },
+        {
+          "id": 9000,
+          "name": "Eberechi Eze",
+          "x": 69.8,
+          "y": 15.8,
+          "passes": 6
+        }
+      ],
+      "edges": [
+        {
+          "from": 3205,
+          "to": 3468,
+          "weight": 11
+        },
+        {
+          "from": 3468,
+          "to": 34526,
+          "weight": 32
+        },
+        {
+          "from": 3244,
+          "to": 34526,
+          "weight": 65
+        },
+        {
+          "from": 3308,
+          "to": 3943,
+          "weight": 22
+        },
+        {
+          "from": 3308,
+          "to": 4354,
+          "weight": 34
+        },
+        {
+          "from": 3308,
+          "to": 34526,
+          "weight": 39
+        },
+        {
+          "from": 3244,
+          "to": 3468,
+          "weight": 41
+        },
+        {
+          "from": 3205,
+          "to": 3244,
+          "weight": 53
+        },
+        {
+          "from": 3244,
+          "to": 3943,
+          "weight": 26
+        },
+        {
+          "from": 3205,
+          "to": 30714,
+          "weight": 7
+        },
+        {
+          "from": 22084,
+          "to": 30714,
+          "weight": 11
+        },
+        {
+          "from": 3205,
+          "to": 22084,
+          "weight": 22
+        },
+        {
+          "from": 3943,
+          "to": 99174,
+          "weight": 27
+        },
+        {
+          "from": 3244,
+          "to": 99174,
+          "weight": 28
+        },
+        {
+          "from": 3205,
+          "to": 3943,
+          "weight": 5
+        },
+        {
+          "from": 3943,
+          "to": 34526,
+          "weight": 22
+        },
+        {
+          "from": 34526,
+          "to": 99174,
+          "weight": 9
+        },
+        {
+          "from": 3205,
+          "to": 99174,
+          "weight": 19
+        },
+        {
+          "from": 3468,
+          "to": 3943,
+          "weight": 6
+        },
+        {
+          "from": 22084,
+          "to": 99174,
+          "weight": 12
+        },
+        {
+          "from": 3308,
+          "to": 30714,
+          "weight": 6
+        },
+        {
+          "from": 30714,
+          "to": 34526,
+          "weight": 4
+        },
+        {
+          "from": 3943,
+          "to": 30714,
+          "weight": 10
+        },
+        {
+          "from": 3244,
+          "to": 22084,
+          "weight": 5
+        },
+        {
+          "from": 30714,
+          "to": 99174,
+          "weight": 9
+        },
+        {
+          "from": 10955,
+          "to": 30714,
+          "weight": 3
+        },
+        {
+          "from": 3205,
+          "to": 10955,
+          "weight": 3
+        },
+        {
+          "from": 3244,
+          "to": 3308,
+          "weight": 7
+        },
+        {
+          "from": 4354,
+          "to": 34526,
+          "weight": 7
+        },
+        {
+          "from": 3244,
+          "to": 30714,
+          "weight": 5
+        },
+        {
+          "from": 3943,
+          "to": 22084,
+          "weight": 13
+        },
+        {
+          "from": 3943,
+          "to": 4354,
+          "weight": 10
+        },
+        {
+          "from": 3308,
+          "to": 99174,
+          "weight": 11
+        },
+        {
+          "from": 3468,
+          "to": 99174,
+          "weight": 3
+        },
+        {
+          "from": 4354,
+          "to": 10955,
+          "weight": 3
+        },
+        {
+          "from": 3943,
+          "to": 10955,
+          "weight": 4
+        },
+        {
+          "from": 4354,
+          "to": 99174,
+          "weight": 8
+        },
+        {
+          "from": 3205,
+          "to": 4354,
+          "weight": 7
+        },
+        {
+          "from": 3205,
+          "to": 34526,
+          "weight": 5
+        },
+        {
+          "from": 3308,
+          "to": 3468,
+          "weight": 3
+        },
+        {
+          "from": 10955,
+          "to": 22084,
+          "weight": 4
+        },
+        {
+          "from": 4354,
+          "to": 22084,
+          "weight": 6
+        },
+        {
+          "from": 22084,
+          "to": 34526,
+          "weight": 14
+        },
+        {
+          "from": 3244,
+          "to": 39461,
+          "weight": 5
+        },
+        {
+          "from": 3205,
+          "to": 39461,
+          "weight": 13
+        },
+        {
+          "from": 34526,
+          "to": 39461,
+          "weight": 4
+        },
+        {
+          "from": 3943,
+          "to": 39461,
+          "weight": 6
+        },
+        {
+          "from": 4354,
+          "to": 39461,
+          "weight": 5
+        },
+        {
+          "from": 3943,
+          "to": 9000,
+          "weight": 4
+        },
+        {
+          "from": 3468,
+          "to": 3834,
+          "weight": 4
+        },
+        {
+          "from": 3834,
+          "to": 9000,
+          "weight": 4
+        },
+        {
+          "from": 22084,
+          "to": 39461,
+          "weight": 3
+        }
+      ]
+    },
+    "Slovakia": {
+      "nodes": [
+        {
+          "id": 6798,
+          "name": "Stanislav Lobotka",
+          "x": 59.8,
+          "y": 34.9,
+          "passes": 58
+        },
+        {
+          "id": 6990,
+          "name": "Milan Škriniar",
+          "x": 53.3,
+          "y": 20.2,
+          "passes": 53
+        },
+        {
+          "id": 16298,
+          "name": "Denis Vavro",
+          "x": 45.0,
+          "y": 56.6,
+          "passes": 41
+        },
+        {
+          "id": 20043,
+          "name": "Norbert Gyömbér",
+          "x": 55.1,
+          "y": 40.8,
+          "passes": 35
+        },
+        {
+          "id": 16879,
+          "name": "Dávid Hancko",
+          "x": 61.4,
+          "y": 7.3,
+          "passes": 30
+        },
+        {
+          "id": 35653,
+          "name": "Tomáš Suslov",
+          "x": 74.5,
+          "y": 33.5,
+          "passes": 25
+        },
+        {
+          "id": 11383,
+          "name": "László Bénes",
+          "x": 73.7,
+          "y": 23.3,
+          "passes": 24
+        },
+        {
+          "id": 8967,
+          "name": "Ondrej Duda",
+          "x": 59.5,
+          "y": 24.8,
+          "passes": 22
+        },
+        {
+          "id": 3711,
+          "name": "Martin Dúbravka",
+          "x": 14.7,
+          "y": 42.7,
+          "passes": 21
+        },
+        {
+          "id": 9722,
+          "name": "Peter Pekarík",
+          "x": 52.1,
+          "y": 70.9,
+          "passes": 18
+        },
+        {
+          "id": 15546,
+          "name": "Matúš Bero",
+          "x": 68.5,
+          "y": 62.0,
+          "passes": 17
+        },
+        {
+          "id": 10919,
+          "name": "Juraj Kucka",
+          "x": 68.2,
+          "y": 55.2,
+          "passes": 16
+        },
+        {
+          "id": 28032,
+          "name": "Ivan Schranz",
+          "x": 65.2,
+          "y": 71.1,
+          "passes": 12
+        },
+        {
+          "id": 34904,
+          "name": "Róbert Boženík",
+          "x": 72.0,
+          "y": 38.9,
+          "passes": 11
+        }
+      ],
+      "edges": [
+        {
+          "from": 6990,
+          "to": 16298,
+          "weight": 13
+        },
+        {
+          "from": 3711,
+          "to": 16298,
+          "weight": 8
+        },
+        {
+          "from": 6990,
+          "to": 8967,
+          "weight": 6
+        },
+        {
+          "from": 6798,
+          "to": 6990,
+          "weight": 23
+        },
+        {
+          "from": 6798,
+          "to": 8967,
+          "weight": 12
+        },
+        {
+          "from": 3711,
+          "to": 6990,
+          "weight": 9
+        },
+        {
+          "from": 9722,
+          "to": 16298,
+          "weight": 10
+        },
+        {
+          "from": 6798,
+          "to": 9722,
+          "weight": 4
+        },
+        {
+          "from": 10919,
+          "to": 16298,
+          "weight": 4
+        },
+        {
+          "from": 10919,
+          "to": 28032,
+          "weight": 9
+        },
+        {
+          "from": 8967,
+          "to": 16879,
+          "weight": 11
+        },
+        {
+          "from": 6990,
+          "to": 16879,
+          "weight": 6
+        },
+        {
+          "from": 8967,
+          "to": 10919,
+          "weight": 5
+        },
+        {
+          "from": 6798,
+          "to": 10919,
+          "weight": 3
+        },
+        {
+          "from": 3711,
+          "to": 9722,
+          "weight": 4
+        },
+        {
+          "from": 6798,
+          "to": 16298,
+          "weight": 14
+        },
+        {
+          "from": 9722,
+          "to": 10919,
+          "weight": 5
+        },
+        {
+          "from": 9722,
+          "to": 28032,
+          "weight": 6
+        },
+        {
+          "from": 3711,
+          "to": 34904,
+          "weight": 3
+        },
+        {
+          "from": 16879,
+          "to": 34904,
+          "weight": 3
+        },
+        {
+          "from": 10919,
+          "to": 34904,
+          "weight": 4
+        },
+        {
+          "from": 16879,
+          "to": 35653,
+          "weight": 10
+        },
+        {
+          "from": 6798,
+          "to": 15546,
+          "weight": 8
+        },
+        {
+          "from": 6798,
+          "to": 35653,
+          "weight": 5
+        },
+        {
+          "from": 15546,
+          "to": 35653,
+          "weight": 10
+        },
+        {
+          "from": 11383,
+          "to": 35653,
+          "weight": 8
+        },
+        {
+          "from": 11383,
+          "to": 16879,
+          "weight": 7
+        },
+        {
+          "from": 6798,
+          "to": 11383,
+          "weight": 9
+        },
+        {
+          "from": 6798,
+          "to": 34904,
+          "weight": 5
+        },
+        {
+          "from": 16298,
+          "to": 20043,
+          "weight": 16
+        },
+        {
+          "from": 6990,
+          "to": 11383,
+          "weight": 13
+        },
+        {
+          "from": 6798,
+          "to": 20043,
+          "weight": 10
+        },
+        {
+          "from": 6990,
+          "to": 20043,
+          "weight": 20
+        },
+        {
+          "from": 11383,
+          "to": 20043,
+          "weight": 5
+        },
+        {
+          "from": 6990,
+          "to": 35653,
+          "weight": 11
+        },
+        {
+          "from": 20043,
+          "to": 35653,
+          "weight": 7
+        },
+        {
+          "from": 15546,
+          "to": 16298,
+          "weight": 5
+        },
+        {
+          "from": 3711,
+          "to": 20043,
+          "weight": 3
+        },
+        {
+          "from": 16298,
+          "to": 35653,
+          "weight": 4
+        },
+        {
+          "from": 15546,
+          "to": 20043,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

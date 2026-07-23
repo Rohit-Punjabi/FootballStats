@@ -1,0 +1,868 @@
+{
+  "match_id": 3930170,
+  "shots": [
+    {
+      "player": "Adam Gnezda Čerin",
+      "team": "Slovenia",
+      "minute": 3,
+      "x": 95.6,
+      "y": 49.4,
+      "xg": 0.041,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jan Mlakar",
+      "team": "Slovenia",
+      "minute": 7,
+      "x": 109.1,
+      "y": 51.7,
+      "xg": 0.145,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andraž Šporar",
+      "team": "Slovenia",
+      "minute": 19,
+      "x": 108.8,
+      "y": 42.9,
+      "xg": 0.07,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Timi Elšnik",
+      "team": "Slovenia",
+      "minute": 20,
+      "x": 90.1,
+      "y": 41.2,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Dušan Vlahović",
+      "team": "Serbia",
+      "minute": 26,
+      "x": 111.0,
+      "y": 34.9,
+      "xg": 0.068,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jan Mlakar",
+      "team": "Slovenia",
+      "minute": 36,
+      "x": 102.6,
+      "y": 25.2,
+      "xg": 0.02,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Timi Elšnik",
+      "team": "Slovenia",
+      "minute": 37,
+      "x": 105.7,
+      "y": 50.3,
+      "xg": 0.162,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andraž Šporar",
+      "team": "Slovenia",
+      "minute": 37,
+      "x": 110.6,
+      "y": 38.9,
+      "xg": 0.459,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Benjamin Šeško",
+      "team": "Slovenia",
+      "minute": 37,
+      "x": 109.6,
+      "y": 35.3,
+      "xg": 0.238,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dušan Vlahović",
+      "team": "Serbia",
+      "minute": 38,
+      "x": 92.3,
+      "y": 31.2,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Dušan Vlahović",
+      "team": "Serbia",
+      "minute": 38,
+      "x": 95.6,
+      "y": 30.9,
+      "xg": 0.017,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 41,
+      "x": 116.5,
+      "y": 33.3,
+      "xg": 0.297,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Saša Lukić",
+      "team": "Serbia",
+      "minute": 42,
+      "x": 103.2,
+      "y": 33.6,
+      "xg": 0.088,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Petar Stojanović",
+      "team": "Slovenia",
+      "minute": 43,
+      "x": 94.5,
+      "y": 52.5,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 45,
+      "x": 113.6,
+      "y": 32.8,
+      "xg": 0.052,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 46,
+      "x": 112.9,
+      "y": 50.7,
+      "xg": 0.24,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 49,
+      "x": 110.2,
+      "y": 38.0,
+      "xg": 0.068,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Benjamin Šeško",
+      "team": "Slovenia",
+      "minute": 57,
+      "x": 96.0,
+      "y": 23.6,
+      "xg": 0.022,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 64,
+      "x": 102.7,
+      "y": 50.4,
+      "xg": 0.058,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Žan Karničnik",
+      "team": "Slovenia",
+      "minute": 68,
+      "x": 114.1,
+      "y": 44.7,
+      "xg": 0.338,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Aleksandar Mitrović",
+      "team": "Serbia",
+      "minute": 71,
+      "x": 113.4,
+      "y": 38.4,
+      "xg": 0.183,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Sergej Milinković-Savić",
+      "team": "Serbia",
+      "minute": 74,
+      "x": 112.9,
+      "y": 36.9,
+      "xg": 0.095,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Žan Karničnik",
+      "team": "Slovenia",
+      "minute": 78,
+      "x": 96.9,
+      "y": 58.1,
+      "xg": 0.01,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lazar Samardžić",
+      "team": "Serbia",
+      "minute": 82,
+      "x": 101.2,
+      "y": 28.3,
+      "xg": 0.049,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ivan Ilić",
+      "team": "Serbia",
+      "minute": 85,
+      "x": 99.1,
+      "y": 30.7,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mijat Gaćinović",
+      "team": "Serbia",
+      "minute": 94,
+      "x": 104.4,
+      "y": 43.9,
+      "xg": 0.033,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luka Jović",
+      "team": "Serbia",
+      "minute": 94,
+      "x": 114.6,
+      "y": 40.3,
+      "xg": 0.142,
+      "outcome": "Goal",
+      "body_part": "Head"
+    }
+  ],
+  "networks": {
+    "Serbia": {
+      "nodes": [
+        {
+          "id": 6321,
+          "name": "Milos Veljkovic",
+          "x": 50.4,
+          "y": 64.8,
+          "passes": 84
+        },
+        {
+          "id": 5603,
+          "name": "Nikola Milenković",
+          "x": 41.3,
+          "y": 41.0,
+          "passes": 67
+        },
+        {
+          "id": 30179,
+          "name": "Ivan Ilić",
+          "x": 61.8,
+          "y": 52.5,
+          "passes": 66
+        },
+        {
+          "id": 6318,
+          "name": "Andrija Živković",
+          "x": 72.8,
+          "y": 69.3,
+          "passes": 53
+        },
+        {
+          "id": 27719,
+          "name": "Strahinja Pavlović",
+          "x": 49.5,
+          "y": 19.2,
+          "passes": 53
+        },
+        {
+          "id": 6687,
+          "name": "Saša Lukić",
+          "x": 63.4,
+          "y": 36.0,
+          "passes": 43
+        },
+        {
+          "id": 3831,
+          "name": "Dušan Tadić",
+          "x": 77.9,
+          "y": 62.5,
+          "passes": 36
+        },
+        {
+          "id": 7993,
+          "name": "Filip Mladenović",
+          "x": 68.3,
+          "y": 6.3,
+          "passes": 19
+        },
+        {
+          "id": 4269,
+          "name": "Aleksandar Mitrović",
+          "x": 75.9,
+          "y": 37.5,
+          "passes": 17
+        },
+        {
+          "id": 8669,
+          "name": "Mijat Gaćinović",
+          "x": 62.3,
+          "y": 26.7,
+          "passes": 17
+        },
+        {
+          "id": 15731,
+          "name": "Predrag Rajković",
+          "x": 13.3,
+          "y": 42.3,
+          "passes": 17
+        },
+        {
+          "id": 5589,
+          "name": "Sergej Milinković-Savić",
+          "x": 72.9,
+          "y": 47.7,
+          "passes": 8
+        },
+        {
+          "id": 18015,
+          "name": "Dušan Vlahović",
+          "x": 70.3,
+          "y": 44.0,
+          "passes": 8
+        },
+        {
+          "id": 28075,
+          "name": "Veljko Birmančević",
+          "x": 78.1,
+          "y": 10.4,
+          "passes": 8
+        }
+      ],
+      "edges": [
+        {
+          "from": 4269,
+          "to": 30179,
+          "weight": 7
+        },
+        {
+          "from": 7993,
+          "to": 30179,
+          "weight": 5
+        },
+        {
+          "from": 27719,
+          "to": 30179,
+          "weight": 10
+        },
+        {
+          "from": 6687,
+          "to": 27719,
+          "weight": 12
+        },
+        {
+          "from": 5603,
+          "to": 27719,
+          "weight": 39
+        },
+        {
+          "from": 5603,
+          "to": 6321,
+          "weight": 47
+        },
+        {
+          "from": 3831,
+          "to": 6321,
+          "weight": 17
+        },
+        {
+          "from": 3831,
+          "to": 6318,
+          "weight": 22
+        },
+        {
+          "from": 6318,
+          "to": 30179,
+          "weight": 17
+        },
+        {
+          "from": 6318,
+          "to": 18015,
+          "weight": 9
+        },
+        {
+          "from": 6321,
+          "to": 6687,
+          "weight": 8
+        },
+        {
+          "from": 6321,
+          "to": 27719,
+          "weight": 4
+        },
+        {
+          "from": 4269,
+          "to": 6318,
+          "weight": 7
+        },
+        {
+          "from": 6687,
+          "to": 7993,
+          "weight": 11
+        },
+        {
+          "from": 5603,
+          "to": 15731,
+          "weight": 4
+        },
+        {
+          "from": 6318,
+          "to": 6321,
+          "weight": 28
+        },
+        {
+          "from": 6321,
+          "to": 30179,
+          "weight": 34
+        },
+        {
+          "from": 15731,
+          "to": 27719,
+          "weight": 4
+        },
+        {
+          "from": 5603,
+          "to": 30179,
+          "weight": 14
+        },
+        {
+          "from": 7993,
+          "to": 27719,
+          "weight": 12
+        },
+        {
+          "from": 6318,
+          "to": 6687,
+          "weight": 8
+        },
+        {
+          "from": 5603,
+          "to": 6687,
+          "weight": 7
+        },
+        {
+          "from": 6687,
+          "to": 18015,
+          "weight": 3
+        },
+        {
+          "from": 6321,
+          "to": 15731,
+          "weight": 7
+        },
+        {
+          "from": 4269,
+          "to": 6687,
+          "weight": 5
+        },
+        {
+          "from": 6687,
+          "to": 30179,
+          "weight": 15
+        },
+        {
+          "from": 3831,
+          "to": 6687,
+          "weight": 8
+        },
+        {
+          "from": 18015,
+          "to": 30179,
+          "weight": 4
+        },
+        {
+          "from": 3831,
+          "to": 7993,
+          "weight": 5
+        },
+        {
+          "from": 3831,
+          "to": 30179,
+          "weight": 9
+        },
+        {
+          "from": 18015,
+          "to": 27719,
+          "weight": 3
+        },
+        {
+          "from": 4269,
+          "to": 15731,
+          "weight": 3
+        },
+        {
+          "from": 3831,
+          "to": 4269,
+          "weight": 6
+        },
+        {
+          "from": 8669,
+          "to": 27719,
+          "weight": 9
+        },
+        {
+          "from": 6321,
+          "to": 8669,
+          "weight": 6
+        },
+        {
+          "from": 15731,
+          "to": 30179,
+          "weight": 3
+        },
+        {
+          "from": 8669,
+          "to": 30179,
+          "weight": 3
+        },
+        {
+          "from": 5603,
+          "to": 8669,
+          "weight": 4
+        },
+        {
+          "from": 5589,
+          "to": 27719,
+          "weight": 4
+        },
+        {
+          "from": 5589,
+          "to": 6321,
+          "weight": 3
+        },
+        {
+          "from": 5589,
+          "to": 5603,
+          "weight": 3
+        },
+        {
+          "from": 4269,
+          "to": 8669,
+          "weight": 3
+        },
+        {
+          "from": 3831,
+          "to": 5589,
+          "weight": 3
+        },
+        {
+          "from": 27719,
+          "to": 28075,
+          "weight": 5
+        }
+      ]
+    },
+    "Slovenia": {
+      "nodes": [
+        {
+          "id": 137487,
+          "name": "Žan Karničnik",
+          "x": 59.6,
+          "y": 71.2,
+          "passes": 51
+        },
+        {
+          "id": 31968,
+          "name": "Adam Gnezda Čerin",
+          "x": 71.0,
+          "y": 50.7,
+          "passes": 39
+        },
+        {
+          "id": 16528,
+          "name": "Petar Stojanović",
+          "x": 65.7,
+          "y": 63.6,
+          "passes": 34
+        },
+        {
+          "id": 15896,
+          "name": "Timi Elšnik",
+          "x": 69.0,
+          "y": 39.2,
+          "passes": 33
+        },
+        {
+          "id": 16047,
+          "name": "Jaka Bijol",
+          "x": 46.3,
+          "y": 36.6,
+          "passes": 30
+        },
+        {
+          "id": 28211,
+          "name": "Erik Janža",
+          "x": 63.3,
+          "y": 13.1,
+          "passes": 29
+        },
+        {
+          "id": 6378,
+          "name": "Jan Oblak",
+          "x": 11.0,
+          "y": 40.5,
+          "passes": 24
+        },
+        {
+          "id": 205932,
+          "name": "Vanja Drkušić",
+          "x": 44.2,
+          "y": 58.2,
+          "passes": 23
+        },
+        {
+          "id": 31089,
+          "name": "Jan Mlakar",
+          "x": 80.4,
+          "y": 20.2,
+          "passes": 12
+        },
+        {
+          "id": 38759,
+          "name": "Benjamin Šeško",
+          "x": 66.9,
+          "y": 32.3,
+          "passes": 12
+        },
+        {
+          "id": 31866,
+          "name": "Andraž Šporar",
+          "x": 80.5,
+          "y": 52.0,
+          "passes": 11
+        },
+        {
+          "id": 11416,
+          "name": "Jon Gorenc-Stankovic",
+          "x": 65.7,
+          "y": 21.4,
+          "passes": 1
+        },
+        {
+          "id": 290289,
+          "name": "Žan Vipotnik",
+          "x": 60.0,
+          "y": 40.0,
+          "passes": 1
+        }
+      ],
+      "edges": [
+        {
+          "from": 31866,
+          "to": 137487,
+          "weight": 10
+        },
+        {
+          "from": 6378,
+          "to": 28211,
+          "weight": 6
+        },
+        {
+          "from": 16528,
+          "to": 31968,
+          "weight": 11
+        },
+        {
+          "from": 31968,
+          "to": 137487,
+          "weight": 22
+        },
+        {
+          "from": 15896,
+          "to": 137487,
+          "weight": 13
+        },
+        {
+          "from": 15896,
+          "to": 31089,
+          "weight": 3
+        },
+        {
+          "from": 28211,
+          "to": 31089,
+          "weight": 12
+        },
+        {
+          "from": 28211,
+          "to": 31968,
+          "weight": 9
+        },
+        {
+          "from": 31968,
+          "to": 205932,
+          "weight": 6
+        },
+        {
+          "from": 137487,
+          "to": 205932,
+          "weight": 12
+        },
+        {
+          "from": 16528,
+          "to": 137487,
+          "weight": 23
+        },
+        {
+          "from": 15896,
+          "to": 16528,
+          "weight": 5
+        },
+        {
+          "from": 15896,
+          "to": 38759,
+          "weight": 7
+        },
+        {
+          "from": 16528,
+          "to": 38759,
+          "weight": 3
+        },
+        {
+          "from": 31968,
+          "to": 38759,
+          "weight": 5
+        },
+        {
+          "from": 6378,
+          "to": 205932,
+          "weight": 8
+        },
+        {
+          "from": 31866,
+          "to": 38759,
+          "weight": 3
+        },
+        {
+          "from": 31089,
+          "to": 38759,
+          "weight": 4
+        },
+        {
+          "from": 15896,
+          "to": 31968,
+          "weight": 12
+        },
+        {
+          "from": 15896,
+          "to": 16047,
+          "weight": 9
+        },
+        {
+          "from": 16047,
+          "to": 137487,
+          "weight": 6
+        },
+        {
+          "from": 16528,
+          "to": 205932,
+          "weight": 5
+        },
+        {
+          "from": 16528,
+          "to": 31866,
+          "weight": 4
+        },
+        {
+          "from": 16047,
+          "to": 16528,
+          "weight": 5
+        },
+        {
+          "from": 16047,
+          "to": 205932,
+          "weight": 9
+        },
+        {
+          "from": 16047,
+          "to": 28211,
+          "weight": 14
+        },
+        {
+          "from": 16047,
+          "to": 31968,
+          "weight": 11
+        },
+        {
+          "from": 28211,
+          "to": 38759,
+          "weight": 4
+        },
+        {
+          "from": 15896,
+          "to": 28211,
+          "weight": 11
+        },
+        {
+          "from": 16528,
+          "to": 31089,
+          "weight": 3
+        },
+        {
+          "from": 31089,
+          "to": 31866,
+          "weight": 4
+        },
+        {
+          "from": 6378,
+          "to": 137487,
+          "weight": 8
+        },
+        {
+          "from": 6378,
+          "to": 16047,
+          "weight": 3
+        },
+        {
+          "from": 6378,
+          "to": 38759,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

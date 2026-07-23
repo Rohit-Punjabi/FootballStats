@@ -1,0 +1,905 @@
+{
+  "match_id": 3930162,
+  "shots": [
+    {
+      "player": "Andreas Christensen",
+      "team": "Denmark",
+      "minute": 10,
+      "x": 105.6,
+      "y": 39.0,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Victor Kristiansen",
+      "team": "Denmark",
+      "minute": 14,
+      "x": 101.6,
+      "y": 37.8,
+      "xg": 0.05,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Benjamin Šeško",
+      "team": "Slovenia",
+      "minute": 15,
+      "x": 89.6,
+      "y": 43.4,
+      "xg": 0.023,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Eriksen",
+      "team": "Denmark",
+      "minute": 16,
+      "x": 109.7,
+      "y": 46.4,
+      "xg": 0.277,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Erik Janža",
+      "team": "Slovenia",
+      "minute": 20,
+      "x": 94.8,
+      "y": 34.0,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Erik Janža",
+      "team": "Slovenia",
+      "minute": 20,
+      "x": 92.1,
+      "y": 32.2,
+      "xg": 0.02,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jannik Vestergaard",
+      "team": "Denmark",
+      "minute": 28,
+      "x": 113.5,
+      "y": 42.3,
+      "xg": 0.102,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Joachim Andersen",
+      "team": "Denmark",
+      "minute": 34,
+      "x": 111.2,
+      "y": 42.9,
+      "xg": 0.072,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Christian Eriksen",
+      "team": "Denmark",
+      "minute": 39,
+      "x": 110.8,
+      "y": 54.5,
+      "xg": 0.033,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Christian Eriksen",
+      "team": "Denmark",
+      "minute": 41,
+      "x": 89.0,
+      "y": 35.6,
+      "xg": 0.03,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Eriksen",
+      "team": "Denmark",
+      "minute": 42,
+      "x": 105.1,
+      "y": 30.6,
+      "xg": 0.1,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "Denmark",
+      "minute": 54,
+      "x": 106.4,
+      "y": 37.5,
+      "xg": 0.029,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Pierre-Emile Højbjerg",
+      "team": "Denmark",
+      "minute": 55,
+      "x": 111.1,
+      "y": 43.8,
+      "xg": 0.068,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rasmus Höjlund",
+      "team": "Denmark",
+      "minute": 64,
+      "x": 116.7,
+      "y": 41.6,
+      "xg": 0.447,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alexander Bah",
+      "team": "Denmark",
+      "minute": 64,
+      "x": 100.7,
+      "y": 49.3,
+      "xg": 0.057,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Adam Gnezda Čerin",
+      "team": "Slovenia",
+      "minute": 65,
+      "x": 113.1,
+      "y": 39.6,
+      "xg": 0.196,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Christian Eriksen",
+      "team": "Denmark",
+      "minute": 67,
+      "x": 114.6,
+      "y": 27.9,
+      "xg": 0.03,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jonas Wind",
+      "team": "Denmark",
+      "minute": 70,
+      "x": 114.5,
+      "y": 43.6,
+      "xg": 0.13,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Andraž Šporar",
+      "team": "Slovenia",
+      "minute": 73,
+      "x": 114.0,
+      "y": 39.1,
+      "xg": 0.335,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Benjamin Šeško",
+      "team": "Slovenia",
+      "minute": 75,
+      "x": 94.7,
+      "y": 44.0,
+      "xg": 0.033,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Erik Janža",
+      "team": "Slovenia",
+      "minute": 76,
+      "x": 98.1,
+      "y": 22.6,
+      "xg": 0.013,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andraž Šporar",
+      "team": "Slovenia",
+      "minute": 78,
+      "x": 112.5,
+      "y": 40.9,
+      "xg": 0.182,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andraž Šporar",
+      "team": "Slovenia",
+      "minute": 78,
+      "x": 111.1,
+      "y": 39.6,
+      "xg": 0.109,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jannik Vestergaard",
+      "team": "Denmark",
+      "minute": 80,
+      "x": 112.1,
+      "y": 27.8,
+      "xg": 0.015,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Andraž Šporar",
+      "team": "Slovenia",
+      "minute": 80,
+      "x": 114.6,
+      "y": 54.5,
+      "xg": 0.026,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Morten Hjulmand",
+      "team": "Denmark",
+      "minute": 85,
+      "x": 95.3,
+      "y": 39.1,
+      "xg": 0.046,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Žan Karničnik",
+      "team": "Slovenia",
+      "minute": 90,
+      "x": 90.2,
+      "y": 57.0,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Denmark": {
+      "nodes": [
+        {
+          "id": 3959,
+          "name": "Andreas Christensen",
+          "x": 48.6,
+          "y": 44.3,
+          "passes": 92
+        },
+        {
+          "id": 3570,
+          "name": "Pierre-Emile Højbjerg",
+          "x": 65.3,
+          "y": 31.3,
+          "passes": 78
+        },
+        {
+          "id": 8247,
+          "name": "Joachim Andersen",
+          "x": 55.1,
+          "y": 64.2,
+          "passes": 77
+        },
+        {
+          "id": 8621,
+          "name": "Morten Hjulmand",
+          "x": 66.5,
+          "y": 40.9,
+          "passes": 69
+        },
+        {
+          "id": 8815,
+          "name": "Jannik Vestergaard",
+          "x": 50.6,
+          "y": 24.3,
+          "passes": 69
+        },
+        {
+          "id": 3043,
+          "name": "Christian Eriksen",
+          "x": 76.5,
+          "y": 36.0,
+          "passes": 52
+        },
+        {
+          "id": 24547,
+          "name": "Alexander Bah",
+          "x": 75.6,
+          "y": 73.4,
+          "passes": 50
+        },
+        {
+          "id": 60343,
+          "name": "Victor Kristiansen",
+          "x": 72.4,
+          "y": 11.6,
+          "passes": 44
+        },
+        {
+          "id": 21261,
+          "name": "Jonas Wind",
+          "x": 81.4,
+          "y": 40.6,
+          "passes": 23
+        },
+        {
+          "id": 3815,
+          "name": "Kasper Schmeichel",
+          "x": 12.4,
+          "y": 41.7,
+          "passes": 22
+        },
+        {
+          "id": 51672,
+          "name": "Rasmus Höjlund",
+          "x": 70.3,
+          "y": 37.6,
+          "passes": 14
+        },
+        {
+          "id": 7097,
+          "name": "Christian Nørgaard",
+          "x": 62.2,
+          "y": 38.5,
+          "passes": 10
+        },
+        {
+          "id": 16554,
+          "name": "Joakim Maehle",
+          "x": 75.9,
+          "y": 2.4,
+          "passes": 5
+        },
+        {
+          "id": 5536,
+          "name": "Yussuf Poulsen",
+          "x": 98.2,
+          "y": 44.0,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 3815,
+          "to": 8815,
+          "weight": 7
+        },
+        {
+          "from": 8815,
+          "to": 60343,
+          "weight": 20
+        },
+        {
+          "from": 8247,
+          "to": 8815,
+          "weight": 13
+        },
+        {
+          "from": 8247,
+          "to": 24547,
+          "weight": 36
+        },
+        {
+          "from": 21261,
+          "to": 24547,
+          "weight": 10
+        },
+        {
+          "from": 3570,
+          "to": 8621,
+          "weight": 27
+        },
+        {
+          "from": 3959,
+          "to": 8621,
+          "weight": 26
+        },
+        {
+          "from": 3959,
+          "to": 8247,
+          "weight": 51
+        },
+        {
+          "from": 3959,
+          "to": 8815,
+          "weight": 34
+        },
+        {
+          "from": 3043,
+          "to": 60343,
+          "weight": 8
+        },
+        {
+          "from": 3043,
+          "to": 3570,
+          "weight": 18
+        },
+        {
+          "from": 8247,
+          "to": 8621,
+          "weight": 19
+        },
+        {
+          "from": 3570,
+          "to": 60343,
+          "weight": 25
+        },
+        {
+          "from": 8621,
+          "to": 60343,
+          "weight": 13
+        },
+        {
+          "from": 8621,
+          "to": 8815,
+          "weight": 15
+        },
+        {
+          "from": 3959,
+          "to": 24547,
+          "weight": 6
+        },
+        {
+          "from": 8621,
+          "to": 24547,
+          "weight": 11
+        },
+        {
+          "from": 3570,
+          "to": 24547,
+          "weight": 9
+        },
+        {
+          "from": 3570,
+          "to": 51672,
+          "weight": 3
+        },
+        {
+          "from": 3043,
+          "to": 8815,
+          "weight": 17
+        },
+        {
+          "from": 3570,
+          "to": 3959,
+          "weight": 31
+        },
+        {
+          "from": 3570,
+          "to": 8815,
+          "weight": 17
+        },
+        {
+          "from": 3570,
+          "to": 8247,
+          "weight": 13
+        },
+        {
+          "from": 51672,
+          "to": 60343,
+          "weight": 6
+        },
+        {
+          "from": 21261,
+          "to": 51672,
+          "weight": 6
+        },
+        {
+          "from": 3570,
+          "to": 21261,
+          "weight": 7
+        },
+        {
+          "from": 3043,
+          "to": 8621,
+          "weight": 11
+        },
+        {
+          "from": 3043,
+          "to": 51672,
+          "weight": 4
+        },
+        {
+          "from": 24547,
+          "to": 51672,
+          "weight": 3
+        },
+        {
+          "from": 24547,
+          "to": 60343,
+          "weight": 3
+        },
+        {
+          "from": 3043,
+          "to": 24547,
+          "weight": 10
+        },
+        {
+          "from": 3043,
+          "to": 8247,
+          "weight": 11
+        },
+        {
+          "from": 3959,
+          "to": 21261,
+          "weight": 3
+        },
+        {
+          "from": 8815,
+          "to": 21261,
+          "weight": 4
+        },
+        {
+          "from": 3043,
+          "to": 3959,
+          "weight": 10
+        },
+        {
+          "from": 3959,
+          "to": 60343,
+          "weight": 4
+        },
+        {
+          "from": 21261,
+          "to": 60343,
+          "weight": 7
+        },
+        {
+          "from": 3043,
+          "to": 21261,
+          "weight": 9
+        },
+        {
+          "from": 3815,
+          "to": 3959,
+          "weight": 7
+        },
+        {
+          "from": 8621,
+          "to": 21261,
+          "weight": 8
+        },
+        {
+          "from": 3815,
+          "to": 8247,
+          "weight": 5
+        },
+        {
+          "from": 8247,
+          "to": 51672,
+          "weight": 3
+        },
+        {
+          "from": 8621,
+          "to": 51672,
+          "weight": 5
+        },
+        {
+          "from": 3815,
+          "to": 60343,
+          "weight": 5
+        },
+        {
+          "from": 7097,
+          "to": 8815,
+          "weight": 5
+        },
+        {
+          "from": 7097,
+          "to": 24547,
+          "weight": 3
+        },
+        {
+          "from": 3043,
+          "to": 7097,
+          "weight": 5
+        },
+        {
+          "from": 3959,
+          "to": 7097,
+          "weight": 3
+        }
+      ]
+    },
+    "Slovenia": {
+      "nodes": [
+        {
+          "id": 31968,
+          "name": "Adam Gnezda Čerin",
+          "x": 66.3,
+          "y": 49.7,
+          "passes": 39
+        },
+        {
+          "id": 137487,
+          "name": "Žan Karničnik",
+          "x": 52.6,
+          "y": 66.9,
+          "passes": 36
+        },
+        {
+          "id": 16047,
+          "name": "Jaka Bijol",
+          "x": 38.2,
+          "y": 29.2,
+          "passes": 31
+        },
+        {
+          "id": 28211,
+          "name": "Erik Janža",
+          "x": 53.4,
+          "y": 10.9,
+          "passes": 30
+        },
+        {
+          "id": 205932,
+          "name": "Vanja Drkušić",
+          "x": 38.4,
+          "y": 51.4,
+          "passes": 25
+        },
+        {
+          "id": 6378,
+          "name": "Jan Oblak",
+          "x": 8.7,
+          "y": 38.8,
+          "passes": 17
+        },
+        {
+          "id": 15896,
+          "name": "Timi Elšnik",
+          "x": 62.6,
+          "y": 31.1,
+          "passes": 17
+        },
+        {
+          "id": 16528,
+          "name": "Petar Stojanović",
+          "x": 54.3,
+          "y": 61.6,
+          "passes": 15
+        },
+        {
+          "id": 38759,
+          "name": "Benjamin Šeško",
+          "x": 75.6,
+          "y": 36.3,
+          "passes": 11
+        },
+        {
+          "id": 31866,
+          "name": "Andraž Šporar",
+          "x": 80.7,
+          "y": 50.0,
+          "passes": 10
+        },
+        {
+          "id": 31089,
+          "name": "Jan Mlakar",
+          "x": 59.2,
+          "y": 16.1,
+          "passes": 9
+        },
+        {
+          "id": 24109,
+          "name": "Žan Celar",
+          "x": 67.2,
+          "y": 69.4,
+          "passes": 7
+        },
+        {
+          "id": 16510,
+          "name": "Benjamin Verbič",
+          "x": 77.6,
+          "y": 29.5,
+          "passes": 5
+        },
+        {
+          "id": 11416,
+          "name": "Jon Gorenc-Stankovic",
+          "x": 68.6,
+          "y": 42.2,
+          "passes": 4
+        }
+      ],
+      "edges": [
+        {
+          "from": 31866,
+          "to": 205932,
+          "weight": 4
+        },
+        {
+          "from": 31968,
+          "to": 38759,
+          "weight": 5
+        },
+        {
+          "from": 15896,
+          "to": 31968,
+          "weight": 9
+        },
+        {
+          "from": 16528,
+          "to": 31968,
+          "weight": 3
+        },
+        {
+          "from": 31866,
+          "to": 137487,
+          "weight": 6
+        },
+        {
+          "from": 16528,
+          "to": 137487,
+          "weight": 11
+        },
+        {
+          "from": 28211,
+          "to": 31089,
+          "weight": 4
+        },
+        {
+          "from": 28211,
+          "to": 38759,
+          "weight": 4
+        },
+        {
+          "from": 31968,
+          "to": 137487,
+          "weight": 22
+        },
+        {
+          "from": 31866,
+          "to": 31968,
+          "weight": 3
+        },
+        {
+          "from": 15896,
+          "to": 16047,
+          "weight": 3
+        },
+        {
+          "from": 16047,
+          "to": 28211,
+          "weight": 20
+        },
+        {
+          "from": 15896,
+          "to": 28211,
+          "weight": 4
+        },
+        {
+          "from": 6378,
+          "to": 137487,
+          "weight": 9
+        },
+        {
+          "from": 15896,
+          "to": 16528,
+          "weight": 3
+        },
+        {
+          "from": 16047,
+          "to": 137487,
+          "weight": 5
+        },
+        {
+          "from": 31968,
+          "to": 205932,
+          "weight": 6
+        },
+        {
+          "from": 6378,
+          "to": 205932,
+          "weight": 6
+        },
+        {
+          "from": 6378,
+          "to": 16047,
+          "weight": 5
+        },
+        {
+          "from": 6378,
+          "to": 28211,
+          "weight": 4
+        },
+        {
+          "from": 31089,
+          "to": 38759,
+          "weight": 4
+        },
+        {
+          "from": 15896,
+          "to": 38759,
+          "weight": 4
+        },
+        {
+          "from": 16047,
+          "to": 205932,
+          "weight": 12
+        },
+        {
+          "from": 16047,
+          "to": 31968,
+          "weight": 7
+        },
+        {
+          "from": 28211,
+          "to": 31968,
+          "weight": 6
+        },
+        {
+          "from": 16528,
+          "to": 205932,
+          "weight": 3
+        },
+        {
+          "from": 28211,
+          "to": 205932,
+          "weight": 3
+        },
+        {
+          "from": 137487,
+          "to": 205932,
+          "weight": 8
+        },
+        {
+          "from": 16047,
+          "to": 16528,
+          "weight": 3
+        },
+        {
+          "from": 28211,
+          "to": 31866,
+          "weight": 6
+        },
+        {
+          "from": 31089,
+          "to": 31968,
+          "weight": 5
+        },
+        {
+          "from": 15896,
+          "to": 205932,
+          "weight": 3
+        },
+        {
+          "from": 16510,
+          "to": 38759,
+          "weight": 4
+        },
+        {
+          "from": 24109,
+          "to": 31968,
+          "weight": 4
+        },
+        {
+          "from": 24109,
+          "to": 137487,
+          "weight": 7
+        },
+        {
+          "from": 11416,
+          "to": 31968,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

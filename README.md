@@ -27,8 +27,8 @@ usually sit behind a paywall) using only free, open data.
 
 The guiding principle throughout is **insights first, statistics second**: every page tells the
 story (who won, who scored, what the game looked like) before offering the deep tables. It currently
-covers two complete tournaments, the **2022 World Cup** and **2024 Copa America**, and adding
-another is a one-line config change.
+covers three tournaments, **Euro 2024**, the **2022 World Cup**, and **2024 Copa América**, and
+adding another is a one-line config change.
 
 > Built on [StatsBomb Open Data](https://github.com/statsbomb/open-data), which publishes full
 > event-level data (every pass, shot, and xG value) for select competitions, free for

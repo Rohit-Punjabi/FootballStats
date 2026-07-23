@@ -1,0 +1,975 @@
+{
+  "match_id": 3930175,
+  "shots": [
+    {
+      "player": "Youri Tielemans",
+      "team": "Belgium",
+      "minute": 1,
+      "x": 100.4,
+      "y": 44.1,
+      "xg": 0.057,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Răzvan Marin",
+      "team": "Romania",
+      "minute": 2,
+      "x": 93.6,
+      "y": 55.2,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Radu Dragusin",
+      "team": "Romania",
+      "minute": 4,
+      "x": 112.5,
+      "y": 41.9,
+      "xg": 0.104,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Youri Tielemans",
+      "team": "Belgium",
+      "minute": 10,
+      "x": 97.9,
+      "y": 35.9,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Romelu Lukaku",
+      "team": "Belgium",
+      "minute": 12,
+      "x": 109.4,
+      "y": 38.9,
+      "xg": 0.128,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Amadou Onana",
+      "team": "Belgium",
+      "minute": 17,
+      "x": 95.2,
+      "y": 41.2,
+      "xg": 0.022,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dodi Lukebakio",
+      "team": "Belgium",
+      "minute": 17,
+      "x": 105.6,
+      "y": 47.5,
+      "xg": 0.079,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jan Vertonghen",
+      "team": "Belgium",
+      "minute": 18,
+      "x": 109.5,
+      "y": 34.6,
+      "xg": 0.105,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Valentin Mihai Mihăilă",
+      "team": "Romania",
+      "minute": 20,
+      "x": 96.8,
+      "y": 36.4,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Valentin Mihai Mihăilă",
+      "team": "Romania",
+      "minute": 23,
+      "x": 99.7,
+      "y": 27.7,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jérémy Doku",
+      "team": "Belgium",
+      "minute": 30,
+      "x": 116.0,
+      "y": 27.9,
+      "xg": 0.022,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Dodi Lukebakio",
+      "team": "Belgium",
+      "minute": 30,
+      "x": 114.9,
+      "y": 25.6,
+      "xg": 0.013,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Dodi Lukebakio",
+      "team": "Belgium",
+      "minute": 32,
+      "x": 103.5,
+      "y": 54.0,
+      "xg": 0.032,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Dennis Man",
+      "team": "Romania",
+      "minute": 36,
+      "x": 102.7,
+      "y": 54.8,
+      "xg": 0.034,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 42,
+      "x": 103.1,
+      "y": 52.4,
+      "xg": 0.097,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andrei Burcă Andonie",
+      "team": "Romania",
+      "minute": 44,
+      "x": 112.0,
+      "y": 41.3,
+      "xg": 0.111,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Dennis Man",
+      "team": "Romania",
+      "minute": 45,
+      "x": 95.8,
+      "y": 55.5,
+      "xg": 0.021,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Valentin Mihai Mihăilă",
+      "team": "Romania",
+      "minute": 47,
+      "x": 106.3,
+      "y": 28.4,
+      "xg": 0.117,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 51,
+      "x": 100.1,
+      "y": 24.4,
+      "xg": 0.026,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 54,
+      "x": 101.0,
+      "y": 40.8,
+      "xg": 0.13,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Valentin Mihai Mihăilă",
+      "team": "Romania",
+      "minute": 56,
+      "x": 97.2,
+      "y": 31.6,
+      "xg": 0.039,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Romelu Lukaku",
+      "team": "Belgium",
+      "minute": 57,
+      "x": 105.7,
+      "y": 50.3,
+      "xg": 0.072,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Romelu Lukaku",
+      "team": "Belgium",
+      "minute": 58,
+      "x": 111.0,
+      "y": 45.3,
+      "xg": 0.164,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jérémy Doku",
+      "team": "Belgium",
+      "minute": 62,
+      "x": 110.6,
+      "y": 27.2,
+      "xg": 0.11,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Romelu Lukaku",
+      "team": "Belgium",
+      "minute": 65,
+      "x": 109.0,
+      "y": 43.5,
+      "xg": 0.204,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 66,
+      "x": 94.3,
+      "y": 30.6,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dennis Man",
+      "team": "Romania",
+      "minute": 67,
+      "x": 107.2,
+      "y": 46.5,
+      "xg": 0.322,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Răzvan Marin",
+      "team": "Romania",
+      "minute": 74,
+      "x": 83.8,
+      "y": 29.8,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Belgium",
+      "minute": 79,
+      "x": 106.4,
+      "y": 44.6,
+      "xg": 0.177,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Denis Alibec",
+      "team": "Romania",
+      "minute": 84,
+      "x": 105.8,
+      "y": 34.7,
+      "xg": 0.363,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Radu Dragusin",
+      "team": "Romania",
+      "minute": 84,
+      "x": 112.9,
+      "y": 29.4,
+      "xg": 0.025,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Leandro Trossard",
+      "team": "Belgium",
+      "minute": 85,
+      "x": 109.3,
+      "y": 54.4,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Romelu Lukaku",
+      "team": "Belgium",
+      "minute": 88,
+      "x": 114.2,
+      "y": 51.8,
+      "xg": 0.108,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Radu Dragusin",
+      "team": "Romania",
+      "minute": 91,
+      "x": 90.4,
+      "y": 46.8,
+      "xg": 0.016,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Belgium": {
+      "nodes": [
+        {
+          "id": 8854,
+          "name": "Wout Faes",
+          "x": 45.5,
+          "y": 59.3,
+          "passes": 67
+        },
+        {
+          "id": 48347,
+          "name": "Amadou Onana",
+          "x": 66.4,
+          "y": 37.0,
+          "passes": 49
+        },
+        {
+          "id": 2954,
+          "name": "Youri Tielemans",
+          "x": 61.4,
+          "y": 54.4,
+          "passes": 45
+        },
+        {
+          "id": 3077,
+          "name": "Jan Vertonghen",
+          "x": 41.1,
+          "y": 31.9,
+          "passes": 41
+        },
+        {
+          "id": 6989,
+          "name": "Timothy Castagne",
+          "x": 68.8,
+          "y": 70.7,
+          "passes": 41
+        },
+        {
+          "id": 3089,
+          "name": "Kevin De Bruyne",
+          "x": 80.3,
+          "y": 31.7,
+          "passes": 31
+        },
+        {
+          "id": 43913,
+          "name": "Arthur Theate",
+          "x": 59.5,
+          "y": 10.7,
+          "passes": 31
+        },
+        {
+          "id": 23650,
+          "name": "Jérémy Doku",
+          "x": 88.8,
+          "y": 14.1,
+          "passes": 25
+        },
+        {
+          "id": 8240,
+          "name": "Koen Casteels",
+          "x": 10.7,
+          "y": 39.8,
+          "passes": 22
+        },
+        {
+          "id": 12306,
+          "name": "Dodi Lukebakio",
+          "x": 81.7,
+          "y": 63.7,
+          "passes": 19
+        },
+        {
+          "id": 3289,
+          "name": "Romelu Lukaku",
+          "x": 82.3,
+          "y": 43.7,
+          "passes": 9
+        },
+        {
+          "id": 16559,
+          "name": "Leandro Trossard",
+          "x": 78.7,
+          "y": 69.7,
+          "passes": 8
+        },
+        {
+          "id": 114832,
+          "name": "Zeno Debast",
+          "x": 64.9,
+          "y": 77.2,
+          "passes": 7
+        },
+        {
+          "id": 5633,
+          "name": "Yannick Carrasco",
+          "x": 83.0,
+          "y": 21.5,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 2954,
+          "to": 3089,
+          "weight": 10
+        },
+        {
+          "from": 3089,
+          "to": 8854,
+          "weight": 7
+        },
+        {
+          "from": 2954,
+          "to": 8854,
+          "weight": 17
+        },
+        {
+          "from": 2954,
+          "to": 12306,
+          "weight": 13
+        },
+        {
+          "from": 6989,
+          "to": 8854,
+          "weight": 19
+        },
+        {
+          "from": 2954,
+          "to": 8240,
+          "weight": 3
+        },
+        {
+          "from": 3089,
+          "to": 48347,
+          "weight": 7
+        },
+        {
+          "from": 3289,
+          "to": 23650,
+          "weight": 8
+        },
+        {
+          "from": 6989,
+          "to": 12306,
+          "weight": 12
+        },
+        {
+          "from": 3077,
+          "to": 8240,
+          "weight": 9
+        },
+        {
+          "from": 2954,
+          "to": 6989,
+          "weight": 16
+        },
+        {
+          "from": 8854,
+          "to": 48347,
+          "weight": 22
+        },
+        {
+          "from": 6989,
+          "to": 48347,
+          "weight": 13
+        },
+        {
+          "from": 3077,
+          "to": 43913,
+          "weight": 14
+        },
+        {
+          "from": 43913,
+          "to": 48347,
+          "weight": 11
+        },
+        {
+          "from": 2954,
+          "to": 48347,
+          "weight": 14
+        },
+        {
+          "from": 3077,
+          "to": 48347,
+          "weight": 5
+        },
+        {
+          "from": 3077,
+          "to": 8854,
+          "weight": 37
+        },
+        {
+          "from": 23650,
+          "to": 43913,
+          "weight": 16
+        },
+        {
+          "from": 3089,
+          "to": 23650,
+          "weight": 16
+        },
+        {
+          "from": 3089,
+          "to": 43913,
+          "weight": 5
+        },
+        {
+          "from": 2954,
+          "to": 23650,
+          "weight": 4
+        },
+        {
+          "from": 3077,
+          "to": 3089,
+          "weight": 6
+        },
+        {
+          "from": 2954,
+          "to": 3077,
+          "weight": 3
+        },
+        {
+          "from": 8240,
+          "to": 8854,
+          "weight": 15
+        },
+        {
+          "from": 8854,
+          "to": 12306,
+          "weight": 10
+        },
+        {
+          "from": 12306,
+          "to": 48347,
+          "weight": 3
+        },
+        {
+          "from": 3089,
+          "to": 12306,
+          "weight": 6
+        },
+        {
+          "from": 3077,
+          "to": 23650,
+          "weight": 3
+        },
+        {
+          "from": 23650,
+          "to": 48347,
+          "weight": 8
+        },
+        {
+          "from": 3089,
+          "to": 6989,
+          "weight": 3
+        },
+        {
+          "from": 6989,
+          "to": 8240,
+          "weight": 3
+        },
+        {
+          "from": 8240,
+          "to": 43913,
+          "weight": 4
+        },
+        {
+          "from": 3089,
+          "to": 3289,
+          "weight": 6
+        },
+        {
+          "from": 3089,
+          "to": 16559,
+          "weight": 6
+        },
+        {
+          "from": 16559,
+          "to": 114832,
+          "weight": 5
+        }
+      ]
+    },
+    "Romania": {
+      "nodes": [
+        {
+          "id": 34600,
+          "name": "Nicusor Bancu",
+          "x": 54.7,
+          "y": 8.3,
+          "passes": 39
+        },
+        {
+          "id": 31908,
+          "name": "Andrei Burcă Andonie",
+          "x": 35.3,
+          "y": 27.4,
+          "passes": 36
+        },
+        {
+          "id": 16344,
+          "name": "Răzvan Marin",
+          "x": 58.1,
+          "y": 42.6,
+          "passes": 35
+        },
+        {
+          "id": 10916,
+          "name": "Nicolae Stanciu",
+          "x": 79.4,
+          "y": 25.4,
+          "passes": 29
+        },
+        {
+          "id": 30913,
+          "name": "Marius Marin",
+          "x": 53.3,
+          "y": 38.1,
+          "passes": 26
+        },
+        {
+          "id": 24861,
+          "name": "Andrei Ratiu",
+          "x": 56.2,
+          "y": 69.3,
+          "passes": 25
+        },
+        {
+          "id": 28242,
+          "name": "Florin Nita",
+          "x": 12.9,
+          "y": 41.9,
+          "passes": 24
+        },
+        {
+          "id": 39615,
+          "name": "Radu Dragusin",
+          "x": 45.2,
+          "y": 55.0,
+          "passes": 21
+        },
+        {
+          "id": 56905,
+          "name": "Dennis Man",
+          "x": 88.0,
+          "y": 70.7,
+          "passes": 18
+        },
+        {
+          "id": 28565,
+          "name": "Ianis Hagi",
+          "x": 86.0,
+          "y": 18.5,
+          "passes": 16
+        },
+        {
+          "id": 72512,
+          "name": "Valentin Mihai Mihăilă",
+          "x": 72.2,
+          "y": 17.0,
+          "passes": 15
+        },
+        {
+          "id": 101821,
+          "name": "Darius Dumitru Olaru",
+          "x": 71.9,
+          "y": 46.9,
+          "passes": 12
+        },
+        {
+          "id": 31193,
+          "name": "Denis Dragus",
+          "x": 60.0,
+          "y": 38.3,
+          "passes": 8
+        },
+        {
+          "id": 130984,
+          "name": "Deian Cristian Sorescu",
+          "x": 53.7,
+          "y": 76.6,
+          "passes": 6
+        }
+      ],
+      "edges": [
+        {
+          "from": 24861,
+          "to": 30913,
+          "weight": 5
+        },
+        {
+          "from": 24861,
+          "to": 56905,
+          "weight": 7
+        },
+        {
+          "from": 10916,
+          "to": 24861,
+          "weight": 3
+        },
+        {
+          "from": 10916,
+          "to": 31908,
+          "weight": 6
+        },
+        {
+          "from": 31908,
+          "to": 34600,
+          "weight": 20
+        },
+        {
+          "from": 30913,
+          "to": 31193,
+          "weight": 5
+        },
+        {
+          "from": 30913,
+          "to": 34600,
+          "weight": 7
+        },
+        {
+          "from": 34600,
+          "to": 72512,
+          "weight": 8
+        },
+        {
+          "from": 30913,
+          "to": 72512,
+          "weight": 5
+        },
+        {
+          "from": 16344,
+          "to": 72512,
+          "weight": 4
+        },
+        {
+          "from": 16344,
+          "to": 56905,
+          "weight": 7
+        },
+        {
+          "from": 10916,
+          "to": 56905,
+          "weight": 9
+        },
+        {
+          "from": 30913,
+          "to": 39615,
+          "weight": 7
+        },
+        {
+          "from": 31193,
+          "to": 34600,
+          "weight": 3
+        },
+        {
+          "from": 24861,
+          "to": 39615,
+          "weight": 4
+        },
+        {
+          "from": 28242,
+          "to": 39615,
+          "weight": 7
+        },
+        {
+          "from": 10916,
+          "to": 34600,
+          "weight": 9
+        },
+        {
+          "from": 10916,
+          "to": 30913,
+          "weight": 5
+        },
+        {
+          "from": 28242,
+          "to": 31908,
+          "weight": 10
+        },
+        {
+          "from": 16344,
+          "to": 30913,
+          "weight": 6
+        },
+        {
+          "from": 16344,
+          "to": 24861,
+          "weight": 10
+        },
+        {
+          "from": 10916,
+          "to": 72512,
+          "weight": 7
+        },
+        {
+          "from": 30913,
+          "to": 31908,
+          "weight": 5
+        },
+        {
+          "from": 16344,
+          "to": 31193,
+          "weight": 4
+        },
+        {
+          "from": 24861,
+          "to": 31193,
+          "weight": 3
+        },
+        {
+          "from": 28242,
+          "to": 34600,
+          "weight": 6
+        },
+        {
+          "from": 16344,
+          "to": 39615,
+          "weight": 7
+        },
+        {
+          "from": 31908,
+          "to": 72512,
+          "weight": 5
+        },
+        {
+          "from": 56905,
+          "to": 72512,
+          "weight": 4
+        },
+        {
+          "from": 31908,
+          "to": 39615,
+          "weight": 7
+        },
+        {
+          "from": 10916,
+          "to": 16344,
+          "weight": 7
+        },
+        {
+          "from": 24861,
+          "to": 28242,
+          "weight": 3
+        },
+        {
+          "from": 16344,
+          "to": 31908,
+          "weight": 8
+        },
+        {
+          "from": 28242,
+          "to": 28565,
+          "weight": 3
+        },
+        {
+          "from": 56905,
+          "to": 101821,
+          "weight": 5
+        },
+        {
+          "from": 24861,
+          "to": 31908,
+          "weight": 3
+        },
+        {
+          "from": 16344,
+          "to": 34600,
+          "weight": 4
+        },
+        {
+          "from": 16344,
+          "to": 28565,
+          "weight": 8
+        },
+        {
+          "from": 10916,
+          "to": 101821,
+          "weight": 3
+        },
+        {
+          "from": 10916,
+          "to": 28565,
+          "weight": 9
+        },
+        {
+          "from": 28565,
+          "to": 101821,
+          "weight": 5
+        },
+        {
+          "from": 16344,
+          "to": 101821,
+          "weight": 3
+        },
+        {
+          "from": 34600,
+          "to": 101821,
+          "weight": 3
+        },
+        {
+          "from": 28565,
+          "to": 34600,
+          "weight": 6
+        },
+        {
+          "from": 28565,
+          "to": 31908,
+          "weight": 3
+        },
+        {
+          "from": 28565,
+          "to": 39615,
+          "weight": 3
+        },
+        {
+          "from": 16344,
+          "to": 130984,
+          "weight": 3
+        },
+        {
+          "from": 101821,
+          "to": 130984,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

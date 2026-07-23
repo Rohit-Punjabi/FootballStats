@@ -1,0 +1,930 @@
+{
+  "match_id": 3938644,
+  "shots": [
+    {
+      "player": "Kvara",
+      "team": "Georgia",
+      "minute": 1,
+      "x": 111.4,
+      "y": 29.2,
+      "xg": 0.137,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Giorgi Chakvetadze",
+      "team": "Georgia",
+      "minute": 11,
+      "x": 103.7,
+      "y": 19.9,
+      "xg": 0.008,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 16,
+      "x": 87.1,
+      "y": 41.7,
+      "xg": 0.023,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gonçalo Inácio",
+      "team": "Portugal",
+      "minute": 16,
+      "x": 109.9,
+      "y": 37.3,
+      "xg": 0.049,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Diogo Dalot",
+      "team": "Portugal",
+      "minute": 17,
+      "x": 106.2,
+      "y": 46.7,
+      "xg": 0.026,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "António Silva",
+      "team": "Portugal",
+      "minute": 20,
+      "x": 118.7,
+      "y": 34.9,
+      "xg": 0.187,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "João Palhinha",
+      "team": "Portugal",
+      "minute": 22,
+      "x": 92.0,
+      "y": 26.5,
+      "xg": 0.019,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Neves",
+      "team": "Portugal",
+      "minute": 23,
+      "x": 100.5,
+      "y": 38.1,
+      "xg": 0.044,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Francisco Conceição",
+      "team": "Portugal",
+      "minute": 27,
+      "x": 109.5,
+      "y": 51.5,
+      "xg": 0.053,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "João Félix",
+      "team": "Portugal",
+      "minute": 29,
+      "x": 97.4,
+      "y": 50.7,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kvara",
+      "team": "Georgia",
+      "minute": 32,
+      "x": 111.1,
+      "y": 57.2,
+      "xg": 0.014,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 34,
+      "x": 112.6,
+      "y": 28.6,
+      "xg": 0.059,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "João Palhinha",
+      "team": "Portugal",
+      "minute": 42,
+      "x": 95.6,
+      "y": 42.0,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Félix",
+      "team": "Portugal",
+      "minute": 45,
+      "x": 96.9,
+      "y": 45.9,
+      "xg": 0.043,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Francisco Conceição",
+      "team": "Portugal",
+      "minute": 45,
+      "x": 105.2,
+      "y": 50.7,
+      "xg": 0.046,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 46,
+      "x": 113.7,
+      "y": 42.7,
+      "xg": 0.19,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Danilo Pereira",
+      "team": "Portugal",
+      "minute": 46,
+      "x": 116.6,
+      "y": 36.2,
+      "xg": 0.23,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kvara",
+      "team": "Georgia",
+      "minute": 49,
+      "x": 106.4,
+      "y": 42.1,
+      "xg": 0.244,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georges Mikautadze",
+      "team": "Georgia",
+      "minute": 56,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Francisco Conceição",
+      "team": "Portugal",
+      "minute": 65,
+      "x": 102.3,
+      "y": 45.9,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Giorgi Chakvetadze",
+      "team": "Georgia",
+      "minute": 71,
+      "x": 103.4,
+      "y": 53.3,
+      "xg": 0.07,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nélson Semedo",
+      "team": "Portugal",
+      "minute": 80,
+      "x": 92.9,
+      "y": 41.1,
+      "xg": 0.02,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Matheus Nunes",
+      "team": "Portugal",
+      "minute": 81,
+      "x": 112.4,
+      "y": 39.4,
+      "xg": 0.194,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Zurab Davitashvili",
+      "team": "Georgia",
+      "minute": 84,
+      "x": 113.5,
+      "y": 27.4,
+      "xg": 0.089,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nélson Semedo",
+      "team": "Portugal",
+      "minute": 90,
+      "x": 115.8,
+      "y": 45.8,
+      "xg": 0.214,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Félix",
+      "team": "Portugal",
+      "minute": 91,
+      "x": 100.1,
+      "y": 51.9,
+      "xg": 0.019,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Diogo Jota",
+      "team": "Portugal",
+      "minute": 92,
+      "x": 113.5,
+      "y": 37.5,
+      "xg": 0.704,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Diogo Dalot",
+      "team": "Portugal",
+      "minute": 93,
+      "x": 93.5,
+      "y": 52.2,
+      "xg": 0.023,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gonçalo Ramos",
+      "team": "Portugal",
+      "minute": 93,
+      "x": 116.2,
+      "y": 47.1,
+      "xg": 0.102,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    }
+  ],
+  "networks": {
+    "Georgia": {
+      "nodes": [
+        {
+          "id": 11335,
+          "name": "Otar Kiteishvili",
+          "x": 45.1,
+          "y": 43.3,
+          "passes": 31
+        },
+        {
+          "id": 41202,
+          "name": "Giorgi Kochorashvili",
+          "x": 45.7,
+          "y": 45.5,
+          "passes": 31
+        },
+        {
+          "id": 25036,
+          "name": "Otar Kakabadze",
+          "x": 52.5,
+          "y": 73.4,
+          "passes": 29
+        },
+        {
+          "id": 23646,
+          "name": "Giorgi Chakvetadze",
+          "x": 50.8,
+          "y": 51.3,
+          "passes": 24
+        },
+        {
+          "id": 33234,
+          "name": "Georges Mikautadze",
+          "x": 69.6,
+          "y": 39.2,
+          "passes": 17
+        },
+        {
+          "id": 7655,
+          "name": "Lasha Dvali",
+          "x": 29.6,
+          "y": 19.1,
+          "passes": 16
+        },
+        {
+          "id": 398886,
+          "name": "Giorgi Gvelesiani",
+          "x": 28.7,
+          "y": 61.4,
+          "passes": 16
+        },
+        {
+          "id": 7839,
+          "name": "Guram Kashia",
+          "x": 30.1,
+          "y": 39.2,
+          "passes": 15
+        },
+        {
+          "id": 102371,
+          "name": "Giorgi Mamardashvili",
+          "x": 8.5,
+          "y": 43.7,
+          "passes": 12
+        },
+        {
+          "id": 48178,
+          "name": "Luka Lochoshvili",
+          "x": 43.9,
+          "y": 6.3,
+          "passes": 11
+        },
+        {
+          "id": 38229,
+          "name": "Kvara",
+          "x": 64.7,
+          "y": 38.8,
+          "passes": 9
+        },
+        {
+          "id": 264017,
+          "name": "Anzor Mekvabishvili",
+          "x": 58.1,
+          "y": 65.2,
+          "passes": 6
+        },
+        {
+          "id": 22242,
+          "name": "Georgiy Tsitaishvili",
+          "x": 66.7,
+          "y": 10.6,
+          "passes": 4
+        },
+        {
+          "id": 44183,
+          "name": "Zurab Davitashvili",
+          "x": 80.1,
+          "y": 56.2,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 11335,
+          "to": 33234,
+          "weight": 8
+        },
+        {
+          "from": 33234,
+          "to": 38229,
+          "weight": 3
+        },
+        {
+          "from": 7655,
+          "to": 48178,
+          "weight": 9
+        },
+        {
+          "from": 7839,
+          "to": 33234,
+          "weight": 3
+        },
+        {
+          "from": 23646,
+          "to": 25036,
+          "weight": 9
+        },
+        {
+          "from": 11335,
+          "to": 25036,
+          "weight": 7
+        },
+        {
+          "from": 25036,
+          "to": 398886,
+          "weight": 6
+        },
+        {
+          "from": 102371,
+          "to": 398886,
+          "weight": 6
+        },
+        {
+          "from": 38229,
+          "to": 41202,
+          "weight": 4
+        },
+        {
+          "from": 23646,
+          "to": 398886,
+          "weight": 6
+        },
+        {
+          "from": 41202,
+          "to": 398886,
+          "weight": 8
+        },
+        {
+          "from": 33234,
+          "to": 41202,
+          "weight": 7
+        },
+        {
+          "from": 25036,
+          "to": 38229,
+          "weight": 4
+        },
+        {
+          "from": 7655,
+          "to": 7839,
+          "weight": 3
+        },
+        {
+          "from": 7655,
+          "to": 11335,
+          "weight": 5
+        },
+        {
+          "from": 11335,
+          "to": 41202,
+          "weight": 15
+        },
+        {
+          "from": 23646,
+          "to": 41202,
+          "weight": 7
+        },
+        {
+          "from": 7655,
+          "to": 23646,
+          "weight": 4
+        },
+        {
+          "from": 23646,
+          "to": 48178,
+          "weight": 5
+        },
+        {
+          "from": 7839,
+          "to": 41202,
+          "weight": 5
+        },
+        {
+          "from": 25036,
+          "to": 41202,
+          "weight": 8
+        },
+        {
+          "from": 7839,
+          "to": 102371,
+          "weight": 4
+        },
+        {
+          "from": 7839,
+          "to": 398886,
+          "weight": 3
+        },
+        {
+          "from": 25036,
+          "to": 33234,
+          "weight": 10
+        },
+        {
+          "from": 41202,
+          "to": 48178,
+          "weight": 3
+        },
+        {
+          "from": 25036,
+          "to": 102371,
+          "weight": 5
+        },
+        {
+          "from": 23646,
+          "to": 33234,
+          "weight": 3
+        },
+        {
+          "from": 11335,
+          "to": 23646,
+          "weight": 9
+        },
+        {
+          "from": 23646,
+          "to": 38229,
+          "weight": 6
+        },
+        {
+          "from": 22242,
+          "to": 33234,
+          "weight": 4
+        },
+        {
+          "from": 25036,
+          "to": 264017,
+          "weight": 6
+        }
+      ]
+    },
+    "Portugal": {
+      "nodes": [
+        {
+          "id": 42106,
+          "name": "Gonçalo Inácio",
+          "x": 70.4,
+          "y": 13.8,
+          "passes": 108
+        },
+        {
+          "id": 13621,
+          "name": "Danilo Pereira",
+          "x": 57.5,
+          "y": 39.7,
+          "passes": 85
+        },
+        {
+          "id": 143859,
+          "name": "João Neves",
+          "x": 69.8,
+          "y": 47.9,
+          "passes": 66
+        },
+        {
+          "id": 12041,
+          "name": "João Félix",
+          "x": 86.8,
+          "y": 26.4,
+          "passes": 60
+        },
+        {
+          "id": 23256,
+          "name": "Pedro Neto",
+          "x": 80.2,
+          "y": 10.8,
+          "passes": 59
+        },
+        {
+          "id": 16028,
+          "name": "Diogo Dalot",
+          "x": 72.8,
+          "y": 65.0,
+          "passes": 55
+        },
+        {
+          "id": 143854,
+          "name": "António Silva",
+          "x": 68.5,
+          "y": 64.9,
+          "passes": 55
+        },
+        {
+          "id": 39624,
+          "name": "Francisco Conceição",
+          "x": 87.3,
+          "y": 57.8,
+          "passes": 53
+        },
+        {
+          "id": 12169,
+          "name": "João Palhinha",
+          "x": 74.8,
+          "y": 39.1,
+          "passes": 29
+        },
+        {
+          "id": 9927,
+          "name": "Rúben Neves",
+          "x": 78.3,
+          "y": 24.5,
+          "passes": 25
+        },
+        {
+          "id": 32975,
+          "name": "Diogo Costa",
+          "x": 16.5,
+          "y": 39.2,
+          "passes": 18
+        },
+        {
+          "id": 6374,
+          "name": "Nélson Semedo",
+          "x": 83.1,
+          "y": 65.8,
+          "passes": 16
+        },
+        {
+          "id": 40874,
+          "name": "Matheus Nunes",
+          "x": 82.5,
+          "y": 40.3,
+          "passes": 15
+        },
+        {
+          "id": 9929,
+          "name": "Diogo Jota",
+          "x": 84.8,
+          "y": 60.8,
+          "passes": 9
+        }
+      ],
+      "edges": [
+        {
+          "from": 42106,
+          "to": 143859,
+          "weight": 16
+        },
+        {
+          "from": 23256,
+          "to": 42106,
+          "weight": 64
+        },
+        {
+          "from": 12041,
+          "to": 23256,
+          "weight": 23
+        },
+        {
+          "from": 12041,
+          "to": 13621,
+          "weight": 10
+        },
+        {
+          "from": 13621,
+          "to": 42106,
+          "weight": 48
+        },
+        {
+          "from": 13621,
+          "to": 143854,
+          "weight": 29
+        },
+        {
+          "from": 143854,
+          "to": 143859,
+          "weight": 17
+        },
+        {
+          "from": 32975,
+          "to": 143854,
+          "weight": 4
+        },
+        {
+          "from": 32975,
+          "to": 42106,
+          "weight": 6
+        },
+        {
+          "from": 12041,
+          "to": 12169,
+          "weight": 10
+        },
+        {
+          "from": 12169,
+          "to": 42106,
+          "weight": 10
+        },
+        {
+          "from": 12041,
+          "to": 42106,
+          "weight": 32
+        },
+        {
+          "from": 12169,
+          "to": 13621,
+          "weight": 6
+        },
+        {
+          "from": 39624,
+          "to": 143854,
+          "weight": 31
+        },
+        {
+          "from": 16028,
+          "to": 143859,
+          "weight": 14
+        },
+        {
+          "from": 16028,
+          "to": 39624,
+          "weight": 19
+        },
+        {
+          "from": 13621,
+          "to": 39624,
+          "weight": 8
+        },
+        {
+          "from": 12169,
+          "to": 23256,
+          "weight": 7
+        },
+        {
+          "from": 12169,
+          "to": 39624,
+          "weight": 6
+        },
+        {
+          "from": 12169,
+          "to": 143854,
+          "weight": 7
+        },
+        {
+          "from": 39624,
+          "to": 143859,
+          "weight": 21
+        },
+        {
+          "from": 13621,
+          "to": 143859,
+          "weight": 20
+        },
+        {
+          "from": 12169,
+          "to": 143859,
+          "weight": 6
+        },
+        {
+          "from": 16028,
+          "to": 143854,
+          "weight": 10
+        },
+        {
+          "from": 12169,
+          "to": 16028,
+          "weight": 3
+        },
+        {
+          "from": 12041,
+          "to": 143859,
+          "weight": 10
+        },
+        {
+          "from": 23256,
+          "to": 143859,
+          "weight": 6
+        },
+        {
+          "from": 32975,
+          "to": 143859,
+          "weight": 4
+        },
+        {
+          "from": 13621,
+          "to": 23256,
+          "weight": 4
+        },
+        {
+          "from": 42106,
+          "to": 143854,
+          "weight": 5
+        },
+        {
+          "from": 12041,
+          "to": 16028,
+          "weight": 11
+        },
+        {
+          "from": 12041,
+          "to": 39624,
+          "weight": 8
+        },
+        {
+          "from": 13621,
+          "to": 32975,
+          "weight": 6
+        },
+        {
+          "from": 9927,
+          "to": 12041,
+          "weight": 6
+        },
+        {
+          "from": 9927,
+          "to": 23256,
+          "weight": 8
+        },
+        {
+          "from": 9927,
+          "to": 13621,
+          "weight": 8
+        },
+        {
+          "from": 9927,
+          "to": 143859,
+          "weight": 5
+        },
+        {
+          "from": 9927,
+          "to": 42106,
+          "weight": 12
+        },
+        {
+          "from": 13621,
+          "to": 16028,
+          "weight": 11
+        },
+        {
+          "from": 9927,
+          "to": 39624,
+          "weight": 7
+        },
+        {
+          "from": 6374,
+          "to": 16028,
+          "weight": 13
+        },
+        {
+          "from": 6374,
+          "to": 13621,
+          "weight": 3
+        },
+        {
+          "from": 9927,
+          "to": 16028,
+          "weight": 3
+        },
+        {
+          "from": 39624,
+          "to": 42106,
+          "weight": 11
+        },
+        {
+          "from": 6374,
+          "to": 143859,
+          "weight": 4
+        },
+        {
+          "from": 16028,
+          "to": 40874,
+          "weight": 9
+        },
+        {
+          "from": 6374,
+          "to": 9929,
+          "weight": 3
+        },
+        {
+          "from": 9929,
+          "to": 16028,
+          "weight": 8
+        },
+        {
+          "from": 13621,
+          "to": 40874,
+          "weight": 4
+        },
+        {
+          "from": 9929,
+          "to": 12041,
+          "weight": 4
+        },
+        {
+          "from": 39624,
+          "to": 40874,
+          "weight": 6
+        },
+        {
+          "from": 40874,
+          "to": 42106,
+          "weight": 4
+        },
+        {
+          "from": 6374,
+          "to": 12041,
+          "weight": 4
+        },
+        {
+          "from": 12041,
+          "to": 40874,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

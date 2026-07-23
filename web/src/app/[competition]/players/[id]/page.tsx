@@ -145,7 +145,7 @@ export default async function PlayerPage({ params }: PageProps<"/[competition]/p
             <div className="text-sm text-muted">
               <p>
                 Each axis is {p.name.split(" ").slice(-1)[0]}&apos;s <span className="text-fg font-medium">percentile
-                rank</span> among {GROUP_LABEL[p.group] ?? "players"} at this tournament (per 90
+                rank</span> among {GROUP_LABEL[p.group] ?? "players"} in this competition (per 90
                 minutes, min. 180 mins). Further out = better.
               </p>
               <div className="grid grid-cols-2 gap-x-6 gap-y-1 mt-4">

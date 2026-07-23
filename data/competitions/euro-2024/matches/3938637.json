@@ -1,0 +1,925 @@
+{
+  "match_id": 3938637,
+  "shots": [
+    {
+      "player": "Cody Gakpo",
+      "team": "Netherlands",
+      "minute": 1,
+      "x": 110.1,
+      "y": 23.0,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cody Gakpo",
+      "team": "Netherlands",
+      "minute": 5,
+      "x": 112.3,
+      "y": 34.1,
+      "xg": 0.114,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Bartosz Salamon",
+      "team": "Poland",
+      "minute": 7,
+      "x": 54.2,
+      "y": 44.2,
+      "xg": 0.003,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tijjani Reijnders",
+      "team": "Netherlands",
+      "minute": 8,
+      "x": 106.1,
+      "y": 42.8,
+      "xg": 0.114,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Adam Buksa",
+      "team": "Poland",
+      "minute": 9,
+      "x": 107.9,
+      "y": 55.5,
+      "xg": 0.044,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Xavi Simons",
+      "team": "Netherlands",
+      "minute": 13,
+      "x": 98.4,
+      "y": 58.0,
+      "xg": 0.015,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Adam Buksa",
+      "team": "Poland",
+      "minute": 15,
+      "x": 114.6,
+      "y": 33.6,
+      "xg": 0.087,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Virgil van Dijk",
+      "team": "Netherlands",
+      "minute": 19,
+      "x": 107.0,
+      "y": 38.9,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Memphis Depay",
+      "team": "Netherlands",
+      "minute": 21,
+      "x": 104.8,
+      "y": 40.8,
+      "xg": 0.112,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Memphis Depay",
+      "team": "Netherlands",
+      "minute": 22,
+      "x": 112.1,
+      "y": 53.4,
+      "xg": 0.082,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Denzel Dumfries",
+      "team": "Netherlands",
+      "minute": 26,
+      "x": 110.1,
+      "y": 43.1,
+      "xg": 0.11,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Tijjani Reijnders",
+      "team": "Netherlands",
+      "minute": 26,
+      "x": 118.5,
+      "y": 33.7,
+      "xg": 0.075,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Cody Gakpo",
+      "team": "Netherlands",
+      "minute": 27,
+      "x": 101.1,
+      "y": 19.6,
+      "xg": 0.01,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cody Gakpo",
+      "team": "Netherlands",
+      "minute": 28,
+      "x": 97.7,
+      "y": 34.5,
+      "xg": 0.048,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jakub Piotr Kiwior",
+      "team": "Poland",
+      "minute": 31,
+      "x": 109.5,
+      "y": 23.2,
+      "xg": 0.019,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cody Gakpo",
+      "team": "Netherlands",
+      "minute": 41,
+      "x": 112.6,
+      "y": 34.0,
+      "xg": 0.108,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tijjani Reijnders",
+      "team": "Netherlands",
+      "minute": 44,
+      "x": 92.3,
+      "y": 29.7,
+      "xg": 0.016,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Memphis Depay",
+      "team": "Netherlands",
+      "minute": 45,
+      "x": 108.0,
+      "y": 50.5,
+      "xg": 0.154,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Xavi Simons",
+      "team": "Netherlands",
+      "minute": 47,
+      "x": 95.3,
+      "y": 49.4,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tijjani Reijnders",
+      "team": "Netherlands",
+      "minute": 47,
+      "x": 98.4,
+      "y": 53.0,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Memphis Depay",
+      "team": "Netherlands",
+      "minute": 48,
+      "x": 83.3,
+      "y": 34.1,
+      "xg": 0.011,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Xavi Simons",
+      "team": "Netherlands",
+      "minute": 53,
+      "x": 106.5,
+      "y": 50.7,
+      "xg": 0.047,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jakub Piotr Kiwior",
+      "team": "Poland",
+      "minute": 57,
+      "x": 108.2,
+      "y": 51.3,
+      "xg": 0.061,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 58,
+      "x": 95.9,
+      "y": 46.5,
+      "xg": 0.036,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jakub Moder",
+      "team": "Poland",
+      "minute": 62,
+      "x": 108.9,
+      "y": 32.4,
+      "xg": 0.173,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Denzel Dumfries",
+      "team": "Netherlands",
+      "minute": 64,
+      "x": 110.0,
+      "y": 56.3,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Stefan de Vrij",
+      "team": "Netherlands",
+      "minute": 72,
+      "x": 110.9,
+      "y": 41.9,
+      "xg": 0.069,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jakub Moder",
+      "team": "Poland",
+      "minute": 79,
+      "x": 115.5,
+      "y": 39.4,
+      "xg": 0.295,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Wout Weghorst",
+      "team": "Netherlands",
+      "minute": 82,
+      "x": 110.6,
+      "y": 36.7,
+      "xg": 0.095,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Karol Świderski",
+      "team": "Poland",
+      "minute": 88,
+      "x": 112.0,
+      "y": 36.4,
+      "xg": 0.131,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jakub Piotrowski",
+      "team": "Poland",
+      "minute": 88,
+      "x": 119.0,
+      "y": 32.0,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jakub Moder",
+      "team": "Poland",
+      "minute": 91,
+      "x": 88.9,
+      "y": 45.8,
+      "xg": 0.02,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicola Zalewski",
+      "team": "Poland",
+      "minute": 94,
+      "x": 90.3,
+      "y": 29.2,
+      "xg": 0.019,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Netherlands": {
+      "nodes": [
+        {
+          "id": 15503,
+          "name": "Jerdy Schouten",
+          "x": 62.8,
+          "y": 52.3,
+          "passes": 72
+        },
+        {
+          "id": 3306,
+          "name": "Nathan Aké",
+          "x": 58.6,
+          "y": 14.4,
+          "passes": 67
+        },
+        {
+          "id": 7787,
+          "name": "Stefan de Vrij",
+          "x": 50.1,
+          "y": 59.3,
+          "passes": 66
+        },
+        {
+          "id": 3669,
+          "name": "Virgil van Dijk",
+          "x": 43.0,
+          "y": 35.7,
+          "passes": 64
+        },
+        {
+          "id": 8125,
+          "name": "Denzel Dumfries",
+          "x": 77.3,
+          "y": 73.8,
+          "passes": 63
+        },
+        {
+          "id": 21633,
+          "name": "Joey Veerman",
+          "x": 66.4,
+          "y": 35.1,
+          "passes": 57
+        },
+        {
+          "id": 21582,
+          "name": "Tijjani Reijnders",
+          "x": 79.6,
+          "y": 31.7,
+          "passes": 42
+        },
+        {
+          "id": 37274,
+          "name": "Bart Verbruggen",
+          "x": 15.5,
+          "y": 42.6,
+          "passes": 29
+        },
+        {
+          "id": 20750,
+          "name": "Cody Gakpo",
+          "x": 90.4,
+          "y": 12.8,
+          "passes": 27
+        },
+        {
+          "id": 39167,
+          "name": "Xavi Simons",
+          "x": 76.4,
+          "y": 52.0,
+          "passes": 26
+        },
+        {
+          "id": 2988,
+          "name": "Memphis Depay",
+          "x": 84.3,
+          "y": 31.2,
+          "passes": 22
+        },
+        {
+          "id": 15582,
+          "name": "Donyell Malen",
+          "x": 87.2,
+          "y": 58.1,
+          "passes": 13
+        },
+        {
+          "id": 3567,
+          "name": "Georginio Wijnaldum",
+          "x": 61.6,
+          "y": 32.2,
+          "passes": 4
+        },
+        {
+          "id": 7829,
+          "name": "Wout Weghorst",
+          "x": 63.3,
+          "y": 56.1,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 3669,
+          "to": 37274,
+          "weight": 17
+        },
+        {
+          "from": 21633,
+          "to": 39167,
+          "weight": 9
+        },
+        {
+          "from": 15503,
+          "to": 39167,
+          "weight": 17
+        },
+        {
+          "from": 3669,
+          "to": 15503,
+          "weight": 14
+        },
+        {
+          "from": 3306,
+          "to": 3669,
+          "weight": 30
+        },
+        {
+          "from": 3669,
+          "to": 7787,
+          "weight": 25
+        },
+        {
+          "from": 7787,
+          "to": 8125,
+          "weight": 28
+        },
+        {
+          "from": 8125,
+          "to": 15503,
+          "weight": 20
+        },
+        {
+          "from": 2988,
+          "to": 8125,
+          "weight": 7
+        },
+        {
+          "from": 8125,
+          "to": 21633,
+          "weight": 8
+        },
+        {
+          "from": 8125,
+          "to": 20750,
+          "weight": 5
+        },
+        {
+          "from": 15503,
+          "to": 21582,
+          "weight": 13
+        },
+        {
+          "from": 7787,
+          "to": 37274,
+          "weight": 10
+        },
+        {
+          "from": 2988,
+          "to": 20750,
+          "weight": 6
+        },
+        {
+          "from": 3669,
+          "to": 21582,
+          "weight": 9
+        },
+        {
+          "from": 3669,
+          "to": 8125,
+          "weight": 6
+        },
+        {
+          "from": 21582,
+          "to": 21633,
+          "weight": 8
+        },
+        {
+          "from": 3306,
+          "to": 21633,
+          "weight": 23
+        },
+        {
+          "from": 3306,
+          "to": 7787,
+          "weight": 5
+        },
+        {
+          "from": 3306,
+          "to": 20750,
+          "weight": 19
+        },
+        {
+          "from": 3306,
+          "to": 21582,
+          "weight": 17
+        },
+        {
+          "from": 20750,
+          "to": 21582,
+          "weight": 15
+        },
+        {
+          "from": 3306,
+          "to": 37274,
+          "weight": 8
+        },
+        {
+          "from": 2988,
+          "to": 15503,
+          "weight": 8
+        },
+        {
+          "from": 15503,
+          "to": 21633,
+          "weight": 20
+        },
+        {
+          "from": 20750,
+          "to": 21633,
+          "weight": 4
+        },
+        {
+          "from": 8125,
+          "to": 39167,
+          "weight": 11
+        },
+        {
+          "from": 3306,
+          "to": 15503,
+          "weight": 9
+        },
+        {
+          "from": 2988,
+          "to": 21633,
+          "weight": 16
+        },
+        {
+          "from": 7787,
+          "to": 21633,
+          "weight": 14
+        },
+        {
+          "from": 7787,
+          "to": 39167,
+          "weight": 6
+        },
+        {
+          "from": 15503,
+          "to": 37274,
+          "weight": 9
+        },
+        {
+          "from": 2988,
+          "to": 3306,
+          "weight": 8
+        },
+        {
+          "from": 3669,
+          "to": 21633,
+          "weight": 12
+        },
+        {
+          "from": 7787,
+          "to": 15503,
+          "weight": 19
+        },
+        {
+          "from": 15503,
+          "to": 20750,
+          "weight": 5
+        },
+        {
+          "from": 21582,
+          "to": 39167,
+          "weight": 4
+        },
+        {
+          "from": 2988,
+          "to": 21582,
+          "weight": 5
+        },
+        {
+          "from": 20750,
+          "to": 39167,
+          "weight": 3
+        },
+        {
+          "from": 3669,
+          "to": 20750,
+          "weight": 3
+        },
+        {
+          "from": 8125,
+          "to": 21582,
+          "weight": 11
+        },
+        {
+          "from": 7787,
+          "to": 21582,
+          "weight": 4
+        },
+        {
+          "from": 15582,
+          "to": 21582,
+          "weight": 3
+        },
+        {
+          "from": 8125,
+          "to": 15582,
+          "weight": 13
+        },
+        {
+          "from": 7787,
+          "to": 15582,
+          "weight": 6
+        },
+        {
+          "from": 3669,
+          "to": 15582,
+          "weight": 3
+        }
+      ]
+    },
+    "Poland": {
+      "nodes": [
+        {
+          "id": 5660,
+          "name": "Piotr Zieliński",
+          "x": 62.7,
+          "y": 31.0,
+          "passes": 35
+        },
+        {
+          "id": 44166,
+          "name": "Jakub Piotr Kiwior",
+          "x": 50.5,
+          "y": 14.2,
+          "passes": 30
+        },
+        {
+          "id": 8289,
+          "name": "Bartosz Salamon",
+          "x": 21.5,
+          "y": 34.5,
+          "passes": 26
+        },
+        {
+          "id": 4626,
+          "name": "Jan Bednarek",
+          "x": 41.6,
+          "y": 54.3,
+          "passes": 25
+        },
+        {
+          "id": 7979,
+          "name": "Przemysław Frankowski",
+          "x": 64.6,
+          "y": 69.8,
+          "passes": 23
+        },
+        {
+          "id": 50502,
+          "name": "Nicola Zalewski",
+          "x": 70.8,
+          "y": 8.4,
+          "passes": 22
+        },
+        {
+          "id": 5669,
+          "name": "Wojciech Szczęsny",
+          "x": 13.7,
+          "y": 45.8,
+          "passes": 16
+        },
+        {
+          "id": 29480,
+          "name": "Jakub Moder",
+          "x": 50.3,
+          "y": 19.4,
+          "passes": 13
+        },
+        {
+          "id": 4664,
+          "name": "Sebastian Szymański",
+          "x": 71.0,
+          "y": 46.0,
+          "passes": 12
+        },
+        {
+          "id": 33680,
+          "name": "Kacper Urbanski",
+          "x": 77.4,
+          "y": 29.5,
+          "passes": 12
+        },
+        {
+          "id": 7982,
+          "name": "Taras Wiktorowicz Romanczuk",
+          "x": 48.6,
+          "y": 42.6,
+          "passes": 10
+        },
+        {
+          "id": 15859,
+          "name": "Bartosz Slisz",
+          "x": 59.2,
+          "y": 43.4,
+          "passes": 9
+        },
+        {
+          "id": 7663,
+          "name": "Adam Buksa",
+          "x": 78.5,
+          "y": 33.7,
+          "passes": 6
+        },
+        {
+          "id": 8836,
+          "name": "Karol Świderski",
+          "x": 91.2,
+          "y": 29.1,
+          "passes": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 4664,
+          "to": 5660,
+          "weight": 6
+        },
+        {
+          "from": 4664,
+          "to": 50502,
+          "weight": 4
+        },
+        {
+          "from": 8289,
+          "to": 44166,
+          "weight": 7
+        },
+        {
+          "from": 4626,
+          "to": 5660,
+          "weight": 11
+        },
+        {
+          "from": 4626,
+          "to": 8289,
+          "weight": 6
+        },
+        {
+          "from": 5669,
+          "to": 8289,
+          "weight": 20
+        },
+        {
+          "from": 33680,
+          "to": 44166,
+          "weight": 3
+        },
+        {
+          "from": 5660,
+          "to": 8289,
+          "weight": 4
+        },
+        {
+          "from": 4626,
+          "to": 7982,
+          "weight": 7
+        },
+        {
+          "from": 5660,
+          "to": 7979,
+          "weight": 6
+        },
+        {
+          "from": 7979,
+          "to": 7982,
+          "weight": 3
+        },
+        {
+          "from": 4664,
+          "to": 7979,
+          "weight": 8
+        },
+        {
+          "from": 5660,
+          "to": 44166,
+          "weight": 10
+        },
+        {
+          "from": 5660,
+          "to": 7982,
+          "weight": 4
+        },
+        {
+          "from": 5660,
+          "to": 50502,
+          "weight": 10
+        },
+        {
+          "from": 5660,
+          "to": 33680,
+          "weight": 10
+        },
+        {
+          "from": 44166,
+          "to": 50502,
+          "weight": 14
+        },
+        {
+          "from": 4664,
+          "to": 8289,
+          "weight": 3
+        },
+        {
+          "from": 7982,
+          "to": 50502,
+          "weight": 3
+        },
+        {
+          "from": 4626,
+          "to": 7979,
+          "weight": 5
+        },
+        {
+          "from": 4626,
+          "to": 5669,
+          "weight": 4
+        },
+        {
+          "from": 7979,
+          "to": 33680,
+          "weight": 4
+        },
+        {
+          "from": 7663,
+          "to": 44166,
+          "weight": 5
+        },
+        {
+          "from": 29480,
+          "to": 44166,
+          "weight": 5
+        },
+        {
+          "from": 5669,
+          "to": 29480,
+          "weight": 4
+        },
+        {
+          "from": 8836,
+          "to": 29480,
+          "weight": 3
+        },
+        {
+          "from": 5660,
+          "to": 29480,
+          "weight": 3
+        },
+        {
+          "from": 7979,
+          "to": 15859,
+          "weight": 4
+        },
+        {
+          "from": 29480,
+          "to": 50502,
+          "weight": 5
+        },
+        {
+          "from": 7979,
+          "to": 8836,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Allianz Arena",
+    "match_count": 6,
+    "match_ids": [
+      3930158,
+      3930170,
+      3930182,
+      3938638,
+      3941021,
+      3942752
+    ]
+  },
+  {
+    "name": "Olympiastadion Berlin",
+    "match_count": 6,
+    "match_ids": [
+      3930160,
+      3930180,
+      3938641,
+      3940878,
+      3942382,
+      3943043
+    ]
+  },
+  {
+    "name": "Signal-Iduna-Park",
+    "match_count": 6,
+    "match_ids": [
+      3930161,
+      3930174,
+      3938639,
+      3938643,
+      3940983,
+      3942819
+    ]
+  },
+  {
+    "name": "Deutsche Bank Park",
+    "match_count": 5,
+    "match_ids": [
+      3930164,
+      3930171,
+      3930176,
+      3930183,
+      3941020
+    ]
+  },
+  {
+    "name": "MHPArena",
+    "match_count": 5,
+    "match_ids": [
+      3930162,
+      3930168,
+      3930177,
+      3938645,
+      3942226
+    ]
+  },
+  {
+    "name": "Merkur Spiel-Arena",
+    "match_count": 5,
+    "match_ids": [
+      3930165,
+      3930179,
+      3938640,
+      3941019,
+      3942227
+    ]
+  },
+  {
+    "name": "RheinEnergieStadion",
+    "match_count": 5,
+    "match_ids": [
+      3930159,
+      3930169,
+      3930175,
+      3930181,
+      3941018
+    ]
+  },
+  {
+    "name": "Volksparkstadion",
+    "match_count": 5,
+    "match_ids": [
+      3930167,
+      3930184,
+      3938637,
+      3938642,
+      3942349
+    ]
+  },
+  {
+    "name": "VELTINS-Arena",
+    "match_count": 4,
+    "match_ids": [
+      3930163,
+      3930172,
+      3938644,
+      3941017
+    ]
+  },
+  {
+    "name": "Red Bull Arena",
+    "match_count": 3,
+    "match_ids": [
+      3930166,
+      3930178,
+      3941022
+    ]
+  },
+  {
+    "name": "Trainingszentrum RB Leipzig Platz 1",
+    "match_count": 1,
+    "match_ids": [
+      3930173
+    ]
+  }
+]

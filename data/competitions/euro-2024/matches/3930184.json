@@ -1,0 +1,890 @@
+{
+  "match_id": 3930184,
+  "shots": [
+    {
+      "player": "Lukáš Provod",
+      "team": "Czech Republic",
+      "minute": 1,
+      "x": 99.4,
+      "y": 27.2,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kenan Yildiz",
+      "team": "Turkey",
+      "minute": 6,
+      "x": 112.6,
+      "y": 21.5,
+      "xg": 0.009,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Arda Güler",
+      "team": "Turkey",
+      "minute": 12,
+      "x": 90.5,
+      "y": 37.1,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "David Jurásek",
+      "team": "Czech Republic",
+      "minute": 14,
+      "x": 80.6,
+      "y": 30.1,
+      "xg": 0.007,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Robin Hranáč",
+      "team": "Czech Republic",
+      "minute": 16,
+      "x": 113.5,
+      "y": 37.1,
+      "xg": 0.258,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Robin Hranáč",
+      "team": "Czech Republic",
+      "minute": 22,
+      "x": 112.5,
+      "y": 35.8,
+      "xg": 0.079,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kenan Yildiz",
+      "team": "Turkey",
+      "minute": 26,
+      "x": 111.7,
+      "y": 25.6,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Arda Güler",
+      "team": "Turkey",
+      "minute": 26,
+      "x": 112.9,
+      "y": 36.9,
+      "xg": 0.175,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Samet Akaydin",
+      "team": "Turkey",
+      "minute": 27,
+      "x": 113.2,
+      "y": 33.9,
+      "xg": 0.075,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "minute": 41,
+      "x": 114.8,
+      "y": 55.0,
+      "xg": 0.012,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "minute": 42,
+      "x": 98.6,
+      "y": 58.7,
+      "xg": 0.011,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "David Jurásek",
+      "team": "Czech Republic",
+      "minute": 44,
+      "x": 110.3,
+      "y": 23.8,
+      "xg": 0.073,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Arda Güler",
+      "team": "Turkey",
+      "minute": 48,
+      "x": 98.0,
+      "y": 49.4,
+      "xg": 0.039,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Barış Alper Yılmaz",
+      "team": "Turkey",
+      "minute": 45,
+      "x": 115.1,
+      "y": 50.8,
+      "xg": 0.049,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kenan Yildiz",
+      "team": "Turkey",
+      "minute": 46,
+      "x": 99.6,
+      "y": 29.5,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Adam Hložek",
+      "team": "Czech Republic",
+      "minute": 49,
+      "x": 99.0,
+      "y": 48.6,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kenan Yildiz",
+      "team": "Turkey",
+      "minute": 50,
+      "x": 106.4,
+      "y": 37.9,
+      "xg": 0.103,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kenan Yildiz",
+      "team": "Turkey",
+      "minute": 50,
+      "x": 109.4,
+      "y": 42.3,
+      "xg": 0.129,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "İsmail Yüksek",
+      "team": "Turkey",
+      "minute": 50,
+      "x": 98.8,
+      "y": 38.1,
+      "xg": 0.046,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "minute": 50,
+      "x": 109.2,
+      "y": 26.0,
+      "xg": 0.071,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ladislav Krejčí",
+      "team": "Czech Republic",
+      "minute": 63,
+      "x": 114.8,
+      "y": 49.8,
+      "xg": 0.051,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Tomáš Chorý",
+      "team": "Czech Republic",
+      "minute": 65,
+      "x": 116.0,
+      "y": 44.0,
+      "xg": 0.551,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Tomáš Souček",
+      "team": "Czech Republic",
+      "minute": 65,
+      "x": 113.6,
+      "y": 46.4,
+      "xg": 0.12,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kenan Yildiz",
+      "team": "Turkey",
+      "minute": 72,
+      "x": 111.8,
+      "y": 34.4,
+      "xg": 0.169,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ondřej Lingr",
+      "team": "Czech Republic",
+      "minute": 79,
+      "x": 111.9,
+      "y": 32.5,
+      "xg": 0.106,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ondřej Lingr",
+      "team": "Czech Republic",
+      "minute": 79,
+      "x": 112.7,
+      "y": 34.1,
+      "xg": 0.075,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Okay Yokuşlu",
+      "team": "Turkey",
+      "minute": 86,
+      "x": 95.4,
+      "y": 36.3,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Matěj Jurásek",
+      "team": "Czech Republic",
+      "minute": 90,
+      "x": 98.5,
+      "y": 28.7,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Barış Alper Yılmaz",
+      "team": "Turkey",
+      "minute": 91,
+      "x": 99.1,
+      "y": 45.5,
+      "xg": 0.104,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cenk Tosun",
+      "team": "Turkey",
+      "minute": 93,
+      "x": 105.3,
+      "y": 34.5,
+      "xg": 0.086,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Czech Republic": {
+      "nodes": [
+        {
+          "id": 16570,
+          "name": "Vladimír Coufal",
+          "x": 62.2,
+          "y": 71.3,
+          "passes": 30
+        },
+        {
+          "id": 28272,
+          "name": "Ladislav Krejčí",
+          "x": 41.1,
+          "y": 25.6,
+          "passes": 28
+        },
+        {
+          "id": 16469,
+          "name": "Tomáš Holeš",
+          "x": 46.4,
+          "y": 56.8,
+          "passes": 27
+        },
+        {
+          "id": 28040,
+          "name": "Jindřich Staněk",
+          "x": 12.1,
+          "y": 40.7,
+          "passes": 19
+        },
+        {
+          "id": 28034,
+          "name": "Lukáš Provod",
+          "x": 60.4,
+          "y": 38.3,
+          "passes": 18
+        },
+        {
+          "id": 81330,
+          "name": "Robin Hranáč",
+          "x": 45.2,
+          "y": 44.6,
+          "passes": 15
+        },
+        {
+          "id": 4870,
+          "name": "Tomáš Souček",
+          "x": 72.9,
+          "y": 50.0,
+          "passes": 12
+        },
+        {
+          "id": 134272,
+          "name": "David Jurásek",
+          "x": 67.4,
+          "y": 5.5,
+          "passes": 10
+        },
+        {
+          "id": 46046,
+          "name": "Matěj Kovář",
+          "x": 14.6,
+          "y": 41.7,
+          "passes": 8
+        },
+        {
+          "id": 7801,
+          "name": "Antonín Barák",
+          "x": 64.0,
+          "y": 43.3,
+          "passes": 5
+        },
+        {
+          "id": 28239,
+          "name": "Adam Hložek",
+          "x": 84.9,
+          "y": 26.5,
+          "passes": 4
+        },
+        {
+          "id": 21226,
+          "name": "Tomáš Chorý",
+          "x": 88.5,
+          "y": 57.2,
+          "passes": 3
+        },
+        {
+          "id": 27826,
+          "name": "Ondřej Lingr",
+          "x": 84.2,
+          "y": 53.8,
+          "passes": 3
+        },
+        {
+          "id": 39143,
+          "name": "Matěj Jurásek",
+          "x": 53.1,
+          "y": 21.1,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 16469,
+          "to": 28272,
+          "weight": 9
+        },
+        {
+          "from": 28040,
+          "to": 28272,
+          "weight": 9
+        },
+        {
+          "from": 7801,
+          "to": 28034,
+          "weight": 3
+        },
+        {
+          "from": 16469,
+          "to": 16570,
+          "weight": 11
+        },
+        {
+          "from": 16469,
+          "to": 81330,
+          "weight": 5
+        },
+        {
+          "from": 28272,
+          "to": 81330,
+          "weight": 6
+        },
+        {
+          "from": 28034,
+          "to": 28272,
+          "weight": 5
+        },
+        {
+          "from": 28272,
+          "to": 134272,
+          "weight": 8
+        },
+        {
+          "from": 16469,
+          "to": 28040,
+          "weight": 8
+        },
+        {
+          "from": 4870,
+          "to": 16469,
+          "weight": 4
+        },
+        {
+          "from": 4870,
+          "to": 28272,
+          "weight": 4
+        },
+        {
+          "from": 16570,
+          "to": 28034,
+          "weight": 5
+        },
+        {
+          "from": 16570,
+          "to": 81330,
+          "weight": 3
+        },
+        {
+          "from": 4870,
+          "to": 16570,
+          "weight": 8
+        },
+        {
+          "from": 7801,
+          "to": 16570,
+          "weight": 3
+        },
+        {
+          "from": 28040,
+          "to": 134272,
+          "weight": 3
+        },
+        {
+          "from": 28034,
+          "to": 28040,
+          "weight": 3
+        },
+        {
+          "from": 28034,
+          "to": 134272,
+          "weight": 3
+        },
+        {
+          "from": 16570,
+          "to": 28040,
+          "weight": 3
+        },
+        {
+          "from": 16469,
+          "to": 46046,
+          "weight": 3
+        },
+        {
+          "from": 16570,
+          "to": 21226,
+          "weight": 3
+        },
+        {
+          "from": 16570,
+          "to": 46046,
+          "weight": 6
+        },
+        {
+          "from": 16469,
+          "to": 21226,
+          "weight": 3
+        },
+        {
+          "from": 28272,
+          "to": 46046,
+          "weight": 3
+        }
+      ]
+    },
+    "Turkey": {
+      "nodes": [
+        {
+          "id": 30438,
+          "name": "Ferdi Kadioglu",
+          "x": 69.3,
+          "y": 13.6,
+          "passes": 55
+        },
+        {
+          "id": 10826,
+          "name": "Mert Müldür",
+          "x": 69.8,
+          "y": 72.2,
+          "passes": 54
+        },
+        {
+          "id": 133305,
+          "name": "Samet Akaydin",
+          "x": 49.2,
+          "y": 55.9,
+          "passes": 51
+        },
+        {
+          "id": 78241,
+          "name": "İsmail Yüksek",
+          "x": 60.0,
+          "y": 39.2,
+          "passes": 48
+        },
+        {
+          "id": 23558,
+          "name": "Merih Demiral",
+          "x": 45.5,
+          "y": 24.7,
+          "passes": 45
+        },
+        {
+          "id": 7039,
+          "name": "Hakan Çalhanoğlu",
+          "x": 66.7,
+          "y": 34.6,
+          "passes": 34
+        },
+        {
+          "id": 9085,
+          "name": "Salih Özcan",
+          "x": 62.2,
+          "y": 52.4,
+          "passes": 33
+        },
+        {
+          "id": 116587,
+          "name": "Arda Güler",
+          "x": 81.7,
+          "y": 53.7,
+          "passes": 33
+        },
+        {
+          "id": 30310,
+          "name": "Mert Günok",
+          "x": 11.2,
+          "y": 38.9,
+          "passes": 26
+        },
+        {
+          "id": 134209,
+          "name": "Barış Alper Yılmaz",
+          "x": 82.5,
+          "y": 64.9,
+          "passes": 24
+        },
+        {
+          "id": 151813,
+          "name": "Kenan Yildiz",
+          "x": 78.8,
+          "y": 15.3,
+          "passes": 20
+        },
+        {
+          "id": 12555,
+          "name": "Okay Yokuşlu",
+          "x": 57.6,
+          "y": 30.7,
+          "passes": 15
+        },
+        {
+          "id": 12293,
+          "name": "Kaan Ayhan",
+          "x": 69.6,
+          "y": 44.9,
+          "passes": 13
+        },
+        {
+          "id": 22212,
+          "name": "Orkun Kökçü",
+          "x": 66.5,
+          "y": 30.2,
+          "passes": 9
+        }
+      ],
+      "edges": [
+        {
+          "from": 23558,
+          "to": 151813,
+          "weight": 4
+        },
+        {
+          "from": 30438,
+          "to": 151813,
+          "weight": 17
+        },
+        {
+          "from": 9085,
+          "to": 134209,
+          "weight": 4
+        },
+        {
+          "from": 7039,
+          "to": 30438,
+          "weight": 13
+        },
+        {
+          "from": 30438,
+          "to": 78241,
+          "weight": 18
+        },
+        {
+          "from": 78241,
+          "to": 151813,
+          "weight": 7
+        },
+        {
+          "from": 23558,
+          "to": 30310,
+          "weight": 12
+        },
+        {
+          "from": 116587,
+          "to": 151813,
+          "weight": 3
+        },
+        {
+          "from": 7039,
+          "to": 151813,
+          "weight": 8
+        },
+        {
+          "from": 30438,
+          "to": 116587,
+          "weight": 8
+        },
+        {
+          "from": 7039,
+          "to": 116587,
+          "weight": 8
+        },
+        {
+          "from": 9085,
+          "to": 78241,
+          "weight": 13
+        },
+        {
+          "from": 9085,
+          "to": 151813,
+          "weight": 5
+        },
+        {
+          "from": 9085,
+          "to": 10826,
+          "weight": 16
+        },
+        {
+          "from": 10826,
+          "to": 133305,
+          "weight": 20
+        },
+        {
+          "from": 9085,
+          "to": 133305,
+          "weight": 6
+        },
+        {
+          "from": 30310,
+          "to": 133305,
+          "weight": 11
+        },
+        {
+          "from": 78241,
+          "to": 133305,
+          "weight": 12
+        },
+        {
+          "from": 78241,
+          "to": 116587,
+          "weight": 9
+        },
+        {
+          "from": 23558,
+          "to": 78241,
+          "weight": 6
+        },
+        {
+          "from": 10826,
+          "to": 78241,
+          "weight": 8
+        },
+        {
+          "from": 10826,
+          "to": 134209,
+          "weight": 23
+        },
+        {
+          "from": 9085,
+          "to": 116587,
+          "weight": 6
+        },
+        {
+          "from": 9085,
+          "to": 30438,
+          "weight": 5
+        },
+        {
+          "from": 23558,
+          "to": 133305,
+          "weight": 20
+        },
+        {
+          "from": 23558,
+          "to": 30438,
+          "weight": 19
+        },
+        {
+          "from": 7039,
+          "to": 78241,
+          "weight": 10
+        },
+        {
+          "from": 133305,
+          "to": 134209,
+          "weight": 5
+        },
+        {
+          "from": 30438,
+          "to": 133305,
+          "weight": 3
+        },
+        {
+          "from": 30310,
+          "to": 30438,
+          "weight": 9
+        },
+        {
+          "from": 116587,
+          "to": 133305,
+          "weight": 4
+        },
+        {
+          "from": 10826,
+          "to": 30310,
+          "weight": 5
+        },
+        {
+          "from": 116587,
+          "to": 134209,
+          "weight": 8
+        },
+        {
+          "from": 10826,
+          "to": 116587,
+          "weight": 15
+        },
+        {
+          "from": 7039,
+          "to": 10826,
+          "weight": 9
+        },
+        {
+          "from": 7039,
+          "to": 9085,
+          "weight": 4
+        },
+        {
+          "from": 7039,
+          "to": 23558,
+          "weight": 4
+        },
+        {
+          "from": 7039,
+          "to": 30310,
+          "weight": 3
+        },
+        {
+          "from": 7039,
+          "to": 134209,
+          "weight": 5
+        },
+        {
+          "from": 7039,
+          "to": 133305,
+          "weight": 5
+        },
+        {
+          "from": 12293,
+          "to": 116587,
+          "weight": 4
+        },
+        {
+          "from": 12293,
+          "to": 133305,
+          "weight": 5
+        },
+        {
+          "from": 10826,
+          "to": 12293,
+          "weight": 3
+        },
+        {
+          "from": 12555,
+          "to": 116587,
+          "weight": 3
+        },
+        {
+          "from": 12555,
+          "to": 30438,
+          "weight": 8
+        },
+        {
+          "from": 12555,
+          "to": 23558,
+          "weight": 4
+        },
+        {
+          "from": 12555,
+          "to": 133305,
+          "weight": 6
+        },
+        {
+          "from": 12293,
+          "to": 12555,
+          "weight": 3
+        },
+        {
+          "from": 12293,
+          "to": 134209,
+          "weight": 3
+        },
+        {
+          "from": 22212,
+          "to": 134209,
+          "weight": 3
+        },
+        {
+          "from": 22212,
+          "to": 23558,
+          "weight": 7
+        }
+      ]
+    }
+  }
+}

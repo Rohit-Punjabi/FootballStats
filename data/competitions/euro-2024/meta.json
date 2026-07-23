@@ -1,0 +1,22 @@
+{
+  "slug": "euro-2024",
+  "competition_id": 55,
+  "season_id": 282,
+  "competition_name": "UEFA Euro",
+  "season_name": "2024",
+  "match_count": 51,
+  "type": "tournament",
+  "club": null,
+  "record": null,
+  "team_count": 24,
+  "player_count": 495,
+  "goal_count": 107,
+  "champion": "Spain",
+  "final_match_id": 3943043,
+  "top_scorer": {
+    "id": 10955,
+    "name": "Harry Kane",
+    "team": "England",
+    "goals": 3
+  }
+}

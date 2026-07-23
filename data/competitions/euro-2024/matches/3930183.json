@@ -1,0 +1,740 @@
+{
+  "match_id": 3930183,
+  "shots": [
+    {
+      "player": "Juraj Kucka",
+      "team": "Slovakia",
+      "minute": 0,
+      "x": 99.2,
+      "y": 37.7,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Peter Pekarík",
+      "team": "Slovakia",
+      "minute": 0,
+      "x": 94.7,
+      "y": 52.1,
+      "xg": 0.019,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "David Strelec",
+      "team": "Slovakia",
+      "minute": 0,
+      "x": 105.8,
+      "y": 41.1,
+      "xg": 0.166,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Juraj Kucka",
+      "team": "Slovakia",
+      "minute": 8,
+      "x": 108.5,
+      "y": 45.8,
+      "xg": 0.044,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Dávid Hancko",
+      "team": "Slovakia",
+      "minute": 9,
+      "x": 104.9,
+      "y": 42.4,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andrei Ratiu",
+      "team": "Romania",
+      "minute": 10,
+      "x": 106.4,
+      "y": 27.8,
+      "xg": 0.084,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ianis Hagi",
+      "team": "Romania",
+      "minute": 10,
+      "x": 109.9,
+      "y": 53.7,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Răzvan Marin",
+      "team": "Romania",
+      "minute": 12,
+      "x": 85.4,
+      "y": 26.7,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Milan Škriniar",
+      "team": "Slovakia",
+      "minute": 21,
+      "x": 112.3,
+      "y": 37.0,
+      "xg": 0.129,
+      "outcome": "Off T",
+      "body_part": "Other"
+    },
+    {
+      "player": "Nicolae Stanciu",
+      "team": "Romania",
+      "minute": 22,
+      "x": 97.0,
+      "y": 22.1,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ondrej Duda",
+      "team": "Slovakia",
+      "minute": 23,
+      "x": 111.2,
+      "y": 35.7,
+      "xg": 0.109,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "David Strelec",
+      "team": "Slovakia",
+      "minute": 30,
+      "x": 109.3,
+      "y": 44.5,
+      "xg": 0.088,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andrei Ratiu",
+      "team": "Romania",
+      "minute": 32,
+      "x": 94.0,
+      "y": 43.4,
+      "xg": 0.037,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Răzvan Marin",
+      "team": "Romania",
+      "minute": 36,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Denis Dragus",
+      "team": "Romania",
+      "minute": 42,
+      "x": 102.7,
+      "y": 30.5,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "David Strelec",
+      "team": "Slovakia",
+      "minute": 43,
+      "x": 87.6,
+      "y": 38.5,
+      "xg": 0.016,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lukáš Haraslín",
+      "team": "Slovakia",
+      "minute": 51,
+      "x": 116.4,
+      "y": 26.9,
+      "xg": 0.013,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Răzvan Marin",
+      "team": "Romania",
+      "minute": 60,
+      "x": 101.6,
+      "y": 49.2,
+      "xg": 0.053,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Denis Dragus",
+      "team": "Romania",
+      "minute": 60,
+      "x": 104.3,
+      "y": 26.3,
+      "xg": 0.059,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "David Strelec",
+      "team": "Slovakia",
+      "minute": 63,
+      "x": 103.7,
+      "y": 41.8,
+      "xg": 0.115,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lukáš Haraslín",
+      "team": "Slovakia",
+      "minute": 64,
+      "x": 105.1,
+      "y": 23.6,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Denis Vavro",
+      "team": "Slovakia",
+      "minute": 75,
+      "x": 84.5,
+      "y": 53.0,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Romania": {
+      "nodes": [
+        {
+          "id": 31908,
+          "name": "Andrei Burcă Andonie",
+          "x": 39.6,
+          "y": 21.1,
+          "passes": 42
+        },
+        {
+          "id": 34600,
+          "name": "Nicusor Bancu",
+          "x": 66.6,
+          "y": 9.0,
+          "passes": 38
+        },
+        {
+          "id": 39615,
+          "name": "Radu Dragusin",
+          "x": 41.2,
+          "y": 56.3,
+          "passes": 34
+        },
+        {
+          "id": 24861,
+          "name": "Andrei Ratiu",
+          "x": 54.9,
+          "y": 72.5,
+          "passes": 27
+        },
+        {
+          "id": 30913,
+          "name": "Marius Marin",
+          "x": 65.8,
+          "y": 35.9,
+          "passes": 20
+        },
+        {
+          "id": 10916,
+          "name": "Nicolae Stanciu",
+          "x": 71.4,
+          "y": 32.4,
+          "passes": 19
+        },
+        {
+          "id": 28242,
+          "name": "Florin Nita",
+          "x": 14.0,
+          "y": 38.6,
+          "passes": 19
+        },
+        {
+          "id": 34599,
+          "name": "Florinel Coman",
+          "x": 65.6,
+          "y": 15.0,
+          "passes": 16
+        },
+        {
+          "id": 16344,
+          "name": "Răzvan Marin",
+          "x": 59.3,
+          "y": 49.8,
+          "passes": 12
+        },
+        {
+          "id": 28565,
+          "name": "Ianis Hagi",
+          "x": 68.4,
+          "y": 73.3,
+          "passes": 12
+        },
+        {
+          "id": 31193,
+          "name": "Denis Dragus",
+          "x": 51.6,
+          "y": 33.7,
+          "passes": 6
+        },
+        {
+          "id": 56905,
+          "name": "Dennis Man",
+          "x": 97.6,
+          "y": 64.9,
+          "passes": 5
+        },
+        {
+          "id": 130984,
+          "name": "Deian Cristian Sorescu",
+          "x": 95.5,
+          "y": 4.8,
+          "passes": 5
+        },
+        {
+          "id": 8660,
+          "name": "George Puscas",
+          "x": 84.2,
+          "y": 5.5,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 34599,
+          "to": 34600,
+          "weight": 13
+        },
+        {
+          "from": 10916,
+          "to": 34600,
+          "weight": 9
+        },
+        {
+          "from": 16344,
+          "to": 28565,
+          "weight": 9
+        },
+        {
+          "from": 24861,
+          "to": 39615,
+          "weight": 14
+        },
+        {
+          "from": 31908,
+          "to": 39615,
+          "weight": 31
+        },
+        {
+          "from": 28242,
+          "to": 31908,
+          "weight": 16
+        },
+        {
+          "from": 10916,
+          "to": 16344,
+          "weight": 6
+        },
+        {
+          "from": 28565,
+          "to": 39615,
+          "weight": 4
+        },
+        {
+          "from": 16344,
+          "to": 30913,
+          "weight": 3
+        },
+        {
+          "from": 28242,
+          "to": 34600,
+          "weight": 5
+        },
+        {
+          "from": 31193,
+          "to": 34600,
+          "weight": 5
+        },
+        {
+          "from": 30913,
+          "to": 39615,
+          "weight": 8
+        },
+        {
+          "from": 30913,
+          "to": 31908,
+          "weight": 8
+        },
+        {
+          "from": 31908,
+          "to": 34600,
+          "weight": 19
+        },
+        {
+          "from": 30913,
+          "to": 34600,
+          "weight": 8
+        },
+        {
+          "from": 24861,
+          "to": 28565,
+          "weight": 13
+        },
+        {
+          "from": 31193,
+          "to": 34599,
+          "weight": 3
+        },
+        {
+          "from": 10916,
+          "to": 30913,
+          "weight": 4
+        },
+        {
+          "from": 10916,
+          "to": 34599,
+          "weight": 5
+        },
+        {
+          "from": 10916,
+          "to": 31908,
+          "weight": 5
+        },
+        {
+          "from": 28242,
+          "to": 39615,
+          "weight": 6
+        },
+        {
+          "from": 30913,
+          "to": 31193,
+          "weight": 3
+        },
+        {
+          "from": 24861,
+          "to": 31193,
+          "weight": 3
+        },
+        {
+          "from": 10916,
+          "to": 130984,
+          "weight": 4
+        },
+        {
+          "from": 34600,
+          "to": 130984,
+          "weight": 5
+        },
+        {
+          "from": 24861,
+          "to": 56905,
+          "weight": 4
+        }
+      ]
+    },
+    "Slovakia": {
+      "nodes": [
+        {
+          "id": 6990,
+          "name": "Milan Škriniar",
+          "x": 41.8,
+          "y": 24.9,
+          "passes": 78
+        },
+        {
+          "id": 16298,
+          "name": "Denis Vavro",
+          "x": 43.6,
+          "y": 56.3,
+          "passes": 54
+        },
+        {
+          "id": 6798,
+          "name": "Stanislav Lobotka",
+          "x": 51.7,
+          "y": 38.6,
+          "passes": 49
+        },
+        {
+          "id": 8967,
+          "name": "Ondrej Duda",
+          "x": 63.4,
+          "y": 25.7,
+          "passes": 35
+        },
+        {
+          "id": 16879,
+          "name": "Dávid Hancko",
+          "x": 58.5,
+          "y": 8.3,
+          "passes": 34
+        },
+        {
+          "id": 9722,
+          "name": "Peter Pekarík",
+          "x": 68.4,
+          "y": 74.0,
+          "passes": 31
+        },
+        {
+          "id": 3711,
+          "name": "Martin Dúbravka",
+          "x": 12.7,
+          "y": 38.2,
+          "passes": 28
+        },
+        {
+          "id": 10919,
+          "name": "Juraj Kucka",
+          "x": 66.6,
+          "y": 59.5,
+          "passes": 28
+        },
+        {
+          "id": 28032,
+          "name": "Ivan Schranz",
+          "x": 77.6,
+          "y": 65.6,
+          "passes": 15
+        },
+        {
+          "id": 7975,
+          "name": "Lukáš Haraslín",
+          "x": 75.3,
+          "y": 20.1,
+          "passes": 14
+        },
+        {
+          "id": 43976,
+          "name": "David Strelec",
+          "x": 66.8,
+          "y": 38.6,
+          "passes": 9
+        },
+        {
+          "id": 34904,
+          "name": "Róbert Boženík",
+          "x": 64.8,
+          "y": 44.3,
+          "passes": 4
+        },
+        {
+          "id": 15546,
+          "name": "Matúš Bero",
+          "x": 83.4,
+          "y": 20.0,
+          "passes": 2
+        },
+        {
+          "id": 35653,
+          "name": "Tomáš Suslov",
+          "x": 76.8,
+          "y": 23.2,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 6990,
+          "to": 43976,
+          "weight": 4
+        },
+        {
+          "from": 6990,
+          "to": 16298,
+          "weight": 43
+        },
+        {
+          "from": 9722,
+          "to": 28032,
+          "weight": 12
+        },
+        {
+          "from": 10919,
+          "to": 28032,
+          "weight": 8
+        },
+        {
+          "from": 9722,
+          "to": 16298,
+          "weight": 8
+        },
+        {
+          "from": 10919,
+          "to": 16298,
+          "weight": 15
+        },
+        {
+          "from": 6798,
+          "to": 10919,
+          "weight": 8
+        },
+        {
+          "from": 6798,
+          "to": 8967,
+          "weight": 16
+        },
+        {
+          "from": 6990,
+          "to": 8967,
+          "weight": 23
+        },
+        {
+          "from": 6990,
+          "to": 16879,
+          "weight": 19
+        },
+        {
+          "from": 8967,
+          "to": 16298,
+          "weight": 3
+        },
+        {
+          "from": 16298,
+          "to": 43976,
+          "weight": 3
+        },
+        {
+          "from": 8967,
+          "to": 16879,
+          "weight": 17
+        },
+        {
+          "from": 6798,
+          "to": 6990,
+          "weight": 29
+        },
+        {
+          "from": 6990,
+          "to": 7975,
+          "weight": 4
+        },
+        {
+          "from": 3711,
+          "to": 16879,
+          "weight": 5
+        },
+        {
+          "from": 3711,
+          "to": 16298,
+          "weight": 19
+        },
+        {
+          "from": 6798,
+          "to": 43976,
+          "weight": 5
+        },
+        {
+          "from": 7975,
+          "to": 16879,
+          "weight": 11
+        },
+        {
+          "from": 3711,
+          "to": 6990,
+          "weight": 21
+        },
+        {
+          "from": 6798,
+          "to": 16879,
+          "weight": 5
+        },
+        {
+          "from": 16879,
+          "to": 43976,
+          "weight": 4
+        },
+        {
+          "from": 6798,
+          "to": 16298,
+          "weight": 22
+        },
+        {
+          "from": 9722,
+          "to": 10919,
+          "weight": 12
+        },
+        {
+          "from": 6990,
+          "to": 9722,
+          "weight": 3
+        },
+        {
+          "from": 7975,
+          "to": 8967,
+          "weight": 3
+        },
+        {
+          "from": 8967,
+          "to": 10919,
+          "weight": 4
+        },
+        {
+          "from": 6798,
+          "to": 28032,
+          "weight": 3
+        },
+        {
+          "from": 16879,
+          "to": 28032,
+          "weight": 3
+        },
+        {
+          "from": 9722,
+          "to": 43976,
+          "weight": 3
+        },
+        {
+          "from": 6990,
+          "to": 10919,
+          "weight": 4
+        },
+        {
+          "from": 3711,
+          "to": 6798,
+          "weight": 4
+        },
+        {
+          "from": 6798,
+          "to": 9722,
+          "weight": 3
+        },
+        {
+          "from": 10919,
+          "to": 34904,
+          "weight": 4
+        },
+        {
+          "from": 15546,
+          "to": 16879,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

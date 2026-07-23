@@ -1,0 +1,995 @@
+{
+  "match_id": 3942227,
+  "shots": [
+    {
+      "player": "Breel Embolo",
+      "team": "Switzerland",
+      "minute": 9,
+      "x": 115.2,
+      "y": 59.1,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Declan Rice",
+      "team": "England",
+      "minute": 13,
+      "x": 97.1,
+      "y": 38.6,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kobbie Mainoo",
+      "team": "England",
+      "minute": 15,
+      "x": 97.0,
+      "y": 40.0,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 21,
+      "x": 107.6,
+      "y": 34.7,
+      "xg": 0.025,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Breel Embolo",
+      "team": "Switzerland",
+      "minute": 24,
+      "x": 103.5,
+      "y": 35.4,
+      "xg": 0.051,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bukayo Saka",
+      "team": "England",
+      "minute": 42,
+      "x": 94.4,
+      "y": 53.3,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kobbie Mainoo",
+      "team": "England",
+      "minute": 44,
+      "x": 113.2,
+      "y": 49.6,
+      "xg": 0.105,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bukayo Saka",
+      "team": "England",
+      "minute": 46,
+      "x": 111.9,
+      "y": 52.7,
+      "xg": 0.044,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Breel Embolo",
+      "team": "Switzerland",
+      "minute": 50,
+      "x": 112.9,
+      "y": 30.4,
+      "xg": 0.052,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Breel Embolo",
+      "team": "Switzerland",
+      "minute": 56,
+      "x": 113.4,
+      "y": 43.5,
+      "xg": 0.114,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Michel Aebischer",
+      "team": "Switzerland",
+      "minute": 65,
+      "x": 103.5,
+      "y": 36.6,
+      "xg": 0.055,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Breel Embolo",
+      "team": "Switzerland",
+      "minute": 74,
+      "x": 116.9,
+      "y": 38.5,
+      "xg": 0.674,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bukayo Saka",
+      "team": "England",
+      "minute": 79,
+      "x": 100.3,
+      "y": 56.6,
+      "xg": 0.027,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Harry Kane",
+      "team": "England",
+      "minute": 82,
+      "x": 107.6,
+      "y": 40.4,
+      "xg": 0.044,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Eberechi Eze",
+      "team": "England",
+      "minute": 87,
+      "x": 107.6,
+      "y": 21.5,
+      "xg": 0.012,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dan Ndoye",
+      "team": "Switzerland",
+      "minute": 89,
+      "x": 102.2,
+      "y": 22.4,
+      "xg": 0.028,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Steven Zuber",
+      "team": "Switzerland",
+      "minute": 92,
+      "x": 110.9,
+      "y": 28.0,
+      "xg": 0.049,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Declan Rice",
+      "team": "England",
+      "minute": 94,
+      "x": 89.6,
+      "y": 32.5,
+      "xg": 0.017,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Phil Foden",
+      "team": "England",
+      "minute": 100,
+      "x": 90.5,
+      "y": 44.9,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jude Bellingham",
+      "team": "England",
+      "minute": 101,
+      "x": 103.5,
+      "y": 46.6,
+      "xg": 0.065,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jude Bellingham",
+      "team": "England",
+      "minute": 101,
+      "x": 103.8,
+      "y": 44.8,
+      "xg": 0.069,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Fabian Schär",
+      "team": "Switzerland",
+      "minute": 112,
+      "x": 106.2,
+      "y": 58.7,
+      "xg": 0.012,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Xherdan Shaqiri",
+      "team": "Switzerland",
+      "minute": 116,
+      "x": 119.3,
+      "y": 79.1,
+      "xg": 0.0,
+      "outcome": "Post",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mohamed Amdouni",
+      "team": "Switzerland",
+      "minute": 118,
+      "x": 101.7,
+      "y": 23.7,
+      "xg": 0.04,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Silvan Widmer",
+      "team": "Switzerland",
+      "minute": 118,
+      "x": 111.7,
+      "y": 46.0,
+      "xg": 0.118,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "England": {
+      "nodes": [
+        {
+          "id": 3943,
+          "name": "Declan Rice",
+          "x": 66.8,
+          "y": 27.8,
+          "passes": 95
+        },
+        {
+          "id": 3205,
+          "name": "Kyle Walker",
+          "x": 61.7,
+          "y": 65.6,
+          "passes": 89
+        },
+        {
+          "id": 3244,
+          "name": "John Stones",
+          "x": 47.9,
+          "y": 44.8,
+          "passes": 75
+        },
+        {
+          "id": 4354,
+          "name": "Phil Foden",
+          "x": 75.2,
+          "y": 43.0,
+          "passes": 65
+        },
+        {
+          "id": 30714,
+          "name": "Jude Bellingham",
+          "x": 69.4,
+          "y": 27.5,
+          "passes": 59
+        },
+        {
+          "id": 22084,
+          "name": "Bukayo Saka",
+          "x": 85.7,
+          "y": 67.3,
+          "passes": 49
+        },
+        {
+          "id": 3822,
+          "name": "Ezri Konsa",
+          "x": 49.5,
+          "y": 12.5,
+          "passes": 46
+        },
+        {
+          "id": 99174,
+          "name": "Kobbie Mainoo",
+          "x": 68.0,
+          "y": 48.9,
+          "passes": 34
+        },
+        {
+          "id": 3468,
+          "name": "Jordan Pickford",
+          "x": 13.4,
+          "y": 38.2,
+          "passes": 33
+        },
+        {
+          "id": 3382,
+          "name": "Luke Shaw",
+          "x": 64.8,
+          "y": 15.0,
+          "passes": 28
+        },
+        {
+          "id": 3308,
+          "name": "Kieran Trippier",
+          "x": 86.7,
+          "y": 12.2,
+          "passes": 27
+        },
+        {
+          "id": 9000,
+          "name": "Eberechi Eze",
+          "x": 69.1,
+          "y": 19.0,
+          "passes": 18
+        },
+        {
+          "id": 39461,
+          "name": "Cole Palmer",
+          "x": 79.4,
+          "y": 21.2,
+          "passes": 16
+        },
+        {
+          "id": 10955,
+          "name": "Harry Kane",
+          "x": 61.8,
+          "y": 40.5,
+          "passes": 8
+        }
+      ],
+      "edges": [
+        {
+          "from": 3468,
+          "to": 99174,
+          "weight": 4
+        },
+        {
+          "from": 3244,
+          "to": 3468,
+          "weight": 16
+        },
+        {
+          "from": 3468,
+          "to": 3822,
+          "weight": 17
+        },
+        {
+          "from": 3822,
+          "to": 30714,
+          "weight": 11
+        },
+        {
+          "from": 3205,
+          "to": 3468,
+          "weight": 11
+        },
+        {
+          "from": 3205,
+          "to": 4354,
+          "weight": 27
+        },
+        {
+          "from": 3205,
+          "to": 99174,
+          "weight": 11
+        },
+        {
+          "from": 3943,
+          "to": 99174,
+          "weight": 12
+        },
+        {
+          "from": 3943,
+          "to": 30714,
+          "weight": 31
+        },
+        {
+          "from": 3943,
+          "to": 4354,
+          "weight": 24
+        },
+        {
+          "from": 4354,
+          "to": 22084,
+          "weight": 14
+        },
+        {
+          "from": 22084,
+          "to": 99174,
+          "weight": 13
+        },
+        {
+          "from": 4354,
+          "to": 99174,
+          "weight": 13
+        },
+        {
+          "from": 3205,
+          "to": 22084,
+          "weight": 36
+        },
+        {
+          "from": 3205,
+          "to": 3244,
+          "weight": 34
+        },
+        {
+          "from": 30714,
+          "to": 99174,
+          "weight": 8
+        },
+        {
+          "from": 3244,
+          "to": 30714,
+          "weight": 14
+        },
+        {
+          "from": 3244,
+          "to": 3822,
+          "weight": 21
+        },
+        {
+          "from": 3822,
+          "to": 3943,
+          "weight": 16
+        },
+        {
+          "from": 3244,
+          "to": 3943,
+          "weight": 20
+        },
+        {
+          "from": 3244,
+          "to": 22084,
+          "weight": 9
+        },
+        {
+          "from": 3308,
+          "to": 30714,
+          "weight": 12
+        },
+        {
+          "from": 3468,
+          "to": 10955,
+          "weight": 5
+        },
+        {
+          "from": 4354,
+          "to": 30714,
+          "weight": 17
+        },
+        {
+          "from": 3308,
+          "to": 4354,
+          "weight": 5
+        },
+        {
+          "from": 3308,
+          "to": 3943,
+          "weight": 16
+        },
+        {
+          "from": 3205,
+          "to": 3943,
+          "weight": 23
+        },
+        {
+          "from": 3822,
+          "to": 4354,
+          "weight": 16
+        },
+        {
+          "from": 3468,
+          "to": 30714,
+          "weight": 4
+        },
+        {
+          "from": 3308,
+          "to": 10955,
+          "weight": 3
+        },
+        {
+          "from": 10955,
+          "to": 22084,
+          "weight": 5
+        },
+        {
+          "from": 3308,
+          "to": 22084,
+          "weight": 3
+        },
+        {
+          "from": 22084,
+          "to": 30714,
+          "weight": 11
+        },
+        {
+          "from": 3244,
+          "to": 99174,
+          "weight": 5
+        },
+        {
+          "from": 3308,
+          "to": 3822,
+          "weight": 8
+        },
+        {
+          "from": 3244,
+          "to": 4354,
+          "weight": 4
+        },
+        {
+          "from": 3205,
+          "to": 30714,
+          "weight": 7
+        },
+        {
+          "from": 3943,
+          "to": 22084,
+          "weight": 6
+        },
+        {
+          "from": 9000,
+          "to": 39461,
+          "weight": 6
+        },
+        {
+          "from": 4354,
+          "to": 39461,
+          "weight": 4
+        },
+        {
+          "from": 3244,
+          "to": 3382,
+          "weight": 8
+        },
+        {
+          "from": 3382,
+          "to": 3943,
+          "weight": 13
+        },
+        {
+          "from": 30714,
+          "to": 39461,
+          "weight": 6
+        },
+        {
+          "from": 9000,
+          "to": 30714,
+          "weight": 3
+        },
+        {
+          "from": 3382,
+          "to": 39461,
+          "weight": 6
+        },
+        {
+          "from": 3382,
+          "to": 9000,
+          "weight": 6
+        },
+        {
+          "from": 3244,
+          "to": 9000,
+          "weight": 4
+        },
+        {
+          "from": 3205,
+          "to": 3382,
+          "weight": 3
+        },
+        {
+          "from": 3382,
+          "to": 30714,
+          "weight": 7
+        },
+        {
+          "from": 3382,
+          "to": 4354,
+          "weight": 6
+        },
+        {
+          "from": 3943,
+          "to": 9000,
+          "weight": 8
+        },
+        {
+          "from": 4354,
+          "to": 9000,
+          "weight": 4
+        },
+        {
+          "from": 22084,
+          "to": 39461,
+          "weight": 4
+        },
+        {
+          "from": 9000,
+          "to": 22084,
+          "weight": 4
+        },
+        {
+          "from": 3943,
+          "to": 39461,
+          "weight": 5
+        },
+        {
+          "from": 3468,
+          "to": 3943,
+          "weight": 3
+        },
+        {
+          "from": 3382,
+          "to": 22084,
+          "weight": 3
+        }
+      ]
+    },
+    "Switzerland": {
+      "nodes": [
+        {
+          "id": 3500,
+          "name": "Granit Xhaka",
+          "x": 57.7,
+          "y": 33.4,
+          "passes": 117
+        },
+        {
+          "id": 5549,
+          "name": "Manuel Akanji",
+          "x": 45.1,
+          "y": 37.3,
+          "passes": 107
+        },
+        {
+          "id": 5537,
+          "name": "Fabian Schär",
+          "x": 51.8,
+          "y": 67.9,
+          "passes": 64
+        },
+        {
+          "id": 5544,
+          "name": "Ricardo Rodríguez",
+          "x": 62.7,
+          "y": 12.6,
+          "passes": 62
+        },
+        {
+          "id": 6983,
+          "name": "Remo Freuler",
+          "x": 68.8,
+          "y": 45.3,
+          "passes": 54
+        },
+        {
+          "id": 16016,
+          "name": "Michel Aebischer",
+          "x": 72.8,
+          "y": 15.4,
+          "passes": 40
+        },
+        {
+          "id": 5550,
+          "name": "Yann Sommer",
+          "x": 11.3,
+          "y": 43.7,
+          "passes": 38
+        },
+        {
+          "id": 50436,
+          "name": "Fabian Rieder",
+          "x": 73.7,
+          "y": 60.4,
+          "passes": 22
+        },
+        {
+          "id": 5548,
+          "name": "Steven Zuber",
+          "x": 69.3,
+          "y": 19.5,
+          "passes": 20
+        },
+        {
+          "id": 45190,
+          "name": "Dan Ndoye",
+          "x": 72.6,
+          "y": 61.4,
+          "passes": 20
+        },
+        {
+          "id": 7796,
+          "name": "Silvan Widmer",
+          "x": 63.0,
+          "y": 72.8,
+          "passes": 18
+        },
+        {
+          "id": 5545,
+          "name": "Breel Embolo",
+          "x": 75.3,
+          "y": 42.7,
+          "passes": 15
+        },
+        {
+          "id": 30401,
+          "name": "Ruben Vargas",
+          "x": 65.8,
+          "y": 28.2,
+          "passes": 14
+        },
+        {
+          "id": 5538,
+          "name": "Denis Zakaria",
+          "x": 73.7,
+          "y": 72.3,
+          "passes": 7
+        }
+      ],
+      "edges": [
+        {
+          "from": 5544,
+          "to": 5550,
+          "weight": 8
+        },
+        {
+          "from": 3500,
+          "to": 5537,
+          "weight": 27
+        },
+        {
+          "from": 3500,
+          "to": 5549,
+          "weight": 62
+        },
+        {
+          "from": 5544,
+          "to": 5549,
+          "weight": 25
+        },
+        {
+          "from": 5549,
+          "to": 5550,
+          "weight": 34
+        },
+        {
+          "from": 5537,
+          "to": 5550,
+          "weight": 14
+        },
+        {
+          "from": 5537,
+          "to": 45190,
+          "weight": 9
+        },
+        {
+          "from": 45190,
+          "to": 50436,
+          "weight": 7
+        },
+        {
+          "from": 5545,
+          "to": 5549,
+          "weight": 6
+        },
+        {
+          "from": 5544,
+          "to": 50436,
+          "weight": 8
+        },
+        {
+          "from": 5544,
+          "to": 16016,
+          "weight": 24
+        },
+        {
+          "from": 5549,
+          "to": 16016,
+          "weight": 6
+        },
+        {
+          "from": 5537,
+          "to": 5549,
+          "weight": 36
+        },
+        {
+          "from": 6983,
+          "to": 45190,
+          "weight": 10
+        },
+        {
+          "from": 16016,
+          "to": 45190,
+          "weight": 4
+        },
+        {
+          "from": 5537,
+          "to": 5545,
+          "weight": 7
+        },
+        {
+          "from": 6983,
+          "to": 16016,
+          "weight": 8
+        },
+        {
+          "from": 5537,
+          "to": 6983,
+          "weight": 12
+        },
+        {
+          "from": 3500,
+          "to": 5550,
+          "weight": 7
+        },
+        {
+          "from": 3500,
+          "to": 5544,
+          "weight": 36
+        },
+        {
+          "from": 3500,
+          "to": 6983,
+          "weight": 25
+        },
+        {
+          "from": 3500,
+          "to": 45190,
+          "weight": 3
+        },
+        {
+          "from": 5537,
+          "to": 50436,
+          "weight": 7
+        },
+        {
+          "from": 3500,
+          "to": 50436,
+          "weight": 7
+        },
+        {
+          "from": 5537,
+          "to": 30401,
+          "weight": 3
+        },
+        {
+          "from": 6983,
+          "to": 50436,
+          "weight": 8
+        },
+        {
+          "from": 3500,
+          "to": 16016,
+          "weight": 24
+        },
+        {
+          "from": 5544,
+          "to": 30401,
+          "weight": 5
+        },
+        {
+          "from": 3500,
+          "to": 30401,
+          "weight": 7
+        },
+        {
+          "from": 5545,
+          "to": 50436,
+          "weight": 4
+        },
+        {
+          "from": 5544,
+          "to": 5545,
+          "weight": 3
+        },
+        {
+          "from": 5544,
+          "to": 6983,
+          "weight": 5
+        },
+        {
+          "from": 5545,
+          "to": 6983,
+          "weight": 6
+        },
+        {
+          "from": 3500,
+          "to": 5545,
+          "weight": 9
+        },
+        {
+          "from": 5549,
+          "to": 6983,
+          "weight": 15
+        },
+        {
+          "from": 5537,
+          "to": 16016,
+          "weight": 3
+        },
+        {
+          "from": 6983,
+          "to": 30401,
+          "weight": 4
+        },
+        {
+          "from": 5537,
+          "to": 7796,
+          "weight": 13
+        },
+        {
+          "from": 5544,
+          "to": 5548,
+          "weight": 5
+        },
+        {
+          "from": 5548,
+          "to": 45190,
+          "weight": 3
+        },
+        {
+          "from": 5548,
+          "to": 6983,
+          "weight": 4
+        },
+        {
+          "from": 3500,
+          "to": 5548,
+          "weight": 13
+        },
+        {
+          "from": 3500,
+          "to": 7796,
+          "weight": 3
+        },
+        {
+          "from": 5549,
+          "to": 7796,
+          "weight": 6
+        },
+        {
+          "from": 5548,
+          "to": 16016,
+          "weight": 6
+        },
+        {
+          "from": 5545,
+          "to": 7796,
+          "weight": 3
+        },
+        {
+          "from": 6983,
+          "to": 7796,
+          "weight": 3
+        },
+        {
+          "from": 5537,
+          "to": 5538,
+          "weight": 3
+        },
+        {
+          "from": 5538,
+          "to": 6983,
+          "weight": 5
+        }
+      ]
+    }
+  }
+}

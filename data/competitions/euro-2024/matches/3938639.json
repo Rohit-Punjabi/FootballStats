@@ -1,0 +1,990 @@
+{
+  "match_id": 3938639,
+  "shots": [
+    {
+      "player": "Kaan Ayhan",
+      "team": "Turkey",
+      "minute": 5,
+      "x": 113.7,
+      "y": 37.4,
+      "xg": 0.109,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "minute": 6,
+      "x": 99.0,
+      "y": 59.3,
+      "xg": 0.01,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Abdülkerim Bardakcı",
+      "team": "Turkey",
+      "minute": 9,
+      "x": 113.4,
+      "y": 36.5,
+      "xg": 0.118,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kaan Ayhan",
+      "team": "Turkey",
+      "minute": 9,
+      "x": 98.2,
+      "y": 32.6,
+      "xg": 0.047,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Anzor Mekvabishvili",
+      "team": "Georgia",
+      "minute": 10,
+      "x": 92.7,
+      "y": 40.9,
+      "xg": 0.028,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georges Mikautadze",
+      "team": "Georgia",
+      "minute": 11,
+      "x": 101.3,
+      "y": 25.7,
+      "xg": 0.031,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kenan Yildiz",
+      "team": "Turkey",
+      "minute": 13,
+      "x": 111.6,
+      "y": 20.7,
+      "xg": 0.01,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "minute": 20,
+      "x": 103.3,
+      "y": 31.0,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Orkun Kökçü",
+      "team": "Turkey",
+      "minute": 22,
+      "x": 92.6,
+      "y": 29.1,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mert Müldür",
+      "team": "Turkey",
+      "minute": 24,
+      "x": 102.6,
+      "y": 48.7,
+      "xg": 0.049,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Orkun Kökçü",
+      "team": "Turkey",
+      "minute": 26,
+      "x": 111.6,
+      "y": 45.6,
+      "xg": 0.323,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georgiy Tsitaishvili",
+      "team": "Georgia",
+      "minute": 29,
+      "x": 110.0,
+      "y": 20.4,
+      "xg": 0.009,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Georges Mikautadze",
+      "team": "Georgia",
+      "minute": 31,
+      "x": 111.2,
+      "y": 49.7,
+      "xg": 0.199,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georges Mikautadze",
+      "team": "Georgia",
+      "minute": 34,
+      "x": 107.1,
+      "y": 41.9,
+      "xg": 0.157,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Giorgi Kochorashvili",
+      "team": "Georgia",
+      "minute": 36,
+      "x": 98.4,
+      "y": 37.4,
+      "xg": 0.045,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kaan Ayhan",
+      "team": "Turkey",
+      "minute": 39,
+      "x": 107.1,
+      "y": 34.6,
+      "xg": 0.077,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ferdi Kadioglu",
+      "team": "Turkey",
+      "minute": 40,
+      "x": 73.2,
+      "y": 39.2,
+      "xg": 0.005,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mert Müldür",
+      "team": "Turkey",
+      "minute": 45,
+      "x": 111.7,
+      "y": 46.2,
+      "xg": 0.392,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Barış Alper Yılmaz",
+      "team": "Turkey",
+      "minute": 47,
+      "x": 107.9,
+      "y": 49.7,
+      "xg": 0.089,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Georgiy Tsitaishvili",
+      "team": "Georgia",
+      "minute": 48,
+      "x": 112.5,
+      "y": 22.7,
+      "xg": 0.011,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Georges Mikautadze",
+      "team": "Georgia",
+      "minute": 51,
+      "x": 111.1,
+      "y": 36.6,
+      "xg": 0.071,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "minute": 56,
+      "x": 93.2,
+      "y": 31.5,
+      "xg": 0.048,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kenan Yildiz",
+      "team": "Turkey",
+      "minute": 59,
+      "x": 101.2,
+      "y": 24.7,
+      "xg": 0.013,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mert Müldür",
+      "team": "Turkey",
+      "minute": 59,
+      "x": 96.6,
+      "y": 51.5,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "minute": 60,
+      "x": 95.8,
+      "y": 46.1,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kvara",
+      "team": "Georgia",
+      "minute": 61,
+      "x": 109.4,
+      "y": 30.4,
+      "xg": 0.128,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Arda Güler",
+      "team": "Turkey",
+      "minute": 64,
+      "x": 95.5,
+      "y": 53.4,
+      "xg": 0.019,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Orkun Kökçü",
+      "team": "Turkey",
+      "minute": 68,
+      "x": 108.9,
+      "y": 36.5,
+      "xg": 0.351,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Giorgi Kochorashvili",
+      "team": "Georgia",
+      "minute": 69,
+      "x": 107.6,
+      "y": 41.5,
+      "xg": 0.377,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Orkun Kökçü",
+      "team": "Turkey",
+      "minute": 71,
+      "x": 52.0,
+      "y": 38.1,
+      "xg": 0.003,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luka Lochoshvili",
+      "team": "Georgia",
+      "minute": 74,
+      "x": 111.2,
+      "y": 32.3,
+      "xg": 0.051,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Yusuf Yazıcı",
+      "team": "Turkey",
+      "minute": 86,
+      "x": 111.8,
+      "y": 37.6,
+      "xg": 0.159,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Budu Zivzivadze",
+      "team": "Georgia",
+      "minute": 92,
+      "x": 114.8,
+      "y": 32.5,
+      "xg": 0.057,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Giorgi Kochorashvili",
+      "team": "Georgia",
+      "minute": 92,
+      "x": 111.4,
+      "y": 37.4,
+      "xg": 0.339,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Zurab Davitashvili",
+      "team": "Georgia",
+      "minute": 95,
+      "x": 108.9,
+      "y": 45.6,
+      "xg": 0.076,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kerem Aktürkoglu",
+      "team": "Turkey",
+      "minute": 96,
+      "x": 96.1,
+      "y": 52.9,
+      "xg": 0.472,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Georgia": {
+      "nodes": [
+        {
+          "id": 41202,
+          "name": "Giorgi Kochorashvili",
+          "x": 55.8,
+          "y": 28.6,
+          "passes": 62
+        },
+        {
+          "id": 7655,
+          "name": "Lasha Dvali",
+          "x": 45.1,
+          "y": 15.9,
+          "passes": 48
+        },
+        {
+          "id": 7839,
+          "name": "Guram Kashia",
+          "x": 40.3,
+          "y": 47.0,
+          "passes": 46
+        },
+        {
+          "id": 25036,
+          "name": "Otar Kakabadze",
+          "x": 67.6,
+          "y": 72.5,
+          "passes": 43
+        },
+        {
+          "id": 264017,
+          "name": "Anzor Mekvabishvili",
+          "x": 51.4,
+          "y": 46.0,
+          "passes": 39
+        },
+        {
+          "id": 38229,
+          "name": "Kvara",
+          "x": 78.2,
+          "y": 19.4,
+          "passes": 34
+        },
+        {
+          "id": 23646,
+          "name": "Giorgi Chakvetadze",
+          "x": 69.5,
+          "y": 48.1,
+          "passes": 30
+        },
+        {
+          "id": 16005,
+          "name": "Saba Kverkvelia",
+          "x": 44.9,
+          "y": 64.8,
+          "passes": 29
+        },
+        {
+          "id": 22242,
+          "name": "Georgiy Tsitaishvili",
+          "x": 64.6,
+          "y": 5.2,
+          "passes": 21
+        },
+        {
+          "id": 102371,
+          "name": "Giorgi Mamardashvili",
+          "x": 12.2,
+          "y": 36.7,
+          "passes": 21
+        },
+        {
+          "id": 33234,
+          "name": "Georges Mikautadze",
+          "x": 78.3,
+          "y": 41.5,
+          "passes": 16
+        },
+        {
+          "id": 48178,
+          "name": "Luka Lochoshvili",
+          "x": 63.8,
+          "y": 8.1,
+          "passes": 9
+        },
+        {
+          "id": 44183,
+          "name": "Zurab Davitashvili",
+          "x": 88.6,
+          "y": 70.4,
+          "passes": 6
+        },
+        {
+          "id": 135844,
+          "name": "Sandro Altunashvili",
+          "x": 62.6,
+          "y": 25.0,
+          "passes": 6
+        }
+      ],
+      "edges": [
+        {
+          "from": 33234,
+          "to": 41202,
+          "weight": 9
+        },
+        {
+          "from": 22242,
+          "to": 41202,
+          "weight": 14
+        },
+        {
+          "from": 7655,
+          "to": 22242,
+          "weight": 10
+        },
+        {
+          "from": 7655,
+          "to": 7839,
+          "weight": 21
+        },
+        {
+          "from": 7839,
+          "to": 102371,
+          "weight": 6
+        },
+        {
+          "from": 41202,
+          "to": 102371,
+          "weight": 4
+        },
+        {
+          "from": 7839,
+          "to": 41202,
+          "weight": 11
+        },
+        {
+          "from": 7839,
+          "to": 25036,
+          "weight": 13
+        },
+        {
+          "from": 23646,
+          "to": 38229,
+          "weight": 12
+        },
+        {
+          "from": 22242,
+          "to": 38229,
+          "weight": 13
+        },
+        {
+          "from": 38229,
+          "to": 41202,
+          "weight": 17
+        },
+        {
+          "from": 7655,
+          "to": 102371,
+          "weight": 9
+        },
+        {
+          "from": 7655,
+          "to": 41202,
+          "weight": 20
+        },
+        {
+          "from": 25036,
+          "to": 41202,
+          "weight": 8
+        },
+        {
+          "from": 16005,
+          "to": 23646,
+          "weight": 7
+        },
+        {
+          "from": 23646,
+          "to": 25036,
+          "weight": 18
+        },
+        {
+          "from": 23646,
+          "to": 264017,
+          "weight": 9
+        },
+        {
+          "from": 33234,
+          "to": 264017,
+          "weight": 6
+        },
+        {
+          "from": 23646,
+          "to": 33234,
+          "weight": 3
+        },
+        {
+          "from": 38229,
+          "to": 264017,
+          "weight": 7
+        },
+        {
+          "from": 41202,
+          "to": 264017,
+          "weight": 20
+        },
+        {
+          "from": 16005,
+          "to": 41202,
+          "weight": 7
+        },
+        {
+          "from": 25036,
+          "to": 102371,
+          "weight": 3
+        },
+        {
+          "from": 25036,
+          "to": 33234,
+          "weight": 6
+        },
+        {
+          "from": 7839,
+          "to": 264017,
+          "weight": 16
+        },
+        {
+          "from": 23646,
+          "to": 41202,
+          "weight": 7
+        },
+        {
+          "from": 25036,
+          "to": 264017,
+          "weight": 6
+        },
+        {
+          "from": 16005,
+          "to": 25036,
+          "weight": 9
+        },
+        {
+          "from": 16005,
+          "to": 102371,
+          "weight": 3
+        },
+        {
+          "from": 22242,
+          "to": 33234,
+          "weight": 3
+        },
+        {
+          "from": 22242,
+          "to": 23646,
+          "weight": 3
+        },
+        {
+          "from": 16005,
+          "to": 264017,
+          "weight": 7
+        },
+        {
+          "from": 7655,
+          "to": 38229,
+          "weight": 6
+        },
+        {
+          "from": 7839,
+          "to": 16005,
+          "weight": 15
+        },
+        {
+          "from": 7839,
+          "to": 38229,
+          "weight": 3
+        },
+        {
+          "from": 7655,
+          "to": 264017,
+          "weight": 7
+        },
+        {
+          "from": 25036,
+          "to": 38229,
+          "weight": 6
+        },
+        {
+          "from": 33234,
+          "to": 38229,
+          "weight": 5
+        },
+        {
+          "from": 25036,
+          "to": 44183,
+          "weight": 7
+        },
+        {
+          "from": 38229,
+          "to": 48178,
+          "weight": 3
+        },
+        {
+          "from": 41202,
+          "to": 48178,
+          "weight": 3
+        },
+        {
+          "from": 7655,
+          "to": 48178,
+          "weight": 7
+        },
+        {
+          "from": 41202,
+          "to": 44183,
+          "weight": 3
+        },
+        {
+          "from": 41202,
+          "to": 135844,
+          "weight": 3
+        }
+      ]
+    },
+    "Turkey": {
+      "nodes": [
+        {
+          "id": 7039,
+          "name": "Hakan Çalhanoğlu",
+          "x": 65.7,
+          "y": 37.4,
+          "passes": 89
+        },
+        {
+          "id": 30438,
+          "name": "Ferdi Kadioglu",
+          "x": 72.5,
+          "y": 10.9,
+          "passes": 74
+        },
+        {
+          "id": 133305,
+          "name": "Samet Akaydin",
+          "x": 51.4,
+          "y": 50.7,
+          "passes": 66
+        },
+        {
+          "id": 48383,
+          "name": "Abdülkerim Bardakcı",
+          "x": 58.4,
+          "y": 28.4,
+          "passes": 63
+        },
+        {
+          "id": 12293,
+          "name": "Kaan Ayhan",
+          "x": 70.2,
+          "y": 31.3,
+          "passes": 60
+        },
+        {
+          "id": 22212,
+          "name": "Orkun Kökçü",
+          "x": 76.5,
+          "y": 26.2,
+          "passes": 42
+        },
+        {
+          "id": 116587,
+          "name": "Arda Güler",
+          "x": 74.9,
+          "y": 56.3,
+          "passes": 41
+        },
+        {
+          "id": 10826,
+          "name": "Mert Müldür",
+          "x": 68.5,
+          "y": 71.7,
+          "passes": 36
+        },
+        {
+          "id": 151813,
+          "name": "Kenan Yildiz",
+          "x": 91.1,
+          "y": 17.1,
+          "passes": 33
+        },
+        {
+          "id": 30310,
+          "name": "Mert Günok",
+          "x": 11.8,
+          "y": 39.3,
+          "passes": 17
+        },
+        {
+          "id": 134209,
+          "name": "Barış Alper Yılmaz",
+          "x": 91.6,
+          "y": 55.8,
+          "passes": 12
+        },
+        {
+          "id": 29989,
+          "name": "Yusuf Yazıcı",
+          "x": 66.4,
+          "y": 51.8,
+          "passes": 3
+        },
+        {
+          "id": 49689,
+          "name": "Kerem Aktürkoglu",
+          "x": 37.7,
+          "y": 17.3,
+          "passes": 3
+        },
+        {
+          "id": 10349,
+          "name": "Zeki Celik",
+          "x": 88.2,
+          "y": 63.3,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 7039,
+          "to": 133305,
+          "weight": 29
+        },
+        {
+          "from": 10826,
+          "to": 133305,
+          "weight": 15
+        },
+        {
+          "from": 7039,
+          "to": 10826,
+          "weight": 17
+        },
+        {
+          "from": 7039,
+          "to": 116587,
+          "weight": 21
+        },
+        {
+          "from": 10826,
+          "to": 116587,
+          "weight": 15
+        },
+        {
+          "from": 48383,
+          "to": 133305,
+          "weight": 28
+        },
+        {
+          "from": 30438,
+          "to": 48383,
+          "weight": 28
+        },
+        {
+          "from": 116587,
+          "to": 133305,
+          "weight": 12
+        },
+        {
+          "from": 22212,
+          "to": 30438,
+          "weight": 26
+        },
+        {
+          "from": 22212,
+          "to": 151813,
+          "weight": 21
+        },
+        {
+          "from": 30438,
+          "to": 151813,
+          "weight": 24
+        },
+        {
+          "from": 12293,
+          "to": 22212,
+          "weight": 10
+        },
+        {
+          "from": 7039,
+          "to": 12293,
+          "weight": 30
+        },
+        {
+          "from": 48383,
+          "to": 116587,
+          "weight": 8
+        },
+        {
+          "from": 7039,
+          "to": 30438,
+          "weight": 24
+        },
+        {
+          "from": 22212,
+          "to": 48383,
+          "weight": 4
+        },
+        {
+          "from": 48383,
+          "to": 134209,
+          "weight": 3
+        },
+        {
+          "from": 7039,
+          "to": 151813,
+          "weight": 11
+        },
+        {
+          "from": 7039,
+          "to": 22212,
+          "weight": 12
+        },
+        {
+          "from": 12293,
+          "to": 133305,
+          "weight": 12
+        },
+        {
+          "from": 12293,
+          "to": 30438,
+          "weight": 21
+        },
+        {
+          "from": 12293,
+          "to": 48383,
+          "weight": 20
+        },
+        {
+          "from": 10826,
+          "to": 22212,
+          "weight": 7
+        },
+        {
+          "from": 30438,
+          "to": 116587,
+          "weight": 5
+        },
+        {
+          "from": 7039,
+          "to": 48383,
+          "weight": 24
+        },
+        {
+          "from": 10826,
+          "to": 48383,
+          "weight": 4
+        },
+        {
+          "from": 133305,
+          "to": 134209,
+          "weight": 4
+        },
+        {
+          "from": 12293,
+          "to": 151813,
+          "weight": 10
+        },
+        {
+          "from": 7039,
+          "to": 30310,
+          "weight": 3
+        },
+        {
+          "from": 12293,
+          "to": 116587,
+          "weight": 13
+        },
+        {
+          "from": 12293,
+          "to": 134209,
+          "weight": 3
+        },
+        {
+          "from": 22212,
+          "to": 133305,
+          "weight": 3
+        },
+        {
+          "from": 30310,
+          "to": 133305,
+          "weight": 8
+        },
+        {
+          "from": 30310,
+          "to": 48383,
+          "weight": 3
+        },
+        {
+          "from": 30310,
+          "to": 30438,
+          "weight": 5
+        },
+        {
+          "from": 10826,
+          "to": 134209,
+          "weight": 7
+        },
+        {
+          "from": 116587,
+          "to": 134209,
+          "weight": 8
+        },
+        {
+          "from": 22212,
+          "to": 116587,
+          "weight": 6
+        },
+        {
+          "from": 7039,
+          "to": 134209,
+          "weight": 4
+        }
+      ]
+    }
+  }
+}

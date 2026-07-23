@@ -1,0 +1,915 @@
+{
+  "match_id": 3930160,
+  "shots": [
+    {
+      "player": "Álvaro Morata",
+      "team": "Spain",
+      "minute": 6,
+      "x": 98.8,
+      "y": 47.5,
+      "xg": 0.054,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lamine Yamal",
+      "team": "Spain",
+      "minute": 14,
+      "x": 106.5,
+      "y": 49.9,
+      "xg": 0.048,
+      "outcome": "Saved Off Target",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ante Budimir",
+      "team": "Croatia",
+      "minute": 21,
+      "x": 107.7,
+      "y": 39.3,
+      "xg": 0.049,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Álvaro Morata",
+      "team": "Spain",
+      "minute": 28,
+      "x": 104.1,
+      "y": 39.9,
+      "xg": 0.425,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mateo Kovačić",
+      "team": "Croatia",
+      "minute": 29,
+      "x": 102.8,
+      "y": 38.7,
+      "xg": 0.064,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Fabián Ruiz",
+      "team": "Spain",
+      "minute": 31,
+      "x": 103.9,
+      "y": 38.7,
+      "xg": 0.056,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Marcelo Brozović",
+      "team": "Croatia",
+      "minute": 32,
+      "x": 101.8,
+      "y": 40.2,
+      "xg": 0.078,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lovro Majer",
+      "team": "Croatia",
+      "minute": 32,
+      "x": 116.5,
+      "y": 50.1,
+      "xg": 0.106,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robin Le Normand",
+      "team": "Spain",
+      "minute": 35,
+      "x": 114.2,
+      "y": 35.6,
+      "xg": 0.108,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Joško Gvardiol",
+      "team": "Croatia",
+      "minute": 40,
+      "x": 114.0,
+      "y": 27.5,
+      "xg": 0.05,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 44,
+      "x": 86.3,
+      "y": 47.4,
+      "xg": 0.013,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mateo Kovačić",
+      "team": "Croatia",
+      "minute": 45,
+      "x": 91.0,
+      "y": 30.4,
+      "xg": 0.019,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Spain",
+      "minute": 46,
+      "x": 112.7,
+      "y": 42.4,
+      "xg": 0.301,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joško Gvardiol",
+      "team": "Croatia",
+      "minute": 50,
+      "x": 101.2,
+      "y": 24.0,
+      "xg": 0.018,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lamine Yamal",
+      "team": "Spain",
+      "minute": 51,
+      "x": 108.6,
+      "y": 48.3,
+      "xg": 0.282,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Álvaro Morata",
+      "team": "Spain",
+      "minute": 53,
+      "x": 117.4,
+      "y": 34.5,
+      "xg": 0.21,
+      "outcome": "Wayward",
+      "body_part": "Other"
+    },
+    {
+      "player": "Josip Stanišić",
+      "team": "Croatia",
+      "minute": 54,
+      "x": 111.9,
+      "y": 47.8,
+      "xg": 0.223,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ante Budimir",
+      "team": "Croatia",
+      "minute": 54,
+      "x": 117.0,
+      "y": 37.0,
+      "xg": 0.206,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 54,
+      "x": 118.4,
+      "y": 40.0,
+      "xg": 0.71,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mateo Kovačić",
+      "team": "Croatia",
+      "minute": 54,
+      "x": 115.1,
+      "y": 34.4,
+      "xg": 0.1,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Lamine Yamal",
+      "team": "Spain",
+      "minute": 57,
+      "x": 91.3,
+      "y": 45.4,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Daniel Olmo",
+      "team": "Spain",
+      "minute": 73,
+      "x": 93.9,
+      "y": 39.0,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Petković",
+      "team": "Croatia",
+      "minute": 79,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 83,
+      "x": 101.4,
+      "y": 28.7,
+      "xg": 0.035,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 83,
+      "x": 87.3,
+      "y": 24.7,
+      "xg": 0.007,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ferrán Torres",
+      "team": "Spain",
+      "minute": 87,
+      "x": 109.6,
+      "y": 57.8,
+      "xg": 0.013,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ivan Perišić",
+      "team": "Croatia",
+      "minute": 91,
+      "x": 107.8,
+      "y": 27.5,
+      "xg": 0.019,
+      "outcome": "Off T",
+      "body_part": "Head"
+    }
+  ],
+  "networks": {
+    "Croatia": {
+      "nodes": [
+        {
+          "id": 37148,
+          "name": "Josip Šutalo",
+          "x": 38.1,
+          "y": 56.5,
+          "passes": 66
+        },
+        {
+          "id": 5469,
+          "name": "Marcelo Brozović",
+          "x": 51.0,
+          "y": 51.0,
+          "passes": 61
+        },
+        {
+          "id": 28914,
+          "name": "Lovro Majer",
+          "x": 62.0,
+          "y": 53.7,
+          "passes": 54
+        },
+        {
+          "id": 8773,
+          "name": "Marin Pongracic",
+          "x": 36.2,
+          "y": 25.6,
+          "passes": 53
+        },
+        {
+          "id": 49337,
+          "name": "Josip Stanišić",
+          "x": 59.9,
+          "y": 73.1,
+          "passes": 49
+        },
+        {
+          "id": 5463,
+          "name": "Luka Modrić",
+          "x": 58.3,
+          "y": 53.6,
+          "passes": 36
+        },
+        {
+          "id": 33018,
+          "name": "Joško Gvardiol",
+          "x": 58.8,
+          "y": 11.3,
+          "passes": 36
+        },
+        {
+          "id": 5456,
+          "name": "Mateo Kovačić",
+          "x": 59.7,
+          "y": 36.8,
+          "passes": 35
+        },
+        {
+          "id": 16531,
+          "name": "Dominik Livaković",
+          "x": 8.8,
+          "y": 41.7,
+          "passes": 27
+        },
+        {
+          "id": 5460,
+          "name": "Andrej Kramarić",
+          "x": 75.8,
+          "y": 39.5,
+          "passes": 21
+        },
+        {
+          "id": 39490,
+          "name": "Luka Sučić",
+          "x": 58.2,
+          "y": 38.5,
+          "passes": 21
+        },
+        {
+          "id": 11603,
+          "name": "Mario Pašalić",
+          "x": 67.7,
+          "y": 45.8,
+          "passes": 11
+        },
+        {
+          "id": 5474,
+          "name": "Ivan Perišić",
+          "x": 84.2,
+          "y": 7.6,
+          "passes": 6
+        },
+        {
+          "id": 7693,
+          "name": "Bruno Petković",
+          "x": 71.6,
+          "y": 40.9,
+          "passes": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 5463,
+          "to": 37148,
+          "weight": 9
+        },
+        {
+          "from": 16531,
+          "to": 37148,
+          "weight": 17
+        },
+        {
+          "from": 8773,
+          "to": 37148,
+          "weight": 23
+        },
+        {
+          "from": 5456,
+          "to": 5469,
+          "weight": 12
+        },
+        {
+          "from": 5456,
+          "to": 37148,
+          "weight": 16
+        },
+        {
+          "from": 5469,
+          "to": 37148,
+          "weight": 23
+        },
+        {
+          "from": 5469,
+          "to": 28914,
+          "weight": 16
+        },
+        {
+          "from": 28914,
+          "to": 37148,
+          "weight": 17
+        },
+        {
+          "from": 8773,
+          "to": 16531,
+          "weight": 14
+        },
+        {
+          "from": 28914,
+          "to": 49337,
+          "weight": 20
+        },
+        {
+          "from": 5463,
+          "to": 28914,
+          "weight": 8
+        },
+        {
+          "from": 5463,
+          "to": 49337,
+          "weight": 17
+        },
+        {
+          "from": 37148,
+          "to": 49337,
+          "weight": 13
+        },
+        {
+          "from": 5469,
+          "to": 8773,
+          "weight": 14
+        },
+        {
+          "from": 8773,
+          "to": 33018,
+          "weight": 21
+        },
+        {
+          "from": 5456,
+          "to": 33018,
+          "weight": 8
+        },
+        {
+          "from": 5456,
+          "to": 8773,
+          "weight": 11
+        },
+        {
+          "from": 5460,
+          "to": 28914,
+          "weight": 10
+        },
+        {
+          "from": 5456,
+          "to": 5463,
+          "weight": 8
+        },
+        {
+          "from": 5456,
+          "to": 5460,
+          "weight": 9
+        },
+        {
+          "from": 5463,
+          "to": 5469,
+          "weight": 11
+        },
+        {
+          "from": 5469,
+          "to": 49337,
+          "weight": 20
+        },
+        {
+          "from": 5460,
+          "to": 33018,
+          "weight": 7
+        },
+        {
+          "from": 5469,
+          "to": 16531,
+          "weight": 3
+        },
+        {
+          "from": 5460,
+          "to": 49337,
+          "weight": 4
+        },
+        {
+          "from": 33018,
+          "to": 37148,
+          "weight": 4
+        },
+        {
+          "from": 16531,
+          "to": 49337,
+          "weight": 4
+        },
+        {
+          "from": 5456,
+          "to": 28914,
+          "weight": 8
+        },
+        {
+          "from": 8773,
+          "to": 28914,
+          "weight": 6
+        },
+        {
+          "from": 5469,
+          "to": 33018,
+          "weight": 7
+        },
+        {
+          "from": 16531,
+          "to": 33018,
+          "weight": 5
+        },
+        {
+          "from": 5463,
+          "to": 33018,
+          "weight": 6
+        },
+        {
+          "from": 5460,
+          "to": 5463,
+          "weight": 7
+        },
+        {
+          "from": 28914,
+          "to": 33018,
+          "weight": 5
+        },
+        {
+          "from": 5474,
+          "to": 33018,
+          "weight": 3
+        },
+        {
+          "from": 37148,
+          "to": 39490,
+          "weight": 7
+        },
+        {
+          "from": 28914,
+          "to": 39490,
+          "weight": 7
+        },
+        {
+          "from": 39490,
+          "to": 49337,
+          "weight": 4
+        },
+        {
+          "from": 7693,
+          "to": 39490,
+          "weight": 3
+        },
+        {
+          "from": 5474,
+          "to": 7693,
+          "weight": 3
+        },
+        {
+          "from": 5469,
+          "to": 11603,
+          "weight": 4
+        },
+        {
+          "from": 5474,
+          "to": 39490,
+          "weight": 3
+        },
+        {
+          "from": 11603,
+          "to": 28914,
+          "weight": 3
+        },
+        {
+          "from": 7693,
+          "to": 11603,
+          "weight": 5
+        },
+        {
+          "from": 5469,
+          "to": 39490,
+          "weight": 8
+        },
+        {
+          "from": 33018,
+          "to": 39490,
+          "weight": 3
+        }
+      ]
+    },
+    "Spain": {
+      "nodes": [
+        {
+          "id": 6765,
+          "name": "Rodri",
+          "x": 57.6,
+          "y": 41.0,
+          "passes": 57
+        },
+        {
+          "id": 5202,
+          "name": "Nacho",
+          "x": 46.3,
+          "y": 26.0,
+          "passes": 54
+        },
+        {
+          "id": 5721,
+          "name": "Daniel Carvajal",
+          "x": 54.2,
+          "y": 68.3,
+          "passes": 50
+        },
+        {
+          "id": 6655,
+          "name": "Fabián Ruiz",
+          "x": 59.3,
+          "y": 36.3,
+          "passes": 48
+        },
+        {
+          "id": 22128,
+          "name": "Robin Le Normand",
+          "x": 41.9,
+          "y": 53.5,
+          "passes": 43
+        },
+        {
+          "id": 17620,
+          "name": "Marc Cucurella",
+          "x": 56.3,
+          "y": 8.4,
+          "passes": 42
+        },
+        {
+          "id": 11748,
+          "name": "Unai Simón",
+          "x": 13.5,
+          "y": 38.9,
+          "passes": 29
+        },
+        {
+          "id": 30486,
+          "name": "Pedri",
+          "x": 68.9,
+          "y": 49.8,
+          "passes": 17
+        },
+        {
+          "id": 316046,
+          "name": "Lamine Yamal",
+          "x": 91.8,
+          "y": 68.7,
+          "passes": 17
+        },
+        {
+          "id": 16532,
+          "name": "Daniel Olmo",
+          "x": 75.8,
+          "y": 4.5,
+          "passes": 12
+        },
+        {
+          "id": 68574,
+          "name": "Nico Williams",
+          "x": 82.0,
+          "y": 18.7,
+          "passes": 12
+        },
+        {
+          "id": 24921,
+          "name": "Martín Zubimendi",
+          "x": 58.9,
+          "y": 33.4,
+          "passes": 9
+        },
+        {
+          "id": 3042,
+          "name": "Mikel Merino",
+          "x": 57.9,
+          "y": 18.9,
+          "passes": 7
+        },
+        {
+          "id": 3477,
+          "name": "Álvaro Morata",
+          "x": 77.1,
+          "y": 35.1,
+          "passes": 6
+        }
+      ],
+      "edges": [
+        {
+          "from": 5202,
+          "to": 11748,
+          "weight": 13
+        },
+        {
+          "from": 11748,
+          "to": 22128,
+          "weight": 21
+        },
+        {
+          "from": 5202,
+          "to": 22128,
+          "weight": 13
+        },
+        {
+          "from": 5202,
+          "to": 6655,
+          "weight": 9
+        },
+        {
+          "from": 6655,
+          "to": 17620,
+          "weight": 9
+        },
+        {
+          "from": 3477,
+          "to": 17620,
+          "weight": 5
+        },
+        {
+          "from": 3477,
+          "to": 6655,
+          "weight": 4
+        },
+        {
+          "from": 6655,
+          "to": 6765,
+          "weight": 18
+        },
+        {
+          "from": 5721,
+          "to": 6765,
+          "weight": 17
+        },
+        {
+          "from": 5721,
+          "to": 316046,
+          "weight": 14
+        },
+        {
+          "from": 5721,
+          "to": 22128,
+          "weight": 25
+        },
+        {
+          "from": 5721,
+          "to": 30486,
+          "weight": 6
+        },
+        {
+          "from": 6765,
+          "to": 22128,
+          "weight": 11
+        },
+        {
+          "from": 5202,
+          "to": 6765,
+          "weight": 23
+        },
+        {
+          "from": 6765,
+          "to": 17620,
+          "weight": 12
+        },
+        {
+          "from": 11748,
+          "to": 17620,
+          "weight": 8
+        },
+        {
+          "from": 5721,
+          "to": 11748,
+          "weight": 4
+        },
+        {
+          "from": 5202,
+          "to": 17620,
+          "weight": 20
+        },
+        {
+          "from": 6655,
+          "to": 316046,
+          "weight": 5
+        },
+        {
+          "from": 6655,
+          "to": 30486,
+          "weight": 8
+        },
+        {
+          "from": 5202,
+          "to": 5721,
+          "weight": 3
+        },
+        {
+          "from": 6655,
+          "to": 22128,
+          "weight": 13
+        },
+        {
+          "from": 6655,
+          "to": 68574,
+          "weight": 10
+        },
+        {
+          "from": 6765,
+          "to": 316046,
+          "weight": 6
+        },
+        {
+          "from": 6765,
+          "to": 30486,
+          "weight": 6
+        },
+        {
+          "from": 17620,
+          "to": 68574,
+          "weight": 9
+        },
+        {
+          "from": 17620,
+          "to": 30486,
+          "weight": 3
+        },
+        {
+          "from": 30486,
+          "to": 316046,
+          "weight": 4
+        },
+        {
+          "from": 68574,
+          "to": 316046,
+          "weight": 4
+        },
+        {
+          "from": 6655,
+          "to": 11748,
+          "weight": 6
+        },
+        {
+          "from": 3477,
+          "to": 30486,
+          "weight": 3
+        },
+        {
+          "from": 5202,
+          "to": 68574,
+          "weight": 3
+        },
+        {
+          "from": 5721,
+          "to": 6655,
+          "weight": 11
+        },
+        {
+          "from": 6765,
+          "to": 11748,
+          "weight": 3
+        },
+        {
+          "from": 3042,
+          "to": 16532,
+          "weight": 6
+        },
+        {
+          "from": 16532,
+          "to": 17620,
+          "weight": 11
+        },
+        {
+          "from": 3042,
+          "to": 6765,
+          "weight": 4
+        },
+        {
+          "from": 5202,
+          "to": 16532,
+          "weight": 3
+        },
+        {
+          "from": 6655,
+          "to": 24921,
+          "weight": 4
+        },
+        {
+          "from": 5202,
+          "to": 24921,
+          "weight": 6
+        }
+      ]
+    }
+  }
+}

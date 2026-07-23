@@ -1,0 +1,940 @@
+{
+  "match_id": 3940983,
+  "shots": [
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 6,
+      "x": 91.2,
+      "y": 49.7,
+      "xg": 0.025,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nico Schlotterbeck",
+      "team": "Germany",
+      "minute": 6,
+      "x": 110.3,
+      "y": 32.0,
+      "xg": 0.03,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 9,
+      "x": 107.1,
+      "y": 28.1,
+      "xg": 0.074,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Robert Andrich",
+      "team": "Germany",
+      "minute": 10,
+      "x": 110.5,
+      "y": 37.7,
+      "xg": 0.055,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 12,
+      "x": 90.2,
+      "y": 42.2,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Toni Kroos",
+      "team": "Germany",
+      "minute": 15,
+      "x": 92.3,
+      "y": 36.2,
+      "xg": 0.056,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Christian Eriksen",
+      "team": "Denmark",
+      "minute": 20,
+      "x": 101.0,
+      "y": 40.2,
+      "xg": 0.122,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joakim Maehle",
+      "team": "Denmark",
+      "minute": 23,
+      "x": 112.5,
+      "y": 27.4,
+      "xg": 0.092,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Christian Eriksen",
+      "team": "Denmark",
+      "minute": 30,
+      "x": 100.8,
+      "y": 38.0,
+      "xg": 0.09,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rasmus Höjlund",
+      "team": "Denmark",
+      "minute": 32,
+      "x": 105.9,
+      "y": 20.0,
+      "xg": 0.009,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 41,
+      "x": 111.5,
+      "y": 39.7,
+      "xg": 0.136,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Nico Schlotterbeck",
+      "team": "Germany",
+      "minute": 41,
+      "x": 112.3,
+      "y": 31.4,
+      "xg": 0.04,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Rasmus Höjlund",
+      "team": "Denmark",
+      "minute": 46,
+      "x": 115.0,
+      "y": 51.7,
+      "xg": 0.061,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rasmus Höjlund",
+      "team": "Denmark",
+      "minute": 49,
+      "x": 108.2,
+      "y": 37.4,
+      "xg": 0.481,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 52,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 58,
+      "x": 108.9,
+      "y": 31.0,
+      "xg": 0.425,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rasmus Höjlund",
+      "team": "Denmark",
+      "minute": 65,
+      "x": 105.6,
+      "y": 30.8,
+      "xg": 0.059,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 67,
+      "x": 110.2,
+      "y": 28.9,
+      "xg": 0.256,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joachim Andersen",
+      "team": "Denmark",
+      "minute": 76,
+      "x": 114.2,
+      "y": 33.2,
+      "xg": 0.061,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 78,
+      "x": 48.1,
+      "y": 47.9,
+      "xg": 0.003,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pierre-Emile Højbjerg",
+      "team": "Denmark",
+      "minute": 82,
+      "x": 94.3,
+      "y": 43.0,
+      "xg": 0.036,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Benjamin Henrichs",
+      "team": "Germany",
+      "minute": 88,
+      "x": 97.7,
+      "y": 22.4,
+      "xg": 0.019,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Florian Wirtz",
+      "team": "Germany",
+      "minute": 89,
+      "x": 101.4,
+      "y": 45.0,
+      "xg": 0.111,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jannik Vestergaard",
+      "team": "Denmark",
+      "minute": 93,
+      "x": 106.8,
+      "y": 42.2,
+      "xg": 0.062,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 94,
+      "x": 106.6,
+      "y": 29.6,
+      "xg": 0.19,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    }
+  ],
+  "networks": {
+    "Denmark": {
+      "nodes": [
+        {
+          "id": 3570,
+          "name": "Pierre-Emile Højbjerg",
+          "x": 60.8,
+          "y": 32.0,
+          "passes": 56
+        },
+        {
+          "id": 8815,
+          "name": "Jannik Vestergaard",
+          "x": 43.1,
+          "y": 37.9,
+          "passes": 49
+        },
+        {
+          "id": 16554,
+          "name": "Joakim Maehle",
+          "x": 61.1,
+          "y": 15.7,
+          "passes": 45
+        },
+        {
+          "id": 3043,
+          "name": "Christian Eriksen",
+          "x": 73.5,
+          "y": 27.5,
+          "passes": 39
+        },
+        {
+          "id": 8247,
+          "name": "Joachim Andersen",
+          "x": 46.9,
+          "y": 59.0,
+          "passes": 38
+        },
+        {
+          "id": 3959,
+          "name": "Andreas Christensen",
+          "x": 46.8,
+          "y": 16.4,
+          "passes": 34
+        },
+        {
+          "id": 3815,
+          "name": "Kasper Schmeichel",
+          "x": 11.9,
+          "y": 38.5,
+          "passes": 24
+        },
+        {
+          "id": 7097,
+          "name": "Christian Nørgaard",
+          "x": 60.1,
+          "y": 37.8,
+          "passes": 22
+        },
+        {
+          "id": 24547,
+          "name": "Alexander Bah",
+          "x": 60.3,
+          "y": 71.4,
+          "passes": 20
+        },
+        {
+          "id": 5527,
+          "name": "Thomas Delaney",
+          "x": 53.5,
+          "y": 39.1,
+          "passes": 19
+        },
+        {
+          "id": 17042,
+          "name": "Andreas Skov Olsen",
+          "x": 72.3,
+          "y": 66.8,
+          "passes": 13
+        },
+        {
+          "id": 51672,
+          "name": "Rasmus Höjlund",
+          "x": 72.4,
+          "y": 41.1,
+          "passes": 11
+        },
+        {
+          "id": 60343,
+          "name": "Victor Kristiansen",
+          "x": 75.1,
+          "y": 12.9,
+          "passes": 8
+        },
+        {
+          "id": 5536,
+          "name": "Yussuf Poulsen",
+          "x": 79.5,
+          "y": 44.6,
+          "passes": 4
+        }
+      ],
+      "edges": [
+        {
+          "from": 3043,
+          "to": 16554,
+          "weight": 21
+        },
+        {
+          "from": 3815,
+          "to": 3959,
+          "weight": 7
+        },
+        {
+          "from": 3959,
+          "to": 8815,
+          "weight": 18
+        },
+        {
+          "from": 3959,
+          "to": 16554,
+          "weight": 11
+        },
+        {
+          "from": 8247,
+          "to": 8815,
+          "weight": 22
+        },
+        {
+          "from": 8247,
+          "to": 16554,
+          "weight": 9
+        },
+        {
+          "from": 3570,
+          "to": 17042,
+          "weight": 5
+        },
+        {
+          "from": 3570,
+          "to": 5527,
+          "weight": 6
+        },
+        {
+          "from": 3043,
+          "to": 17042,
+          "weight": 4
+        },
+        {
+          "from": 3570,
+          "to": 24547,
+          "weight": 4
+        },
+        {
+          "from": 3043,
+          "to": 3570,
+          "weight": 19
+        },
+        {
+          "from": 3815,
+          "to": 8247,
+          "weight": 4
+        },
+        {
+          "from": 8247,
+          "to": 24547,
+          "weight": 12
+        },
+        {
+          "from": 5527,
+          "to": 24547,
+          "weight": 3
+        },
+        {
+          "from": 5527,
+          "to": 17042,
+          "weight": 3
+        },
+        {
+          "from": 3570,
+          "to": 16554,
+          "weight": 17
+        },
+        {
+          "from": 3815,
+          "to": 16554,
+          "weight": 3
+        },
+        {
+          "from": 8815,
+          "to": 16554,
+          "weight": 9
+        },
+        {
+          "from": 3043,
+          "to": 3959,
+          "weight": 10
+        },
+        {
+          "from": 3570,
+          "to": 8247,
+          "weight": 4
+        },
+        {
+          "from": 3570,
+          "to": 51672,
+          "weight": 8
+        },
+        {
+          "from": 3570,
+          "to": 3959,
+          "weight": 12
+        },
+        {
+          "from": 8247,
+          "to": 17042,
+          "weight": 5
+        },
+        {
+          "from": 3043,
+          "to": 51672,
+          "weight": 6
+        },
+        {
+          "from": 3570,
+          "to": 8815,
+          "weight": 14
+        },
+        {
+          "from": 3043,
+          "to": 8247,
+          "weight": 6
+        },
+        {
+          "from": 5527,
+          "to": 16554,
+          "weight": 9
+        },
+        {
+          "from": 24547,
+          "to": 51672,
+          "weight": 3
+        },
+        {
+          "from": 5527,
+          "to": 51672,
+          "weight": 3
+        },
+        {
+          "from": 16554,
+          "to": 51672,
+          "weight": 4
+        },
+        {
+          "from": 8815,
+          "to": 17042,
+          "weight": 3
+        },
+        {
+          "from": 17042,
+          "to": 24547,
+          "weight": 7
+        },
+        {
+          "from": 3043,
+          "to": 5527,
+          "weight": 4
+        },
+        {
+          "from": 16554,
+          "to": 24547,
+          "weight": 3
+        },
+        {
+          "from": 3815,
+          "to": 8815,
+          "weight": 6
+        },
+        {
+          "from": 3570,
+          "to": 3815,
+          "weight": 5
+        },
+        {
+          "from": 3043,
+          "to": 8815,
+          "weight": 4
+        },
+        {
+          "from": 7097,
+          "to": 24547,
+          "weight": 3
+        },
+        {
+          "from": 3043,
+          "to": 7097,
+          "weight": 4
+        },
+        {
+          "from": 3570,
+          "to": 5536,
+          "weight": 3
+        },
+        {
+          "from": 3570,
+          "to": 7097,
+          "weight": 5
+        },
+        {
+          "from": 7097,
+          "to": 8815,
+          "weight": 9
+        },
+        {
+          "from": 7097,
+          "to": 8247,
+          "weight": 6
+        },
+        {
+          "from": 5536,
+          "to": 7097,
+          "weight": 3
+        },
+        {
+          "from": 3570,
+          "to": 60343,
+          "weight": 4
+        },
+        {
+          "from": 7097,
+          "to": 60343,
+          "weight": 6
+        },
+        {
+          "from": 3043,
+          "to": 60343,
+          "weight": 4
+        },
+        {
+          "from": 7097,
+          "to": 16554,
+          "weight": 4
+        }
+      ]
+    },
+    "Germany": {
+      "nodes": [
+        {
+          "id": 5574,
+          "name": "Toni Kroos",
+          "x": 61.9,
+          "y": 31.9,
+          "passes": 86
+        },
+        {
+          "id": 5579,
+          "name": "Joshua Kimmich",
+          "x": 64.0,
+          "y": 67.9,
+          "passes": 71
+        },
+        {
+          "id": 24118,
+          "name": "Nico Schlotterbeck",
+          "x": 47.5,
+          "y": 29.5,
+          "passes": 62
+        },
+        {
+          "id": 3167,
+          "name": "Antonio Rüdiger",
+          "x": 52.2,
+          "y": 58.6,
+          "passes": 56
+        },
+        {
+          "id": 9195,
+          "name": "Robert Andrich",
+          "x": 61.5,
+          "y": 42.0,
+          "passes": 48
+        },
+        {
+          "id": 12034,
+          "name": "David Raum",
+          "x": 65.6,
+          "y": 7.8,
+          "passes": 36
+        },
+        {
+          "id": 8966,
+          "name": "Kai Havertz",
+          "x": 79.4,
+          "y": 46.4,
+          "passes": 25
+        },
+        {
+          "id": 3053,
+          "name": "Leroy Sané",
+          "x": 78.6,
+          "y": 60.5,
+          "passes": 22
+        },
+        {
+          "id": 39565,
+          "name": "Jamal Musiala",
+          "x": 68.7,
+          "y": 21.8,
+          "passes": 22
+        },
+        {
+          "id": 3493,
+          "name": "Emre Can",
+          "x": 72.1,
+          "y": 48.1,
+          "passes": 21
+        },
+        {
+          "id": 5570,
+          "name": "Manuel Neuer",
+          "x": 13.8,
+          "y": 42.7,
+          "passes": 21
+        },
+        {
+          "id": 10287,
+          "name": "İlkay Gündoğan",
+          "x": 72.5,
+          "y": 40.6,
+          "passes": 18
+        },
+        {
+          "id": 8546,
+          "name": "Niclas Füllkrug",
+          "x": 63.6,
+          "y": 25.2,
+          "passes": 6
+        },
+        {
+          "id": 8211,
+          "name": "Benjamin Henrichs",
+          "x": 57.0,
+          "y": 12.9,
+          "passes": 4
+        }
+      ],
+      "edges": [
+        {
+          "from": 3053,
+          "to": 5579,
+          "weight": 20
+        },
+        {
+          "from": 3167,
+          "to": 5579,
+          "weight": 31
+        },
+        {
+          "from": 3167,
+          "to": 24118,
+          "weight": 19
+        },
+        {
+          "from": 5574,
+          "to": 24118,
+          "weight": 23
+        },
+        {
+          "from": 5570,
+          "to": 5574,
+          "weight": 3
+        },
+        {
+          "from": 9195,
+          "to": 24118,
+          "weight": 19
+        },
+        {
+          "from": 10287,
+          "to": 24118,
+          "weight": 5
+        },
+        {
+          "from": 10287,
+          "to": 12034,
+          "weight": 4
+        },
+        {
+          "from": 5574,
+          "to": 12034,
+          "weight": 21
+        },
+        {
+          "from": 5574,
+          "to": 9195,
+          "weight": 20
+        },
+        {
+          "from": 8966,
+          "to": 24118,
+          "weight": 3
+        },
+        {
+          "from": 3167,
+          "to": 5574,
+          "weight": 22
+        },
+        {
+          "from": 8966,
+          "to": 10287,
+          "weight": 3
+        },
+        {
+          "from": 8966,
+          "to": 9195,
+          "weight": 5
+        },
+        {
+          "from": 5579,
+          "to": 9195,
+          "weight": 16
+        },
+        {
+          "from": 5579,
+          "to": 24118,
+          "weight": 11
+        },
+        {
+          "from": 3053,
+          "to": 9195,
+          "weight": 7
+        },
+        {
+          "from": 3167,
+          "to": 9195,
+          "weight": 13
+        },
+        {
+          "from": 9195,
+          "to": 12034,
+          "weight": 7
+        },
+        {
+          "from": 12034,
+          "to": 39565,
+          "weight": 10
+        },
+        {
+          "from": 9195,
+          "to": 39565,
+          "weight": 4
+        },
+        {
+          "from": 8966,
+          "to": 12034,
+          "weight": 7
+        },
+        {
+          "from": 8966,
+          "to": 39565,
+          "weight": 4
+        },
+        {
+          "from": 5574,
+          "to": 10287,
+          "weight": 10
+        },
+        {
+          "from": 5574,
+          "to": 5579,
+          "weight": 16
+        },
+        {
+          "from": 24118,
+          "to": 39565,
+          "weight": 10
+        },
+        {
+          "from": 5570,
+          "to": 12034,
+          "weight": 3
+        },
+        {
+          "from": 5570,
+          "to": 24118,
+          "weight": 10
+        },
+        {
+          "from": 5574,
+          "to": 39565,
+          "weight": 20
+        },
+        {
+          "from": 5574,
+          "to": 8966,
+          "weight": 7
+        },
+        {
+          "from": 3167,
+          "to": 5570,
+          "weight": 10
+        },
+        {
+          "from": 10287,
+          "to": 39565,
+          "weight": 4
+        },
+        {
+          "from": 9195,
+          "to": 10287,
+          "weight": 4
+        },
+        {
+          "from": 3167,
+          "to": 8966,
+          "weight": 4
+        },
+        {
+          "from": 12034,
+          "to": 24118,
+          "weight": 9
+        },
+        {
+          "from": 3053,
+          "to": 10287,
+          "weight": 4
+        },
+        {
+          "from": 5579,
+          "to": 8966,
+          "weight": 13
+        },
+        {
+          "from": 5570,
+          "to": 5579,
+          "weight": 8
+        },
+        {
+          "from": 3053,
+          "to": 5574,
+          "weight": 8
+        },
+        {
+          "from": 3053,
+          "to": 8966,
+          "weight": 3
+        },
+        {
+          "from": 8546,
+          "to": 39565,
+          "weight": 3
+        },
+        {
+          "from": 3493,
+          "to": 8966,
+          "weight": 5
+        },
+        {
+          "from": 3493,
+          "to": 5579,
+          "weight": 13
+        },
+        {
+          "from": 3493,
+          "to": 5574,
+          "weight": 10
+        },
+        {
+          "from": 3167,
+          "to": 3493,
+          "weight": 3
+        },
+        {
+          "from": 8546,
+          "to": 8966,
+          "weight": 3
+        },
+        {
+          "from": 8211,
+          "to": 8546,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

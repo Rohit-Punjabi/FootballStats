@@ -1,0 +1,825 @@
+{
+  "match_id": 3930166,
+  "shots": [
+    {
+      "player": "Pavel Šulc",
+      "team": "Czech Republic",
+      "minute": 3,
+      "x": 103.0,
+      "y": 33.9,
+      "xg": 0.061,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 7,
+      "x": 108.6,
+      "y": 40.1,
+      "xg": 0.054,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Nuno Mendes",
+      "team": "Portugal",
+      "minute": 16,
+      "x": 89.6,
+      "y": 25.3,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rúben Dias",
+      "team": "Portugal",
+      "minute": 21,
+      "x": 99.7,
+      "y": 52.2,
+      "xg": 0.032,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "João Cancelo",
+      "team": "Portugal",
+      "minute": 22,
+      "x": 104.7,
+      "y": 25.1,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Fernandes",
+      "team": "Portugal",
+      "minute": 23,
+      "x": 92.6,
+      "y": 20.6,
+      "xg": 0.006,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 31,
+      "x": 109.8,
+      "y": 36.7,
+      "xg": 0.492,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Vitinha",
+      "team": "Portugal",
+      "minute": 31,
+      "x": 96.7,
+      "y": 32.6,
+      "xg": 0.037,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Vitinha",
+      "team": "Portugal",
+      "minute": 32,
+      "x": 106.6,
+      "y": 35.4,
+      "xg": 0.153,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 45,
+      "x": 107.9,
+      "y": 51.7,
+      "xg": 0.079,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Diogo Dalot",
+      "team": "Portugal",
+      "minute": 45,
+      "x": 99.2,
+      "y": 55.7,
+      "xg": 0.023,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bernardo Silva",
+      "team": "Portugal",
+      "minute": 51,
+      "x": 101.9,
+      "y": 56.1,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 54,
+      "x": 111.8,
+      "y": 40.5,
+      "xg": 0.091,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 57,
+      "x": 92.3,
+      "y": 38.0,
+      "xg": 0.052,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rafael Leão",
+      "team": "Portugal",
+      "minute": 59,
+      "x": 107.9,
+      "y": 20.4,
+      "xg": 0.009,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mojmír Chytil",
+      "team": "Czech Republic",
+      "minute": 61,
+      "x": 107.6,
+      "y": 41.8,
+      "xg": 0.04,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Lukáš Provod",
+      "team": "Czech Republic",
+      "minute": 61,
+      "x": 98.3,
+      "y": 48.1,
+      "xg": 0.036,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nuno Mendes",
+      "team": "Portugal",
+      "minute": 68,
+      "x": 115.0,
+      "y": 30.7,
+      "xg": 0.045,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Bernardo Silva",
+      "team": "Portugal",
+      "minute": 71,
+      "x": 108.9,
+      "y": 25.4,
+      "xg": 0.067,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Vitinha",
+      "team": "Portugal",
+      "minute": 77,
+      "x": 91.3,
+      "y": 35.1,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Fernandes",
+      "team": "Portugal",
+      "minute": 80,
+      "x": 107.1,
+      "y": 16.8,
+      "xg": 0.008,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Petr Ševčík",
+      "team": "Czech Republic",
+      "minute": 80,
+      "x": 106.1,
+      "y": 44.5,
+      "xg": 0.113,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Tomáš Souček",
+      "team": "Czech Republic",
+      "minute": 80,
+      "x": 100.6,
+      "y": 44.7,
+      "xg": 0.065,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Francisco Conceição",
+      "team": "Portugal",
+      "minute": 91,
+      "x": 115.7,
+      "y": 36.1,
+      "xg": 0.59,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    }
+  ],
+  "networks": {
+    "Czech Republic": {
+      "nodes": [
+        {
+          "id": 4870,
+          "name": "Tomáš Souček",
+          "x": 52.8,
+          "y": 41.9,
+          "passes": 19
+        },
+        {
+          "id": 28034,
+          "name": "Lukáš Provod",
+          "x": 64.7,
+          "y": 39.2,
+          "passes": 19
+        },
+        {
+          "id": 16570,
+          "name": "Vladimír Coufal",
+          "x": 69.3,
+          "y": 72.1,
+          "passes": 18
+        },
+        {
+          "id": 28272,
+          "name": "Ladislav Krejčí",
+          "x": 41.0,
+          "y": 22.0,
+          "passes": 18
+        },
+        {
+          "id": 35441,
+          "name": "David Doudera",
+          "x": 50.5,
+          "y": 6.9,
+          "passes": 18
+        },
+        {
+          "id": 81330,
+          "name": "Robin Hranáč",
+          "x": 31.7,
+          "y": 40.1,
+          "passes": 16
+        },
+        {
+          "id": 28040,
+          "name": "Jindřich Staněk",
+          "x": 9.8,
+          "y": 40.2,
+          "passes": 15
+        },
+        {
+          "id": 28227,
+          "name": "Pavel Šulc",
+          "x": 68.0,
+          "y": 50.3,
+          "passes": 12
+        },
+        {
+          "id": 16469,
+          "name": "Tomáš Holeš",
+          "x": 39.5,
+          "y": 64.1,
+          "passes": 10
+        },
+        {
+          "id": 7044,
+          "name": "Patrik Schick",
+          "x": 57.9,
+          "y": 40.8,
+          "passes": 8
+        },
+        {
+          "id": 29484,
+          "name": "Jan Kuchta",
+          "x": 60.4,
+          "y": 39.6,
+          "passes": 8
+        },
+        {
+          "id": 7801,
+          "name": "Antonín Barák",
+          "x": 65.3,
+          "y": 48.1,
+          "passes": 5
+        },
+        {
+          "id": 27826,
+          "name": "Ondřej Lingr",
+          "x": 69.2,
+          "y": 55.1,
+          "passes": 5
+        },
+        {
+          "id": 23454,
+          "name": "Petr Ševčík",
+          "x": 60.1,
+          "y": 48.1,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 16570,
+          "to": 28227,
+          "weight": 5
+        },
+        {
+          "from": 4870,
+          "to": 28034,
+          "weight": 8
+        },
+        {
+          "from": 16570,
+          "to": 28034,
+          "weight": 7
+        },
+        {
+          "from": 4870,
+          "to": 16570,
+          "weight": 3
+        },
+        {
+          "from": 28040,
+          "to": 29484,
+          "weight": 4
+        },
+        {
+          "from": 28040,
+          "to": 81330,
+          "weight": 5
+        },
+        {
+          "from": 7044,
+          "to": 28227,
+          "weight": 3
+        },
+        {
+          "from": 4870,
+          "to": 7044,
+          "weight": 3
+        },
+        {
+          "from": 28227,
+          "to": 35441,
+          "weight": 5
+        },
+        {
+          "from": 28272,
+          "to": 35441,
+          "weight": 9
+        },
+        {
+          "from": 28272,
+          "to": 81330,
+          "weight": 6
+        },
+        {
+          "from": 28034,
+          "to": 28272,
+          "weight": 3
+        },
+        {
+          "from": 4870,
+          "to": 81330,
+          "weight": 3
+        },
+        {
+          "from": 16469,
+          "to": 81330,
+          "weight": 3
+        },
+        {
+          "from": 16469,
+          "to": 28272,
+          "weight": 3
+        },
+        {
+          "from": 7044,
+          "to": 29484,
+          "weight": 5
+        },
+        {
+          "from": 16570,
+          "to": 81330,
+          "weight": 4
+        },
+        {
+          "from": 4870,
+          "to": 28040,
+          "weight": 3
+        },
+        {
+          "from": 4870,
+          "to": 35441,
+          "weight": 6
+        },
+        {
+          "from": 28040,
+          "to": 28272,
+          "weight": 6
+        },
+        {
+          "from": 7044,
+          "to": 16570,
+          "weight": 3
+        },
+        {
+          "from": 28040,
+          "to": 35441,
+          "weight": 5
+        },
+        {
+          "from": 28034,
+          "to": 35441,
+          "weight": 7
+        },
+        {
+          "from": 16469,
+          "to": 16570,
+          "weight": 5
+        },
+        {
+          "from": 28034,
+          "to": 28227,
+          "weight": 3
+        },
+        {
+          "from": 16570,
+          "to": 27826,
+          "weight": 3
+        },
+        {
+          "from": 27826,
+          "to": 28034,
+          "weight": 3
+        }
+      ]
+    },
+    "Portugal": {
+      "nodes": [
+        {
+          "id": 5206,
+          "name": "Rúben Dias",
+          "x": 60.5,
+          "y": 64.4,
+          "passes": 87
+        },
+        {
+          "id": 34639,
+          "name": "Vitinha",
+          "x": 72.9,
+          "y": 42.1,
+          "passes": 87
+        },
+        {
+          "id": 5204,
+          "name": "Bruno Fernandes",
+          "x": 70.4,
+          "y": 42.5,
+          "passes": 77
+        },
+        {
+          "id": 41092,
+          "name": "Nuno Mendes",
+          "x": 62.8,
+          "y": 12.7,
+          "passes": 77
+        },
+        {
+          "id": 20016,
+          "name": "Pepe",
+          "x": 49.6,
+          "y": 33.5,
+          "passes": 73
+        },
+        {
+          "id": 7005,
+          "name": "João Cancelo",
+          "x": 68.3,
+          "y": 30.1,
+          "passes": 67
+        },
+        {
+          "id": 3193,
+          "name": "Bernardo Silva",
+          "x": 82.7,
+          "y": 50.9,
+          "passes": 49
+        },
+        {
+          "id": 16028,
+          "name": "Diogo Dalot",
+          "x": 76.5,
+          "y": 73.9,
+          "passes": 37
+        },
+        {
+          "id": 42106,
+          "name": "Gonçalo Inácio",
+          "x": 60.7,
+          "y": 9.9,
+          "passes": 25
+        },
+        {
+          "id": 5207,
+          "name": "Cristiano Ronaldo",
+          "x": 83.4,
+          "y": 32.8,
+          "passes": 23
+        },
+        {
+          "id": 32975,
+          "name": "Diogo Costa",
+          "x": 14.7,
+          "y": 40.9,
+          "passes": 19
+        },
+        {
+          "id": 18360,
+          "name": "Rafael Leão",
+          "x": 87.8,
+          "y": 10.4,
+          "passes": 15
+        },
+        {
+          "id": 9929,
+          "name": "Diogo Jota",
+          "x": 79.3,
+          "y": 27.2,
+          "passes": 6
+        },
+        {
+          "id": 39624,
+          "name": "Francisco Conceição",
+          "x": 20.9,
+          "y": 29.4,
+          "passes": 1
+        }
+      ],
+      "edges": [
+        {
+          "from": 5204,
+          "to": 41092,
+          "weight": 20
+        },
+        {
+          "from": 32975,
+          "to": 41092,
+          "weight": 3
+        },
+        {
+          "from": 7005,
+          "to": 41092,
+          "weight": 25
+        },
+        {
+          "from": 5206,
+          "to": 7005,
+          "weight": 14
+        },
+        {
+          "from": 5206,
+          "to": 20016,
+          "weight": 24
+        },
+        {
+          "from": 20016,
+          "to": 41092,
+          "weight": 37
+        },
+        {
+          "from": 3193,
+          "to": 5206,
+          "weight": 27
+        },
+        {
+          "from": 5206,
+          "to": 16028,
+          "weight": 28
+        },
+        {
+          "from": 5206,
+          "to": 32975,
+          "weight": 11
+        },
+        {
+          "from": 5204,
+          "to": 18360,
+          "weight": 6
+        },
+        {
+          "from": 3193,
+          "to": 5204,
+          "weight": 15
+        },
+        {
+          "from": 5204,
+          "to": 16028,
+          "weight": 16
+        },
+        {
+          "from": 5204,
+          "to": 7005,
+          "weight": 22
+        },
+        {
+          "from": 5206,
+          "to": 34639,
+          "weight": 35
+        },
+        {
+          "from": 20016,
+          "to": 34639,
+          "weight": 16
+        },
+        {
+          "from": 34639,
+          "to": 41092,
+          "weight": 24
+        },
+        {
+          "from": 16028,
+          "to": 34639,
+          "weight": 10
+        },
+        {
+          "from": 3193,
+          "to": 34639,
+          "weight": 22
+        },
+        {
+          "from": 3193,
+          "to": 16028,
+          "weight": 6
+        },
+        {
+          "from": 18360,
+          "to": 34639,
+          "weight": 8
+        },
+        {
+          "from": 5207,
+          "to": 18360,
+          "weight": 6
+        },
+        {
+          "from": 20016,
+          "to": 32975,
+          "weight": 7
+        },
+        {
+          "from": 7005,
+          "to": 20016,
+          "weight": 15
+        },
+        {
+          "from": 5204,
+          "to": 20016,
+          "weight": 15
+        },
+        {
+          "from": 5204,
+          "to": 5206,
+          "weight": 19
+        },
+        {
+          "from": 3193,
+          "to": 7005,
+          "weight": 11
+        },
+        {
+          "from": 3193,
+          "to": 41092,
+          "weight": 6
+        },
+        {
+          "from": 5207,
+          "to": 41092,
+          "weight": 9
+        },
+        {
+          "from": 5207,
+          "to": 7005,
+          "weight": 5
+        },
+        {
+          "from": 5206,
+          "to": 41092,
+          "weight": 5
+        },
+        {
+          "from": 5207,
+          "to": 34639,
+          "weight": 7
+        },
+        {
+          "from": 5204,
+          "to": 34639,
+          "weight": 23
+        },
+        {
+          "from": 7005,
+          "to": 34639,
+          "weight": 21
+        },
+        {
+          "from": 18360,
+          "to": 41092,
+          "weight": 6
+        },
+        {
+          "from": 7005,
+          "to": 18360,
+          "weight": 8
+        },
+        {
+          "from": 5206,
+          "to": 5207,
+          "weight": 6
+        },
+        {
+          "from": 5204,
+          "to": 5207,
+          "weight": 10
+        },
+        {
+          "from": 7005,
+          "to": 32975,
+          "weight": 4
+        },
+        {
+          "from": 3193,
+          "to": 20016,
+          "weight": 4
+        },
+        {
+          "from": 5204,
+          "to": 42106,
+          "weight": 12
+        },
+        {
+          "from": 41092,
+          "to": 42106,
+          "weight": 13
+        },
+        {
+          "from": 20016,
+          "to": 42106,
+          "weight": 11
+        },
+        {
+          "from": 34639,
+          "to": 42106,
+          "weight": 5
+        },
+        {
+          "from": 9929,
+          "to": 34639,
+          "weight": 3
+        },
+        {
+          "from": 9929,
+          "to": 20016,
+          "weight": 4
+        },
+        {
+          "from": 9929,
+          "to": 41092,
+          "weight": 4
+        },
+        {
+          "from": 9929,
+          "to": 42106,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

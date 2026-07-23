@@ -3,12 +3,14 @@ import { notFound } from "next/navigation";
 import {
   getCompetition,
   getMatch,
+  getStandings,
   competitionSlugs,
   competitionLabel,
 } from "@/lib/data";
 import { MetricCard, Section } from "@/components/ui";
 import { TeamBadge } from "@/components/TeamBadge";
 import { CountUp } from "@/components/CountUp";
+import { StandingsTable } from "@/components/StandingsTable";
 
 export function generateStaticParams() {
   return competitionSlugs().map((competition) => ({ competition }));
@@ -21,6 +23,10 @@ export default async function CompetitionOverview({ params }: PageProps<"/[compe
 
   const label = competitionLabel(c);
   const final = c.final_match_id ? getMatch(competition, c.final_match_id) : undefined;
+  const isClub = c.type === "club";
+  const isLeague = c.type === "league";
+  const standings = isLeague ? getStandings(competition) : [];
+  const feature = c.champion ?? c.club; // team to badge in the hero
 
   const explore: { href: string; title: string; desc: string; icon: string }[] = [
     { href: `/${competition}/matches`, title: "Matches", icon: "🥅", desc: `All ${c.match_count} games, with shot maps and xG` },
@@ -41,35 +47,85 @@ export default async function CompetitionOverview({ params }: PageProps<"/[compe
             "linear-gradient(135deg, var(--surface), var(--card))",
         }}
       >
-        {c.champion && <span className="chip">🏆 Champions</span>}
+        <span className="chip">{isClub ? "📅 Club season" : "🏆 Champions"}</span>
         <div className="flex items-center gap-4 mt-5">
-          {c.champion && <TeamBadge team={c.champion} size="lg" />}
+          {feature && <TeamBadge team={feature} size="lg" />}
           <h1
             className="text-[40px] sm:text-[64px] leading-[1.02] font-bold tracking-tight max-w-3xl"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            {c.champion ? `${c.champion} won the ${label}.` : label}
+            {isClub ? c.club : c.champion ? `${c.champion} won the ${label}.` : label}
           </h1>
         </div>
-        {c.top_scorer && (
+        {isClub && c.record ? (
           <p className="text-muted text-lg mt-5 max-w-2xl">
-            ⚽ {c.top_scorer.name} took the Golden Boot with{" "}
-            <span className="text-secondary font-bold stat-num">{c.top_scorer.goals} goals</span> for{" "}
-            {c.top_scorer.team}.
+            {label} ·{" "}
+            <span className="text-fg font-semibold stat-num">
+              {c.record.w}W {c.record.d}D {c.record.l}L
+            </span>
+            , {c.record.points} pts.
+            {c.top_scorer && (
+              <>
+                {" "}Top scorer{" "}
+                <span className="text-secondary font-bold">{c.top_scorer.name}</span> ({c.top_scorer.goals}).
+              </>
+            )}
           </p>
+        ) : (
+          c.top_scorer && (
+            <p className="text-muted text-lg mt-5 max-w-2xl">
+              ⚽ {c.top_scorer.name} took the Golden Boot with{" "}
+              <span className="text-secondary font-bold stat-num">{c.top_scorer.goals} goals</span> for{" "}
+              {c.top_scorer.team}.
+            </p>
+          )
         )}
       </section>
 
       {/* Key metrics — big numbers that count up */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
         <MetricCard value={<CountUp to={c.match_count} />} label="Matches" icon="📅" />
-        <MetricCard value={<CountUp to={c.goal_count} />} label="Goals" accent="secondary" icon="⚽" />
-        <MetricCard value={<CountUp to={c.team_count} />} label="Teams" accent="accent" icon="🌍" />
+        {isClub && c.record ? (
+          <>
+            <MetricCard value={<CountUp to={c.record.gf} />} label="Goals For" accent="secondary" icon="⚽" />
+            <MetricCard value={<CountUp to={c.record.points} />} label="Points" accent="accent" icon="🏅" />
+          </>
+        ) : (
+          <>
+            <MetricCard value={<CountUp to={c.goal_count} />} label="Goals" accent="secondary" icon="⚽" />
+            <MetricCard value={<CountUp to={c.team_count} />} label="Teams" accent="accent" icon="🌍" />
+          </>
+        )}
         <MetricCard value={<CountUp to={c.player_count} />} label="Players" accent="muted" icon="👥" />
       </div>
 
-      {/* Featured: the final */}
-      {final && (
+      {/* Featured: league table, season record, or the final */}
+      {isLeague && standings.length > 0 ? (
+        <Section title="League table">
+          <StandingsTable standings={standings} slug={competition} />
+        </Section>
+      ) : isClub && c.record ? (
+        <Section title="Season record">
+          <div className="card p-8 flex flex-wrap items-center justify-center gap-10 text-center">
+            <div>
+              <div className="stat-num text-[44px] leading-none font-bold">
+                {c.record.w}<span className="text-faint">-</span>{c.record.d}<span className="text-faint">-</span>{c.record.l}
+              </div>
+              <div className="text-muted text-sm mt-1">Won · Drawn · Lost</div>
+            </div>
+            <div>
+              <div className="stat-num text-[44px] leading-none font-bold text-secondary">{c.record.points}</div>
+              <div className="text-muted text-sm mt-1">Points</div>
+            </div>
+            <div>
+              <div className="stat-num text-[44px] leading-none font-bold">
+                {c.record.gf}<span className="text-faint">:</span>{c.record.ga}
+              </div>
+              <div className="text-muted text-sm mt-1">Goals for · against</div>
+            </div>
+          </div>
+        </Section>
+      ) : final ? (
         <Section title="The final">
           <Link
             href={`/${competition}/matches/${final.id}`}
@@ -88,7 +144,7 @@ export default async function CompetitionOverview({ params }: PageProps<"/[compe
             </span>
           </Link>
         </Section>
-      )}
+      ) : null}
 
       {/* Explore — clear entry points, progressive disclosure */}
       <Section title="Explore">

@@ -1,0 +1,905 @@
+{
+  "match_id": 3930176,
+  "shots": [
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 2,
+      "x": 113.5,
+      "y": 44.4,
+      "xg": 0.089,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 10,
+      "x": 96.5,
+      "y": 38.1,
+      "xg": 0.037,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 11,
+      "x": 108.1,
+      "y": 35.2,
+      "xg": 0.087,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Dan Ndoye",
+      "team": "Switzerland",
+      "minute": 27,
+      "x": 113.7,
+      "y": 35.0,
+      "xg": 0.181,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dan Ndoye",
+      "team": "Switzerland",
+      "minute": 30,
+      "x": 101.6,
+      "y": 26.3,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Robert Andrich",
+      "team": "Germany",
+      "minute": 32,
+      "x": 89.8,
+      "y": 32.6,
+      "xg": 0.021,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antonio Rüdiger",
+      "team": "Germany",
+      "minute": 40,
+      "x": 114.5,
+      "y": 47.4,
+      "xg": 0.076,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 41,
+      "x": 107.1,
+      "y": 49.6,
+      "xg": 0.074,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Robert Andrich",
+      "team": "Germany",
+      "minute": 42,
+      "x": 95.2,
+      "y": 40.1,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 49,
+      "x": 101.0,
+      "y": 49.4,
+      "xg": 0.105,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 49,
+      "x": 103.1,
+      "y": 41.9,
+      "xg": 0.131,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Toni Kroos",
+      "team": "Germany",
+      "minute": 54,
+      "x": 95.3,
+      "y": 38.1,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "David Raum",
+      "team": "Germany",
+      "minute": 62,
+      "x": 94.6,
+      "y": 26.2,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 63,
+      "x": 110.0,
+      "y": 40.4,
+      "xg": 0.062,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 63,
+      "x": 110.4,
+      "y": 38.4,
+      "xg": 0.062,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 67,
+      "x": 115.1,
+      "y": 42.0,
+      "xg": 0.23,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 69,
+      "x": 114.2,
+      "y": 47.9,
+      "xg": 0.095,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kwadwo Duah",
+      "team": "Switzerland",
+      "minute": 73,
+      "x": 93.6,
+      "y": 51.6,
+      "xg": 0.024,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Leroy Sané",
+      "team": "Germany",
+      "minute": 81,
+      "x": 104.6,
+      "y": 53.2,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 84,
+      "x": 114.0,
+      "y": 42.8,
+      "xg": 0.18,
+      "outcome": "Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "Granit Xhaka",
+      "team": "Switzerland",
+      "minute": 87,
+      "x": 93.4,
+      "y": 33.9,
+      "xg": 0.028,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Niclas Füllkrug",
+      "team": "Germany",
+      "minute": 91,
+      "x": 113.6,
+      "y": 41.4,
+      "xg": 0.163,
+      "outcome": "Goal",
+      "body_part": "Head"
+    }
+  ],
+  "networks": {
+    "Germany": {
+      "nodes": [
+        {
+          "id": 5574,
+          "name": "Toni Kroos",
+          "x": 59.4,
+          "y": 37.4,
+          "passes": 102
+        },
+        {
+          "id": 3167,
+          "name": "Antonio Rüdiger",
+          "x": 49.0,
+          "y": 59.5,
+          "passes": 79
+        },
+        {
+          "id": 5579,
+          "name": "Joshua Kimmich",
+          "x": 64.5,
+          "y": 68.5,
+          "passes": 70
+        },
+        {
+          "id": 9195,
+          "name": "Robert Andrich",
+          "x": 62.8,
+          "y": 45.4,
+          "passes": 60
+        },
+        {
+          "id": 40724,
+          "name": "Florian Wirtz",
+          "x": 70.2,
+          "y": 42.9,
+          "passes": 48
+        },
+        {
+          "id": 8221,
+          "name": "Jonathan Tah",
+          "x": 42.3,
+          "y": 30.4,
+          "passes": 42
+        },
+        {
+          "id": 12407,
+          "name": "Maximilian Mittelstädt",
+          "x": 62.2,
+          "y": 9.2,
+          "passes": 38
+        },
+        {
+          "id": 10287,
+          "name": "İlkay Gündoğan",
+          "x": 68.7,
+          "y": 42.1,
+          "passes": 35
+        },
+        {
+          "id": 5570,
+          "name": "Manuel Neuer",
+          "x": 12.3,
+          "y": 40.9,
+          "passes": 29
+        },
+        {
+          "id": 8966,
+          "name": "Kai Havertz",
+          "x": 77.4,
+          "y": 52.9,
+          "passes": 28
+        },
+        {
+          "id": 39565,
+          "name": "Jamal Musiala",
+          "x": 77.5,
+          "y": 34.7,
+          "passes": 28
+        },
+        {
+          "id": 24118,
+          "name": "Nico Schlotterbeck",
+          "x": 49.8,
+          "y": 34.0,
+          "passes": 19
+        },
+        {
+          "id": 12034,
+          "name": "David Raum",
+          "x": 76.1,
+          "y": 6.8,
+          "passes": 18
+        },
+        {
+          "id": 3053,
+          "name": "Leroy Sané",
+          "x": 75.6,
+          "y": 59.9,
+          "passes": 4
+        }
+      ],
+      "edges": [
+        {
+          "from": 5574,
+          "to": 8966,
+          "weight": 11
+        },
+        {
+          "from": 5574,
+          "to": 9195,
+          "weight": 37
+        },
+        {
+          "from": 5574,
+          "to": 12407,
+          "weight": 14
+        },
+        {
+          "from": 8221,
+          "to": 12407,
+          "weight": 20
+        },
+        {
+          "from": 9195,
+          "to": 40724,
+          "weight": 14
+        },
+        {
+          "from": 39565,
+          "to": 40724,
+          "weight": 7
+        },
+        {
+          "from": 5579,
+          "to": 39565,
+          "weight": 7
+        },
+        {
+          "from": 5579,
+          "to": 9195,
+          "weight": 10
+        },
+        {
+          "from": 5579,
+          "to": 8966,
+          "weight": 15
+        },
+        {
+          "from": 3167,
+          "to": 5579,
+          "weight": 50
+        },
+        {
+          "from": 5579,
+          "to": 8221,
+          "weight": 3
+        },
+        {
+          "from": 5574,
+          "to": 8221,
+          "weight": 16
+        },
+        {
+          "from": 5570,
+          "to": 8221,
+          "weight": 11
+        },
+        {
+          "from": 3167,
+          "to": 5570,
+          "weight": 16
+        },
+        {
+          "from": 10287,
+          "to": 39565,
+          "weight": 6
+        },
+        {
+          "from": 10287,
+          "to": 12407,
+          "weight": 5
+        },
+        {
+          "from": 5574,
+          "to": 39565,
+          "weight": 15
+        },
+        {
+          "from": 12407,
+          "to": 40724,
+          "weight": 9
+        },
+        {
+          "from": 5570,
+          "to": 12407,
+          "weight": 3
+        },
+        {
+          "from": 5574,
+          "to": 40724,
+          "weight": 21
+        },
+        {
+          "from": 8966,
+          "to": 10287,
+          "weight": 4
+        },
+        {
+          "from": 8966,
+          "to": 39565,
+          "weight": 4
+        },
+        {
+          "from": 8966,
+          "to": 9195,
+          "weight": 3
+        },
+        {
+          "from": 5574,
+          "to": 10287,
+          "weight": 22
+        },
+        {
+          "from": 8966,
+          "to": 40724,
+          "weight": 10
+        },
+        {
+          "from": 5574,
+          "to": 5579,
+          "weight": 17
+        },
+        {
+          "from": 3167,
+          "to": 9195,
+          "weight": 18
+        },
+        {
+          "from": 3167,
+          "to": 8221,
+          "weight": 21
+        },
+        {
+          "from": 12407,
+          "to": 39565,
+          "weight": 7
+        },
+        {
+          "from": 5570,
+          "to": 5579,
+          "weight": 10
+        },
+        {
+          "from": 3167,
+          "to": 5574,
+          "weight": 20
+        },
+        {
+          "from": 5579,
+          "to": 40724,
+          "weight": 10
+        },
+        {
+          "from": 9195,
+          "to": 12407,
+          "weight": 13
+        },
+        {
+          "from": 3167,
+          "to": 40724,
+          "weight": 5
+        },
+        {
+          "from": 3167,
+          "to": 8966,
+          "weight": 5
+        },
+        {
+          "from": 9195,
+          "to": 39565,
+          "weight": 6
+        },
+        {
+          "from": 8966,
+          "to": 12407,
+          "weight": 4
+        },
+        {
+          "from": 8221,
+          "to": 9195,
+          "weight": 7
+        },
+        {
+          "from": 8221,
+          "to": 40724,
+          "weight": 5
+        },
+        {
+          "from": 10287,
+          "to": 40724,
+          "weight": 7
+        },
+        {
+          "from": 3167,
+          "to": 10287,
+          "weight": 9
+        },
+        {
+          "from": 5579,
+          "to": 10287,
+          "weight": 11
+        },
+        {
+          "from": 9195,
+          "to": 10287,
+          "weight": 4
+        },
+        {
+          "from": 5570,
+          "to": 5574,
+          "weight": 4
+        },
+        {
+          "from": 9195,
+          "to": 24118,
+          "weight": 3
+        },
+        {
+          "from": 12034,
+          "to": 24118,
+          "weight": 5
+        },
+        {
+          "from": 3167,
+          "to": 24118,
+          "weight": 5
+        },
+        {
+          "from": 12034,
+          "to": 39565,
+          "weight": 3
+        },
+        {
+          "from": 10287,
+          "to": 24118,
+          "weight": 4
+        },
+        {
+          "from": 5574,
+          "to": 24118,
+          "weight": 6
+        },
+        {
+          "from": 5570,
+          "to": 12034,
+          "weight": 4
+        },
+        {
+          "from": 5570,
+          "to": 24118,
+          "weight": 4
+        },
+        {
+          "from": 5574,
+          "to": 12034,
+          "weight": 10
+        },
+        {
+          "from": 3053,
+          "to": 5574,
+          "weight": 4
+        },
+        {
+          "from": 3053,
+          "to": 5579,
+          "weight": 4
+        },
+        {
+          "from": 10287,
+          "to": 12034,
+          "weight": 3
+        }
+      ]
+    },
+    "Switzerland": {
+      "nodes": [
+        {
+          "id": 5549,
+          "name": "Manuel Akanji",
+          "x": 30.2,
+          "y": 32.8,
+          "passes": 39
+        },
+        {
+          "id": 3500,
+          "name": "Granit Xhaka",
+          "x": 54.5,
+          "y": 36.6,
+          "passes": 37
+        },
+        {
+          "id": 16016,
+          "name": "Michel Aebischer",
+          "x": 60.2,
+          "y": 12.9,
+          "passes": 33
+        },
+        {
+          "id": 7796,
+          "name": "Silvan Widmer",
+          "x": 61.2,
+          "y": 75.2,
+          "passes": 30
+        },
+        {
+          "id": 5537,
+          "name": "Fabian Schär",
+          "x": 36.7,
+          "y": 58.9,
+          "passes": 26
+        },
+        {
+          "id": 6983,
+          "name": "Remo Freuler",
+          "x": 60.9,
+          "y": 45.4,
+          "passes": 26
+        },
+        {
+          "id": 5550,
+          "name": "Yann Sommer",
+          "x": 10.9,
+          "y": 42.2,
+          "passes": 25
+        },
+        {
+          "id": 5544,
+          "name": "Ricardo Rodríguez",
+          "x": 48.3,
+          "y": 18.4,
+          "passes": 15
+        },
+        {
+          "id": 50436,
+          "name": "Fabian Rieder",
+          "x": 69.7,
+          "y": 45.5,
+          "passes": 14
+        },
+        {
+          "id": 45190,
+          "name": "Dan Ndoye",
+          "x": 68.9,
+          "y": 11.1,
+          "passes": 12
+        },
+        {
+          "id": 5545,
+          "name": "Breel Embolo",
+          "x": 66.9,
+          "y": 47.9,
+          "passes": 7
+        },
+        {
+          "id": 30401,
+          "name": "Ruben Vargas",
+          "x": 81.6,
+          "y": 18.4,
+          "passes": 7
+        },
+        {
+          "id": 48335,
+          "name": "Mohamed Amdouni",
+          "x": 88.6,
+          "y": 48.7,
+          "passes": 5
+        },
+        {
+          "id": 49007,
+          "name": "Kwadwo Duah",
+          "x": 73.8,
+          "y": 33.2,
+          "passes": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 3500,
+          "to": 5550,
+          "weight": 6
+        },
+        {
+          "from": 3500,
+          "to": 45190,
+          "weight": 7
+        },
+        {
+          "from": 5545,
+          "to": 7796,
+          "weight": 8
+        },
+        {
+          "from": 6983,
+          "to": 50436,
+          "weight": 3
+        },
+        {
+          "from": 5537,
+          "to": 5549,
+          "weight": 15
+        },
+        {
+          "from": 5549,
+          "to": 7796,
+          "weight": 5
+        },
+        {
+          "from": 5537,
+          "to": 7796,
+          "weight": 9
+        },
+        {
+          "from": 6983,
+          "to": 7796,
+          "weight": 11
+        },
+        {
+          "from": 3500,
+          "to": 16016,
+          "weight": 20
+        },
+        {
+          "from": 16016,
+          "to": 45190,
+          "weight": 12
+        },
+        {
+          "from": 5544,
+          "to": 6983,
+          "weight": 5
+        },
+        {
+          "from": 3500,
+          "to": 6983,
+          "weight": 7
+        },
+        {
+          "from": 6983,
+          "to": 16016,
+          "weight": 5
+        },
+        {
+          "from": 5545,
+          "to": 50436,
+          "weight": 9
+        },
+        {
+          "from": 5537,
+          "to": 5550,
+          "weight": 10
+        },
+        {
+          "from": 5544,
+          "to": 5549,
+          "weight": 3
+        },
+        {
+          "from": 5544,
+          "to": 16016,
+          "weight": 6
+        },
+        {
+          "from": 5549,
+          "to": 16016,
+          "weight": 6
+        },
+        {
+          "from": 5545,
+          "to": 16016,
+          "weight": 3
+        },
+        {
+          "from": 16016,
+          "to": 50436,
+          "weight": 3
+        },
+        {
+          "from": 3500,
+          "to": 5544,
+          "weight": 3
+        },
+        {
+          "from": 5549,
+          "to": 5550,
+          "weight": 18
+        },
+        {
+          "from": 7796,
+          "to": 50436,
+          "weight": 5
+        },
+        {
+          "from": 5549,
+          "to": 6983,
+          "weight": 7
+        },
+        {
+          "from": 3500,
+          "to": 7796,
+          "weight": 3
+        },
+        {
+          "from": 3500,
+          "to": 5549,
+          "weight": 8
+        },
+        {
+          "from": 3500,
+          "to": 5537,
+          "weight": 4
+        },
+        {
+          "from": 45190,
+          "to": 50436,
+          "weight": 3
+        },
+        {
+          "from": 6983,
+          "to": 45190,
+          "weight": 4
+        },
+        {
+          "from": 3500,
+          "to": 50436,
+          "weight": 3
+        },
+        {
+          "from": 5537,
+          "to": 50436,
+          "weight": 3
+        },
+        {
+          "from": 5549,
+          "to": 45190,
+          "weight": 3
+        },
+        {
+          "from": 7796,
+          "to": 48335,
+          "weight": 5
+        },
+        {
+          "from": 3500,
+          "to": 49007,
+          "weight": 4
+        },
+        {
+          "from": 3500,
+          "to": 30401,
+          "weight": 3
+        },
+        {
+          "from": 16016,
+          "to": 30401,
+          "weight": 3
+        },
+        {
+          "from": 6983,
+          "to": 30401,
+          "weight": 5
+        },
+        {
+          "from": 30401,
+          "to": 48335,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

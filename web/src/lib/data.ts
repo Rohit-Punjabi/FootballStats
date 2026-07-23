@@ -20,10 +20,22 @@ function readJson<T>(...segments: string[]): T {
 
 // --- Types ------------------------------------------------------------------
 
+export type ClubRecord = {
+  played: number; w: number; d: number; l: number; gf: number; ga: number; points: number;
+};
+
+export type Standing = {
+  team: string; id: number; p: number; w: number; d: number; l: number;
+  gf: number; ga: number; gd: number; pts: number;
+};
+
 export type CompetitionMeta = {
   slug: string;
   competition_name: string;
   season_name: string;
+  type: "tournament" | "club" | "league";
+  club: string | null;
+  record: ClubRecord | null;
   match_count: number;
   team_count: number;
   player_count: number;
@@ -123,6 +135,13 @@ export const getPlayers = cache((slug: string): Player[] =>
 export const getStadiums = cache((slug: string): Stadium[] =>
   readJson<Stadium[]>(...inComp(slug, "stadiums.json")),
 );
+export const getStandings = cache((slug: string): Standing[] => {
+  try {
+    return readJson<Standing[]>(...inComp(slug, "standings.json"));
+  } catch {
+    return [];
+  }
+});
 
 export const getMatch = cache((slug: string, id: number): Match | undefined =>
   getMatches(slug).find((m) => m.id === id),

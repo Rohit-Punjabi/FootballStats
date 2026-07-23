@@ -1,0 +1,815 @@
+{
+  "match_id": 3938638,
+  "shots": [
+    {
+      "player": "Viktor Tsygankov",
+      "team": "Ukraine",
+      "minute": 6,
+      "x": 97.1,
+      "y": 35.4,
+      "xg": 0.046,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Florinel Coman",
+      "team": "Romania",
+      "minute": 7,
+      "x": 89.9,
+      "y": 33.0,
+      "xg": 0.025,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georgiy Sudakov",
+      "team": "Ukraine",
+      "minute": 11,
+      "x": 99.8,
+      "y": 30.0,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Artem Dovbyk",
+      "team": "Ukraine",
+      "minute": 21,
+      "x": 93.3,
+      "y": 39.3,
+      "xg": 0.041,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicolae Stanciu",
+      "team": "Romania",
+      "minute": 28,
+      "x": 96.6,
+      "y": 45.0,
+      "xg": 0.046,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Viktor Tsygankov",
+      "team": "Ukraine",
+      "minute": 37,
+      "x": 102.6,
+      "y": 42.1,
+      "xg": 0.064,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Dennis Man",
+      "team": "Romania",
+      "minute": 37,
+      "x": 101.2,
+      "y": 58.1,
+      "xg": 0.022,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicolae Stanciu",
+      "team": "Romania",
+      "minute": 38,
+      "x": 120.1,
+      "y": 0.8,
+      "xg": 0.0,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Florinel Coman",
+      "team": "Romania",
+      "minute": 45,
+      "x": 104.0,
+      "y": 26.5,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georgiy Sudakov",
+      "team": "Ukraine",
+      "minute": 49,
+      "x": 93.6,
+      "y": 22.0,
+      "xg": 0.008,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mykhailo Mudryk",
+      "team": "Ukraine",
+      "minute": 51,
+      "x": 108.4,
+      "y": 27.6,
+      "xg": 0.031,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Răzvan Marin",
+      "team": "Romania",
+      "minute": 52,
+      "x": 93.2,
+      "y": 49.7,
+      "xg": 0.02,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolae Stanciu",
+      "team": "Romania",
+      "minute": 55,
+      "x": 98.3,
+      "y": 43.3,
+      "xg": 0.071,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andrei Ratiu",
+      "team": "Romania",
+      "minute": 56,
+      "x": 110.4,
+      "y": 56.7,
+      "xg": 0.013,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Denis Dragus",
+      "team": "Romania",
+      "minute": 56,
+      "x": 116.3,
+      "y": 41.2,
+      "xg": 0.883,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andriy Yarmolenko",
+      "team": "Ukraine",
+      "minute": 64,
+      "x": 103.5,
+      "y": 46.3,
+      "xg": 0.053,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nicolae Stanciu",
+      "team": "Romania",
+      "minute": 67,
+      "x": 111.2,
+      "y": 5.6,
+      "xg": 0.007,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georgiy Sudakov",
+      "team": "Ukraine",
+      "minute": 70,
+      "x": 94.8,
+      "y": 24.9,
+      "xg": 0.039,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Georgiy Sudakov",
+      "team": "Ukraine",
+      "minute": 76,
+      "x": 93.3,
+      "y": 40.3,
+      "xg": 0.032,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Roman Yaremchuk",
+      "team": "Ukraine",
+      "minute": 77,
+      "x": 98.6,
+      "y": 43.1,
+      "xg": 0.05,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mykhailo Mudryk",
+      "team": "Ukraine",
+      "minute": 83,
+      "x": 110.4,
+      "y": 27.6,
+      "xg": 0.115,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Roman Yaremchuk",
+      "team": "Ukraine",
+      "minute": 91,
+      "x": 112.4,
+      "y": 55.2,
+      "xg": 0.028,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mykhailo Mudryk",
+      "team": "Ukraine",
+      "minute": 93,
+      "x": 82.6,
+      "y": 30.8,
+      "xg": 0.008,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Romania": {
+      "nodes": [
+        {
+          "id": 24861,
+          "name": "Andrei Ratiu",
+          "x": 55.3,
+          "y": 67.8,
+          "passes": 29
+        },
+        {
+          "id": 34600,
+          "name": "Nicusor Bancu",
+          "x": 55.8,
+          "y": 11.3,
+          "passes": 27
+        },
+        {
+          "id": 16344,
+          "name": "Răzvan Marin",
+          "x": 58.6,
+          "y": 46.0,
+          "passes": 20
+        },
+        {
+          "id": 10916,
+          "name": "Nicolae Stanciu",
+          "x": 70.5,
+          "y": 40.1,
+          "passes": 19
+        },
+        {
+          "id": 28242,
+          "name": "Florin Nita",
+          "x": 12.5,
+          "y": 43.8,
+          "passes": 18
+        },
+        {
+          "id": 39615,
+          "name": "Radu Dragusin",
+          "x": 37.4,
+          "y": 54.2,
+          "passes": 16
+        },
+        {
+          "id": 30913,
+          "name": "Marius Marin",
+          "x": 49.6,
+          "y": 43.2,
+          "passes": 14
+        },
+        {
+          "id": 31193,
+          "name": "Denis Dragus",
+          "x": 82.0,
+          "y": 48.7,
+          "passes": 13
+        },
+        {
+          "id": 56905,
+          "name": "Dennis Man",
+          "x": 88.1,
+          "y": 65.2,
+          "passes": 13
+        },
+        {
+          "id": 31908,
+          "name": "Andrei Burcă Andonie",
+          "x": 35.2,
+          "y": 30.6,
+          "passes": 10
+        },
+        {
+          "id": 34599,
+          "name": "Florinel Coman",
+          "x": 61.7,
+          "y": 24.0,
+          "passes": 7
+        },
+        {
+          "id": 72512,
+          "name": "Valentin Mihai Mihăilă",
+          "x": 38.9,
+          "y": 11.5,
+          "passes": 5
+        },
+        {
+          "id": 28565,
+          "name": "Ianis Hagi",
+          "x": 63.3,
+          "y": 70.4,
+          "passes": 3
+        },
+        {
+          "id": 8660,
+          "name": "George Puscas",
+          "x": 72.4,
+          "y": 6.5,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 24861,
+          "to": 30913,
+          "weight": 3
+        },
+        {
+          "from": 24861,
+          "to": 56905,
+          "weight": 14
+        },
+        {
+          "from": 24861,
+          "to": 39615,
+          "weight": 7
+        },
+        {
+          "from": 10916,
+          "to": 34599,
+          "weight": 4
+        },
+        {
+          "from": 10916,
+          "to": 16344,
+          "weight": 5
+        },
+        {
+          "from": 16344,
+          "to": 24861,
+          "weight": 6
+        },
+        {
+          "from": 28242,
+          "to": 34599,
+          "weight": 3
+        },
+        {
+          "from": 24861,
+          "to": 31193,
+          "weight": 7
+        },
+        {
+          "from": 30913,
+          "to": 31908,
+          "weight": 7
+        },
+        {
+          "from": 30913,
+          "to": 39615,
+          "weight": 4
+        },
+        {
+          "from": 31908,
+          "to": 34600,
+          "weight": 5
+        },
+        {
+          "from": 34599,
+          "to": 34600,
+          "weight": 6
+        },
+        {
+          "from": 16344,
+          "to": 56905,
+          "weight": 5
+        },
+        {
+          "from": 16344,
+          "to": 39615,
+          "weight": 5
+        },
+        {
+          "from": 10916,
+          "to": 39615,
+          "weight": 5
+        },
+        {
+          "from": 31908,
+          "to": 39615,
+          "weight": 3
+        },
+        {
+          "from": 10916,
+          "to": 30913,
+          "weight": 5
+        },
+        {
+          "from": 30913,
+          "to": 34600,
+          "weight": 4
+        },
+        {
+          "from": 16344,
+          "to": 34600,
+          "weight": 4
+        },
+        {
+          "from": 31193,
+          "to": 56905,
+          "weight": 5
+        },
+        {
+          "from": 31193,
+          "to": 34600,
+          "weight": 5
+        },
+        {
+          "from": 16344,
+          "to": 31193,
+          "weight": 7
+        },
+        {
+          "from": 28242,
+          "to": 34600,
+          "weight": 3
+        },
+        {
+          "from": 24861,
+          "to": 28242,
+          "weight": 4
+        },
+        {
+          "from": 10916,
+          "to": 56905,
+          "weight": 7
+        },
+        {
+          "from": 10916,
+          "to": 34600,
+          "weight": 7
+        },
+        {
+          "from": 31193,
+          "to": 34599,
+          "weight": 6
+        },
+        {
+          "from": 10916,
+          "to": 24861,
+          "weight": 3
+        },
+        {
+          "from": 24861,
+          "to": 28565,
+          "weight": 3
+        },
+        {
+          "from": 34600,
+          "to": 72512,
+          "weight": 4
+        }
+      ]
+    },
+    "Ukraine": {
+      "nodes": [
+        {
+          "id": 3575,
+          "name": "Oleksandr Zinchenko",
+          "x": 60.2,
+          "y": 16.1,
+          "passes": 78
+        },
+        {
+          "id": 18617,
+          "name": "Mykola Matvienko",
+          "x": 48.3,
+          "y": 29.8,
+          "passes": 76
+        },
+        {
+          "id": 39136,
+          "name": "Ilya Zabarnyi",
+          "x": 51.0,
+          "y": 52.3,
+          "passes": 70
+        },
+        {
+          "id": 21294,
+          "name": "Mykola Shaparenko",
+          "x": 59.1,
+          "y": 50.0,
+          "passes": 56
+        },
+        {
+          "id": 11000,
+          "name": "Taras Stepanenko",
+          "x": 61.6,
+          "y": 34.5,
+          "passes": 48
+        },
+        {
+          "id": 38975,
+          "name": "Georgiy Sudakov",
+          "x": 63.5,
+          "y": 27.1,
+          "passes": 42
+        },
+        {
+          "id": 45785,
+          "name": "Yukhym Konoplya",
+          "x": 63.7,
+          "y": 68.3,
+          "passes": 32
+        },
+        {
+          "id": 16509,
+          "name": "Viktor Tsygankov",
+          "x": 78.4,
+          "y": 63.7,
+          "passes": 24
+        },
+        {
+          "id": 21390,
+          "name": "Andriy Lunin",
+          "x": 12.7,
+          "y": 40.6,
+          "passes": 23
+        },
+        {
+          "id": 39483,
+          "name": "Mykhailo Mudryk",
+          "x": 79.5,
+          "y": 15.7,
+          "passes": 23
+        },
+        {
+          "id": 144127,
+          "name": "Volodymyr Brazhko",
+          "x": 63.9,
+          "y": 47.9,
+          "passes": 18
+        },
+        {
+          "id": 16557,
+          "name": "Ruslan Malinovskiy",
+          "x": 65.3,
+          "y": 35.3,
+          "passes": 15
+        },
+        {
+          "id": 25079,
+          "name": "Artem Dovbyk",
+          "x": 87.9,
+          "y": 49.2,
+          "passes": 10
+        },
+        {
+          "id": 8830,
+          "name": "Andriy Yarmolenko",
+          "x": 83.3,
+          "y": 64.3,
+          "passes": 9
+        }
+      ],
+      "edges": [
+        {
+          "from": 11000,
+          "to": 18617,
+          "weight": 17
+        },
+        {
+          "from": 18617,
+          "to": 39136,
+          "weight": 34
+        },
+        {
+          "from": 18617,
+          "to": 21390,
+          "weight": 12
+        },
+        {
+          "from": 21390,
+          "to": 39136,
+          "weight": 16
+        },
+        {
+          "from": 16509,
+          "to": 21294,
+          "weight": 14
+        },
+        {
+          "from": 16509,
+          "to": 38975,
+          "weight": 7
+        },
+        {
+          "from": 38975,
+          "to": 39483,
+          "weight": 14
+        },
+        {
+          "from": 18617,
+          "to": 45785,
+          "weight": 8
+        },
+        {
+          "from": 21294,
+          "to": 45785,
+          "weight": 18
+        },
+        {
+          "from": 16509,
+          "to": 45785,
+          "weight": 16
+        },
+        {
+          "from": 11000,
+          "to": 45785,
+          "weight": 6
+        },
+        {
+          "from": 18617,
+          "to": 38975,
+          "weight": 15
+        },
+        {
+          "from": 11000,
+          "to": 38975,
+          "weight": 9
+        },
+        {
+          "from": 11000,
+          "to": 21294,
+          "weight": 18
+        },
+        {
+          "from": 18617,
+          "to": 21294,
+          "weight": 19
+        },
+        {
+          "from": 3575,
+          "to": 18617,
+          "weight": 35
+        },
+        {
+          "from": 3575,
+          "to": 11000,
+          "weight": 28
+        },
+        {
+          "from": 3575,
+          "to": 38975,
+          "weight": 22
+        },
+        {
+          "from": 3575,
+          "to": 25079,
+          "weight": 3
+        },
+        {
+          "from": 18617,
+          "to": 39483,
+          "weight": 3
+        },
+        {
+          "from": 3575,
+          "to": 39483,
+          "weight": 14
+        },
+        {
+          "from": 21294,
+          "to": 38975,
+          "weight": 5
+        },
+        {
+          "from": 16509,
+          "to": 39136,
+          "weight": 6
+        },
+        {
+          "from": 3575,
+          "to": 21294,
+          "weight": 6
+        },
+        {
+          "from": 21294,
+          "to": 39483,
+          "weight": 3
+        },
+        {
+          "from": 11000,
+          "to": 39483,
+          "weight": 7
+        },
+        {
+          "from": 11000,
+          "to": 39136,
+          "weight": 8
+        },
+        {
+          "from": 21294,
+          "to": 39136,
+          "weight": 19
+        },
+        {
+          "from": 25079,
+          "to": 38975,
+          "weight": 3
+        },
+        {
+          "from": 16509,
+          "to": 25079,
+          "weight": 4
+        },
+        {
+          "from": 3575,
+          "to": 21390,
+          "weight": 5
+        },
+        {
+          "from": 39136,
+          "to": 45785,
+          "weight": 15
+        },
+        {
+          "from": 3575,
+          "to": 39136,
+          "weight": 10
+        },
+        {
+          "from": 38975,
+          "to": 39136,
+          "weight": 7
+        },
+        {
+          "from": 11000,
+          "to": 16509,
+          "weight": 7
+        },
+        {
+          "from": 8830,
+          "to": 144127,
+          "weight": 4
+        },
+        {
+          "from": 38975,
+          "to": 144127,
+          "weight": 5
+        },
+        {
+          "from": 39136,
+          "to": 144127,
+          "weight": 9
+        },
+        {
+          "from": 8830,
+          "to": 39136,
+          "weight": 7
+        },
+        {
+          "from": 3575,
+          "to": 144127,
+          "weight": 7
+        },
+        {
+          "from": 16557,
+          "to": 39483,
+          "weight": 3
+        },
+        {
+          "from": 16557,
+          "to": 18617,
+          "weight": 4
+        },
+        {
+          "from": 3575,
+          "to": 16557,
+          "weight": 8
+        },
+        {
+          "from": 16557,
+          "to": 39136,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

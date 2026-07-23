@@ -49,14 +49,92 @@ const TEAMS: Record<string, TeamInfo> = {
   Uruguay: { code: "URU", color: "#5C97D6" },
   Venezuela: { code: "VEN", color: "#6E1423" },
   Wales: { code: "WAL", color: "#C8102E" },
+  // Euro 2024 nations not already above
+  Albania: { code: "ALB", color: "#E41E20" },
+  Austria: { code: "AUT", color: "#ED2939" },
+  "Czech Republic": { code: "CZE", color: "#D7141A" },
+  Georgia: { code: "GEO", color: "#DA291C" },
+  Hungary: { code: "HUN", color: "#CE1126" },
+  Italy: { code: "ITA", color: "#0065A9" },
+  Romania: { code: "ROU", color: "#002B7F" },
+  Scotland: { code: "SCO", color: "#0B4EA2" },
+  Slovakia: { code: "SVK", color: "#0B4EA2" },
+  Slovenia: { code: "SVN", color: "#009BCE" },
+  Turkey: { code: "TUR", color: "#E30A17" },
+  Ukraine: { code: "UKR", color: "#005BBB" },
+
+  // --- Clubs (Premier League 2003/04, La Liga 2020/21) ---
+  Arsenal: { code: "ARS", color: "#EF0107" },
+  "Aston Villa": { code: "AVL", color: "#670E36" },
+  "Birmingham City": { code: "BIR", color: "#0000A8" },
+  "Blackburn Rovers": { code: "BLB", color: "#009EE0" },
+  "Bolton Wanderers": { code: "BOL", color: "#263C7E" },
+  "Charlton Athletic": { code: "CHA", color: "#E31B23" },
+  Chelsea: { code: "CHE", color: "#034694" },
+  Everton: { code: "EVE", color: "#003399" },
+  Fulham: { code: "FUL", color: "#1a1a1a" },
+  "Leeds United": { code: "LEE", color: "#1D428A" },
+  "Leicester City": { code: "LEI", color: "#003090" },
+  Liverpool: { code: "LIV", color: "#C8102E" },
+  "Manchester City": { code: "MCI", color: "#6CABDD" },
+  "Manchester United": { code: "MUN", color: "#DA020E" },
+  Middlesbrough: { code: "MID", color: "#E21C38" },
+  "Newcastle United": { code: "NEW", color: "#1a1a1a" },
+  Portsmouth: { code: "POR", color: "#001489" },
+  Southampton: { code: "SOU", color: "#D71920" },
+  "Tottenham Hotspur": { code: "TOT", color: "#132257" },
+  "Wolverhampton Wanderers": { code: "WOL", color: "#FDB913" },
+  "Athletic Club": { code: "ATH", color: "#EE2523" },
+  "Atlético Madrid": { code: "ATM", color: "#CB3524" },
+  Barcelona: { code: "BAR", color: "#A50044" },
+  "Celta Vigo": { code: "CEL", color: "#8AC3EE" },
+  "Cádiz": { code: "CAD", color: "#FFE500" },
+  "Deportivo Alavés": { code: "ALA", color: "#0761AF" },
+  Elche: { code: "ELC", color: "#00933B" },
+  Getafe: { code: "GET", color: "#005999" },
+  Granada: { code: "GRA", color: "#C6373D" },
+  Huesca: { code: "HUE", color: "#005DA9" },
+  "Levante UD": { code: "LEV", color: "#B4003C" },
+  Osasuna: { code: "OSA", color: "#0A346F" },
+  "Real Betis": { code: "BET", color: "#00954C" },
+  "Real Madrid": { code: "RMA", color: "#00529F" },
+  "Real Sociedad": { code: "RSO", color: "#143C8B" },
+  "Real Valladolid": { code: "VLL", color: "#921C7A" },
+  Sevilla: { code: "SEV", color: "#D9001B" },
+  Valencia: { code: "VAL", color: "#FF7A00" },
+  Villarreal: { code: "VIL", color: "#FDE100" },
+
+  // --- More clubs (2015/16 Premier League + La Liga) ---
+  "AFC Bournemouth": { code: "BOU", color: "#DA291C" },
+  "Crystal Palace": { code: "CRY", color: "#1B458F" },
+  "Norwich City": { code: "NOR", color: "#00A650" },
+  "Stoke City": { code: "STK", color: "#E03A3E" },
+  Sunderland: { code: "SUN", color: "#EB172B" },
+  "Swansea City": { code: "SWA", color: "#1a1a1a" },
+  Watford: { code: "WAT", color: "#FBEE23" },
+  "West Bromwich Albion": { code: "WBA", color: "#122F67" },
+  "West Ham United": { code: "WHU", color: "#7A263A" },
+  Eibar: { code: "EIB", color: "#0B3B8F" },
+  Espanyol: { code: "ESY", color: "#007FC8" },
+  "Las Palmas": { code: "LPA", color: "#FEDD00" },
+  "Málaga": { code: "MAL", color: "#00A3E0" },
+  "RC Deportivo La Coruña": { code: "DEP", color: "#2E5C9E" },
+  "Rayo Vallecano": { code: "RAY", color: "#E53027" },
+  "Sporting Gijón": { code: "SPO", color: "#E30613" },
 };
+
+// Hex palette (badge gradient appends an alpha suffix, which needs hex not hsl).
+const FALLBACK_COLORS = [
+  "#4f6bed", "#0f9d58", "#d64545", "#e8a33d", "#8e44ad", "#0e9aa7",
+  "#e8703a", "#5b4b8a", "#2e7d32", "#c2185b", "#3949ab", "#00838f",
+];
 
 /** Deterministic fallback for any team not in the map. */
 function fallback(name: string): TeamInfo {
   const code = name.replace(/[^a-zA-Z]/g, "").slice(0, 3).toUpperCase() || "?";
   let hash = 0;
   for (let i = 0; i < name.length; i++) hash = (hash * 31 + name.charCodeAt(i)) >>> 0;
-  return { code, color: `hsl(${hash % 360} 55% 45%)` };
+  return { code, color: FALLBACK_COLORS[hash % FALLBACK_COLORS.length] };
 }
 
 export function teamInfo(name: string): TeamInfo {

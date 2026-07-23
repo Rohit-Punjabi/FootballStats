@@ -1,0 +1,965 @@
+{
+  "match_id": 3938641,
+  "shots": [
+    {
+      "player": "Stefan Posch",
+      "team": "Austria",
+      "minute": 1,
+      "x": 81.5,
+      "y": 42.0,
+      "xg": 0.006,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Gernot Trauner",
+      "team": "Austria",
+      "minute": 8,
+      "x": 115.0,
+      "y": 33.0,
+      "xg": 0.126,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Marcel Sabitzer",
+      "team": "Austria",
+      "minute": 9,
+      "x": 107.5,
+      "y": 45.2,
+      "xg": 0.113,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcel Sabitzer",
+      "team": "Austria",
+      "minute": 16,
+      "x": 105.5,
+      "y": 38.4,
+      "xg": 0.067,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 16,
+      "x": 104.5,
+      "y": 43.5,
+      "xg": 0.113,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicola Zalewski",
+      "team": "Poland",
+      "minute": 17,
+      "x": 106.7,
+      "y": 29.1,
+      "xg": 0.099,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 23,
+      "x": 97.3,
+      "y": 46.3,
+      "xg": 0.034,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 26,
+      "x": 99.4,
+      "y": 38.0,
+      "xg": 0.074,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jan Bednarek",
+      "team": "Poland",
+      "minute": 29,
+      "x": 108.9,
+      "y": 40.0,
+      "xg": 0.204,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Krzysztof Piątek",
+      "team": "Poland",
+      "minute": 29,
+      "x": 113.8,
+      "y": 41.6,
+      "xg": 0.445,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcel Sabitzer",
+      "team": "Austria",
+      "minute": 38,
+      "x": 106.9,
+      "y": 32.0,
+      "xg": 0.136,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcel Sabitzer",
+      "team": "Austria",
+      "minute": 41,
+      "x": 90.9,
+      "y": 36.1,
+      "xg": 0.02,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 45,
+      "x": 91.6,
+      "y": 47.5,
+      "xg": 0.042,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jakub Piotrowski",
+      "team": "Poland",
+      "minute": 46,
+      "x": 110.1,
+      "y": 38.8,
+      "xg": 0.048,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Stefan Posch",
+      "team": "Austria",
+      "minute": 48,
+      "x": 94.0,
+      "y": 47.8,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Stefan Posch",
+      "team": "Austria",
+      "minute": 50,
+      "x": 111.5,
+      "y": 37.6,
+      "xg": 0.062,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Krzysztof Piątek",
+      "team": "Poland",
+      "minute": 51,
+      "x": 95.3,
+      "y": 42.6,
+      "xg": 0.045,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marcel Sabitzer",
+      "team": "Austria",
+      "minute": 54,
+      "x": 103.6,
+      "y": 26.7,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Adam Buksa",
+      "team": "Poland",
+      "minute": 56,
+      "x": 103.9,
+      "y": 42.4,
+      "xg": 0.017,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 59,
+      "x": 96.8,
+      "y": 24.1,
+      "xg": 0.04,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Paweł Dawidowicz",
+      "team": "Poland",
+      "minute": 60,
+      "x": 113.0,
+      "y": 47.4,
+      "xg": 0.068,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Christoph Baumgartner",
+      "team": "Austria",
+      "minute": 65,
+      "x": 102.5,
+      "y": 36.3,
+      "xg": 0.142,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Karol Świderski",
+      "team": "Poland",
+      "minute": 68,
+      "x": 99.6,
+      "y": 33.0,
+      "xg": 0.073,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Patrick Wimmer",
+      "team": "Austria",
+      "minute": 74,
+      "x": 103.1,
+      "y": 44.4,
+      "xg": 0.063,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Nicolas Seiwald",
+      "team": "Austria",
+      "minute": 75,
+      "x": 95.9,
+      "y": 35.7,
+      "xg": 0.034,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Marko Arnautović",
+      "team": "Austria",
+      "minute": 77,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Stefan Posch",
+      "team": "Austria",
+      "minute": 82,
+      "x": 97.6,
+      "y": 49.9,
+      "xg": 0.04,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Konrad Laimer",
+      "team": "Austria",
+      "minute": 84,
+      "x": 115.2,
+      "y": 28.3,
+      "xg": 0.163,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 86,
+      "x": 91.4,
+      "y": 48.8,
+      "xg": 0.014,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kamil Grosicki",
+      "team": "Poland",
+      "minute": 92,
+      "x": 112.7,
+      "y": 32.9,
+      "xg": 0.12,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    }
+  ],
+  "networks": {
+    "Austria": {
+      "nodes": [
+        {
+          "id": 39460,
+          "name": "Nicolas Seiwald",
+          "x": 62.2,
+          "y": 50.8,
+          "passes": 42
+        },
+        {
+          "id": 8778,
+          "name": "Gernot Trauner",
+          "x": 40.0,
+          "y": 50.8,
+          "passes": 41
+        },
+        {
+          "id": 11821,
+          "name": "Stefan Posch",
+          "x": 57.5,
+          "y": 63.8,
+          "passes": 41
+        },
+        {
+          "id": 13315,
+          "name": "Philipp Mwene",
+          "x": 77.8,
+          "y": 14.1,
+          "passes": 41
+        },
+        {
+          "id": 8506,
+          "name": "Konrad Laimer",
+          "x": 70.7,
+          "y": 34.9,
+          "passes": 37
+        },
+        {
+          "id": 8931,
+          "name": "Philipp Lienhart",
+          "x": 48.5,
+          "y": 21.6,
+          "passes": 37
+        },
+        {
+          "id": 11396,
+          "name": "Florian Grillitsch",
+          "x": 67.3,
+          "y": 30.4,
+          "passes": 31
+        },
+        {
+          "id": 9731,
+          "name": "Patrick Pentz",
+          "x": 18.2,
+          "y": 39.3,
+          "passes": 29
+        },
+        {
+          "id": 8518,
+          "name": "Marcel Sabitzer",
+          "x": 84.6,
+          "y": 21.2,
+          "passes": 28
+        },
+        {
+          "id": 24977,
+          "name": "Christoph Baumgartner",
+          "x": 71.0,
+          "y": 47.9,
+          "passes": 26
+        },
+        {
+          "id": 3325,
+          "name": "Marko Arnautović",
+          "x": 88.2,
+          "y": 48.2,
+          "passes": 12
+        },
+        {
+          "id": 33297,
+          "name": "Patrick Wimmer",
+          "x": 76.1,
+          "y": 57.8,
+          "passes": 12
+        },
+        {
+          "id": 11820,
+          "name": "Kevin Danso",
+          "x": 33.3,
+          "y": 50.3,
+          "passes": 11
+        },
+        {
+          "id": 39545,
+          "name": "Alexander Prass",
+          "x": 74.2,
+          "y": 5.1,
+          "passes": 9
+        }
+      ],
+      "edges": [
+        {
+          "from": 8506,
+          "to": 24977,
+          "weight": 3
+        },
+        {
+          "from": 8518,
+          "to": 24977,
+          "weight": 6
+        },
+        {
+          "from": 8506,
+          "to": 8518,
+          "weight": 11
+        },
+        {
+          "from": 8506,
+          "to": 13315,
+          "weight": 10
+        },
+        {
+          "from": 11396,
+          "to": 13315,
+          "weight": 15
+        },
+        {
+          "from": 8506,
+          "to": 11396,
+          "weight": 5
+        },
+        {
+          "from": 13315,
+          "to": 39460,
+          "weight": 7
+        },
+        {
+          "from": 8518,
+          "to": 13315,
+          "weight": 20
+        },
+        {
+          "from": 8518,
+          "to": 39460,
+          "weight": 4
+        },
+        {
+          "from": 11821,
+          "to": 39460,
+          "weight": 15
+        },
+        {
+          "from": 8931,
+          "to": 13315,
+          "weight": 13
+        },
+        {
+          "from": 8778,
+          "to": 8931,
+          "weight": 13
+        },
+        {
+          "from": 8778,
+          "to": 24977,
+          "weight": 6
+        },
+        {
+          "from": 8778,
+          "to": 13315,
+          "weight": 4
+        },
+        {
+          "from": 8931,
+          "to": 11396,
+          "weight": 8
+        },
+        {
+          "from": 8518,
+          "to": 11396,
+          "weight": 5
+        },
+        {
+          "from": 3325,
+          "to": 8518,
+          "weight": 5
+        },
+        {
+          "from": 3325,
+          "to": 11821,
+          "weight": 5
+        },
+        {
+          "from": 9731,
+          "to": 11396,
+          "weight": 6
+        },
+        {
+          "from": 8931,
+          "to": 24977,
+          "weight": 3
+        },
+        {
+          "from": 11821,
+          "to": 24977,
+          "weight": 6
+        },
+        {
+          "from": 8518,
+          "to": 8931,
+          "weight": 3
+        },
+        {
+          "from": 8778,
+          "to": 11821,
+          "weight": 13
+        },
+        {
+          "from": 9731,
+          "to": 24977,
+          "weight": 7
+        },
+        {
+          "from": 8778,
+          "to": 9731,
+          "weight": 18
+        },
+        {
+          "from": 9731,
+          "to": 11821,
+          "weight": 3
+        },
+        {
+          "from": 11396,
+          "to": 39460,
+          "weight": 7
+        },
+        {
+          "from": 3325,
+          "to": 24977,
+          "weight": 4
+        },
+        {
+          "from": 13315,
+          "to": 24977,
+          "weight": 7
+        },
+        {
+          "from": 9731,
+          "to": 39460,
+          "weight": 5
+        },
+        {
+          "from": 24977,
+          "to": 39460,
+          "weight": 12
+        },
+        {
+          "from": 8778,
+          "to": 39460,
+          "weight": 8
+        },
+        {
+          "from": 8778,
+          "to": 11396,
+          "weight": 8
+        },
+        {
+          "from": 8931,
+          "to": 9731,
+          "weight": 10
+        },
+        {
+          "from": 8506,
+          "to": 39460,
+          "weight": 9
+        },
+        {
+          "from": 11396,
+          "to": 24977,
+          "weight": 4
+        },
+        {
+          "from": 11396,
+          "to": 11821,
+          "weight": 5
+        },
+        {
+          "from": 8931,
+          "to": 11821,
+          "weight": 5
+        },
+        {
+          "from": 8518,
+          "to": 11821,
+          "weight": 3
+        },
+        {
+          "from": 8506,
+          "to": 9731,
+          "weight": 3
+        },
+        {
+          "from": 8506,
+          "to": 11821,
+          "weight": 9
+        },
+        {
+          "from": 3325,
+          "to": 8506,
+          "weight": 4
+        },
+        {
+          "from": 33297,
+          "to": 39460,
+          "weight": 3
+        },
+        {
+          "from": 11821,
+          "to": 33297,
+          "weight": 8
+        },
+        {
+          "from": 8506,
+          "to": 8931,
+          "weight": 7
+        },
+        {
+          "from": 9731,
+          "to": 11820,
+          "weight": 5
+        },
+        {
+          "from": 11820,
+          "to": 11821,
+          "weight": 8
+        },
+        {
+          "from": 39460,
+          "to": 39545,
+          "weight": 3
+        },
+        {
+          "from": 3325,
+          "to": 39545,
+          "weight": 4
+        },
+        {
+          "from": 24977,
+          "to": 33297,
+          "weight": 4
+        },
+        {
+          "from": 8506,
+          "to": 39545,
+          "weight": 4
+        }
+      ]
+    },
+    "Poland": {
+      "nodes": [
+        {
+          "id": 44166,
+          "name": "Jakub Piotr Kiwior",
+          "x": 49.8,
+          "y": 9.9,
+          "passes": 49
+        },
+        {
+          "id": 30739,
+          "name": "Paweł Dawidowicz",
+          "x": 38.4,
+          "y": 29.3,
+          "passes": 39
+        },
+        {
+          "id": 4626,
+          "name": "Jan Bednarek",
+          "x": 42.1,
+          "y": 55.3,
+          "passes": 38
+        },
+        {
+          "id": 5660,
+          "name": "Piotr Zieliński",
+          "x": 59.1,
+          "y": 41.6,
+          "passes": 38
+        },
+        {
+          "id": 50502,
+          "name": "Nicola Zalewski",
+          "x": 69.4,
+          "y": 18.6,
+          "passes": 33
+        },
+        {
+          "id": 7979,
+          "name": "Przemysław Frankowski",
+          "x": 63.2,
+          "y": 74.3,
+          "passes": 32
+        },
+        {
+          "id": 15859,
+          "name": "Bartosz Slisz",
+          "x": 59.7,
+          "y": 34.9,
+          "passes": 28
+        },
+        {
+          "id": 5669,
+          "name": "Wojciech Szczęsny",
+          "x": 12.1,
+          "y": 43.0,
+          "passes": 25
+        },
+        {
+          "id": 29480,
+          "name": "Jakub Moder",
+          "x": 68.1,
+          "y": 41.1,
+          "passes": 19
+        },
+        {
+          "id": 20841,
+          "name": "Jakub Piotrowski",
+          "x": 56.7,
+          "y": 25.6,
+          "passes": 12
+        },
+        {
+          "id": 12493,
+          "name": "Krzysztof Piątek",
+          "x": 65.2,
+          "y": 60.0,
+          "passes": 7
+        },
+        {
+          "id": 5668,
+          "name": "Robert Lewandowski",
+          "x": 75.8,
+          "y": 27.6,
+          "passes": 5
+        },
+        {
+          "id": 7663,
+          "name": "Adam Buksa",
+          "x": 71.7,
+          "y": 35.1,
+          "passes": 4
+        },
+        {
+          "id": 8836,
+          "name": "Karol Świderski",
+          "x": 69.2,
+          "y": 52.5,
+          "passes": 4
+        }
+      ],
+      "edges": [
+        {
+          "from": 5669,
+          "to": 30739,
+          "weight": 13
+        },
+        {
+          "from": 30739,
+          "to": 44166,
+          "weight": 22
+        },
+        {
+          "from": 44166,
+          "to": 50502,
+          "weight": 21
+        },
+        {
+          "from": 4626,
+          "to": 30739,
+          "weight": 13
+        },
+        {
+          "from": 4626,
+          "to": 5660,
+          "weight": 8
+        },
+        {
+          "from": 5660,
+          "to": 30739,
+          "weight": 7
+        },
+        {
+          "from": 15859,
+          "to": 20841,
+          "weight": 8
+        },
+        {
+          "from": 5660,
+          "to": 7979,
+          "weight": 19
+        },
+        {
+          "from": 15859,
+          "to": 44166,
+          "weight": 5
+        },
+        {
+          "from": 20841,
+          "to": 50502,
+          "weight": 6
+        },
+        {
+          "from": 15859,
+          "to": 50502,
+          "weight": 8
+        },
+        {
+          "from": 5660,
+          "to": 15859,
+          "weight": 7
+        },
+        {
+          "from": 5660,
+          "to": 12493,
+          "weight": 4
+        },
+        {
+          "from": 4626,
+          "to": 5669,
+          "weight": 9
+        },
+        {
+          "from": 5669,
+          "to": 44166,
+          "weight": 7
+        },
+        {
+          "from": 5660,
+          "to": 44166,
+          "weight": 10
+        },
+        {
+          "from": 5669,
+          "to": 20841,
+          "weight": 3
+        },
+        {
+          "from": 7979,
+          "to": 20841,
+          "weight": 3
+        },
+        {
+          "from": 7979,
+          "to": 12493,
+          "weight": 10
+        },
+        {
+          "from": 5660,
+          "to": 7663,
+          "weight": 3
+        },
+        {
+          "from": 7979,
+          "to": 15859,
+          "weight": 7
+        },
+        {
+          "from": 4626,
+          "to": 15859,
+          "weight": 9
+        },
+        {
+          "from": 5660,
+          "to": 50502,
+          "weight": 11
+        },
+        {
+          "from": 4626,
+          "to": 20841,
+          "weight": 4
+        },
+        {
+          "from": 7979,
+          "to": 50502,
+          "weight": 7
+        },
+        {
+          "from": 4626,
+          "to": 7979,
+          "weight": 9
+        },
+        {
+          "from": 4626,
+          "to": 44166,
+          "weight": 3
+        },
+        {
+          "from": 5660,
+          "to": 20841,
+          "weight": 3
+        },
+        {
+          "from": 15859,
+          "to": 30739,
+          "weight": 7
+        },
+        {
+          "from": 7663,
+          "to": 50502,
+          "weight": 3
+        },
+        {
+          "from": 29480,
+          "to": 50502,
+          "weight": 4
+        },
+        {
+          "from": 5660,
+          "to": 29480,
+          "weight": 5
+        },
+        {
+          "from": 29480,
+          "to": 44166,
+          "weight": 4
+        },
+        {
+          "from": 29480,
+          "to": 30739,
+          "weight": 4
+        },
+        {
+          "from": 7979,
+          "to": 29480,
+          "weight": 8
+        },
+        {
+          "from": 5669,
+          "to": 50502,
+          "weight": 3
+        },
+        {
+          "from": 4626,
+          "to": 29480,
+          "weight": 3
+        },
+        {
+          "from": 30739,
+          "to": 50502,
+          "weight": 3
+        },
+        {
+          "from": 5668,
+          "to": 44166,
+          "weight": 5
+        }
+      ]
+    }
+  }
+}

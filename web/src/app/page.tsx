@@ -28,7 +28,7 @@ export default function Home() {
           </h1>
           <p className="text-muted text-lg mt-6 max-w-xl">
             A bold, visual home for football stats. You&apos;ll find shot maps, expected goals,
-            and the details that make a match make sense. Pick a tournament and dive in.
+            and the details that make a match make sense. Pick a competition and dive in.
           </p>
         </div>
       </section>
@@ -42,16 +42,24 @@ export default function Home() {
             className="card card-hover p-7 flex flex-col gap-5"
           >
             <div className="flex items-start gap-4">
-              {c.champion && <TeamBadge team={c.champion} size="lg" />}
+              {(c.champion ?? c.club) && <TeamBadge team={(c.champion ?? c.club)!} size="lg" />}
               <div>
                 <h2 className="text-2xl font-bold tracking-tight">{competitionLabel(c)}</h2>
                 <p className="text-muted mt-1">
-                  {c.match_count} matches · {c.team_count} teams · {c.player_count} players
+                  {c.match_count} matches ·{" "}
+                  {c.type === "club" ? `${c.club} season` : `${c.team_count} teams`} ·{" "}
+                  {c.player_count} players
                 </p>
               </div>
             </div>
             <div className="flex flex-wrap gap-2 mt-auto">
-              {c.champion && <span className="chip">🏆 {c.champion}</span>}
+              {c.type === "club" && c.record ? (
+                <span className="chip">
+                  📅 {c.record.w}W {c.record.d}D {c.record.l}L
+                </span>
+              ) : (
+                c.champion && <span className="chip">🏆 {c.champion}</span>
+              )}
               {c.top_scorer && (
                 <span className="chip">
                   ⚽ {c.top_scorer.name} · {c.top_scorer.goals}

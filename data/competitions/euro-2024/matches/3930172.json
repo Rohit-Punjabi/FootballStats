@@ -1,0 +1,880 @@
+{
+  "match_id": 3930172,
+  "shots": [
+    {
+      "player": "Pedri",
+      "team": "Spain",
+      "minute": 1,
+      "x": 113.1,
+      "y": 39.3,
+      "xg": 0.209,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Nico Williams",
+      "team": "Spain",
+      "minute": 9,
+      "x": 112.6,
+      "y": 43.2,
+      "xg": 0.166,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Álvaro Morata",
+      "team": "Spain",
+      "minute": 14,
+      "x": 101.1,
+      "y": 29.8,
+      "xg": 0.046,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Álvaro Morata",
+      "team": "Spain",
+      "minute": 23,
+      "x": 115.3,
+      "y": 49.5,
+      "xg": 0.089,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Fabián Ruiz",
+      "team": "Spain",
+      "minute": 24,
+      "x": 88.6,
+      "y": 42.3,
+      "xg": 0.021,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rodri",
+      "team": "Spain",
+      "minute": 26,
+      "x": 83.3,
+      "y": 37.9,
+      "xg": 0.006,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Rodri",
+      "team": "Spain",
+      "minute": 27,
+      "x": 99.7,
+      "y": 38.8,
+      "xg": 0.068,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Fabián Ruiz",
+      "team": "Spain",
+      "minute": 36,
+      "x": 93.4,
+      "y": 47.8,
+      "xg": 0.019,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Fabián Ruiz",
+      "team": "Spain",
+      "minute": 40,
+      "x": 94.8,
+      "y": 46.2,
+      "xg": 0.056,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Federico Chiesa",
+      "team": "Italy",
+      "minute": 45,
+      "x": 103.2,
+      "y": 57.2,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pedri",
+      "team": "Spain",
+      "minute": 51,
+      "x": 110.9,
+      "y": 35.1,
+      "xg": 0.223,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Pedri",
+      "team": "Spain",
+      "minute": 52,
+      "x": 92.3,
+      "y": 35.6,
+      "xg": 0.031,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Álvaro Morata",
+      "team": "Spain",
+      "minute": 54,
+      "x": 113.8,
+      "y": 27.3,
+      "xg": 0.043,
+      "outcome": "Saved Off Target",
+      "body_part": "Head"
+    },
+    {
+      "player": "Álvaro Morata",
+      "team": "Spain",
+      "minute": 57,
+      "x": 93.0,
+      "y": 33.9,
+      "xg": 0.04,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robin Le Normand",
+      "team": "Spain",
+      "minute": 57,
+      "x": 113.0,
+      "y": 44.1,
+      "xg": 0.07,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Lamine Yamal",
+      "team": "Spain",
+      "minute": 59,
+      "x": 97.3,
+      "y": 55.7,
+      "xg": 0.022,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Nico Williams",
+      "team": "Spain",
+      "minute": 69,
+      "x": 103.5,
+      "y": 21.2,
+      "xg": 0.01,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lorenzo Pellegrini",
+      "team": "Italy",
+      "minute": 73,
+      "x": 94.5,
+      "y": 25.7,
+      "xg": 0.041,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ayoze Pérez",
+      "team": "Spain",
+      "minute": 80,
+      "x": 109.9,
+      "y": 29.1,
+      "xg": 0.081,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Spain",
+      "minute": 80,
+      "x": 113.5,
+      "y": 46.0,
+      "xg": 0.091,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Bryan Cristante",
+      "team": "Italy",
+      "minute": 85,
+      "x": 115.1,
+      "y": 31.7,
+      "xg": 0.045,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ayoze Pérez",
+      "team": "Spain",
+      "minute": 90,
+      "x": 112.0,
+      "y": 24.5,
+      "xg": 0.03,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ayoze Pérez",
+      "team": "Spain",
+      "minute": 91,
+      "x": 106.6,
+      "y": 29.2,
+      "xg": 0.213,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Riccardo Calafiori",
+      "team": "Italy",
+      "minute": 96,
+      "x": 102.5,
+      "y": 30.0,
+      "xg": 0.028,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    }
+  ],
+  "networks": {
+    "Italy": {
+      "nodes": [
+        {
+          "id": 7480,
+          "name": "Alessandro Bastoni",
+          "x": 35.7,
+          "y": 45.5,
+          "passes": 61
+        },
+        {
+          "id": 41768,
+          "name": "Riccardo Calafiori",
+          "x": 45.1,
+          "y": 23.8,
+          "passes": 58
+        },
+        {
+          "id": 11514,
+          "name": "Giovanni Di Lorenzo",
+          "x": 46.7,
+          "y": 68.0,
+          "passes": 51
+        },
+        {
+          "id": 8181,
+          "name": "Nicolò Barella",
+          "x": 55.0,
+          "y": 27.8,
+          "passes": 40
+        },
+        {
+          "id": 7036,
+          "name": "Gianluigi Donnarumma",
+          "x": 8.4,
+          "y": 40.5,
+          "passes": 29
+        },
+        {
+          "id": 7024,
+          "name": "Jorginho",
+          "x": 48.3,
+          "y": 42.7,
+          "passes": 27
+        },
+        {
+          "id": 12255,
+          "name": "Federico Dimarco",
+          "x": 58.7,
+          "y": 7.2,
+          "passes": 25
+        },
+        {
+          "id": 6993,
+          "name": "Bryan Cristante",
+          "x": 58.9,
+          "y": 48.5,
+          "passes": 20
+        },
+        {
+          "id": 6963,
+          "name": "Lorenzo Pellegrini",
+          "x": 58.8,
+          "y": 20.9,
+          "passes": 19
+        },
+        {
+          "id": 50729,
+          "name": "Andrea Cambiaso",
+          "x": 61.6,
+          "y": 53.4,
+          "passes": 19
+        },
+        {
+          "id": 25048,
+          "name": "Giacomo Raspadori",
+          "x": 75.8,
+          "y": 12.2,
+          "passes": 13
+        },
+        {
+          "id": 8792,
+          "name": "Mattia Zaccagni",
+          "x": 89.5,
+          "y": 7.7,
+          "passes": 9
+        },
+        {
+          "id": 7156,
+          "name": "Federico Chiesa",
+          "x": 44.9,
+          "y": 62.2,
+          "passes": 6
+        },
+        {
+          "id": 10992,
+          "name": "Gianluca Scamacca",
+          "x": 55.1,
+          "y": 43.4,
+          "passes": 6
+        }
+      ],
+      "edges": [
+        {
+          "from": 7024,
+          "to": 8181,
+          "weight": 7
+        },
+        {
+          "from": 8181,
+          "to": 11514,
+          "weight": 11
+        },
+        {
+          "from": 7024,
+          "to": 7480,
+          "weight": 11
+        },
+        {
+          "from": 7024,
+          "to": 7156,
+          "weight": 3
+        },
+        {
+          "from": 7036,
+          "to": 41768,
+          "weight": 14
+        },
+        {
+          "from": 12255,
+          "to": 41768,
+          "weight": 18
+        },
+        {
+          "from": 7024,
+          "to": 41768,
+          "weight": 10
+        },
+        {
+          "from": 6963,
+          "to": 12255,
+          "weight": 7
+        },
+        {
+          "from": 6963,
+          "to": 8181,
+          "weight": 6
+        },
+        {
+          "from": 6963,
+          "to": 41768,
+          "weight": 8
+        },
+        {
+          "from": 8181,
+          "to": 12255,
+          "weight": 13
+        },
+        {
+          "from": 8181,
+          "to": 41768,
+          "weight": 10
+        },
+        {
+          "from": 7480,
+          "to": 8181,
+          "weight": 9
+        },
+        {
+          "from": 7480,
+          "to": 11514,
+          "weight": 29
+        },
+        {
+          "from": 11514,
+          "to": 41768,
+          "weight": 9
+        },
+        {
+          "from": 7036,
+          "to": 11514,
+          "weight": 5
+        },
+        {
+          "from": 6963,
+          "to": 10992,
+          "weight": 5
+        },
+        {
+          "from": 7036,
+          "to": 7480,
+          "weight": 18
+        },
+        {
+          "from": 7156,
+          "to": 11514,
+          "weight": 8
+        },
+        {
+          "from": 7024,
+          "to": 11514,
+          "weight": 7
+        },
+        {
+          "from": 7480,
+          "to": 41768,
+          "weight": 22
+        },
+        {
+          "from": 6963,
+          "to": 7480,
+          "weight": 3
+        },
+        {
+          "from": 11514,
+          "to": 50729,
+          "weight": 14
+        },
+        {
+          "from": 7036,
+          "to": 8181,
+          "weight": 3
+        },
+        {
+          "from": 6993,
+          "to": 11514,
+          "weight": 9
+        },
+        {
+          "from": 7480,
+          "to": 50729,
+          "weight": 6
+        },
+        {
+          "from": 6963,
+          "to": 50729,
+          "weight": 3
+        },
+        {
+          "from": 6993,
+          "to": 41768,
+          "weight": 6
+        },
+        {
+          "from": 6993,
+          "to": 7480,
+          "weight": 6
+        },
+        {
+          "from": 41768,
+          "to": 50729,
+          "weight": 4
+        },
+        {
+          "from": 8792,
+          "to": 41768,
+          "weight": 3
+        },
+        {
+          "from": 6993,
+          "to": 8181,
+          "weight": 7
+        },
+        {
+          "from": 8181,
+          "to": 50729,
+          "weight": 3
+        },
+        {
+          "from": 8181,
+          "to": 8792,
+          "weight": 3
+        },
+        {
+          "from": 6993,
+          "to": 50729,
+          "weight": 4
+        },
+        {
+          "from": 12255,
+          "to": 25048,
+          "weight": 4
+        },
+        {
+          "from": 25048,
+          "to": 41768,
+          "weight": 3
+        },
+        {
+          "from": 8792,
+          "to": 25048,
+          "weight": 6
+        },
+        {
+          "from": 8181,
+          "to": 25048,
+          "weight": 3
+        },
+        {
+          "from": 7480,
+          "to": 8792,
+          "weight": 3
+        }
+      ]
+    },
+    "Spain": {
+      "nodes": [
+        {
+          "id": 6765,
+          "name": "Rodri",
+          "x": 62.7,
+          "y": 40.1,
+          "passes": 93
+        },
+        {
+          "id": 6655,
+          "name": "Fabián Ruiz",
+          "x": 68.3,
+          "y": 28.3,
+          "passes": 80
+        },
+        {
+          "id": 4353,
+          "name": "Aymeric Laporte",
+          "x": 48.3,
+          "y": 20.3,
+          "passes": 76
+        },
+        {
+          "id": 22128,
+          "name": "Robin Le Normand",
+          "x": 47.0,
+          "y": 53.2,
+          "passes": 66
+        },
+        {
+          "id": 5721,
+          "name": "Daniel Carvajal",
+          "x": 66.2,
+          "y": 68.6,
+          "passes": 58
+        },
+        {
+          "id": 17620,
+          "name": "Marc Cucurella",
+          "x": 69.5,
+          "y": 12.0,
+          "passes": 58
+        },
+        {
+          "id": 30486,
+          "name": "Pedri",
+          "x": 73.9,
+          "y": 49.1,
+          "passes": 32
+        },
+        {
+          "id": 68574,
+          "name": "Nico Williams",
+          "x": 96.9,
+          "y": 14.7,
+          "passes": 30
+        },
+        {
+          "id": 11748,
+          "name": "Unai Simón",
+          "x": 15.6,
+          "y": 41.6,
+          "passes": 27
+        },
+        {
+          "id": 316046,
+          "name": "Lamine Yamal",
+          "x": 89.1,
+          "y": 68.3,
+          "passes": 23
+        },
+        {
+          "id": 3477,
+          "name": "Álvaro Morata",
+          "x": 71.0,
+          "y": 33.8,
+          "passes": 7
+        },
+        {
+          "id": 41115,
+          "name": "Álex Baena",
+          "x": 70.3,
+          "y": 42.4,
+          "passes": 7
+        },
+        {
+          "id": 6748,
+          "name": "Ferrán Torres",
+          "x": 63.3,
+          "y": 58.8,
+          "passes": 4
+        },
+        {
+          "id": 3076,
+          "name": "Ayoze Pérez",
+          "x": 59.5,
+          "y": 20.4,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 6765,
+          "to": 68574,
+          "weight": 8
+        },
+        {
+          "from": 30486,
+          "to": 68574,
+          "weight": 6
+        },
+        {
+          "from": 6765,
+          "to": 30486,
+          "weight": 17
+        },
+        {
+          "from": 6765,
+          "to": 316046,
+          "weight": 8
+        },
+        {
+          "from": 6655,
+          "to": 6765,
+          "weight": 45
+        },
+        {
+          "from": 6655,
+          "to": 17620,
+          "weight": 22
+        },
+        {
+          "from": 17620,
+          "to": 68574,
+          "weight": 19
+        },
+        {
+          "from": 68574,
+          "to": 316046,
+          "weight": 4
+        },
+        {
+          "from": 5721,
+          "to": 6765,
+          "weight": 24
+        },
+        {
+          "from": 5721,
+          "to": 6655,
+          "weight": 11
+        },
+        {
+          "from": 6765,
+          "to": 22128,
+          "weight": 23
+        },
+        {
+          "from": 4353,
+          "to": 22128,
+          "weight": 33
+        },
+        {
+          "from": 4353,
+          "to": 17620,
+          "weight": 27
+        },
+        {
+          "from": 5721,
+          "to": 22128,
+          "weight": 29
+        },
+        {
+          "from": 5721,
+          "to": 316046,
+          "weight": 15
+        },
+        {
+          "from": 30486,
+          "to": 316046,
+          "weight": 13
+        },
+        {
+          "from": 6765,
+          "to": 17620,
+          "weight": 14
+        },
+        {
+          "from": 4353,
+          "to": 6765,
+          "weight": 27
+        },
+        {
+          "from": 3477,
+          "to": 6765,
+          "weight": 4
+        },
+        {
+          "from": 3477,
+          "to": 5721,
+          "weight": 3
+        },
+        {
+          "from": 5721,
+          "to": 30486,
+          "weight": 15
+        },
+        {
+          "from": 4353,
+          "to": 30486,
+          "weight": 4
+        },
+        {
+          "from": 11748,
+          "to": 22128,
+          "weight": 15
+        },
+        {
+          "from": 3477,
+          "to": 11748,
+          "weight": 3
+        },
+        {
+          "from": 3477,
+          "to": 30486,
+          "weight": 5
+        },
+        {
+          "from": 3477,
+          "to": 68574,
+          "weight": 4
+        },
+        {
+          "from": 6655,
+          "to": 68574,
+          "weight": 21
+        },
+        {
+          "from": 4353,
+          "to": 6655,
+          "weight": 25
+        },
+        {
+          "from": 4353,
+          "to": 11748,
+          "weight": 19
+        },
+        {
+          "from": 6765,
+          "to": 11748,
+          "weight": 7
+        },
+        {
+          "from": 4353,
+          "to": 68574,
+          "weight": 7
+        },
+        {
+          "from": 6655,
+          "to": 22128,
+          "weight": 10
+        },
+        {
+          "from": 22128,
+          "to": 30486,
+          "weight": 6
+        },
+        {
+          "from": 3477,
+          "to": 6655,
+          "weight": 3
+        },
+        {
+          "from": 22128,
+          "to": 316046,
+          "weight": 3
+        },
+        {
+          "from": 4353,
+          "to": 5721,
+          "weight": 3
+        },
+        {
+          "from": 6655,
+          "to": 30486,
+          "weight": 8
+        },
+        {
+          "from": 11748,
+          "to": 17620,
+          "weight": 4
+        },
+        {
+          "from": 6655,
+          "to": 316046,
+          "weight": 7
+        },
+        {
+          "from": 17620,
+          "to": 22128,
+          "weight": 3
+        },
+        {
+          "from": 5721,
+          "to": 6748,
+          "weight": 3
+        },
+        {
+          "from": 3076,
+          "to": 41115,
+          "weight": 3
+        },
+        {
+          "from": 6748,
+          "to": 41115,
+          "weight": 4
+        },
+        {
+          "from": 5721,
+          "to": 41115,
+          "weight": 3
+        },
+        {
+          "from": 3076,
+          "to": 17620,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

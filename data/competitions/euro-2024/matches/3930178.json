@@ -1,0 +1,865 @@
+{
+  "match_id": 3930178,
+  "shots": [
+    {
+      "player": "Luka Sučić",
+      "team": "Croatia",
+      "minute": 4,
+      "x": 91.7,
+      "y": 51.0,
+      "xg": 0.021,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lorenzo Pellegrini",
+      "team": "Italy",
+      "minute": 10,
+      "x": 103.9,
+      "y": 30.6,
+      "xg": 0.041,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mateo Retegui",
+      "team": "Italy",
+      "minute": 20,
+      "x": 113.2,
+      "y": 41.4,
+      "xg": 0.115,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mateo Retegui",
+      "team": "Italy",
+      "minute": 21,
+      "x": 106.2,
+      "y": 36.1,
+      "xg": 0.05,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mateo Retegui",
+      "team": "Italy",
+      "minute": 25,
+      "x": 111.3,
+      "y": 25.7,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Alessandro Bastoni",
+      "team": "Italy",
+      "minute": 26,
+      "x": 113.0,
+      "y": 33.8,
+      "xg": 0.143,
+      "outcome": "Saved",
+      "body_part": "Head"
+    },
+    {
+      "player": "Luka Modrić",
+      "team": "Croatia",
+      "minute": 30,
+      "x": 99.8,
+      "y": 54.3,
+      "xg": 0.02,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Lorenzo Pellegrini",
+      "team": "Italy",
+      "minute": 35,
+      "x": 103.4,
+      "y": 27.1,
+      "xg": 0.028,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andrej Kramarić",
+      "team": "Croatia",
+      "minute": 51,
+      "x": 107.2,
+      "y": 26.5,
+      "xg": 0.024,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Luka Modrić",
+      "team": "Croatia",
+      "minute": 53,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ante Budimir",
+      "team": "Croatia",
+      "minute": 54,
+      "x": 111.3,
+      "y": 40.9,
+      "xg": 0.149,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Luka Modrić",
+      "team": "Croatia",
+      "minute": 54,
+      "x": 114.9,
+      "y": 35.5,
+      "xg": 0.485,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Davide Frattesi",
+      "team": "Italy",
+      "minute": 56,
+      "x": 107.5,
+      "y": 29.9,
+      "xg": 0.053,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Alessandro Bastoni",
+      "team": "Italy",
+      "minute": 60,
+      "x": 114.2,
+      "y": 42.9,
+      "xg": 0.169,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Matteo Darmian",
+      "team": "Italy",
+      "minute": 66,
+      "x": 112.1,
+      "y": 28.1,
+      "xg": 0.055,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Giacomo Raspadori",
+      "team": "Italy",
+      "minute": 71,
+      "x": 94.2,
+      "y": 44.2,
+      "xg": 0.066,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Giovanni Di Lorenzo",
+      "team": "Italy",
+      "minute": 72,
+      "x": 114.6,
+      "y": 34.8,
+      "xg": 0.115,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Gianluca Scamacca",
+      "team": "Italy",
+      "minute": 91,
+      "x": 87.8,
+      "y": 29.5,
+      "xg": 0.014,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Mattia Zaccagni",
+      "team": "Italy",
+      "minute": 97,
+      "x": 103.4,
+      "y": 28.0,
+      "xg": 0.111,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Croatia": {
+      "nodes": [
+        {
+          "id": 37148,
+          "name": "Josip Šutalo",
+          "x": 40.4,
+          "y": 56.3,
+          "passes": 66
+        },
+        {
+          "id": 49337,
+          "name": "Josip Stanišić",
+          "x": 62.4,
+          "y": 71.3,
+          "passes": 61
+        },
+        {
+          "id": 8773,
+          "name": "Marin Pongracic",
+          "x": 46.4,
+          "y": 28.0,
+          "passes": 60
+        },
+        {
+          "id": 33018,
+          "name": "Joško Gvardiol",
+          "x": 59.9,
+          "y": 15.3,
+          "passes": 50
+        },
+        {
+          "id": 5469,
+          "name": "Marcelo Brozović",
+          "x": 55.0,
+          "y": 47.5,
+          "passes": 49
+        },
+        {
+          "id": 5463,
+          "name": "Luka Modrić",
+          "x": 69.8,
+          "y": 54.0,
+          "passes": 48
+        },
+        {
+          "id": 39490,
+          "name": "Luka Sučić",
+          "x": 75.0,
+          "y": 61.9,
+          "passes": 34
+        },
+        {
+          "id": 5456,
+          "name": "Mateo Kovačić",
+          "x": 62.3,
+          "y": 24.8,
+          "passes": 31
+        },
+        {
+          "id": 5460,
+          "name": "Andrej Kramarić",
+          "x": 75.2,
+          "y": 34.9,
+          "passes": 20
+        },
+        {
+          "id": 16531,
+          "name": "Dominik Livaković",
+          "x": 13.0,
+          "y": 38.8,
+          "passes": 19
+        },
+        {
+          "id": 28914,
+          "name": "Lovro Majer",
+          "x": 86.4,
+          "y": 31.3,
+          "passes": 9
+        },
+        {
+          "id": 28368,
+          "name": "Luka Ivanušec",
+          "x": 69.0,
+          "y": 23.8,
+          "passes": 8
+        },
+        {
+          "id": 11603,
+          "name": "Mario Pašalić",
+          "x": 81.2,
+          "y": 24.2,
+          "passes": 7
+        },
+        {
+          "id": 8654,
+          "name": "Ante Budimir",
+          "x": 99.2,
+          "y": 35.9,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 5460,
+          "to": 5463,
+          "weight": 7
+        },
+        {
+          "from": 5463,
+          "to": 37148,
+          "weight": 7
+        },
+        {
+          "from": 37148,
+          "to": 49337,
+          "weight": 41
+        },
+        {
+          "from": 8773,
+          "to": 37148,
+          "weight": 33
+        },
+        {
+          "from": 8773,
+          "to": 33018,
+          "weight": 26
+        },
+        {
+          "from": 33018,
+          "to": 37148,
+          "weight": 5
+        },
+        {
+          "from": 39490,
+          "to": 49337,
+          "weight": 16
+        },
+        {
+          "from": 5456,
+          "to": 5469,
+          "weight": 11
+        },
+        {
+          "from": 5456,
+          "to": 11603,
+          "weight": 6
+        },
+        {
+          "from": 5456,
+          "to": 33018,
+          "weight": 13
+        },
+        {
+          "from": 5469,
+          "to": 33018,
+          "weight": 9
+        },
+        {
+          "from": 5469,
+          "to": 16531,
+          "weight": 8
+        },
+        {
+          "from": 16531,
+          "to": 37148,
+          "weight": 10
+        },
+        {
+          "from": 5463,
+          "to": 49337,
+          "weight": 22
+        },
+        {
+          "from": 5463,
+          "to": 39490,
+          "weight": 25
+        },
+        {
+          "from": 5469,
+          "to": 8773,
+          "weight": 8
+        },
+        {
+          "from": 5460,
+          "to": 8773,
+          "weight": 8
+        },
+        {
+          "from": 5456,
+          "to": 5460,
+          "weight": 4
+        },
+        {
+          "from": 5456,
+          "to": 8773,
+          "weight": 10
+        },
+        {
+          "from": 5463,
+          "to": 8773,
+          "weight": 6
+        },
+        {
+          "from": 5469,
+          "to": 37148,
+          "weight": 14
+        },
+        {
+          "from": 8773,
+          "to": 16531,
+          "weight": 6
+        },
+        {
+          "from": 5460,
+          "to": 5469,
+          "weight": 8
+        },
+        {
+          "from": 5469,
+          "to": 49337,
+          "weight": 24
+        },
+        {
+          "from": 8773,
+          "to": 39490,
+          "weight": 5
+        },
+        {
+          "from": 8773,
+          "to": 11603,
+          "weight": 4
+        },
+        {
+          "from": 5456,
+          "to": 37148,
+          "weight": 6
+        },
+        {
+          "from": 8773,
+          "to": 49337,
+          "weight": 4
+        },
+        {
+          "from": 5463,
+          "to": 33018,
+          "weight": 9
+        },
+        {
+          "from": 37148,
+          "to": 39490,
+          "weight": 8
+        },
+        {
+          "from": 33018,
+          "to": 39490,
+          "weight": 4
+        },
+        {
+          "from": 5456,
+          "to": 39490,
+          "weight": 4
+        },
+        {
+          "from": 5456,
+          "to": 5463,
+          "weight": 7
+        },
+        {
+          "from": 5463,
+          "to": 5469,
+          "weight": 9
+        },
+        {
+          "from": 5460,
+          "to": 33018,
+          "weight": 6
+        },
+        {
+          "from": 16531,
+          "to": 49337,
+          "weight": 4
+        },
+        {
+          "from": 16531,
+          "to": 33018,
+          "weight": 4
+        },
+        {
+          "from": 5460,
+          "to": 39490,
+          "weight": 3
+        },
+        {
+          "from": 5460,
+          "to": 49337,
+          "weight": 4
+        },
+        {
+          "from": 8654,
+          "to": 33018,
+          "weight": 3
+        },
+        {
+          "from": 28914,
+          "to": 33018,
+          "weight": 5
+        },
+        {
+          "from": 28914,
+          "to": 49337,
+          "weight": 5
+        },
+        {
+          "from": 28368,
+          "to": 28914,
+          "weight": 3
+        },
+        {
+          "from": 5469,
+          "to": 28914,
+          "weight": 3
+        },
+        {
+          "from": 5469,
+          "to": 28368,
+          "weight": 4
+        }
+      ]
+    },
+    "Italy": {
+      "nodes": [
+        {
+          "id": 8181,
+          "name": "Nicolò Barella",
+          "x": 64.9,
+          "y": 49.3,
+          "passes": 76
+        },
+        {
+          "id": 7024,
+          "name": "Jorginho",
+          "x": 59.0,
+          "y": 41.5,
+          "passes": 74
+        },
+        {
+          "id": 7480,
+          "name": "Alessandro Bastoni",
+          "x": 46.7,
+          "y": 36.8,
+          "passes": 73
+        },
+        {
+          "id": 41768,
+          "name": "Riccardo Calafiori",
+          "x": 54.3,
+          "y": 22.9,
+          "passes": 61
+        },
+        {
+          "id": 11514,
+          "name": "Giovanni Di Lorenzo",
+          "x": 56.5,
+          "y": 69.8,
+          "passes": 60
+        },
+        {
+          "id": 4587,
+          "name": "Matteo Darmian",
+          "x": 55.6,
+          "y": 42.8,
+          "passes": 46
+        },
+        {
+          "id": 25048,
+          "name": "Giacomo Raspadori",
+          "x": 79.3,
+          "y": 46.6,
+          "passes": 25
+        },
+        {
+          "id": 12255,
+          "name": "Federico Dimarco",
+          "x": 61.7,
+          "y": 8.4,
+          "passes": 22
+        },
+        {
+          "id": 7156,
+          "name": "Federico Chiesa",
+          "x": 80.4,
+          "y": 53.5,
+          "passes": 17
+        },
+        {
+          "id": 6963,
+          "name": "Lorenzo Pellegrini",
+          "x": 62.0,
+          "y": 21.3,
+          "passes": 16
+        },
+        {
+          "id": 7036,
+          "name": "Gianluigi Donnarumma",
+          "x": 11.5,
+          "y": 38.4,
+          "passes": 14
+        },
+        {
+          "id": 38909,
+          "name": "Nicolò Fagioli",
+          "x": 61.3,
+          "y": 48.9,
+          "passes": 11
+        },
+        {
+          "id": 31093,
+          "name": "Mateo Retegui",
+          "x": 69.9,
+          "y": 42.0,
+          "passes": 8
+        },
+        {
+          "id": 30926,
+          "name": "Davide Frattesi",
+          "x": 80.0,
+          "y": 66.3,
+          "passes": 7
+        }
+      ],
+      "edges": [
+        {
+          "from": 4587,
+          "to": 8181,
+          "weight": 21
+        },
+        {
+          "from": 25048,
+          "to": 31093,
+          "weight": 3
+        },
+        {
+          "from": 7024,
+          "to": 12255,
+          "weight": 11
+        },
+        {
+          "from": 4587,
+          "to": 7024,
+          "weight": 14
+        },
+        {
+          "from": 4587,
+          "to": 11514,
+          "weight": 7
+        },
+        {
+          "from": 4587,
+          "to": 7480,
+          "weight": 16
+        },
+        {
+          "from": 7024,
+          "to": 41768,
+          "weight": 19
+        },
+        {
+          "from": 12255,
+          "to": 41768,
+          "weight": 13
+        },
+        {
+          "from": 6963,
+          "to": 12255,
+          "weight": 9
+        },
+        {
+          "from": 6963,
+          "to": 41768,
+          "weight": 7
+        },
+        {
+          "from": 7480,
+          "to": 41768,
+          "weight": 25
+        },
+        {
+          "from": 6963,
+          "to": 7480,
+          "weight": 4
+        },
+        {
+          "from": 6963,
+          "to": 25048,
+          "weight": 4
+        },
+        {
+          "from": 11514,
+          "to": 25048,
+          "weight": 11
+        },
+        {
+          "from": 8181,
+          "to": 11514,
+          "weight": 28
+        },
+        {
+          "from": 8181,
+          "to": 25048,
+          "weight": 5
+        },
+        {
+          "from": 7024,
+          "to": 8181,
+          "weight": 34
+        },
+        {
+          "from": 4587,
+          "to": 25048,
+          "weight": 11
+        },
+        {
+          "from": 4587,
+          "to": 41768,
+          "weight": 11
+        },
+        {
+          "from": 25048,
+          "to": 41768,
+          "weight": 4
+        },
+        {
+          "from": 7480,
+          "to": 31093,
+          "weight": 3
+        },
+        {
+          "from": 7480,
+          "to": 8181,
+          "weight": 19
+        },
+        {
+          "from": 7024,
+          "to": 7480,
+          "weight": 24
+        },
+        {
+          "from": 7024,
+          "to": 7036,
+          "weight": 3
+        },
+        {
+          "from": 7036,
+          "to": 11514,
+          "weight": 5
+        },
+        {
+          "from": 7480,
+          "to": 25048,
+          "weight": 6
+        },
+        {
+          "from": 8181,
+          "to": 41768,
+          "weight": 17
+        },
+        {
+          "from": 6963,
+          "to": 8181,
+          "weight": 3
+        },
+        {
+          "from": 7036,
+          "to": 7480,
+          "weight": 8
+        },
+        {
+          "from": 7036,
+          "to": 41768,
+          "weight": 3
+        },
+        {
+          "from": 12255,
+          "to": 25048,
+          "weight": 3
+        },
+        {
+          "from": 6963,
+          "to": 7024,
+          "weight": 4
+        },
+        {
+          "from": 11514,
+          "to": 31093,
+          "weight": 5
+        },
+        {
+          "from": 7024,
+          "to": 11514,
+          "weight": 22
+        },
+        {
+          "from": 7024,
+          "to": 31093,
+          "weight": 3
+        },
+        {
+          "from": 11514,
+          "to": 30926,
+          "weight": 5
+        },
+        {
+          "from": 7024,
+          "to": 7156,
+          "weight": 7
+        },
+        {
+          "from": 4587,
+          "to": 7156,
+          "weight": 6
+        },
+        {
+          "from": 7156,
+          "to": 11514,
+          "weight": 11
+        },
+        {
+          "from": 7480,
+          "to": 11514,
+          "weight": 9
+        },
+        {
+          "from": 7156,
+          "to": 8181,
+          "weight": 3
+        },
+        {
+          "from": 7156,
+          "to": 7480,
+          "weight": 8
+        },
+        {
+          "from": 8181,
+          "to": 30926,
+          "weight": 5
+        },
+        {
+          "from": 7480,
+          "to": 38909,
+          "weight": 5
+        },
+        {
+          "from": 38909,
+          "to": 41768,
+          "weight": 4
+        },
+        {
+          "from": 11514,
+          "to": 38909,
+          "weight": 7
+        },
+        {
+          "from": 8181,
+          "to": 38909,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

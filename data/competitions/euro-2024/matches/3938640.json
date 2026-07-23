@@ -1,0 +1,850 @@
+{
+  "match_id": 3938640,
+  "shots": [
+    {
+      "player": "Lukáš Haraslín",
+      "team": "Slovakia",
+      "minute": 9,
+      "x": 108.9,
+      "y": 26.0,
+      "xg": 0.055,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ivan Schranz",
+      "team": "Slovakia",
+      "minute": 10,
+      "x": 116.4,
+      "y": 47.1,
+      "xg": 0.129,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ondrej Duda",
+      "team": "Slovakia",
+      "minute": 11,
+      "x": 99.9,
+      "y": 24.0,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Volodymyr Brazhko",
+      "team": "Ukraine",
+      "minute": 12,
+      "x": 92.5,
+      "y": 36.0,
+      "xg": 0.026,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dávid Hancko",
+      "team": "Slovakia",
+      "minute": 16,
+      "x": 99.7,
+      "y": 50.8,
+      "xg": 0.078,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ivan Schranz",
+      "team": "Slovakia",
+      "minute": 16,
+      "x": 114.4,
+      "y": 45.7,
+      "xg": 0.144,
+      "outcome": "Goal",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mykhailo Mudryk",
+      "team": "Ukraine",
+      "minute": 22,
+      "x": 93.2,
+      "y": 41.7,
+      "xg": 0.032,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Artem Dovbyk",
+      "team": "Ukraine",
+      "minute": 27,
+      "x": 112.5,
+      "y": 29.1,
+      "xg": 0.056,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mykhailo Mudryk",
+      "team": "Ukraine",
+      "minute": 28,
+      "x": 104.4,
+      "y": 24.3,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Andriy Yarmolenko",
+      "team": "Ukraine",
+      "minute": 28,
+      "x": 111.9,
+      "y": 45.2,
+      "xg": 0.317,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Andriy Yarmolenko",
+      "team": "Ukraine",
+      "minute": 33,
+      "x": 109.1,
+      "y": 45.7,
+      "xg": 0.134,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Oleksandr Zinchenko",
+      "team": "Ukraine",
+      "minute": 42,
+      "x": 106.5,
+      "y": 65.2,
+      "xg": 0.008,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lukáš Haraslín",
+      "team": "Slovakia",
+      "minute": 43,
+      "x": 100.3,
+      "y": 31.4,
+      "xg": 0.062,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Juraj Kucka",
+      "team": "Slovakia",
+      "minute": 43,
+      "x": 102.8,
+      "y": 39.2,
+      "xg": 0.032,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Artem Dovbyk",
+      "team": "Ukraine",
+      "minute": 50,
+      "x": 115.1,
+      "y": 43.7,
+      "xg": 0.319,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Mykola Shaparenko",
+      "team": "Ukraine",
+      "minute": 53,
+      "x": 108.8,
+      "y": 37.3,
+      "xg": 0.24,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ivan Schranz",
+      "team": "Slovakia",
+      "minute": 57,
+      "x": 97.3,
+      "y": 59.2,
+      "xg": 0.009,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Roman Yaremchuk",
+      "team": "Ukraine",
+      "minute": 68,
+      "x": 113.6,
+      "y": 32.9,
+      "xg": 0.064,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Peter Pekarík",
+      "team": "Slovakia",
+      "minute": 73,
+      "x": 97.8,
+      "y": 55.1,
+      "xg": 0.025,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mykhailo Mudryk",
+      "team": "Ukraine",
+      "minute": 73,
+      "x": 113.7,
+      "y": 27.7,
+      "xg": 0.083,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Georgiy Sudakov",
+      "team": "Ukraine",
+      "minute": 76,
+      "x": 97.8,
+      "y": 28.6,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Roman Yaremchuk",
+      "team": "Ukraine",
+      "minute": 79,
+      "x": 114.8,
+      "y": 49.2,
+      "xg": 0.386,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "László Bénes",
+      "team": "Slovakia",
+      "minute": 80,
+      "x": 104.1,
+      "y": 45.7,
+      "xg": 0.08,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Juraj Kucka",
+      "team": "Slovakia",
+      "minute": 81,
+      "x": 107.8,
+      "y": 43.4,
+      "xg": 0.038,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Juraj Kucka",
+      "team": "Slovakia",
+      "minute": 84,
+      "x": 92.1,
+      "y": 21.7,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Denis Vavro",
+      "team": "Slovakia",
+      "minute": 89,
+      "x": 115.2,
+      "y": 29.9,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Milan Škriniar",
+      "team": "Slovakia",
+      "minute": 94,
+      "x": 85.8,
+      "y": 38.5,
+      "xg": 0.018,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Slovakia": {
+      "nodes": [
+        {
+          "id": 6990,
+          "name": "Milan Škriniar",
+          "x": 43.1,
+          "y": 26.0,
+          "passes": 102
+        },
+        {
+          "id": 6798,
+          "name": "Stanislav Lobotka",
+          "x": 56.7,
+          "y": 39.1,
+          "passes": 79
+        },
+        {
+          "id": 16298,
+          "name": "Denis Vavro",
+          "x": 45.8,
+          "y": 54.8,
+          "passes": 75
+        },
+        {
+          "id": 9722,
+          "name": "Peter Pekarík",
+          "x": 69.9,
+          "y": 71.3,
+          "passes": 38
+        },
+        {
+          "id": 8967,
+          "name": "Ondrej Duda",
+          "x": 57.3,
+          "y": 29.1,
+          "passes": 36
+        },
+        {
+          "id": 16879,
+          "name": "Dávid Hancko",
+          "x": 54.7,
+          "y": 8.1,
+          "passes": 35
+        },
+        {
+          "id": 3711,
+          "name": "Martin Dúbravka",
+          "x": 15.1,
+          "y": 41.0,
+          "passes": 32
+        },
+        {
+          "id": 10919,
+          "name": "Juraj Kucka",
+          "x": 76.7,
+          "y": 54.3,
+          "passes": 32
+        },
+        {
+          "id": 28032,
+          "name": "Ivan Schranz",
+          "x": 72.2,
+          "y": 67.6,
+          "passes": 28
+        },
+        {
+          "id": 85063,
+          "name": "Adam Obert",
+          "x": 61.9,
+          "y": 9.1,
+          "passes": 21
+        },
+        {
+          "id": 11383,
+          "name": "László Bénes",
+          "x": 68.2,
+          "y": 29.7,
+          "passes": 16
+        },
+        {
+          "id": 7975,
+          "name": "Lukáš Haraslín",
+          "x": 89.1,
+          "y": 12.6,
+          "passes": 14
+        },
+        {
+          "id": 34904,
+          "name": "Róbert Boženík",
+          "x": 70.4,
+          "y": 38.1,
+          "passes": 6
+        },
+        {
+          "id": 35653,
+          "name": "Tomáš Suslov",
+          "x": 97.1,
+          "y": 34.4,
+          "passes": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 6990,
+          "to": 16298,
+          "weight": 55
+        },
+        {
+          "from": 16298,
+          "to": 16879,
+          "weight": 3
+        },
+        {
+          "from": 6798,
+          "to": 16298,
+          "weight": 23
+        },
+        {
+          "from": 6798,
+          "to": 6990,
+          "weight": 41
+        },
+        {
+          "from": 6990,
+          "to": 8967,
+          "weight": 24
+        },
+        {
+          "from": 8967,
+          "to": 16298,
+          "weight": 8
+        },
+        {
+          "from": 6990,
+          "to": 16879,
+          "weight": 23
+        },
+        {
+          "from": 7975,
+          "to": 34904,
+          "weight": 3
+        },
+        {
+          "from": 6798,
+          "to": 9722,
+          "weight": 8
+        },
+        {
+          "from": 9722,
+          "to": 10919,
+          "weight": 13
+        },
+        {
+          "from": 9722,
+          "to": 16298,
+          "weight": 18
+        },
+        {
+          "from": 9722,
+          "to": 28032,
+          "weight": 18
+        },
+        {
+          "from": 10919,
+          "to": 28032,
+          "weight": 14
+        },
+        {
+          "from": 3711,
+          "to": 16298,
+          "weight": 19
+        },
+        {
+          "from": 3711,
+          "to": 6990,
+          "weight": 23
+        },
+        {
+          "from": 6798,
+          "to": 28032,
+          "weight": 10
+        },
+        {
+          "from": 8967,
+          "to": 28032,
+          "weight": 5
+        },
+        {
+          "from": 8967,
+          "to": 16879,
+          "weight": 12
+        },
+        {
+          "from": 7975,
+          "to": 16879,
+          "weight": 13
+        },
+        {
+          "from": 6798,
+          "to": 10919,
+          "weight": 16
+        },
+        {
+          "from": 6798,
+          "to": 7975,
+          "weight": 6
+        },
+        {
+          "from": 6798,
+          "to": 16879,
+          "weight": 12
+        },
+        {
+          "from": 3711,
+          "to": 6798,
+          "weight": 7
+        },
+        {
+          "from": 6798,
+          "to": 8967,
+          "weight": 7
+        },
+        {
+          "from": 7975,
+          "to": 8967,
+          "weight": 8
+        },
+        {
+          "from": 8967,
+          "to": 10919,
+          "weight": 4
+        },
+        {
+          "from": 16298,
+          "to": 28032,
+          "weight": 6
+        },
+        {
+          "from": 10919,
+          "to": 16298,
+          "weight": 9
+        },
+        {
+          "from": 6990,
+          "to": 10919,
+          "weight": 6
+        },
+        {
+          "from": 6990,
+          "to": 28032,
+          "weight": 3
+        },
+        {
+          "from": 8967,
+          "to": 9722,
+          "weight": 6
+        },
+        {
+          "from": 11383,
+          "to": 16298,
+          "weight": 3
+        },
+        {
+          "from": 6990,
+          "to": 11383,
+          "weight": 4
+        },
+        {
+          "from": 6990,
+          "to": 85063,
+          "weight": 10
+        },
+        {
+          "from": 6798,
+          "to": 85063,
+          "weight": 10
+        },
+        {
+          "from": 6798,
+          "to": 11383,
+          "weight": 9
+        },
+        {
+          "from": 35653,
+          "to": 85063,
+          "weight": 5
+        },
+        {
+          "from": 11383,
+          "to": 85063,
+          "weight": 6
+        }
+      ]
+    },
+    "Ukraine": {
+      "nodes": [
+        {
+          "id": 18617,
+          "name": "Mykola Matvienko",
+          "x": 31.5,
+          "y": 21.9,
+          "passes": 72
+        },
+        {
+          "id": 39136,
+          "name": "Ilya Zabarnyi",
+          "x": 33.9,
+          "y": 56.9,
+          "passes": 57
+        },
+        {
+          "id": 3575,
+          "name": "Oleksandr Zinchenko",
+          "x": 51.5,
+          "y": 10.5,
+          "passes": 44
+        },
+        {
+          "id": 37330,
+          "name": "Anatoliy Trubin",
+          "x": 11.0,
+          "y": 40.8,
+          "passes": 35
+        },
+        {
+          "id": 144127,
+          "name": "Volodymyr Brazhko",
+          "x": 47.1,
+          "y": 40.7,
+          "passes": 35
+        },
+        {
+          "id": 21294,
+          "name": "Mykola Shaparenko",
+          "x": 63.6,
+          "y": 54.5,
+          "passes": 31
+        },
+        {
+          "id": 38975,
+          "name": "Georgiy Sudakov",
+          "x": 62.3,
+          "y": 39.6,
+          "passes": 27
+        },
+        {
+          "id": 45863,
+          "name": "Oleksandr Tymchyk",
+          "x": 61.3,
+          "y": 73.8,
+          "passes": 26
+        },
+        {
+          "id": 8830,
+          "name": "Andriy Yarmolenko",
+          "x": 67.7,
+          "y": 65.3,
+          "passes": 22
+        },
+        {
+          "id": 39483,
+          "name": "Mykhailo Mudryk",
+          "x": 69.1,
+          "y": 23.8,
+          "passes": 12
+        },
+        {
+          "id": 25079,
+          "name": "Artem Dovbyk",
+          "x": 77.3,
+          "y": 40.2,
+          "passes": 9
+        },
+        {
+          "id": 23649,
+          "name": "Roman Yaremchuk",
+          "x": 79.3,
+          "y": 40.1,
+          "passes": 6
+        },
+        {
+          "id": 31892,
+          "name": "Oleksandr Zubkov",
+          "x": 75.8,
+          "y": 64.5,
+          "passes": 6
+        },
+        {
+          "id": 16514,
+          "name": "Sergiy Sydorchuk",
+          "x": 37.2,
+          "y": 42.9,
+          "passes": 1
+        }
+      ],
+      "edges": [
+        {
+          "from": 18617,
+          "to": 37330,
+          "weight": 31
+        },
+        {
+          "from": 18617,
+          "to": 39136,
+          "weight": 31
+        },
+        {
+          "from": 25079,
+          "to": 39483,
+          "weight": 6
+        },
+        {
+          "from": 3575,
+          "to": 39136,
+          "weight": 3
+        },
+        {
+          "from": 37330,
+          "to": 39136,
+          "weight": 24
+        },
+        {
+          "from": 39136,
+          "to": 45863,
+          "weight": 18
+        },
+        {
+          "from": 3575,
+          "to": 18617,
+          "weight": 41
+        },
+        {
+          "from": 18617,
+          "to": 144127,
+          "weight": 20
+        },
+        {
+          "from": 39136,
+          "to": 144127,
+          "weight": 14
+        },
+        {
+          "from": 38975,
+          "to": 144127,
+          "weight": 8
+        },
+        {
+          "from": 3575,
+          "to": 21294,
+          "weight": 9
+        },
+        {
+          "from": 18617,
+          "to": 21294,
+          "weight": 4
+        },
+        {
+          "from": 21294,
+          "to": 39136,
+          "weight": 8
+        },
+        {
+          "from": 21294,
+          "to": 38975,
+          "weight": 8
+        },
+        {
+          "from": 8830,
+          "to": 38975,
+          "weight": 5
+        },
+        {
+          "from": 8830,
+          "to": 21294,
+          "weight": 11
+        },
+        {
+          "from": 8830,
+          "to": 25079,
+          "weight": 4
+        },
+        {
+          "from": 8830,
+          "to": 144127,
+          "weight": 5
+        },
+        {
+          "from": 8830,
+          "to": 45863,
+          "weight": 7
+        },
+        {
+          "from": 3575,
+          "to": 144127,
+          "weight": 7
+        },
+        {
+          "from": 18617,
+          "to": 38975,
+          "weight": 5
+        },
+        {
+          "from": 21294,
+          "to": 45863,
+          "weight": 10
+        },
+        {
+          "from": 3575,
+          "to": 38975,
+          "weight": 12
+        },
+        {
+          "from": 21294,
+          "to": 144127,
+          "weight": 11
+        },
+        {
+          "from": 3575,
+          "to": 37330,
+          "weight": 3
+        },
+        {
+          "from": 8830,
+          "to": 39136,
+          "weight": 6
+        },
+        {
+          "from": 3575,
+          "to": 39483,
+          "weight": 5
+        },
+        {
+          "from": 18617,
+          "to": 39483,
+          "weight": 3
+        },
+        {
+          "from": 38975,
+          "to": 39136,
+          "weight": 5
+        },
+        {
+          "from": 38975,
+          "to": 39483,
+          "weight": 3
+        },
+        {
+          "from": 3575,
+          "to": 8830,
+          "weight": 3
+        },
+        {
+          "from": 21294,
+          "to": 31892,
+          "weight": 3
+        },
+        {
+          "from": 23649,
+          "to": 39483,
+          "weight": 3
+        },
+        {
+          "from": 31892,
+          "to": 39136,
+          "weight": 3
+        },
+        {
+          "from": 23649,
+          "to": 31892,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,775 @@
+{
+  "match_id": 3930177,
+  "shots": [
+    {
+      "player": "Bendegúz Bolla",
+      "team": "Hungary",
+      "minute": 7,
+      "x": 89.7,
+      "y": 52.3,
+      "xg": 0.016,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dominik Szoboszlai",
+      "team": "Hungary",
+      "minute": 31,
+      "x": 88.7,
+      "y": 42.2,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Roland Sallai",
+      "team": "Hungary",
+      "minute": 34,
+      "x": 94.0,
+      "y": 53.7,
+      "xg": 0.019,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Willi Orban",
+      "team": "Hungary",
+      "minute": 40,
+      "x": 116.5,
+      "y": 32.3,
+      "xg": 0.14,
+      "outcome": "Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "Dominik Szoboszlai",
+      "team": "Hungary",
+      "minute": 45,
+      "x": 94.9,
+      "y": 41.6,
+      "xg": 0.043,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Roland Sallai",
+      "team": "Hungary",
+      "minute": 48,
+      "x": 104.9,
+      "y": 32.0,
+      "xg": 0.058,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Che Adams",
+      "team": "Scotland",
+      "minute": 52,
+      "x": 96.1,
+      "y": 25.7,
+      "xg": 0.021,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Roland Sallai",
+      "team": "Hungary",
+      "minute": 55,
+      "x": 104.1,
+      "y": 28.3,
+      "xg": 0.038,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Márton Dárdai",
+      "team": "Hungary",
+      "minute": 63,
+      "x": 110.5,
+      "y": 43.0,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "András Schäfer",
+      "team": "Hungary",
+      "minute": 89,
+      "x": 103.9,
+      "y": 55.7,
+      "xg": 0.037,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "András Schäfer",
+      "team": "Hungary",
+      "minute": 89,
+      "x": 97.0,
+      "y": 44.5,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Dominik Szoboszlai",
+      "team": "Hungary",
+      "minute": 90,
+      "x": 111.0,
+      "y": 54.9,
+      "xg": 0.061,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin Csoboth",
+      "team": "Hungary",
+      "minute": 91,
+      "x": 113.8,
+      "y": 51.1,
+      "xg": 0.185,
+      "outcome": "Post",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Callum McGregor",
+      "team": "Scotland",
+      "minute": 93,
+      "x": 95.1,
+      "y": 32.3,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ádám Nagy",
+      "team": "Hungary",
+      "minute": 96,
+      "x": 93.3,
+      "y": 29.7,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Lewis Morgan",
+      "team": "Scotland",
+      "minute": 97,
+      "x": 105.4,
+      "y": 30.9,
+      "xg": 0.056,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Callum McGregor",
+      "team": "Scotland",
+      "minute": 99,
+      "x": 110.3,
+      "y": 39.8,
+      "xg": 0.081,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kevin Csoboth",
+      "team": "Hungary",
+      "minute": 99,
+      "x": 107.2,
+      "y": 36.6,
+      "xg": 0.263,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Hungary": {
+      "nodes": [
+        {
+          "id": 21209,
+          "name": "Dominik Szoboszlai",
+          "x": 69.6,
+          "y": 49.3,
+          "passes": 40
+        },
+        {
+          "id": 42822,
+          "name": "András Schäfer",
+          "x": 56.2,
+          "y": 46.7,
+          "passes": 39
+        },
+        {
+          "id": 31887,
+          "name": "Endre Botka",
+          "x": 50.4,
+          "y": 69.8,
+          "passes": 35
+        },
+        {
+          "id": 8509,
+          "name": "Willi Orban",
+          "x": 39.6,
+          "y": 48.5,
+          "passes": 33
+        },
+        {
+          "id": 40920,
+          "name": "Márton Dárdai",
+          "x": 40.2,
+          "y": 20.2,
+          "passes": 26
+        },
+        {
+          "id": 4286,
+          "name": "Callum Styles",
+          "x": 55.0,
+          "y": 37.9,
+          "passes": 19
+        },
+        {
+          "id": 19316,
+          "name": "Roland Sallai",
+          "x": 73.9,
+          "y": 21.5,
+          "passes": 18
+        },
+        {
+          "id": 8524,
+          "name": "Péter Gulácsi",
+          "x": 11.3,
+          "y": 41.9,
+          "passes": 16
+        },
+        {
+          "id": 46789,
+          "name": "Bendegúz Bolla",
+          "x": 71.6,
+          "y": 70.8,
+          "passes": 16
+        },
+        {
+          "id": 89635,
+          "name": "Milos Kerkez",
+          "x": 62.5,
+          "y": 10.6,
+          "passes": 15
+        },
+        {
+          "id": 12921,
+          "name": "Barnabás Varga",
+          "x": 68.6,
+          "y": 34.2,
+          "passes": 8
+        },
+        {
+          "id": 46376,
+          "name": "Attila Szalai",
+          "x": 42.5,
+          "y": 14.7,
+          "passes": 7
+        },
+        {
+          "id": 264277,
+          "name": "Martin Ádám",
+          "x": 83.2,
+          "y": 49.8,
+          "passes": 6
+        },
+        {
+          "id": 7162,
+          "name": "Ádám Nagy",
+          "x": 52.8,
+          "y": 33.3,
+          "passes": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 8509,
+          "to": 42822,
+          "weight": 6
+        },
+        {
+          "from": 4286,
+          "to": 8509,
+          "weight": 5
+        },
+        {
+          "from": 8524,
+          "to": 31887,
+          "weight": 4
+        },
+        {
+          "from": 8509,
+          "to": 31887,
+          "weight": 18
+        },
+        {
+          "from": 8509,
+          "to": 8524,
+          "weight": 8
+        },
+        {
+          "from": 21209,
+          "to": 46789,
+          "weight": 12
+        },
+        {
+          "from": 21209,
+          "to": 42822,
+          "weight": 16
+        },
+        {
+          "from": 12921,
+          "to": 19316,
+          "weight": 5
+        },
+        {
+          "from": 4286,
+          "to": 19316,
+          "weight": 5
+        },
+        {
+          "from": 31887,
+          "to": 42822,
+          "weight": 14
+        },
+        {
+          "from": 8524,
+          "to": 40920,
+          "weight": 9
+        },
+        {
+          "from": 40920,
+          "to": 89635,
+          "weight": 7
+        },
+        {
+          "from": 4286,
+          "to": 89635,
+          "weight": 3
+        },
+        {
+          "from": 4286,
+          "to": 42822,
+          "weight": 8
+        },
+        {
+          "from": 19316,
+          "to": 42822,
+          "weight": 6
+        },
+        {
+          "from": 8509,
+          "to": 40920,
+          "weight": 10
+        },
+        {
+          "from": 42822,
+          "to": 46789,
+          "weight": 10
+        },
+        {
+          "from": 12921,
+          "to": 42822,
+          "weight": 3
+        },
+        {
+          "from": 42822,
+          "to": 89635,
+          "weight": 4
+        },
+        {
+          "from": 8509,
+          "to": 89635,
+          "weight": 4
+        },
+        {
+          "from": 4286,
+          "to": 40920,
+          "weight": 7
+        },
+        {
+          "from": 40920,
+          "to": 42822,
+          "weight": 5
+        },
+        {
+          "from": 21209,
+          "to": 40920,
+          "weight": 7
+        },
+        {
+          "from": 19316,
+          "to": 89635,
+          "weight": 5
+        },
+        {
+          "from": 21209,
+          "to": 89635,
+          "weight": 5
+        },
+        {
+          "from": 19316,
+          "to": 21209,
+          "weight": 7
+        },
+        {
+          "from": 12921,
+          "to": 21209,
+          "weight": 4
+        },
+        {
+          "from": 4286,
+          "to": 31887,
+          "weight": 4
+        },
+        {
+          "from": 31887,
+          "to": 46789,
+          "weight": 3
+        },
+        {
+          "from": 4286,
+          "to": 21209,
+          "weight": 3
+        },
+        {
+          "from": 8509,
+          "to": 21209,
+          "weight": 6
+        },
+        {
+          "from": 21209,
+          "to": 31887,
+          "weight": 7
+        },
+        {
+          "from": 7162,
+          "to": 21209,
+          "weight": 5
+        },
+        {
+          "from": 21209,
+          "to": 264277,
+          "weight": 3
+        },
+        {
+          "from": 19316,
+          "to": 264277,
+          "weight": 3
+        },
+        {
+          "from": 31887,
+          "to": 264277,
+          "weight": 3
+        }
+      ]
+    },
+    "Scotland": {
+      "nodes": [
+        {
+          "id": 9481,
+          "name": "Grant Campbell Hanley",
+          "x": 45.4,
+          "y": 38.6,
+          "passes": 69
+        },
+        {
+          "id": 10002,
+          "name": "Scott McKenna",
+          "x": 45.3,
+          "y": 21.6,
+          "passes": 63
+        },
+        {
+          "id": 10534,
+          "name": "Callum McGregor",
+          "x": 61.0,
+          "y": 35.2,
+          "passes": 59
+        },
+        {
+          "id": 31067,
+          "name": "Billy Gilmour",
+          "x": 58.2,
+          "y": 44.3,
+          "passes": 54
+        },
+        {
+          "id": 11116,
+          "name": "Jack Hendry",
+          "x": 52.8,
+          "y": 60.2,
+          "passes": 49
+        },
+        {
+          "id": 22379,
+          "name": "Angus Gunn",
+          "x": 13.3,
+          "y": 38.8,
+          "passes": 29
+        },
+        {
+          "id": 3655,
+          "name": "Andrew Robertson",
+          "x": 57.0,
+          "y": 13.3,
+          "passes": 27
+        },
+        {
+          "id": 22308,
+          "name": "Anthony Ralston",
+          "x": 74.2,
+          "y": 70.9,
+          "passes": 27
+        },
+        {
+          "id": 9974,
+          "name": "John McGinn",
+          "x": 78.5,
+          "y": 54.7,
+          "passes": 14
+        },
+        {
+          "id": 3620,
+          "name": "Scott McTominay",
+          "x": 76.3,
+          "y": 34.1,
+          "passes": 12
+        },
+        {
+          "id": 9466,
+          "name": "Che Adams",
+          "x": 73.2,
+          "y": 37.0,
+          "passes": 11
+        },
+        {
+          "id": 9478,
+          "name": "Kenneth McLean",
+          "x": 50.9,
+          "y": 28.2,
+          "passes": 6
+        },
+        {
+          "id": 10285,
+          "name": "Stuart Armstrong",
+          "x": 79.5,
+          "y": 14.4,
+          "passes": 6
+        },
+        {
+          "id": 12510,
+          "name": "Ryan Christie",
+          "x": 62.1,
+          "y": 66.4,
+          "passes": 5
+        }
+      ],
+      "edges": [
+        {
+          "from": 9481,
+          "to": 11116,
+          "weight": 27
+        },
+        {
+          "from": 9481,
+          "to": 31067,
+          "weight": 27
+        },
+        {
+          "from": 9481,
+          "to": 10002,
+          "weight": 31
+        },
+        {
+          "from": 3655,
+          "to": 10002,
+          "weight": 15
+        },
+        {
+          "from": 3655,
+          "to": 9481,
+          "weight": 7
+        },
+        {
+          "from": 9974,
+          "to": 10002,
+          "weight": 3
+        },
+        {
+          "from": 11116,
+          "to": 31067,
+          "weight": 13
+        },
+        {
+          "from": 9466,
+          "to": 31067,
+          "weight": 6
+        },
+        {
+          "from": 3655,
+          "to": 10534,
+          "weight": 11
+        },
+        {
+          "from": 10002,
+          "to": 31067,
+          "weight": 16
+        },
+        {
+          "from": 9466,
+          "to": 11116,
+          "weight": 7
+        },
+        {
+          "from": 3620,
+          "to": 9466,
+          "weight": 3
+        },
+        {
+          "from": 10534,
+          "to": 11116,
+          "weight": 16
+        },
+        {
+          "from": 11116,
+          "to": 22308,
+          "weight": 14
+        },
+        {
+          "from": 9974,
+          "to": 22308,
+          "weight": 7
+        },
+        {
+          "from": 10002,
+          "to": 10534,
+          "weight": 25
+        },
+        {
+          "from": 3620,
+          "to": 10002,
+          "weight": 5
+        },
+        {
+          "from": 11116,
+          "to": 22379,
+          "weight": 7
+        },
+        {
+          "from": 10002,
+          "to": 22379,
+          "weight": 13
+        },
+        {
+          "from": 9466,
+          "to": 10534,
+          "weight": 3
+        },
+        {
+          "from": 9481,
+          "to": 22308,
+          "weight": 3
+        },
+        {
+          "from": 9974,
+          "to": 10534,
+          "weight": 6
+        },
+        {
+          "from": 3655,
+          "to": 9466,
+          "weight": 3
+        },
+        {
+          "from": 10534,
+          "to": 31067,
+          "weight": 15
+        },
+        {
+          "from": 9974,
+          "to": 31067,
+          "weight": 9
+        },
+        {
+          "from": 9974,
+          "to": 11116,
+          "weight": 6
+        },
+        {
+          "from": 10534,
+          "to": 22308,
+          "weight": 8
+        },
+        {
+          "from": 3620,
+          "to": 10534,
+          "weight": 5
+        },
+        {
+          "from": 3620,
+          "to": 9481,
+          "weight": 5
+        },
+        {
+          "from": 9481,
+          "to": 10534,
+          "weight": 22
+        },
+        {
+          "from": 22379,
+          "to": 31067,
+          "weight": 7
+        },
+        {
+          "from": 22308,
+          "to": 31067,
+          "weight": 9
+        },
+        {
+          "from": 9481,
+          "to": 22379,
+          "weight": 4
+        },
+        {
+          "from": 9466,
+          "to": 22308,
+          "weight": 4
+        },
+        {
+          "from": 3655,
+          "to": 31067,
+          "weight": 5
+        },
+        {
+          "from": 10534,
+          "to": 22379,
+          "weight": 3
+        },
+        {
+          "from": 3620,
+          "to": 22308,
+          "weight": 4
+        },
+        {
+          "from": 10285,
+          "to": 22379,
+          "weight": 5
+        },
+        {
+          "from": 9478,
+          "to": 22379,
+          "weight": 5
+        },
+        {
+          "from": 9478,
+          "to": 10285,
+          "weight": 4
+        }
+      ]
+    }
+  }
+}

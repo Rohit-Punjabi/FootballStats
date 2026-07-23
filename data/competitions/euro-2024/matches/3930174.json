@@ -1,0 +1,900 @@
+{
+  "match_id": 3930174,
+  "shots": [
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 1,
+      "x": 104.7,
+      "y": 54.5,
+      "xg": 0.031,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Fernandes",
+      "team": "Portugal",
+      "minute": 3,
+      "x": 92.6,
+      "y": 41.8,
+      "xg": 0.041,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kerem Aktürkoglu",
+      "team": "Turkey",
+      "minute": 4,
+      "x": 107.8,
+      "y": 44.4,
+      "xg": 0.048,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kerem Aktürkoglu",
+      "team": "Turkey",
+      "minute": 5,
+      "x": 116.2,
+      "y": 36.6,
+      "xg": 0.45,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 7,
+      "x": 113.1,
+      "y": 34.1,
+      "xg": 0.063,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Rafael Leão",
+      "team": "Portugal",
+      "minute": 14,
+      "x": 108.6,
+      "y": 34.2,
+      "xg": 0.042,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Bernardo Silva",
+      "team": "Portugal",
+      "minute": 20,
+      "x": 108.8,
+      "y": 44.0,
+      "xg": 0.317,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Fernandes",
+      "team": "Portugal",
+      "minute": 23,
+      "x": 103.2,
+      "y": 29.7,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kerem Aktürkoglu",
+      "team": "Turkey",
+      "minute": 30,
+      "x": 110.9,
+      "y": 27.4,
+      "xg": 0.1,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Orkun Kökçü",
+      "team": "Turkey",
+      "minute": 31,
+      "x": 108.6,
+      "y": 51.3,
+      "xg": 0.062,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Hakan Çalhanoğlu",
+      "team": "Turkey",
+      "minute": 31,
+      "x": 99.0,
+      "y": 60.0,
+      "xg": 0.008,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bruno Fernandes",
+      "team": "Portugal",
+      "minute": 34,
+      "x": 104.7,
+      "y": 54.4,
+      "xg": 0.072,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 36,
+      "x": 101.7,
+      "y": 30.6,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Orkun Kökçü",
+      "team": "Turkey",
+      "minute": 40,
+      "x": 94.9,
+      "y": 32.7,
+      "xg": 0.039,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yusuf Yazıcı",
+      "team": "Turkey",
+      "minute": 52,
+      "x": 89.4,
+      "y": 55.2,
+      "xg": 0.006,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bruno Fernandes",
+      "team": "Portugal",
+      "minute": 55,
+      "x": 111.5,
+      "y": 36.3,
+      "xg": 0.852,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Yusuf Yazıcı",
+      "team": "Turkey",
+      "minute": 59,
+      "x": 99.9,
+      "y": 27.2,
+      "xg": 0.02,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kenan Yildiz",
+      "team": "Turkey",
+      "minute": 62,
+      "x": 97.1,
+      "y": 24.9,
+      "xg": 0.026,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "minute": 65,
+      "x": 113.1,
+      "y": 37.7,
+      "xg": 0.197,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Arda Güler",
+      "team": "Turkey",
+      "minute": 80,
+      "x": 91.0,
+      "y": 51.3,
+      "xg": 0.015,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bernardo Silva",
+      "team": "Portugal",
+      "minute": 89,
+      "x": 107.0,
+      "y": 35.5,
+      "xg": 0.168,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Arda Güler",
+      "team": "Turkey",
+      "minute": 90,
+      "x": 60.9,
+      "y": 25.6,
+      "xg": 0.004,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Rúben Neves",
+      "team": "Portugal",
+      "minute": 94,
+      "x": 93.8,
+      "y": 50.2,
+      "xg": 0.025,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Portugal": {
+      "nodes": [
+        {
+          "id": 5206,
+          "name": "Rúben Dias",
+          "x": 41.6,
+          "y": 60.2,
+          "passes": 90
+        },
+        {
+          "id": 20016,
+          "name": "Pepe",
+          "x": 44.0,
+          "y": 26.5,
+          "passes": 62
+        },
+        {
+          "id": 34639,
+          "name": "Vitinha",
+          "x": 56.6,
+          "y": 50.7,
+          "passes": 56
+        },
+        {
+          "id": 41092,
+          "name": "Nuno Mendes",
+          "x": 51.1,
+          "y": 9.8,
+          "passes": 54
+        },
+        {
+          "id": 3193,
+          "name": "Bernardo Silva",
+          "x": 72.7,
+          "y": 66.9,
+          "passes": 49
+        },
+        {
+          "id": 7005,
+          "name": "João Cancelo",
+          "x": 63.6,
+          "y": 70.7,
+          "passes": 48
+        },
+        {
+          "id": 32975,
+          "name": "Diogo Costa",
+          "x": 12.1,
+          "y": 41.1,
+          "passes": 40
+        },
+        {
+          "id": 5204,
+          "name": "Bruno Fernandes",
+          "x": 62.9,
+          "y": 33.6,
+          "passes": 33
+        },
+        {
+          "id": 9927,
+          "name": "Rúben Neves",
+          "x": 53.2,
+          "y": 43.3,
+          "passes": 30
+        },
+        {
+          "id": 12169,
+          "name": "João Palhinha",
+          "x": 50.4,
+          "y": 48.6,
+          "passes": 21
+        },
+        {
+          "id": 5207,
+          "name": "Cristiano Ronaldo",
+          "x": 87.2,
+          "y": 31.2,
+          "passes": 14
+        },
+        {
+          "id": 23256,
+          "name": "Pedro Neto",
+          "x": 67.7,
+          "y": 23.0,
+          "passes": 14
+        },
+        {
+          "id": 18360,
+          "name": "Rafael Leão",
+          "x": 75.1,
+          "y": 6.8,
+          "passes": 12
+        },
+        {
+          "id": 6374,
+          "name": "Nélson Semedo",
+          "x": 63.5,
+          "y": 76.3,
+          "passes": 7
+        }
+      ],
+      "edges": [
+        {
+          "from": 5204,
+          "to": 41092,
+          "weight": 10
+        },
+        {
+          "from": 3193,
+          "to": 41092,
+          "weight": 3
+        },
+        {
+          "from": 5206,
+          "to": 20016,
+          "weight": 19
+        },
+        {
+          "from": 20016,
+          "to": 41092,
+          "weight": 33
+        },
+        {
+          "from": 18360,
+          "to": 41092,
+          "weight": 19
+        },
+        {
+          "from": 5204,
+          "to": 18360,
+          "weight": 3
+        },
+        {
+          "from": 3193,
+          "to": 5204,
+          "weight": 8
+        },
+        {
+          "from": 3193,
+          "to": 5207,
+          "weight": 6
+        },
+        {
+          "from": 20016,
+          "to": 32975,
+          "weight": 15
+        },
+        {
+          "from": 7005,
+          "to": 12169,
+          "weight": 5
+        },
+        {
+          "from": 12169,
+          "to": 20016,
+          "weight": 8
+        },
+        {
+          "from": 5206,
+          "to": 12169,
+          "weight": 14
+        },
+        {
+          "from": 3193,
+          "to": 5206,
+          "weight": 25
+        },
+        {
+          "from": 3193,
+          "to": 7005,
+          "weight": 25
+        },
+        {
+          "from": 7005,
+          "to": 34639,
+          "weight": 15
+        },
+        {
+          "from": 5206,
+          "to": 34639,
+          "weight": 27
+        },
+        {
+          "from": 3193,
+          "to": 34639,
+          "weight": 13
+        },
+        {
+          "from": 5204,
+          "to": 34639,
+          "weight": 8
+        },
+        {
+          "from": 5206,
+          "to": 7005,
+          "weight": 28
+        },
+        {
+          "from": 5207,
+          "to": 18360,
+          "weight": 5
+        },
+        {
+          "from": 5204,
+          "to": 5207,
+          "weight": 7
+        },
+        {
+          "from": 5206,
+          "to": 32975,
+          "weight": 32
+        },
+        {
+          "from": 5207,
+          "to": 34639,
+          "weight": 6
+        },
+        {
+          "from": 5204,
+          "to": 20016,
+          "weight": 5
+        },
+        {
+          "from": 12169,
+          "to": 34639,
+          "weight": 9
+        },
+        {
+          "from": 20016,
+          "to": 34639,
+          "weight": 14
+        },
+        {
+          "from": 18360,
+          "to": 20016,
+          "weight": 5
+        },
+        {
+          "from": 5204,
+          "to": 5206,
+          "weight": 8
+        },
+        {
+          "from": 32975,
+          "to": 41092,
+          "weight": 13
+        },
+        {
+          "from": 5207,
+          "to": 41092,
+          "weight": 5
+        },
+        {
+          "from": 5204,
+          "to": 7005,
+          "weight": 5
+        },
+        {
+          "from": 34639,
+          "to": 41092,
+          "weight": 4
+        },
+        {
+          "from": 9927,
+          "to": 41092,
+          "weight": 7
+        },
+        {
+          "from": 5206,
+          "to": 9927,
+          "weight": 7
+        },
+        {
+          "from": 9927,
+          "to": 20016,
+          "weight": 9
+        },
+        {
+          "from": 7005,
+          "to": 9927,
+          "weight": 5
+        },
+        {
+          "from": 9927,
+          "to": 34639,
+          "weight": 6
+        },
+        {
+          "from": 5206,
+          "to": 23256,
+          "weight": 3
+        },
+        {
+          "from": 5204,
+          "to": 9927,
+          "weight": 4
+        },
+        {
+          "from": 23256,
+          "to": 41092,
+          "weight": 9
+        },
+        {
+          "from": 3193,
+          "to": 9927,
+          "weight": 10
+        },
+        {
+          "from": 5204,
+          "to": 23256,
+          "weight": 8
+        },
+        {
+          "from": 20016,
+          "to": 23256,
+          "weight": 3
+        },
+        {
+          "from": 32975,
+          "to": 34639,
+          "weight": 4
+        },
+        {
+          "from": 3193,
+          "to": 6374,
+          "weight": 3
+        },
+        {
+          "from": 6374,
+          "to": 9927,
+          "weight": 4
+        },
+        {
+          "from": 5206,
+          "to": 6374,
+          "weight": 3
+        },
+        {
+          "from": 5206,
+          "to": 41092,
+          "weight": 3
+        }
+      ]
+    },
+    "Turkey": {
+      "nodes": [
+        {
+          "id": 7039,
+          "name": "Hakan Çalhanoğlu",
+          "x": 61.4,
+          "y": 35.7,
+          "passes": 59
+        },
+        {
+          "id": 48383,
+          "name": "Abdülkerim Bardakcı",
+          "x": 36.4,
+          "y": 22.9,
+          "passes": 45
+        },
+        {
+          "id": 30438,
+          "name": "Ferdi Kadioglu",
+          "x": 62.4,
+          "y": 12.2,
+          "passes": 40
+        },
+        {
+          "id": 10349,
+          "name": "Zeki Celik",
+          "x": 65.1,
+          "y": 70.4,
+          "passes": 38
+        },
+        {
+          "id": 133305,
+          "name": "Samet Akaydin",
+          "x": 44.9,
+          "y": 56.8,
+          "passes": 35
+        },
+        {
+          "id": 30442,
+          "name": "Altay Bayındır",
+          "x": 11.5,
+          "y": 39.9,
+          "passes": 28
+        },
+        {
+          "id": 12293,
+          "name": "Kaan Ayhan",
+          "x": 56.9,
+          "y": 44.4,
+          "passes": 22
+        },
+        {
+          "id": 78241,
+          "name": "İsmail Yüksek",
+          "x": 48.9,
+          "y": 36.9,
+          "passes": 22
+        },
+        {
+          "id": 116587,
+          "name": "Arda Güler",
+          "x": 80.1,
+          "y": 56.0,
+          "passes": 20
+        },
+        {
+          "id": 134209,
+          "name": "Barış Alper Yılmaz",
+          "x": 80.2,
+          "y": 61.2,
+          "passes": 18
+        },
+        {
+          "id": 18723,
+          "name": "Yunus Akgün",
+          "x": 78.4,
+          "y": 67.7,
+          "passes": 15
+        },
+        {
+          "id": 29989,
+          "name": "Yusuf Yazıcı",
+          "x": 55.1,
+          "y": 57.5,
+          "passes": 13
+        },
+        {
+          "id": 151813,
+          "name": "Kenan Yildiz",
+          "x": 75.3,
+          "y": 19.7,
+          "passes": 12
+        },
+        {
+          "id": 23558,
+          "name": "Merih Demiral",
+          "x": 39.4,
+          "y": 55.8,
+          "passes": 9
+        }
+      ],
+      "edges": [
+        {
+          "from": 30442,
+          "to": 133305,
+          "weight": 14
+        },
+        {
+          "from": 7039,
+          "to": 30438,
+          "weight": 16
+        },
+        {
+          "from": 30438,
+          "to": 48383,
+          "weight": 19
+        },
+        {
+          "from": 30442,
+          "to": 48383,
+          "weight": 16
+        },
+        {
+          "from": 7039,
+          "to": 10349,
+          "weight": 8
+        },
+        {
+          "from": 7039,
+          "to": 18723,
+          "weight": 3
+        },
+        {
+          "from": 7039,
+          "to": 134209,
+          "weight": 7
+        },
+        {
+          "from": 10349,
+          "to": 133305,
+          "weight": 12
+        },
+        {
+          "from": 12293,
+          "to": 133305,
+          "weight": 14
+        },
+        {
+          "from": 12293,
+          "to": 18723,
+          "weight": 5
+        },
+        {
+          "from": 7039,
+          "to": 30442,
+          "weight": 4
+        },
+        {
+          "from": 7039,
+          "to": 48383,
+          "weight": 15
+        },
+        {
+          "from": 30438,
+          "to": 30442,
+          "weight": 8
+        },
+        {
+          "from": 7039,
+          "to": 12293,
+          "weight": 9
+        },
+        {
+          "from": 10349,
+          "to": 12293,
+          "weight": 3
+        },
+        {
+          "from": 7039,
+          "to": 133305,
+          "weight": 11
+        },
+        {
+          "from": 48383,
+          "to": 133305,
+          "weight": 3
+        },
+        {
+          "from": 10349,
+          "to": 18723,
+          "weight": 9
+        },
+        {
+          "from": 10349,
+          "to": 134209,
+          "weight": 9
+        },
+        {
+          "from": 18723,
+          "to": 134209,
+          "weight": 5
+        },
+        {
+          "from": 12293,
+          "to": 48383,
+          "weight": 5
+        },
+        {
+          "from": 18723,
+          "to": 133305,
+          "weight": 5
+        },
+        {
+          "from": 10349,
+          "to": 30442,
+          "weight": 3
+        },
+        {
+          "from": 10349,
+          "to": 29989,
+          "weight": 7
+        },
+        {
+          "from": 29989,
+          "to": 48383,
+          "weight": 3
+        },
+        {
+          "from": 7039,
+          "to": 29989,
+          "weight": 4
+        },
+        {
+          "from": 18723,
+          "to": 29989,
+          "weight": 3
+        },
+        {
+          "from": 7039,
+          "to": 78241,
+          "weight": 7
+        },
+        {
+          "from": 30438,
+          "to": 151813,
+          "weight": 6
+        },
+        {
+          "from": 78241,
+          "to": 151813,
+          "weight": 5
+        },
+        {
+          "from": 78241,
+          "to": 133305,
+          "weight": 5
+        },
+        {
+          "from": 30438,
+          "to": 78241,
+          "weight": 6
+        },
+        {
+          "from": 7039,
+          "to": 151813,
+          "weight": 6
+        },
+        {
+          "from": 48383,
+          "to": 78241,
+          "weight": 6
+        },
+        {
+          "from": 116587,
+          "to": 134209,
+          "weight": 8
+        },
+        {
+          "from": 10349,
+          "to": 78241,
+          "weight": 4
+        },
+        {
+          "from": 29989,
+          "to": 116587,
+          "weight": 4
+        },
+        {
+          "from": 23558,
+          "to": 116587,
+          "weight": 4
+        },
+        {
+          "from": 7039,
+          "to": 23558,
+          "weight": 3
+        },
+        {
+          "from": 7039,
+          "to": 116587,
+          "weight": 8
+        },
+        {
+          "from": 10349,
+          "to": 116587,
+          "weight": 8
+        },
+        {
+          "from": 116587,
+          "to": 151813,
+          "weight": 5
+        },
+        {
+          "from": 23558,
+          "to": 78241,
+          "weight": 5
+        }
+      ]
+    }
+  }
+}

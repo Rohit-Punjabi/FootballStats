@@ -31,6 +31,7 @@ COMPETITIONS_INDEX = DATA_DIR / "competitions.json"
 # site — no code changes needed. Names must match StatsBomb's `sb.competitions()`.
 COMPETITIONS: list[dict[str, str]] = [
     {"competition_name": "FIFA World Cup", "season_name": "2022"},
+    {"competition_name": "UEFA Euro", "season_name": "2024"},             # Spain champions
     {"competition_name": "Copa America", "season_name": "2024"},
 ]
 

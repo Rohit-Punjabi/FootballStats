@@ -1,0 +1,980 @@
+{
+  "match_id": 3930168,
+  "shots": [
+    {
+      "player": "Roland Sallai",
+      "team": "Hungary",
+      "minute": 0,
+      "x": 113.3,
+      "y": 35.8,
+      "xg": 0.434,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 4,
+      "x": 101.1,
+      "y": 50.7,
+      "xg": 0.072,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bendegúz Bolla",
+      "team": "Hungary",
+      "minute": 5,
+      "x": 109.3,
+      "y": 54.7,
+      "xg": 0.042,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "minute": 10,
+      "x": 114.9,
+      "y": 48.7,
+      "xg": 0.176,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Robert Andrich",
+      "team": "Germany",
+      "minute": 11,
+      "x": 109.2,
+      "y": 48.8,
+      "xg": 0.059,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Roland Sallai",
+      "team": "Hungary",
+      "minute": 14,
+      "x": 101.3,
+      "y": 38.3,
+      "xg": 0.06,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 21,
+      "x": 111.1,
+      "y": 36.9,
+      "xg": 0.177,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dominik Szoboszlai",
+      "team": "Hungary",
+      "minute": 25,
+      "x": 95.7,
+      "y": 21.5,
+      "xg": 0.011,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Barnabás Varga",
+      "team": "Hungary",
+      "minute": 25,
+      "x": 120.0,
+      "y": 34.2,
+      "xg": 0.017,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 26,
+      "x": 103.4,
+      "y": 42.8,
+      "xg": 0.077,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Dominik Szoboszlai",
+      "team": "Hungary",
+      "minute": 28,
+      "x": 107.1,
+      "y": 32.0,
+      "xg": 0.062,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Bendegúz Bolla",
+      "team": "Hungary",
+      "minute": 29,
+      "x": 99.3,
+      "y": 51.3,
+      "xg": 0.027,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Maximilian Mittelstädt",
+      "team": "Germany",
+      "minute": 36,
+      "x": 98.4,
+      "y": 43.3,
+      "xg": 0.036,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Florian Wirtz",
+      "team": "Germany",
+      "minute": 41,
+      "x": 97.9,
+      "y": 58.4,
+      "xg": 0.009,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 43,
+      "x": 102.8,
+      "y": 49.0,
+      "xg": 0.057,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Antonio Rüdiger",
+      "team": "Germany",
+      "minute": 45,
+      "x": 90.2,
+      "y": 56.9,
+      "xg": 0.007,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Toni Kroos",
+      "team": "Germany",
+      "minute": 54,
+      "x": 99.5,
+      "y": 44.2,
+      "xg": 0.057,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dominik Szoboszlai",
+      "team": "Hungary",
+      "minute": 57,
+      "x": 100.1,
+      "y": 56.9,
+      "xg": 0.016,
+      "outcome": "Wayward",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Roland Sallai",
+      "team": "Hungary",
+      "minute": 57,
+      "x": 107.7,
+      "y": 39.4,
+      "xg": 0.086,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Barnabás Varga",
+      "team": "Hungary",
+      "minute": 59,
+      "x": 113.5,
+      "y": 42.2,
+      "xg": 0.188,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Jamal Musiala",
+      "team": "Germany",
+      "minute": 61,
+      "x": 96.7,
+      "y": 35.8,
+      "xg": 0.037,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "İlkay Gündoğan",
+      "team": "Germany",
+      "minute": 66,
+      "x": 107.9,
+      "y": 35.3,
+      "xg": 0.224,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 68,
+      "x": 112.0,
+      "y": 56.5,
+      "xg": 0.015,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Joshua Kimmich",
+      "team": "Germany",
+      "minute": 73,
+      "x": 107.3,
+      "y": 48.4,
+      "xg": 0.112,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Leroy Sané",
+      "team": "Germany",
+      "minute": 74,
+      "x": 98.8,
+      "y": 47.3,
+      "xg": 0.031,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Leroy Sané",
+      "team": "Germany",
+      "minute": 76,
+      "x": 88.7,
+      "y": 42.1,
+      "xg": 0.029,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Chris Führich",
+      "team": "Germany",
+      "minute": 80,
+      "x": 111.4,
+      "y": 24.3,
+      "xg": 0.027,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Niclas Füllkrug",
+      "team": "Germany",
+      "minute": 86,
+      "x": 113.5,
+      "y": 40.6,
+      "xg": 0.228,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Leroy Sané",
+      "team": "Germany",
+      "minute": 87,
+      "x": 106.4,
+      "y": 51.1,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Willi Orban",
+      "team": "Hungary",
+      "minute": 89,
+      "x": 112.1,
+      "y": 38.3,
+      "xg": 0.284,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "Germany": {
+      "nodes": [
+        {
+          "id": 5574,
+          "name": "Toni Kroos",
+          "x": 63.2,
+          "y": 32.3,
+          "passes": 125
+        },
+        {
+          "id": 3167,
+          "name": "Antonio Rüdiger",
+          "x": 57.5,
+          "y": 58.1,
+          "passes": 90
+        },
+        {
+          "id": 8221,
+          "name": "Jonathan Tah",
+          "x": 56.6,
+          "y": 37.6,
+          "passes": 89
+        },
+        {
+          "id": 5579,
+          "name": "Joshua Kimmich",
+          "x": 72.5,
+          "y": 67.6,
+          "passes": 75
+        },
+        {
+          "id": 12407,
+          "name": "Maximilian Mittelstädt",
+          "x": 68.0,
+          "y": 12.7,
+          "passes": 54
+        },
+        {
+          "id": 40724,
+          "name": "Florian Wirtz",
+          "x": 80.3,
+          "y": 39.4,
+          "passes": 51
+        },
+        {
+          "id": 9195,
+          "name": "Robert Andrich",
+          "x": 66.1,
+          "y": 40.9,
+          "passes": 45
+        },
+        {
+          "id": 10287,
+          "name": "İlkay Gündoğan",
+          "x": 77.2,
+          "y": 40.4,
+          "passes": 39
+        },
+        {
+          "id": 39565,
+          "name": "Jamal Musiala",
+          "x": 77.5,
+          "y": 35.3,
+          "passes": 39
+        },
+        {
+          "id": 5570,
+          "name": "Manuel Neuer",
+          "x": 19.7,
+          "y": 41.0,
+          "passes": 20
+        },
+        {
+          "id": 3493,
+          "name": "Emre Can",
+          "x": 65.9,
+          "y": 44.6,
+          "passes": 17
+        },
+        {
+          "id": 8966,
+          "name": "Kai Havertz",
+          "x": 78.6,
+          "y": 53.1,
+          "passes": 13
+        },
+        {
+          "id": 23614,
+          "name": "Chris Führich",
+          "x": 79.9,
+          "y": 21.7,
+          "passes": 13
+        },
+        {
+          "id": 3053,
+          "name": "Leroy Sané",
+          "x": 94.7,
+          "y": 65.6,
+          "passes": 12
+        }
+      ],
+      "edges": [
+        {
+          "from": 5579,
+          "to": 39565,
+          "weight": 12
+        },
+        {
+          "from": 5579,
+          "to": 9195,
+          "weight": 6
+        },
+        {
+          "from": 8966,
+          "to": 9195,
+          "weight": 4
+        },
+        {
+          "from": 8221,
+          "to": 12407,
+          "weight": 16
+        },
+        {
+          "from": 5574,
+          "to": 8221,
+          "weight": 44
+        },
+        {
+          "from": 5574,
+          "to": 12407,
+          "weight": 28
+        },
+        {
+          "from": 3167,
+          "to": 8221,
+          "weight": 48
+        },
+        {
+          "from": 3167,
+          "to": 8966,
+          "weight": 5
+        },
+        {
+          "from": 12407,
+          "to": 40724,
+          "weight": 10
+        },
+        {
+          "from": 3167,
+          "to": 5574,
+          "weight": 29
+        },
+        {
+          "from": 5574,
+          "to": 40724,
+          "weight": 28
+        },
+        {
+          "from": 8221,
+          "to": 10287,
+          "weight": 9
+        },
+        {
+          "from": 3167,
+          "to": 10287,
+          "weight": 4
+        },
+        {
+          "from": 10287,
+          "to": 39565,
+          "weight": 9
+        },
+        {
+          "from": 8221,
+          "to": 39565,
+          "weight": 10
+        },
+        {
+          "from": 3167,
+          "to": 5579,
+          "weight": 45
+        },
+        {
+          "from": 5570,
+          "to": 5574,
+          "weight": 5
+        },
+        {
+          "from": 5574,
+          "to": 10287,
+          "weight": 22
+        },
+        {
+          "from": 10287,
+          "to": 12407,
+          "weight": 10
+        },
+        {
+          "from": 9195,
+          "to": 40724,
+          "weight": 14
+        },
+        {
+          "from": 3167,
+          "to": 39565,
+          "weight": 5
+        },
+        {
+          "from": 5579,
+          "to": 8966,
+          "weight": 6
+        },
+        {
+          "from": 3167,
+          "to": 5570,
+          "weight": 10
+        },
+        {
+          "from": 5574,
+          "to": 39565,
+          "weight": 17
+        },
+        {
+          "from": 5574,
+          "to": 9195,
+          "weight": 27
+        },
+        {
+          "from": 39565,
+          "to": 40724,
+          "weight": 4
+        },
+        {
+          "from": 10287,
+          "to": 40724,
+          "weight": 6
+        },
+        {
+          "from": 9195,
+          "to": 12407,
+          "weight": 6
+        },
+        {
+          "from": 5574,
+          "to": 5579,
+          "weight": 15
+        },
+        {
+          "from": 5574,
+          "to": 8966,
+          "weight": 5
+        },
+        {
+          "from": 8966,
+          "to": 39565,
+          "weight": 4
+        },
+        {
+          "from": 5570,
+          "to": 12407,
+          "weight": 4
+        },
+        {
+          "from": 5570,
+          "to": 5579,
+          "weight": 6
+        },
+        {
+          "from": 5579,
+          "to": 40724,
+          "weight": 12
+        },
+        {
+          "from": 8966,
+          "to": 40724,
+          "weight": 6
+        },
+        {
+          "from": 5579,
+          "to": 8221,
+          "weight": 3
+        },
+        {
+          "from": 12407,
+          "to": 39565,
+          "weight": 16
+        },
+        {
+          "from": 8221,
+          "to": 9195,
+          "weight": 13
+        },
+        {
+          "from": 8221,
+          "to": 40724,
+          "weight": 14
+        },
+        {
+          "from": 9195,
+          "to": 39565,
+          "weight": 7
+        },
+        {
+          "from": 3167,
+          "to": 9195,
+          "weight": 4
+        },
+        {
+          "from": 3167,
+          "to": 40724,
+          "weight": 10
+        },
+        {
+          "from": 5579,
+          "to": 10287,
+          "weight": 10
+        },
+        {
+          "from": 9195,
+          "to": 10287,
+          "weight": 7
+        },
+        {
+          "from": 5570,
+          "to": 8221,
+          "weight": 5
+        },
+        {
+          "from": 5570,
+          "to": 39565,
+          "weight": 3
+        },
+        {
+          "from": 5579,
+          "to": 12407,
+          "weight": 3
+        },
+        {
+          "from": 3053,
+          "to": 5579,
+          "weight": 14
+        },
+        {
+          "from": 3053,
+          "to": 3167,
+          "weight": 3
+        },
+        {
+          "from": 3053,
+          "to": 5574,
+          "weight": 6
+        },
+        {
+          "from": 3493,
+          "to": 12407,
+          "weight": 3
+        },
+        {
+          "from": 3493,
+          "to": 5574,
+          "weight": 8
+        },
+        {
+          "from": 3493,
+          "to": 5579,
+          "weight": 9
+        },
+        {
+          "from": 3493,
+          "to": 23614,
+          "weight": 3
+        },
+        {
+          "from": 8221,
+          "to": 23614,
+          "weight": 3
+        },
+        {
+          "from": 3493,
+          "to": 8221,
+          "weight": 3
+        },
+        {
+          "from": 3167,
+          "to": 3493,
+          "weight": 6
+        },
+        {
+          "from": 5574,
+          "to": 23614,
+          "weight": 9
+        },
+        {
+          "from": 12407,
+          "to": 23614,
+          "weight": 4
+        },
+        {
+          "from": 3053,
+          "to": 10287,
+          "weight": 4
+        }
+      ]
+    },
+    "Hungary": {
+      "nodes": [
+        {
+          "id": 21209,
+          "name": "Dominik Szoboszlai",
+          "x": 59.8,
+          "y": 60.0,
+          "passes": 33
+        },
+        {
+          "id": 8524,
+          "name": "Péter Gulácsi",
+          "x": 11.7,
+          "y": 42.2,
+          "passes": 31
+        },
+        {
+          "id": 40920,
+          "name": "Márton Dárdai",
+          "x": 32.6,
+          "y": 18.3,
+          "passes": 31
+        },
+        {
+          "id": 42822,
+          "name": "András Schäfer",
+          "x": 44.0,
+          "y": 31.6,
+          "passes": 29
+        },
+        {
+          "id": 8509,
+          "name": "Willi Orban",
+          "x": 32.8,
+          "y": 49.9,
+          "passes": 28
+        },
+        {
+          "id": 11268,
+          "name": "Attila Fiola",
+          "x": 40.8,
+          "y": 69.8,
+          "passes": 22
+        },
+        {
+          "id": 89635,
+          "name": "Milos Kerkez",
+          "x": 52.8,
+          "y": 11.9,
+          "passes": 20
+        },
+        {
+          "id": 46789,
+          "name": "Bendegúz Bolla",
+          "x": 66.8,
+          "y": 72.0,
+          "passes": 17
+        },
+        {
+          "id": 19316,
+          "name": "Roland Sallai",
+          "x": 64.4,
+          "y": 31.0,
+          "passes": 16
+        },
+        {
+          "id": 7162,
+          "name": "Ádám Nagy",
+          "x": 46.2,
+          "y": 54.1,
+          "passes": 14
+        },
+        {
+          "id": 12921,
+          "name": "Barnabás Varga",
+          "x": 48.0,
+          "y": 42.7,
+          "passes": 11
+        },
+        {
+          "id": 16502,
+          "name": "László Kleinheisler",
+          "x": 41.2,
+          "y": 37.0,
+          "passes": 3
+        },
+        {
+          "id": 50329,
+          "name": "Dániel Gazdag",
+          "x": 58.0,
+          "y": 63.5,
+          "passes": 3
+        },
+        {
+          "id": 73886,
+          "name": "Zsolt Nagy",
+          "x": 59.9,
+          "y": 9.5,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 21209,
+          "to": 46789,
+          "weight": 8
+        },
+        {
+          "from": 7162,
+          "to": 21209,
+          "weight": 7
+        },
+        {
+          "from": 11268,
+          "to": 21209,
+          "weight": 8
+        },
+        {
+          "from": 40920,
+          "to": 89635,
+          "weight": 17
+        },
+        {
+          "from": 19316,
+          "to": 89635,
+          "weight": 7
+        },
+        {
+          "from": 19316,
+          "to": 40920,
+          "weight": 4
+        },
+        {
+          "from": 19316,
+          "to": 42822,
+          "weight": 6
+        },
+        {
+          "from": 21209,
+          "to": 42822,
+          "weight": 11
+        },
+        {
+          "from": 19316,
+          "to": 21209,
+          "weight": 8
+        },
+        {
+          "from": 8524,
+          "to": 12921,
+          "weight": 3
+        },
+        {
+          "from": 7162,
+          "to": 46789,
+          "weight": 5
+        },
+        {
+          "from": 12921,
+          "to": 46789,
+          "weight": 8
+        },
+        {
+          "from": 11268,
+          "to": 46789,
+          "weight": 5
+        },
+        {
+          "from": 8509,
+          "to": 11268,
+          "weight": 12
+        },
+        {
+          "from": 7162,
+          "to": 40920,
+          "weight": 4
+        },
+        {
+          "from": 8509,
+          "to": 40920,
+          "weight": 14
+        },
+        {
+          "from": 8524,
+          "to": 40920,
+          "weight": 12
+        },
+        {
+          "from": 8524,
+          "to": 11268,
+          "weight": 6
+        },
+        {
+          "from": 11268,
+          "to": 12921,
+          "weight": 3
+        },
+        {
+          "from": 40920,
+          "to": 42822,
+          "weight": 7
+        },
+        {
+          "from": 8509,
+          "to": 42822,
+          "weight": 7
+        },
+        {
+          "from": 12921,
+          "to": 19316,
+          "weight": 5
+        },
+        {
+          "from": 11268,
+          "to": 19316,
+          "weight": 3
+        },
+        {
+          "from": 7162,
+          "to": 11268,
+          "weight": 6
+        },
+        {
+          "from": 8524,
+          "to": 42822,
+          "weight": 9
+        },
+        {
+          "from": 42822,
+          "to": 89635,
+          "weight": 8
+        },
+        {
+          "from": 21209,
+          "to": 89635,
+          "weight": 4
+        },
+        {
+          "from": 8509,
+          "to": 21209,
+          "weight": 3
+        },
+        {
+          "from": 12921,
+          "to": 21209,
+          "weight": 4
+        },
+        {
+          "from": 8509,
+          "to": 12921,
+          "weight": 3
+        },
+        {
+          "from": 8524,
+          "to": 21209,
+          "weight": 5
+        },
+        {
+          "from": 8509,
+          "to": 8524,
+          "weight": 5
+        },
+        {
+          "from": 42822,
+          "to": 73886,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

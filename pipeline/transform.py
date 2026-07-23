@@ -195,6 +195,70 @@ def find_champion(matches: list[dict], events: pd.DataFrame) -> str | None:
     return counts.index[0] if len(counts) else None
 
 
+def detect_club(matches: list[dict]) -> tuple[bool, str | None]:
+    """A single-club season if one team appears in >= 80% of matches."""
+    apps: dict[str, int] = defaultdict(int)
+    for m in matches:
+        apps[m["home_team"]] += 1
+        apps[m["away_team"]] += 1
+    if not apps:
+        return False, None
+    club, n = max(apps.items(), key=lambda kv: kv[1])
+    return (n / len(matches) >= 0.8), club
+
+
+def club_record(club: str, matches: list[dict]) -> dict:
+    """The club's league record: played, W/D/L, goals for/against, points."""
+    w = d = l = gf = ga = played = 0
+    for m in matches:
+        if club == m["home_team"]:
+            mine, theirs = m["home_score"], m["away_score"]
+        elif club == m["away_team"]:
+            mine, theirs = m["away_score"], m["home_score"]
+        else:
+            continue
+        if mine is None or theirs is None:
+            continue
+        played += 1
+        gf += mine
+        ga += theirs
+        if mine > theirs:
+            w += 1
+        elif mine == theirs:
+            d += 1
+        else:
+            l += 1
+    return {"played": played, "w": w, "d": d, "l": l, "gf": gf, "ga": ga, "points": 3 * w + d}
+
+
+def compute_standings(matches: list[dict], teams: list[dict]) -> list[dict]:
+    """League table for every team: P/W/D/L/GF/GA/GD/Pts, sorted (pts, gd, gf)."""
+    table = {t["name"]: {"team": t["name"], "id": t["id"], "p": 0, "w": 0, "d": 0,
+                         "l": 0, "gf": 0, "ga": 0, "pts": 0} for t in teams}
+    for m in matches:
+        h, a, hs, as_ = m["home_team"], m["away_team"], m["home_score"], m["away_score"]
+        if h not in table or a not in table or hs is None or as_ is None:
+            continue
+        for team, gf, ga in ((h, hs, as_), (a, as_, hs)):
+            s = table[team]
+            s["p"] += 1
+            s["gf"] += gf
+            s["ga"] += ga
+            if gf > ga:
+                s["w"] += 1
+                s["pts"] += 3
+            elif gf == ga:
+                s["d"] += 1
+                s["pts"] += 1
+            else:
+                s["l"] += 1
+    rows = list(table.values())
+    for s in rows:
+        s["gd"] = s["gf"] - s["ga"]
+    rows.sort(key=lambda s: (-s["pts"], -s["gd"], -s["gf"], s["team"]))
+    return rows
+
+
 def process_competition(slug: str) -> dict:
     meta = config.read_json(config.raw_dir(slug) / "meta.json")
     raw_matches = config.read_json(config.raw_dir(slug) / "matches.json")
@@ -210,19 +274,40 @@ def process_competition(slug: str) -> dict:
     stadiums = build_stadiums(matches)
     build_match_details(slug, events, nicknames)
 
-    champion = find_champion(matches, events)
     top = players[0] if players else None
-    final = next((m for m in matches if (m["stage"] or "").lower() == "final"), None)
+
+    # Classify the competition:
+    #   club       - one team in ~all matches (single-club dataset)
+    #   tournament - has a knockout Final (World Cup, Copa, ...)
+    #   league     - full round-robin; champion is the table topper
+    is_club, club = detect_club(matches)
+    has_final = any((m["stage"] or "").lower() == "final" for m in matches)
+    standings = None
+    if is_club:
+        comp_type, record, champion, final = "club", club_record(club, matches), None, None
+    elif not has_final:
+        comp_type, record, club, final = "league", None, None, None
+        standings = compute_standings(matches, teams)
+        champion = standings[0]["team"] if standings else None
+    else:
+        comp_type, record, club = "tournament", None, None
+        champion = find_champion(matches, events)
+        final = next((m for m in matches if (m["stage"] or "").lower() == "final"), None)
 
     out = config.clean_dir(slug)
     config.write_json(out / "matches.json", matches)
     config.write_json(out / "teams.json", teams)
     config.write_json(out / "players.json", players)
     config.write_json(out / "stadiums.json", stadiums)
+    if standings is not None:
+        config.write_json(out / "standings.json", standings)
 
     summary = {
         **meta,
         "slug": slug,  # authoritative; older raw meta.json may predate this field
+        "type": comp_type,
+        "club": club,
+        "record": record,
         "team_count": len(teams),
         "player_count": len(players),
         "goal_count": sum(p["goals"] for p in players),
@@ -232,7 +317,8 @@ def process_competition(slug: str) -> dict:
                        "goals": top["goals"]} if top else None,
     }
     config.write_json(out / "meta.json", summary)
-    print(f"    champion: {champion} | golden boot: "
+    headline = f"club: {club} {record['w']}-{record['d']}-{record['l']}" if is_club else f"champion: {champion}"
+    print(f"    {headline} | top scorer: "
           f"{top['name'] if top else '-'} ({top['goals'] if top else 0})")
     return summary
 

@@ -1,0 +1,913 @@
+{
+  "match_id": 3938643,
+  "shots": [
+    {
+      "player": "Piotr Zieliński",
+      "team": "Poland",
+      "minute": 5,
+      "x": 93.9,
+      "y": 38.9,
+      "xg": 0.022,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Theo Hernández",
+      "team": "France",
+      "minute": 10,
+      "x": 112.6,
+      "y": 27.2,
+      "xg": 0.083,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Sebastian Szymański",
+      "team": "Poland",
+      "minute": 13,
+      "x": 104.2,
+      "y": 25.1,
+      "xg": 0.054,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kacper Urbanski",
+      "team": "Poland",
+      "minute": 14,
+      "x": 106.1,
+      "y": 38.3,
+      "xg": 0.07,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Jakub Moder",
+      "team": "Poland",
+      "minute": 16,
+      "x": 89.7,
+      "y": 27.9,
+      "xg": 0.016,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ousmane Dembélé",
+      "team": "France",
+      "minute": 18,
+      "x": 111.9,
+      "y": 50.0,
+      "xg": 0.245,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 33,
+      "x": 109.8,
+      "y": 43.8,
+      "xg": 0.082,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Aurélien Tchouaméni",
+      "team": "France",
+      "minute": 35,
+      "x": 87.3,
+      "y": 30.0,
+      "xg": 0.014,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Aurélien Tchouaméni",
+      "team": "France",
+      "minute": 37,
+      "x": 99.1,
+      "y": 41.7,
+      "xg": 0.051,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "William Saliba",
+      "team": "France",
+      "minute": 37,
+      "x": 107.3,
+      "y": 39.0,
+      "xg": 0.046,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 38,
+      "x": 87.5,
+      "y": 38.4,
+      "xg": 0.017,
+      "outcome": "Wayward",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "minute": 41,
+      "x": 115.6,
+      "y": 29.2,
+      "xg": 0.119,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dayotchanculle Upamecano",
+      "team": "France",
+      "minute": 41,
+      "x": 112.3,
+      "y": 37.3,
+      "xg": 0.092,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "minute": 44,
+      "x": 117.6,
+      "y": 29.5,
+      "xg": 0.033,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "N'Golo Kanté",
+      "team": "France",
+      "minute": 47,
+      "x": 100.2,
+      "y": 42.3,
+      "xg": 0.066,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "minute": 48,
+      "x": 103.5,
+      "y": 23.3,
+      "xg": 0.034,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "minute": 48,
+      "x": 100.0,
+      "y": 24.9,
+      "xg": 0.03,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ousmane Dembélé",
+      "team": "France",
+      "minute": 50,
+      "x": 105.4,
+      "y": 60.0,
+      "xg": 0.007,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "minute": 55,
+      "x": 108.1,
+      "y": 40.1,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Bradley Barcola",
+      "team": "France",
+      "minute": 58,
+      "x": 116.6,
+      "y": 27.4,
+      "xg": 0.02,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Antoine Griezmann",
+      "team": "France",
+      "minute": 65,
+      "x": 95.3,
+      "y": 45.7,
+      "xg": 0.044,
+      "outcome": "Blocked",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 71,
+      "x": 92.6,
+      "y": 31.8,
+      "xg": 0.024,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 78,
+      "x": 108.0,
+      "y": 40.0,
+      "xg": 0.783,
+      "outcome": "Goal",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Robert Lewandowski",
+      "team": "Poland",
+      "minute": 81,
+      "x": 108.7,
+      "y": 26.8,
+      "xg": 0.082,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Kacper Urbanski",
+      "team": "Poland",
+      "minute": 83,
+      "x": 95.5,
+      "y": 32.7,
+      "xg": 0.028,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 84,
+      "x": 107.7,
+      "y": 41.7,
+      "xg": 0.102,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Olivier Giroud",
+      "team": "France",
+      "minute": 86,
+      "x": 110.2,
+      "y": 38.3,
+      "xg": 0.055,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Youssouf Fofana",
+      "team": "France",
+      "minute": 86,
+      "x": 94.4,
+      "y": 28.8,
+      "xg": 0.023,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "minute": 91,
+      "x": 100.9,
+      "y": 29.8,
+      "xg": 0.044,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    }
+  ],
+  "networks": {
+    "France": {
+      "nodes": [
+        {
+          "id": 6704,
+          "name": "Theo Hernández",
+          "x": 69.9,
+          "y": 10.2,
+          "passes": 91
+        },
+        {
+          "id": 4445,
+          "name": "Jules Koundé",
+          "x": 66.4,
+          "y": 68.2,
+          "passes": 58
+        },
+        {
+          "id": 17592,
+          "name": "William Saliba",
+          "x": 41.5,
+          "y": 27.6,
+          "passes": 50
+        },
+        {
+          "id": 3009,
+          "name": "Kylian Mbappé",
+          "x": 89.1,
+          "y": 25.1,
+          "passes": 46
+        },
+        {
+          "id": 8519,
+          "name": "Dayotchanculle Upamecano",
+          "x": 39.5,
+          "y": 57.8,
+          "passes": 44
+        },
+        {
+          "id": 10481,
+          "name": "Aurélien Tchouaméni",
+          "x": 63.6,
+          "y": 29.9,
+          "passes": 42
+        },
+        {
+          "id": 3026,
+          "name": "Adrien Rabiot",
+          "x": 69.9,
+          "y": 21.0,
+          "passes": 37
+        },
+        {
+          "id": 3961,
+          "name": "N'Golo Kanté",
+          "x": 76.8,
+          "y": 55.9,
+          "passes": 37
+        },
+        {
+          "id": 5477,
+          "name": "Ousmane Dembélé",
+          "x": 92.4,
+          "y": 57.8,
+          "passes": 31
+        },
+        {
+          "id": 3761,
+          "name": "Mike Maignan",
+          "x": 16.2,
+          "y": 41.2,
+          "passes": 23
+        },
+        {
+          "id": 39420,
+          "name": "Bradley Barcola",
+          "x": 88.2,
+          "y": 8.7,
+          "passes": 21
+        },
+        {
+          "id": 24778,
+          "name": "Eduardo Camavinga",
+          "x": 69.2,
+          "y": 24.0,
+          "passes": 11
+        },
+        {
+          "id": 5487,
+          "name": "Antoine Griezmann",
+          "x": 78.4,
+          "y": 36.8,
+          "passes": 7
+        },
+        {
+          "id": 11990,
+          "name": "Youssouf Fofana",
+          "x": 61.9,
+          "y": 27.4,
+          "passes": 7
+        }
+      ],
+      "edges": [
+        {
+          "from": 10481,
+          "to": 17592,
+          "weight": 10
+        },
+        {
+          "from": 5477,
+          "to": 6704,
+          "weight": 5
+        },
+        {
+          "from": 3009,
+          "to": 6704,
+          "weight": 42
+        },
+        {
+          "from": 3009,
+          "to": 10481,
+          "weight": 8
+        },
+        {
+          "from": 3026,
+          "to": 10481,
+          "weight": 9
+        },
+        {
+          "from": 3009,
+          "to": 3026,
+          "weight": 10
+        },
+        {
+          "from": 3961,
+          "to": 39420,
+          "weight": 3
+        },
+        {
+          "from": 3961,
+          "to": 5477,
+          "weight": 22
+        },
+        {
+          "from": 4445,
+          "to": 5477,
+          "weight": 27
+        },
+        {
+          "from": 3961,
+          "to": 4445,
+          "weight": 21
+        },
+        {
+          "from": 6704,
+          "to": 10481,
+          "weight": 24
+        },
+        {
+          "from": 8519,
+          "to": 17592,
+          "weight": 22
+        },
+        {
+          "from": 4445,
+          "to": 8519,
+          "weight": 17
+        },
+        {
+          "from": 3961,
+          "to": 17592,
+          "weight": 3
+        },
+        {
+          "from": 6704,
+          "to": 17592,
+          "weight": 25
+        },
+        {
+          "from": 3009,
+          "to": 39420,
+          "weight": 11
+        },
+        {
+          "from": 6704,
+          "to": 39420,
+          "weight": 18
+        },
+        {
+          "from": 10481,
+          "to": 39420,
+          "weight": 5
+        },
+        {
+          "from": 4445,
+          "to": 10481,
+          "weight": 11
+        },
+        {
+          "from": 3961,
+          "to": 6704,
+          "weight": 4
+        },
+        {
+          "from": 3761,
+          "to": 6704,
+          "weight": 4
+        },
+        {
+          "from": 3026,
+          "to": 6704,
+          "weight": 27
+        },
+        {
+          "from": 3026,
+          "to": 17592,
+          "weight": 6
+        },
+        {
+          "from": 3009,
+          "to": 3961,
+          "weight": 7
+        },
+        {
+          "from": 3009,
+          "to": 5477,
+          "weight": 9
+        },
+        {
+          "from": 3761,
+          "to": 8519,
+          "weight": 16
+        },
+        {
+          "from": 3761,
+          "to": 17592,
+          "weight": 10
+        },
+        {
+          "from": 3026,
+          "to": 39420,
+          "weight": 10
+        },
+        {
+          "from": 3761,
+          "to": 4445,
+          "weight": 6
+        },
+        {
+          "from": 3026,
+          "to": 3961,
+          "weight": 4
+        },
+        {
+          "from": 3009,
+          "to": 17592,
+          "weight": 3
+        },
+        {
+          "from": 4445,
+          "to": 17592,
+          "weight": 5
+        },
+        {
+          "from": 3961,
+          "to": 10481,
+          "weight": 8
+        },
+        {
+          "from": 3009,
+          "to": 4445,
+          "weight": 6
+        },
+        {
+          "from": 3026,
+          "to": 4445,
+          "weight": 6
+        },
+        {
+          "from": 8519,
+          "to": 10481,
+          "weight": 4
+        },
+        {
+          "from": 5477,
+          "to": 8519,
+          "weight": 3
+        },
+        {
+          "from": 6704,
+          "to": 8519,
+          "weight": 6
+        },
+        {
+          "from": 6704,
+          "to": 24778,
+          "weight": 10
+        },
+        {
+          "from": 3009,
+          "to": 24778,
+          "weight": 5
+        },
+        {
+          "from": 4445,
+          "to": 5487,
+          "weight": 3
+        },
+        {
+          "from": 17592,
+          "to": 24778,
+          "weight": 3
+        },
+        {
+          "from": 6704,
+          "to": 11990,
+          "weight": 7
+        }
+      ]
+    },
+    "Poland": {
+      "nodes": [
+        {
+          "id": 29480,
+          "name": "Jakub Moder",
+          "x": 48.6,
+          "y": 32.8,
+          "passes": 62
+        },
+        {
+          "id": 5660,
+          "name": "Piotr Zieliński",
+          "x": 55.9,
+          "y": 38.7,
+          "passes": 51
+        },
+        {
+          "id": 44166,
+          "name": "Jakub Piotr Kiwior",
+          "x": 49.4,
+          "y": 11.9,
+          "passes": 49
+        },
+        {
+          "id": 7979,
+          "name": "Przemysław Frankowski",
+          "x": 51.6,
+          "y": 49.4,
+          "passes": 39
+        },
+        {
+          "id": 30739,
+          "name": "Paweł Dawidowicz",
+          "x": 28.3,
+          "y": 31.0,
+          "passes": 34
+        },
+        {
+          "id": 33680,
+          "name": "Kacper Urbanski",
+          "x": 61.4,
+          "y": 42.9,
+          "passes": 28
+        },
+        {
+          "id": 4626,
+          "name": "Jan Bednarek",
+          "x": 29.0,
+          "y": 59.3,
+          "passes": 27
+        },
+        {
+          "id": 11508,
+          "name": "Łukasz Skorupski",
+          "x": 8.6,
+          "y": 39.0,
+          "passes": 23
+        },
+        {
+          "id": 50502,
+          "name": "Nicola Zalewski",
+          "x": 58.3,
+          "y": 8.5,
+          "passes": 18
+        },
+        {
+          "id": 5668,
+          "name": "Robert Lewandowski",
+          "x": 50.7,
+          "y": 34.4,
+          "passes": 17
+        },
+        {
+          "id": 4664,
+          "name": "Sebastian Szymański",
+          "x": 53.5,
+          "y": 48.9,
+          "passes": 16
+        },
+        {
+          "id": 28453,
+          "name": "Michał Skóraś",
+          "x": 61.7,
+          "y": 72.6,
+          "passes": 6
+        },
+        {
+          "id": 8836,
+          "name": "Karol Świderski",
+          "x": 71.0,
+          "y": 30.0,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 5660,
+          "to": 33680,
+          "weight": 15
+        },
+        {
+          "from": 5660,
+          "to": 5668,
+          "weight": 7
+        },
+        {
+          "from": 4626,
+          "to": 29480,
+          "weight": 15
+        },
+        {
+          "from": 29480,
+          "to": 30739,
+          "weight": 17
+        },
+        {
+          "from": 30739,
+          "to": 44166,
+          "weight": 11
+        },
+        {
+          "from": 44166,
+          "to": 50502,
+          "weight": 17
+        },
+        {
+          "from": 29480,
+          "to": 50502,
+          "weight": 6
+        },
+        {
+          "from": 29480,
+          "to": 44166,
+          "weight": 26
+        },
+        {
+          "from": 5668,
+          "to": 50502,
+          "weight": 7
+        },
+        {
+          "from": 4626,
+          "to": 11508,
+          "weight": 3
+        },
+        {
+          "from": 11508,
+          "to": 29480,
+          "weight": 3
+        },
+        {
+          "from": 11508,
+          "to": 44166,
+          "weight": 4
+        },
+        {
+          "from": 11508,
+          "to": 30739,
+          "weight": 13
+        },
+        {
+          "from": 4626,
+          "to": 30739,
+          "weight": 10
+        },
+        {
+          "from": 4664,
+          "to": 7979,
+          "weight": 9
+        },
+        {
+          "from": 4664,
+          "to": 5660,
+          "weight": 7
+        },
+        {
+          "from": 4664,
+          "to": 33680,
+          "weight": 5
+        },
+        {
+          "from": 30739,
+          "to": 33680,
+          "weight": 6
+        },
+        {
+          "from": 4664,
+          "to": 5668,
+          "weight": 5
+        },
+        {
+          "from": 5660,
+          "to": 29480,
+          "weight": 22
+        },
+        {
+          "from": 5660,
+          "to": 50502,
+          "weight": 5
+        },
+        {
+          "from": 5660,
+          "to": 44166,
+          "weight": 9
+        },
+        {
+          "from": 5668,
+          "to": 44166,
+          "weight": 6
+        },
+        {
+          "from": 4664,
+          "to": 44166,
+          "weight": 3
+        },
+        {
+          "from": 7979,
+          "to": 29480,
+          "weight": 13
+        },
+        {
+          "from": 11508,
+          "to": 33680,
+          "weight": 3
+        },
+        {
+          "from": 7979,
+          "to": 33680,
+          "weight": 8
+        },
+        {
+          "from": 4626,
+          "to": 7979,
+          "weight": 4
+        },
+        {
+          "from": 29480,
+          "to": 33680,
+          "weight": 9
+        },
+        {
+          "from": 5668,
+          "to": 7979,
+          "weight": 7
+        },
+        {
+          "from": 4664,
+          "to": 29480,
+          "weight": 4
+        },
+        {
+          "from": 4626,
+          "to": 5660,
+          "weight": 9
+        },
+        {
+          "from": 33680,
+          "to": 44166,
+          "weight": 6
+        },
+        {
+          "from": 5660,
+          "to": 7979,
+          "weight": 24
+        },
+        {
+          "from": 5668,
+          "to": 29480,
+          "weight": 4
+        },
+        {
+          "from": 4664,
+          "to": 50502,
+          "weight": 3
+        },
+        {
+          "from": 7979,
+          "to": 30739,
+          "weight": 4
+        },
+        {
+          "from": 4626,
+          "to": 33680,
+          "weight": 3
+        },
+        {
+          "from": 7979,
+          "to": 44166,
+          "weight": 9
+        },
+        {
+          "from": 5660,
+          "to": 28453,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

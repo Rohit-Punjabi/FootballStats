@@ -1,0 +1,850 @@
+{
+  "match_id": 3930169,
+  "shots": [
+    {
+      "player": "Scott McTominay",
+      "team": "Scotland",
+      "minute": 12,
+      "x": 103.8,
+      "y": 32.8,
+      "xg": 0.063,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ricardo Rodríguez",
+      "team": "Switzerland",
+      "minute": 15,
+      "x": 100.6,
+      "y": 38.0,
+      "xg": 0.036,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Xherdan Shaqiri",
+      "team": "Switzerland",
+      "minute": 25,
+      "x": 98.1,
+      "y": 32.5,
+      "xg": 0.086,
+      "outcome": "Goal",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Silvan Widmer",
+      "team": "Switzerland",
+      "minute": 27,
+      "x": 104.0,
+      "y": 52.2,
+      "xg": 0.042,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dan Ndoye",
+      "team": "Switzerland",
+      "minute": 29,
+      "x": 110.8,
+      "y": 33.1,
+      "xg": 0.052,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dan Ndoye",
+      "team": "Switzerland",
+      "minute": 31,
+      "x": 111.7,
+      "y": 31.1,
+      "xg": 0.222,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Jack Hendry",
+      "team": "Scotland",
+      "minute": 37,
+      "x": 107.7,
+      "y": 38.9,
+      "xg": 0.066,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Che Adams",
+      "team": "Scotland",
+      "minute": 40,
+      "x": 116.8,
+      "y": 47.4,
+      "xg": 0.104,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Granit Xhaka",
+      "team": "Switzerland",
+      "minute": 41,
+      "x": 103.8,
+      "y": 25.1,
+      "xg": 0.039,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Ruben Vargas",
+      "team": "Switzerland",
+      "minute": 55,
+      "x": 104.0,
+      "y": 23.4,
+      "xg": 0.027,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Dan Ndoye",
+      "team": "Switzerland",
+      "minute": 57,
+      "x": 102.8,
+      "y": 37.7,
+      "xg": 0.294,
+      "outcome": "Saved",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Ruben Vargas",
+      "team": "Switzerland",
+      "minute": 63,
+      "x": 107.2,
+      "y": 25.6,
+      "xg": 0.048,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Billy Gilmour",
+      "team": "Scotland",
+      "minute": 64,
+      "x": 89.4,
+      "y": 44.5,
+      "xg": 0.026,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Grant Campbell Hanley",
+      "team": "Scotland",
+      "minute": 66,
+      "x": 114.8,
+      "y": 36.6,
+      "xg": 0.199,
+      "outcome": "Post",
+      "body_part": "Head"
+    },
+    {
+      "player": "Scott McKenna",
+      "team": "Scotland",
+      "minute": 73,
+      "x": 106.4,
+      "y": 38.2,
+      "xg": 0.026,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Billy Gilmour",
+      "team": "Scotland",
+      "minute": 75,
+      "x": 112.3,
+      "y": 34.2,
+      "xg": 0.062,
+      "outcome": "Blocked",
+      "body_part": "Head"
+    },
+    {
+      "player": "Dan Ndoye",
+      "team": "Switzerland",
+      "minute": 77,
+      "x": 108.3,
+      "y": 23.4,
+      "xg": 0.035,
+      "outcome": "Off T",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Scott McTominay",
+      "team": "Scotland",
+      "minute": 80,
+      "x": 109.4,
+      "y": 43.5,
+      "xg": 0.05,
+      "outcome": "Wayward",
+      "body_part": "Head"
+    },
+    {
+      "player": "Scott McTominay",
+      "team": "Scotland",
+      "minute": 80,
+      "x": 107.3,
+      "y": 44.8,
+      "xg": 0.067,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Scott McTominay",
+      "team": "Scotland",
+      "minute": 80,
+      "x": 107.7,
+      "y": 42.7,
+      "xg": 0.066,
+      "outcome": "Blocked",
+      "body_part": "Right Foot"
+    },
+    {
+      "player": "Kenneth McLean",
+      "team": "Scotland",
+      "minute": 86,
+      "x": 98.5,
+      "y": 60.6,
+      "xg": 0.011,
+      "outcome": "Saved",
+      "body_part": "Left Foot"
+    },
+    {
+      "player": "Mohamed Amdouni",
+      "team": "Switzerland",
+      "minute": 89,
+      "x": 112.3,
+      "y": 34.8,
+      "xg": 0.11,
+      "outcome": "Off T",
+      "body_part": "Head"
+    },
+    {
+      "player": "Callum McGregor",
+      "team": "Scotland",
+      "minute": 90,
+      "x": 100.0,
+      "y": 32.0,
+      "xg": 0.033,
+      "outcome": "Off T",
+      "body_part": "Left Foot"
+    }
+  ],
+  "networks": {
+    "Scotland": {
+      "nodes": [
+        {
+          "id": 9481,
+          "name": "Grant Campbell Hanley",
+          "x": 42.0,
+          "y": 37.6,
+          "passes": 41
+        },
+        {
+          "id": 10540,
+          "name": "Kieran Tierney",
+          "x": 46.2,
+          "y": 17.7,
+          "passes": 41
+        },
+        {
+          "id": 3655,
+          "name": "Andrew Robertson",
+          "x": 72.4,
+          "y": 9.1,
+          "passes": 39
+        },
+        {
+          "id": 10534,
+          "name": "Callum McGregor",
+          "x": 61.5,
+          "y": 33.2,
+          "passes": 35
+        },
+        {
+          "id": 11116,
+          "name": "Jack Hendry",
+          "x": 40.0,
+          "y": 60.7,
+          "passes": 32
+        },
+        {
+          "id": 31067,
+          "name": "Billy Gilmour",
+          "x": 52.4,
+          "y": 45.4,
+          "passes": 32
+        },
+        {
+          "id": 22308,
+          "name": "Anthony Ralston",
+          "x": 66.7,
+          "y": 72.1,
+          "passes": 25
+        },
+        {
+          "id": 22379,
+          "name": "Angus Gunn",
+          "x": 16.6,
+          "y": 42.0,
+          "passes": 23
+        },
+        {
+          "id": 3620,
+          "name": "Scott McTominay",
+          "x": 69.1,
+          "y": 24.7,
+          "passes": 17
+        },
+        {
+          "id": 10002,
+          "name": "Scott McKenna",
+          "x": 61.2,
+          "y": 11.7,
+          "passes": 9
+        },
+        {
+          "id": 9466,
+          "name": "Che Adams",
+          "x": 80.0,
+          "y": 56.9,
+          "passes": 8
+        },
+        {
+          "id": 9478,
+          "name": "Kenneth McLean",
+          "x": 71.3,
+          "y": 54.2,
+          "passes": 8
+        },
+        {
+          "id": 9974,
+          "name": "John McGinn",
+          "x": 75.2,
+          "y": 20.9,
+          "passes": 6
+        },
+        {
+          "id": 12510,
+          "name": "Ryan Christie",
+          "x": 95.0,
+          "y": 49.8,
+          "passes": 2
+        }
+      ],
+      "edges": [
+        {
+          "from": 9481,
+          "to": 11116,
+          "weight": 17
+        },
+        {
+          "from": 9481,
+          "to": 22379,
+          "weight": 4
+        },
+        {
+          "from": 3655,
+          "to": 9974,
+          "weight": 8
+        },
+        {
+          "from": 10534,
+          "to": 10540,
+          "weight": 15
+        },
+        {
+          "from": 9466,
+          "to": 10540,
+          "weight": 3
+        },
+        {
+          "from": 9481,
+          "to": 31067,
+          "weight": 14
+        },
+        {
+          "from": 9481,
+          "to": 22308,
+          "weight": 3
+        },
+        {
+          "from": 11116,
+          "to": 31067,
+          "weight": 9
+        },
+        {
+          "from": 10534,
+          "to": 31067,
+          "weight": 10
+        },
+        {
+          "from": 9481,
+          "to": 10534,
+          "weight": 9
+        },
+        {
+          "from": 22308,
+          "to": 22379,
+          "weight": 8
+        },
+        {
+          "from": 22308,
+          "to": 31067,
+          "weight": 11
+        },
+        {
+          "from": 3620,
+          "to": 9974,
+          "weight": 3
+        },
+        {
+          "from": 11116,
+          "to": 22308,
+          "weight": 13
+        },
+        {
+          "from": 3620,
+          "to": 11116,
+          "weight": 4
+        },
+        {
+          "from": 3655,
+          "to": 31067,
+          "weight": 5
+        },
+        {
+          "from": 3655,
+          "to": 10534,
+          "weight": 9
+        },
+        {
+          "from": 3620,
+          "to": 10534,
+          "weight": 5
+        },
+        {
+          "from": 10540,
+          "to": 22379,
+          "weight": 8
+        },
+        {
+          "from": 11116,
+          "to": 22379,
+          "weight": 8
+        },
+        {
+          "from": 3620,
+          "to": 31067,
+          "weight": 5
+        },
+        {
+          "from": 3620,
+          "to": 3655,
+          "weight": 4
+        },
+        {
+          "from": 10534,
+          "to": 22308,
+          "weight": 5
+        },
+        {
+          "from": 3620,
+          "to": 22379,
+          "weight": 3
+        },
+        {
+          "from": 3620,
+          "to": 9481,
+          "weight": 4
+        },
+        {
+          "from": 3620,
+          "to": 22308,
+          "weight": 4
+        },
+        {
+          "from": 3655,
+          "to": 10540,
+          "weight": 20
+        },
+        {
+          "from": 9481,
+          "to": 10540,
+          "weight": 19
+        },
+        {
+          "from": 3655,
+          "to": 9481,
+          "weight": 5
+        },
+        {
+          "from": 10540,
+          "to": 31067,
+          "weight": 7
+        },
+        {
+          "from": 9466,
+          "to": 31067,
+          "weight": 3
+        },
+        {
+          "from": 3620,
+          "to": 10540,
+          "weight": 3
+        },
+        {
+          "from": 9466,
+          "to": 11116,
+          "weight": 3
+        },
+        {
+          "from": 9466,
+          "to": 22308,
+          "weight": 3
+        },
+        {
+          "from": 3620,
+          "to": 9466,
+          "weight": 3
+        },
+        {
+          "from": 9481,
+          "to": 10002,
+          "weight": 3
+        },
+        {
+          "from": 3655,
+          "to": 10002,
+          "weight": 6
+        },
+        {
+          "from": 9478,
+          "to": 10534,
+          "weight": 3
+        },
+        {
+          "from": 9478,
+          "to": 22308,
+          "weight": 3
+        },
+        {
+          "from": 3655,
+          "to": 9478,
+          "weight": 3
+        }
+      ]
+    },
+    "Switzerland": {
+      "nodes": [
+        {
+          "id": 5549,
+          "name": "Manuel Akanji",
+          "x": 35.1,
+          "y": 39.7,
+          "passes": 48
+        },
+        {
+          "id": 5537,
+          "name": "Fabian Schär",
+          "x": 42.0,
+          "y": 67.0,
+          "passes": 45
+        },
+        {
+          "id": 3500,
+          "name": "Granit Xhaka",
+          "x": 58.9,
+          "y": 29.2,
+          "passes": 44
+        },
+        {
+          "id": 16016,
+          "name": "Michel Aebischer",
+          "x": 69.6,
+          "y": 10.1,
+          "passes": 41
+        },
+        {
+          "id": 5544,
+          "name": "Ricardo Rodríguez",
+          "x": 59.1,
+          "y": 10.0,
+          "passes": 38
+        },
+        {
+          "id": 6983,
+          "name": "Remo Freuler",
+          "x": 64.6,
+          "y": 53.0,
+          "passes": 35
+        },
+        {
+          "id": 5550,
+          "name": "Yann Sommer",
+          "x": 11.4,
+          "y": 41.9,
+          "passes": 25
+        },
+        {
+          "id": 7796,
+          "name": "Silvan Widmer",
+          "x": 58.1,
+          "y": 75.6,
+          "passes": 25
+        },
+        {
+          "id": 3533,
+          "name": "Xherdan Shaqiri",
+          "x": 77.3,
+          "y": 61.2,
+          "passes": 21
+        },
+        {
+          "id": 30401,
+          "name": "Ruben Vargas",
+          "x": 91.1,
+          "y": 26.5,
+          "passes": 18
+        },
+        {
+          "id": 45190,
+          "name": "Dan Ndoye",
+          "x": 71.2,
+          "y": 42.3,
+          "passes": 12
+        },
+        {
+          "id": 11457,
+          "name": "Vincent Sierro",
+          "x": 45.8,
+          "y": 39.2,
+          "passes": 6
+        },
+        {
+          "id": 5545,
+          "name": "Breel Embolo",
+          "x": 73.5,
+          "y": 38.4,
+          "passes": 3
+        },
+        {
+          "id": 50436,
+          "name": "Fabian Rieder",
+          "x": 56.2,
+          "y": 70.5,
+          "passes": 3
+        }
+      ],
+      "edges": [
+        {
+          "from": 3500,
+          "to": 5537,
+          "weight": 7
+        },
+        {
+          "from": 3500,
+          "to": 5549,
+          "weight": 6
+        },
+        {
+          "from": 5537,
+          "to": 45190,
+          "weight": 4
+        },
+        {
+          "from": 3500,
+          "to": 5550,
+          "weight": 5
+        },
+        {
+          "from": 5549,
+          "to": 16016,
+          "weight": 6
+        },
+        {
+          "from": 3500,
+          "to": 16016,
+          "weight": 19
+        },
+        {
+          "from": 5537,
+          "to": 5549,
+          "weight": 22
+        },
+        {
+          "from": 5537,
+          "to": 7796,
+          "weight": 20
+        },
+        {
+          "from": 5537,
+          "to": 6983,
+          "weight": 11
+        },
+        {
+          "from": 5549,
+          "to": 6983,
+          "weight": 6
+        },
+        {
+          "from": 5544,
+          "to": 5549,
+          "weight": 14
+        },
+        {
+          "from": 5544,
+          "to": 30401,
+          "weight": 10
+        },
+        {
+          "from": 5549,
+          "to": 5550,
+          "weight": 15
+        },
+        {
+          "from": 5537,
+          "to": 5550,
+          "weight": 15
+        },
+        {
+          "from": 3533,
+          "to": 6983,
+          "weight": 10
+        },
+        {
+          "from": 5537,
+          "to": 5544,
+          "weight": 3
+        },
+        {
+          "from": 6983,
+          "to": 7796,
+          "weight": 12
+        },
+        {
+          "from": 6983,
+          "to": 16016,
+          "weight": 8
+        },
+        {
+          "from": 3500,
+          "to": 5544,
+          "weight": 11
+        },
+        {
+          "from": 3500,
+          "to": 30401,
+          "weight": 5
+        },
+        {
+          "from": 3500,
+          "to": 6983,
+          "weight": 6
+        },
+        {
+          "from": 3533,
+          "to": 5537,
+          "weight": 9
+        },
+        {
+          "from": 6983,
+          "to": 45190,
+          "weight": 4
+        },
+        {
+          "from": 16016,
+          "to": 45190,
+          "weight": 5
+        },
+        {
+          "from": 16016,
+          "to": 30401,
+          "weight": 10
+        },
+        {
+          "from": 3533,
+          "to": 5549,
+          "weight": 4
+        },
+        {
+          "from": 3533,
+          "to": 30401,
+          "weight": 5
+        },
+        {
+          "from": 6983,
+          "to": 30401,
+          "weight": 4
+        },
+        {
+          "from": 3533,
+          "to": 7796,
+          "weight": 5
+        },
+        {
+          "from": 5544,
+          "to": 5550,
+          "weight": 8
+        },
+        {
+          "from": 5544,
+          "to": 16016,
+          "weight": 20
+        },
+        {
+          "from": 3533,
+          "to": 45190,
+          "weight": 4
+        },
+        {
+          "from": 3533,
+          "to": 5544,
+          "weight": 3
+        },
+        {
+          "from": 30401,
+          "to": 45190,
+          "weight": 6
+        },
+        {
+          "from": 3500,
+          "to": 3533,
+          "weight": 4
+        },
+        {
+          "from": 5537,
+          "to": 30401,
+          "weight": 3
+        },
+        {
+          "from": 3500,
+          "to": 7796,
+          "weight": 4
+        },
+        {
+          "from": 3500,
+          "to": 45190,
+          "weight": 6
+        },
+        {
+          "from": 5549,
+          "to": 7796,
+          "weight": 3
+        },
+        {
+          "from": 3500,
+          "to": 11457,
+          "weight": 4
+        },
+        {
+          "from": 5549,
+          "to": 11457,
+          "weight": 3
+        }
+      ]
+    }
+  }
+}
